@@ -32,7 +32,7 @@ jobs:
           #
           #
       - name: clone
-        run: git clone git@bitbucket.org:szabgab/hostlocal.com.git
+        run: git clone https://bitbucket.org/szabgab/hostlocal.com.git
 
 
       - name: Setup Pages
