@@ -33,17 +33,31 @@ jobs:
             perl-version: 5.36
             distribution: 'default'
 
+      - name: Show Perl Version
+        run: |
+          perl -v
+
+      - name: Install Modules
+        run: |
+          cd web/szabgab/
+          cpanm -v
+          cpanm --installdeps --with-develop --notest .
+
+      - name: Run tests
+        run: |
+          cd web/szabgab/
+          perl Makefile.PL
+          make
+          make test
 
       - name: Generate pages
+        env:
+          SZABGAB_DEV: log
         run: |
-          cd web/szabgab
-          cpanm --installdeps .
           perl generate.pl
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
-        with:
-          path: web/szabgab/_site
 
   # Deployment job
   deploy:
