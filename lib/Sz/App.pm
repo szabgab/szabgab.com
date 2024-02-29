@@ -470,7 +470,7 @@ sub load_files {
     my ($self) = @_;
 
     LOG("load_files");
-    Sz::Meta::load_meta_files($self->{root});
+    Sz::Meta::process_pages($self->{root});
 	%posts = %Sz::Meta::posts;
 
     return;

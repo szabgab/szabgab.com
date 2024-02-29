@@ -44,20 +44,6 @@ sub redirect {
 	return $REDIRECT{$url};
 }
 
-sub load_meta_files {
-	my ($root) = @_;
-
-    # We maintain a file called reload.txt and reload the blog files only
-    # when that file changed. This greatly reduces the need to go over the disk
-    # every time someone access the site but will also allow us to update the
-    # content without reloading Apache.
-    my $current_ts = (stat "$root/blog/reload.txt")[9];
-    if ($last_load < $current_ts) {
-        $last_load = $current_ts;
-		process_pages($root);
-    }
-}
-
 # first we read in all the files, process the headers and save the rows in memory
 # then go over the pages in memory and resolve all the internal links
 # and add the basic HTML markup
