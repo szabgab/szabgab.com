@@ -11,41 +11,6 @@ use Sz::App;
 
 my $ips_file = '/home/gabor/ips.json';
 
-my %MIME = (
-	'ico' => 'image/x-icon',
-	'png' => 'image/png',
-	'jpg' => 'image/jpeg',
-	'gif' => 'image/gif',
-	'svg' => 'image/svg+xml',
-	'css' => 'text/css',
-	'pdf' => 'application/pdf',
-	'html' => 'text/html',
-);
-
-sub static_file {
-	my ($file) = @_;
-
-    my $content;
-	if (open my $fh, "<:raw", $file) {
-		local $/ = undef;
-		$content = <$fh>;
-
-	    my ($ext) = $file =~ m{([^.]+)$}g;
-	    my $ct = $MIME{lc $ext} || 'text/plain';
-	    return [
-	    	'200',
-	    	[ 'Content-Type' => $ct ],
-	    	[ $content ],
-	    ];
-	}
-
-	return [
-		'404',
-		[ 'Content-Type' => 'text/html' ],
-		[ 'No such file' ],
-	];
-}
-
 sub redirect {
 	my ($url) = @_;
 
@@ -125,12 +90,6 @@ sub run {
 			[ 'Content-Type' => 'application/xml' ],
 			[ create_sitemap($root) ],
 		];
-	}
-
-	my $path = "$root/html/$env->{PATH_INFO}";
-	if (-f $path) {
-		LOG("path: '$path'");
-		return static_file($path);
 	}
 
 	if ($env->{REQUEST_URI} =~ m{^/blog/.*/.*/([^/]+)\.html$}) {
