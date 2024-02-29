@@ -39,13 +39,11 @@ jobs:
 
       - name: Install Modules
         run: |
-          cd web/szabgab/
           cpanm -v
           cpanm --installdeps --with-develop --notest .
 
       - name: Run tests
         run: |
-          cd web/szabgab/
           perl Makefile.PL
           make
           make test
