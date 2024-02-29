@@ -11,14 +11,6 @@ use Sz::App;
 
 my $ips_file = '/home/gabor/ips.json';
 
-my %STATIC = map { $_ => 1 } (
-	'/jquery-1.4.2.min.js',
-	'/szabgab.js',
-	'/favicon.ico',
-	'/style.css',
-	'/robots.txt',
-	'/BingSiteAuth.xml',
-);
 my @REGEX = (
 	qr{^/img/},
 	qr{\.pdf$},
@@ -140,14 +132,9 @@ sub run {
 		];
 	}
 
-	if ( $STATIC{$env->{PATH_INFO}} ) {
-		LOG("static '$env->{PATH_INFO}'");
-		return static_file( "$root/html/$env->{PATH_INFO}" );
-	}
 	foreach my $r (@REGEX) {
 		if ($env->{PATH_INFO} =~ $r) {
 			LOG("regex '$r' matched '$env->{PATH_INFO}'");
-			$STATIC{ $env->{PATH_INFO} } = 1; # cache route
 			return static_file( "$root/html/$env->{PATH_INFO}" );
 		}
 	}
