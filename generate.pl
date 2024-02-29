@@ -40,6 +40,7 @@ sub main {
             }
         }
     }
+    generate_page($root, "/archive", "$outdir/archive.html");
 }
 
 sub generate_page {
