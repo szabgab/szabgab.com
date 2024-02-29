@@ -1,0 +1,176 @@
+title          = Bookreview: Pragmatic Version Control Using Subversion
+page_title     = Bookreview: Pragmatic Version Control Using Subversion
+
+<h1>Bookreview: Pragmatic Version Control Using Subversion</h1>
+<h2>review written by Gabor Szabo on 2005.04.26</h2>
+<table>
+<tr><td>Title:</td><td><a href="http://www.pragmaticprogrammer.com/titles/svn/index.html">Pragmatic Version Control Using Subversion</a></td></tr>
+<tr><td>Author:</td><td>Mike Mason</td></tr>
+<tr><td>Price:</td><td>USD 30</td></tr>
+<tr><td>Pages:</td><td>~200</td></tr>
+<tr><td>Published:</td><td>2005</td></tr>
+<tr><td>Publisher</td><td>Pragmatic Bookshelf</td></tr>
+<tr><td>Recommendation:</td><td>Highly recommended, especially for people with no background in Version Control</td></tr>
+</table>
+<p>
+This book is the first part of a series of three books from
+<a href="http://www.pragmaticprogrammer.com/">Pragmatic Bookshelf</a> that also includes 
+<i>Pragmatic Unit Testing</i> and <i>Pragmatic Automation</i>. While I have
+not seen those other books yet I think this is a very important subject that
+most of the programmers coming out from universities never heard of.
+I think it is very important that people will learn about these concepts early in
+their careers as these are basic tools in the craft of software development.
+</p>
+<p>The <i>Pragmatic Version Control Using Subversion</i> while can be used as an
+introduction to Subversion only, it also fits people who don't have any experience
+with Version Control. While many programmers will say <i>we are just programmers
+and only the Configuration Management group need to know this stuff</i> I think
+reading this book will benefit both the programmers and the organization where
+they work.
+</p>
+
+<p>
+In the <b>first chapter</b> the book start with a 
+story about Fred and Wilma showing why version control even in small teams 
+is very important. 
+<br />Giving
+the almost standard reasons why to chose Subversion is probably not that necessary,
+after all the reader is already reading a book about SVN but it does not hurt either.
+Actually it is quite reassuring to read that you made the right choice in your 
+Version Control system.
+<p>
+<p>
+<b>Chapter 2</b> - <i>What Is Version Control?</i> provides an overview of, well
+what Version Control is.
+It defines the terminology used in this book. Though it warns of misunderstanding
+that can be caused by terminology used by others, unfortunately there is no attempt 
+to fill the gap and explain how the words from various terminologies are related.
+<br />
+It is also suggested that Subversion is good for off-line work and synchronization but
+actually for such task one would be better off using SVK.
+</p>
+<p><b>Chapter 3</b> - <i>Getting Started with Subversion</i>
+is where the real work starts. In this chapter you learn how to setup
+a local repository and how to execute subversion commands to do your daily job.
+For this you learn how to import a directory structure, how to checkout, commit files
+and how to resolve conflicts when they arise on parallel development.
+<br />
+In my opinion it would have been clearer if the two changes creating a conflict
+were executed by two separate users but it was still a good explanation of the 
+process and it was important to read it early in the book.
+</p>
+<p>
+<b>Chapter 4</b> - <i>How To...</i> is a short one that points out the two main reasons groups don't 
+use version control:
+</p>
+<ul>
+  <li> Lack of knowledge on how to use it </li>
+  <li> Bad experience with overly complicated systems in terms of workflow</li>
+  <li> ... and too complicated tools, I would add</li>
+</ul>
+<p>
+The whole book is about addressing these issues.
+</p>
+<p><b>Chapter 5</b> - <i>Accessing a Repository</i> covers the available
+options to setup a real networked Subversion with capability to handle
+multiple users. It provides some guidance as to when to choose which options.
+While a regular Subversion user might not need this information it's
+worth reading to understand the backend of such system. Besides,
+to learn more complex operations it is better to have multiple users in
+a distributed environment.
+</p>
+<p><b>Chapter 6</b> - <i>Common Subversion Commands</i> is a long one and to tell the truth, 
+I did not like it.
+Instead of keeping the theme that was used in the first part of the book, 
+in this chapter we see examples using a number of themes which is slightly
+confusing. It is also too long and mostly just a set of examples without much
+connection among them. It does explain the various tasks and give examples but
+it would have been much better if it were split up into several shorter chapters
+and if it followed and expanded the original story. 
+</p>
+<p>
+<b>Chapter 7</b> - <i>Organizing Your Repository</i> gives an overview of the two main layout options
+with some pro and contra reasoning.
+</p>
+<p><b>Chapter 8</b> - <i>Using Tags and Branches</i> is about all this and of 
+course about merge. Without that branching would just be useless.
+It provides an explanation of what these are and suggests "best practices" with
+several branching strategies. Personally I think the PRE and POST bug fix tags
+are a bit too extensive tagging but it is a legitimate one anyway.
+</p>
+<p><b>Chapters 9-10</b><br />
+The remaining two chapters are actually already closer to Configuration Management 
+than plain version control. This shows that the book (and probably the series of
+the 3 books) have the more global view of The Right Way to Software Development than
+just focusing on the use of Subversion.
+</p>
+<p>
+<b>Chapter 9</b> - <i>Creating a Project</i>. Here you can read about directory layout and
+why it is important to have a README file in the top-most directory of the project.
+It also explains code sharing between projects on the source code level,
+with or without the svn:externals property.
+</p>
+<p><b>Chapter 10</b> - <i>Third-Party code</i> gives the reader a good 
+introduction on how to deal with various situations involving either binary code or
+source code or both. It also shows how to deal with changes in third-party code on
+the administration level.
+</p>
+<p><b>Appendix A</b> - <i>Install, Network, Secure, and Administer Subversion</i>
+gives you a more detailed series of instructions on how to
+install a Subversion server with either way of networking it. It also helps you
+with the security considerations and with mundane tasks such as backup.
+</p>
+<p>
+Actually there is a small bug in backup script on page 166.
+The weekly backup, after retrieving the number of the youngest revision
+dumps the whole repository. In the slight chance that someone commits
+a change exactly between these two operations will cause the script on the next
+day to include a change in the incremental backup that was already included once.
+<br />
+This is what can happen:
+</p>
+<ol>
+ <li>$youngest = `svnlook youngest $svn_reposs`;   # in our backup script retrieves 10</li>
+ <li> # other task commits change 11</li>
+ <li>`svnadmin dump $svn_repos > dump`;       # in our backup script dumps 0-11</li>
+</ol>
+<p>
+Next day the incremental backup will dump from 11 to the youngest that day. Which means
+revision 11 is included both in the original backup and the incremental backup.<br />
+
+The solution could be to limit the original backup to the youngest as retrieved earlier in
+the script:
+</p>
+<ol>
+ <li> `svnadmin dump --revision 0:$youngest $svn_repos > dump`;       # dumps 0-10</li>
+</ol>
+<ul>
+ <li><b>Appendix B</b> - <i>Migrating to Subversion</i> provides you with information on how to migrate
+    from CVS to Subversion, more or less the same that you can read in the manual of <i>cvs2svn</i>.</li>
+ <li><b>Appendix C</b> - <i>Third-Party Subversion Tools</i> basically talks only about TortoiseSVN, which is
+			Microsoft Windows only GUI client.</li>
+ <li><b>Appendix D</b> - <i>Command Summary and Recipes</i> in the first part gives some more details on commands 
+                            that the command-line help but the more useful thing is the second part where you
+                            can see a bunch of recipes on thing such as 
+                            <b>Finding out where a working copy came from</b></li>
+ <li><b>Appendix E</b> - <i>Other Resources</i> are well, other resources.
+</ul>
+<p>
+Some other reviews of this book:
+</p>
+<ul>
+ <li><a href="http://www.aspnetpro.com/bookreviews/0974514063_b/0974514063_b.asp">by Mike Riley</a></li>
+ <li><a href="http://www.larkware.com/BookReviews/PragmaticVC.htm">by Mike Gunderloy (Larkware)</a></li>
+ <li><a href="http://books.slashdot.org/article.pl?sid=05/02/10/219234">by Dean Wilson on Slashdot</a></li>
+ <li><a href="http://iceglue.com/tranqy/PermaLink,guid,fea6f713-bbd4-4efa-a020-7ead7f76d27f.aspx">by Aaron Junod</a></li>
+</ul>
+<p>
+Check out also the beginning of my <a href="rapidsvn.html">RapidSVN user manual</a>
+</p>
+
+<p>Self advertising: 
+I provide
+<a href="http://www.pti.co.il/subversion.html">Subversion training</a>, installation
+and support mainly in Israel though I am ready to travel to Europe and the US as well.
+</p>
+

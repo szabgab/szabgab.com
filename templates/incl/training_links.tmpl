@@ -1,0 +1,16 @@
+<TMPL_IF training>
+<div class="training_head">Upcoming training classes</div>
+<div class="training_links">
+<ul>
+<TMPL_LOOP training>
+  <li>
+    <ul>
+     <li class="training_location"><TMPL_VAR location></li>
+     <li class="training_title"><a href="<TMPL_VAR url>"><TMPL_VAR title></a></li>
+     <li><TMPL_VAR date></li>
+     </ul>
+  </li>
+</TMPL_LOOP>
+</ul>
+</div>
+</TMPL_IF>

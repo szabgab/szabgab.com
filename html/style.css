@@ -1,0 +1,6 @@
+/* for the testimonial we would like the text to be under the image for small screens */
+@media (max-width: 480px) {
+  .media {
+    flex-direction: column;
+  }
+}

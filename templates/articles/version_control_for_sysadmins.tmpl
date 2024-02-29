@@ -1,0 +1,22 @@
+title          = Version Control for System Administrators
+page_title     = Version Control for System Administrators
+
+<h2>As the saying goes the shoemaker without shoes.</h2>
+<p>
+I decided it is time to add version control to my system configuration file.
+</p>
+I am using <a href="http://subversion.tigris.org/">Subversion</a> for version control in my development work so I'd prefer to use 
+it for the other tasks too.  The only problem is that I was not sure how to set this up. 
+The files that need to be in version control are in diverse placed in the system.  
+In /etc/mail/ a few files, /usr/local/apache2/conf/httpd.conf
+E.g. Apcahe/conf/httpd.conf should be in version control, but I have no need for the rest of the files in the same directory. 
+They would probably only disturb when upgrading Apache. 
+
+<p>
+So I setup a Subversion repository on my server and ... will continue.
+</p>
+
+<p>
+There are of course <a href="http://www.stokely.com/unix.sysadm.resources/vrsctrl.html">other version control tools for UNIX</a> but
+Subversion is a nice system and can be used on other platforms as well. Similar procedures can be used with those other tools as well.
+</p>

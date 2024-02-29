@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+  <TMPL_INCLUDE name="incl/google_analytics.tmpl">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="openid.server" href="http://www.myopenid.com/server" />
+  <link rel="openid2.provider" href="http://www.myopenid.com/server" />
+  <link rel="openid.delegate" href="http://szabgab.myopenid.com/" />
+  <link rel="openid2.local_id" href="http://szabgab.myopenid.com/" />
+  <meta http-equiv="X-XRDS-Location"  content="http://www.myopenid.com/xrds?username=szabgab.myopenid.com" />
+  <meta http-equiv="X-YADIS-Location" content="http://www.myopenid.com/xrds?username=szabgab.myopenid.com" />
+  <meta name="google-site-verification" content="T_jr0QD177KM2rhluOJixKQYW5lMEsd-XdJkzLRl5wA" />
+  <link rel="shortcut icon" href="/favicon.ico" />
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css">
+  <link rel="stylesheet" href="/style.css">
+
+  <script type="text/javascript" src="/szabgab.js"></script>
+  <title><TMPL_VAR TITLE></title>
+  <meta name="description" content="<TMPL_VAR DESCRIPTION>" />
+  <meta name="keywords" content="<TMPL_VAR KEYWORDS>" />
+
+  <link href="http://feeds.feedburner.com/szabgab" rel="alternate" type="application/rss+xml" title ="Gabor Szabo [SZABGAB]" />
+
+  <meta property="og:type" content="article" />
+  <meta property="og:url" content="https://szabgab.com/<TMPL_VAR PAGE_PATH>" />
+  <meta property="og:title" content="<TMPL_VAR TITLE>" />
+  <meta property="og:description" content="" />
+  <meta property="og:site_name" content="Gábor Szabó training" />
+  <meta property="og:image" content="https://szabgab.com/img/share/<TMPL_VAR IMG_PATH>.png" />
+
+  <TMPL_VAR HEAD>
+</head>
+
+<body>
+  <div class="container">
+  <TMPL_INCLUDE name="incl/navbar.tmpl">
+  </div>
+
+<section class="section">
+  <div class="container">
+  <div class="content">
+  <h1 class="title is-2"><TMPL_VAR PAGE_TITLE></h1>
+  <TMPL_VAR BODY>
+  </div>
+
+  </div>
+</section>
+
+<footer class="footer">
+  <div class="content has-text-centered">
+  &copy; 2004-2024 Gábor Szabó
+  </div>
+</footer>
+
+
+</body>
+</html>

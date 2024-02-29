@@ -1,0 +1,11 @@
+<img id="img" src="" />
+
+<script type="text/javascript">
+var url = window.document.location.toString();
+var loc = url.indexOf('?');
+//alert(loc)
+var file = url.substring(loc+1);
+var img = document.getElementById("img");
+//alert(img);
+img.src = file; 
+</script>

@@ -1,0 +1,406 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+ <title>Resume of Gábor Szabó</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style>
+#maintitle {
+  text-align: center;
+  font-size:  20px;
+}
+#subtitle {
+  text-align: center;
+  font-size:  18px;
+}
+h3 {
+	font-size: 17px;
+	font-family: arial
+}
+td {
+	font-size: 15px;
+	font-family: arial
+}
+p {
+	line-height: 16px;
+	font-size: 20px;
+}
+table {
+  width: 60%;
+}
+
+</style>
+
+<body text="black" bgColor="white">
+<div id="maintitle">Resume of Gábor Szabó</div>
+<div id="subtitle"><a href="https://szabgab.com/">https://szabgab.com/</a></div>
+<table cellSpacing="0">
+  <tbody>
+  <tr>
+    <td colSpan="2"><h3>Personal Information</h3></td>
+  </tr>
+  <tr>
+    <td width="100"><b>Name:</b></td>
+    <td>Gábor Szabó </td>
+  </tr>
+  <tr>
+    <td><b>Born:</b></td>
+    <td>Budapest, Hungary </td>
+  </tr>
+  <tr>
+    <td><b>Address:</b></td>
+    <td>Modiin, Israel</td>
+  </tr>
+  <tr>
+    <td><b>Phone:</b></td>
+    <td>+972-(0)54-4624648</td>
+  </tr>
+  <tr>
+    <td><b>E-mail:</b></td>
+    <td>gabor@szabgab.com</td>
+  </tr>
+  <tr>
+    <td><b>LinkedIN:</b></td>
+    <td><a href="https://www.linkedin.com/in/szabgab">https://www.linkedin.com/in/szabgab</a></td>
+  </tr>
+  <tr>
+    <td colSpan="2">&nbsp;</td>
+  </tr>
+
+  <tr>
+    <td colSpan="2"><h3>Work Experience</h3></td>
+  </tr>
+  <tr valign="top">
+    <td><b>2018-present</b></td>
+    <td><b>Guest Lecturer at Weizmann Institute of Science</b>
+      <p></p>
+        <ul>
+            <li>Before I started to teach students in 2018 I taught several courses to the researchers and the internal system team.</li>
+            <li>Every semester there is 1, sometimes 2 sessions of the "Programming Bootcamp for Scientists" course</li>
+            <li>At first if was a 5-days long 8 hours a day intensive session before the semester.</li>
+            <li>During COVID I recorded the whole content of the <a href="https://code-maven.com/programming-bootcamp-for-scientists">Programming Bootcamp for Scientists</a></li>
+            <li>Since then the course is back in the class-room. This time 5 half-days before the semester and 5 half-days in the first 5 weeks of the semester.</li>
+        </ul>
+    </td>
+  </tr>
+  <tr><td>&nbsp;</td><td></td></tr>
+
+  <tr valign="top">
+    <td><b>1998-present</b></td>
+    <td><b>Independent DevOps Engineer, Developer, and Trainer</b>
+      <p></p>
+        <b>Some of the services provided by Gabor</b>
+        <ul>
+           <li>Introducing Unit~, Integration~, and Acceptance testing.</li>
+           <li>Introcuding best practices for Version Control Systems.</li>
+           <li>Developing and introducing test automation frameworks.</li>
+           <li>Setting up Continuous Integration using Jenkins, Travis-CI, Bamboo, Bitbucket Pipelines, or a set of in-house tools.</li>
+           <li>Setting up Continuous Delivery and Continuous Deployment.</li>
+           <li>Converting teams to use Virtualization (Docker, Vagrant+VirtualBox).</li>
+           <li>Implementing Continuous Learning practices.</li>
+           <li>Introducing Pair programming.</li>
+           <li>Handling cloud infrastructure (Google, Amazon, Linode, Digital Ocean).</li>
+        </ul>
+        <b>Some of the Contract Works I've Done</b>
+        <ul>
+          <li>Moving several systems from Amazon AWS to Google GCP. Creating a labeling system for entities in GCP for a
+          cost reporting system. Helping to reduce cloud expenses. Resizing Elasticseach clusters.
+          Convertiung a build and testing system from TeamCity to Jenkins using a mix of Groovy, Bash, and Python.
+          Building a Python Flask based reporting system for data in PostgreSQL, Elasticsearch, and Solr systems.
+          </li>
+          <li>Implementing and in-house agent-less CI system for a company that uss various small boards
+          (eg. Firefly, Artik, and some Android based devices). Building a CI and release system.</li>
+          <li>Implementing the API of 3rd party services in order to make it easier to test an application using that API.
+          To test how to application behaves when the 3rd party application fails. When it response slower than expected.
+          When it returns "out of quota" errors. etc.</li>
+          <li>Installing Jenkins as in-house Continuous Integration system. Introducing unit-testing in Python.</li>
+          <li>An in-house web-application to provide tools for the engineers to compare images.
+             I used the Perl Dancer framework while the data was kept in PostgreSQL.
+             The front-end was using Bootstrap and JQuery.</li>
+          <li>An application aggregating data about mobile applications from the Apple Appstore, Google Play,
+             and various vendors that provide information about those applications. The data was provided
+             in various formats, including CSV, XML, and JSON based feeds and APIs.
+             The collected data was stored in a MySQL database and served via our own JSON based API and using JavaScript snippets.
+             When I arrived and initial version of the application worked collecting data from one source
+             and using CGI to serve the data.  I've converted it to PSGI and created the system that was
+             able to accommodate data from various sources in various formats. I used Perl Moo for OOP. Later we converted the application to Python and Django.</li>
+          <li>An application to be used on Amazon Mechanical Turk. This was JavaScript based using JSON
+             files for data storage without any additional back-end.</li>
+          <li>An in-house application generating Excel reports from data in a PostgreSQL database to provide Business Intelligence.
+              This project was built using Perl</li>
+          <li>A workflow management application to control the whole workflow of an in-house image processing and analysis system.
+              This was implemented in Perl handling a number of data formats (CSV, XML), connecting to web-based APIs via HTTP and
+              to a PostgreSQL database.</li>
+          <li>Refactored a code-base used for in-house test-automation that when I arrived had about 4,000,000 lines of Perl code.</li>
+          <li>Lots of log and database analysis code to provide data for Munin-based monitoring system. Mostly Perl with some Python.</li>
+          <li>Took over the maintenance and further development of an event-based application written in Perl. The application was monitoring the
+              file system for Excel files uploaded by the users. Then it analyzed and converted the Excel files to XML files that needed to be injected
+              in a Java-based application. The results were then received in XML format and had to be converted back to Excel. The queues were using
+              an SQLite database.</li>
+        </ul>
+
+      <p></p>
+      <b>Main areas of contracting works</b>:
+      <ul>
+        <li>In-house process automation</li>
+        <li>Introducing test automation systems</li>
+        <li>Configuration Management and Build Automation - setting up customized Continuous Integration systems</li>
+        <li>In-house Web Applications</li>
+        <li>Data processing</li>
+        <li>Refactoring large code bases</li>
+      </ul>
+
+      <b>Main areas of training provided</b>:
+      <ul>
+        <li>Beginner and Advanced level of Python programming</li>
+        <li>Beginner and Advanced level of Perl programming</li>
+        <li>Test Automation using Python or Perl</li>
+        <li>Unix/Linux for power users (using the Linux shell)</li>
+        <li>Bash programming</li>
+        <li>Version control with Subversion</li>
+        <li>Version control with Git</li>
+        <li>Mobile application development using HTML5/CSS3/JavaScript and PhoneGap</li>
+        <li>Introduction to MongoDB</li>
+      </ul>
+
+      <b>Some of the customers I had during the years</b>:
+      <ul>
+         <li>Actelis</li>
+         <li>Aladdin Knowledge Systems</li>
+         <li>Amdocs</li>
+         <li>Apply Tech - Perl development</li>
+         <li>Assa Abloy (Rav Bariach)</li>
+         <li>Bezeq International</li>
+         <li>BGU/Deutsche Telekom (Israel)</li>
+         <li>Breach</li>
+         <li>Brodmann17</li>
+         <li>Cellex</li>
+         <li>CEVA DSP</li>
+         <li>Cisco</li>
+         <li>Checkpoint</li>
+         <li>Deutsche Telekom (Germany)</li>
+         <li>DNV Norway</li>
+         <li>Evogene</li>
+         <li>ExLibris</li>
+         <li>Forescout</li>
+         <li>Harmonic systems</li>
+         <li>iCarbonX</li>
+         <li>Inomize</li>
+         <li>Intel</li>
+         <li>Iskoot (later Qualcomm)</li>
+         <li>Jovial</li>
+         <li>LSI</li>
+         <li>Mercury Interactive</li>
+         <li>Migdal Insurance</li>
+         <li>MyThings</li>
+         <li>NDS (later Cisco)</li>
+         <li>Norwegian Meteorological Inst</li>
+         <li>Orange (Partner Ltd.)</li>
+         <li>Orpak</li>
+         <li>Perfecto Mobile</li>
+         <li>Qualcomm</li>
+         <li>Radware</li>
+         <li>Sandvine</li>
+         <li>SAP</li>
+         <li>Screenovate</li>
+         <li>SeaBridge Networks - A Siemens company</li>
+         <li>Sheer Networks (later Cisco)</li>
+         <li>Superfish</li>
+         <li>Twiggle</li>
+         <li>Verint</li>
+         <li>Weizmann Institute of Science</li>
+         <li>Zoran</li>
+      </ul>
+    </td>
+  </tr>
+
+  <tr><td>&nbsp;</td><td></td></tr>
+
+  <tr valign="top">
+    <td><b>1998-present</b></td>
+    <td><b>Personal Projects and Involvement in the Open Source Community</b>
+    <p></p>
+     <b>Books</b>
+     <ul>
+        <li><a href="https://leanpub.com/collab-dev-git/">Collaborative Development using Git and GitHub</a> + Unit testing and CI</li>
+        <li><a href="https://leanpub.com/dancer-spa/">Single Page Application with Perl Dancer</a></li>
+        <li><a href="https://leanpub.com/bailador/">Web Application Development in Perl 6</a></li>
+     </ul>
+     <p></p>
+     <b>Blogs</b>:
+     <ul>
+        <li><a href="http://code-maven.com/">code-maven.com</a> a blog about DevOps, Automation, Jenkins, Flask, Jinja (Python), Handlebars, AngularJS, (JavaScript), NodeJS and other technologies.</li>
+        <li><a href="http://perlmaven.com/">perlmaven.com</a> the largest Perl-related blog with 10,000 visitors a day.</li>
+        <li><a href="http://perlweekly.com/">perlweekly.com</a> a curated weekly newsletter providing Perl-related news.</li>
+        <li><a href="http://szabgab.com/">szabgab.com</a> personal blog</li>
+        <li><a href="http://blogs.perl.org/users/gabor_szabo/">blogs.perl.org/users/gabor_szabo/</a> Perl blog on a shared blogging platform.</li>
+     </ul>
+
+     <b>Open source projects, code contributions</b>:
+     <ul>
+      <li>My GitHub account <a href="https://github.com/szabgab">github.com/szabgab</a> contains quite a few other projects.</li>
+      <li><a href="http://pydigger.com/">pydigger.com</a> analyzing Python packages. It is written using Python Flask</li>
+      <li>tracert.com, a web site that provides lots of resources for network administrators. (currently not working)</li>
+      <li><a href="http://dwimperl.szabgab.com/">dwimperl.com</a> a Perl distribution to make it easy for people to get started using Perl on Windows
+          and to make it easy to deploy Perl-based application on Linux servers.</li>
+      <li>Padre, the Perl IDE. (<a href="http://padre.perlide.org/">padre.perlide.org</a>).
+        An IDE written in Perl 5 with special features for developing Perl 5 and Perl 6 scripts and applications. Initiating
+        and leading the project. Attracting more than 50 contributors. (2008-)</li>
+      <li>Developer and maintainer of the Perl Community AdServer ( <a href="http://pcas.szabgab.com/">pcas.szabgab.com</a> ) (2007-)</li>
+      <li>Developer and maintainer of the CPAN::Forum ( http://cpanforum.com/ ) (2004-2014)</li>
+      <li>Several Perl modules on CPAN, the Comprehensive Perl Archive Network. (<a href="http://metacpan.org/author/SZABGAB">metacpan.org/author/SZABGAB</a>) (2001-)</li>
+      <li>Participation in several open source projects including <a href="https://metacpan.org/about/contributors">metacpan.org</a>.
+          Mostly writing unit tests and refactoring code.</li>
+      <li><a href="http://cpan.perlmaven.com/">cpan.perlmaven.com</a> a JavaScript (actually JQuery) based interface to the JSON API provided by MetaCPAN. (early stage development)</li>
+     </ul>
+
+     <b>Conference organization, presentations</b>:
+     <ul>
+      <li>Talks, presentations at several Israeli and international conferences such as YAPC in Europe and in the USA,
+        German Perl Workshop, Nordic Perl Workshop, Belgian Perl Workshop, LinuxTag Berlin, FOSDEM (<a href="https://fosdem.org/">fosdem.org</a>), GoLinux (Israel),
+        August Penguin (Israel) (<a href="http://ap.hamakor.org.il/">ap.hamakor.org.il</a>), PyCon (Israel) (<a href="http://pycon.hamakor.org.il/2016/">pycon.hamakor.org.il/2016/</a></li>
+      <li>Leader of the Israeli Perl Mongers (Users Group) <a href="http://perl.org.il/">perl.org.il/</a></li>
+      <li>Organizer at the Rehovot Perl Mongers (Users Group) <a href="http://rehovot.pm.org/">rehovot.pm.org</a></li>
+      <li>Organizing 4 Perl Conferences in Israel <a href="http://perl.org.il/YAPC/">perl.org.il/YAPC/</a></li>
+      <li>Organizing the Open Source Developer Conference in Israel <a href="http://osdc.org.il/">osdc.org.il/</a></li>
+      <li>Help organizing Perl conferences in Hungary</li>
+      <li>Participating on lots of mailing lists and IRC channels</li>
+     </ul>
+
+     <b>Awards</b>:
+     <ul>
+       <li><a href="https://www.perl.org/advocacy/white_camel/">White Camel Award</a> for contributing to the international Perl community (2008).</li>
+       <li><a href="http://hamakor.org.il/">HaMakor</a> prize for contributing to the Israeli Open Source and Free software community. (2009)</li>
+     </ul>
+
+     <b>Personal projects (closed source)</b>
+     <ul>
+        <li>Traceroute and Speed-Meter Gateway system for
+          monitoring performance of web sites and helping resolve technical
+          problems on the Internet. In the best times there were more than 50 measurement points installed
+          worldwide. (Not available anymore)</li>
+        <li>Development of a distributed database of Internet Service Providers called EUISP
+          with 6 mirrored sites of the site in 6 countries: USA, Australia, Spain, Finland, Hungary and Israel. (Not available anymore).</li>
+        <li>Hypolit, an automated, multi-server, add-based free web hosting
+        site. (Not available anymore)</LI>
+      </ul>
+    </td>
+  </tr>
+
+   <tr><td>&nbsp;</td><td></td></tr>
+
+   <tr valign="top">
+    <td><b>5-9/2000</b></td>
+    <td><b>Infrastructure Manager</b> at Goldnames
+      <UL>
+        <li>Setup and administration of the internal infrastructure of the 
+        company's computer systems with 60 Win2000 clients, 2 NT 4.0, 10 Linux 
+        and a SUN server. Rebuilding the Intranet and improving security. 
+        <li>Setup and monitoring 3 versions of the website at various complexity 
+        levels: small and static; multilingual with 7 languages on a dedicated 
+        server; two-tire system with Linux web and application server (JSP with 
+        Jakarta) and Oracle database on SUN/Solaris. 
+        <li>Development and maintenance of a system to hold 35.000 domain names 
+        and related websites, increasing the daily hit rate by 50% within one 
+        week. 
+        <li>Development of various tools for fast website development including 
+        and editor for the 35.000 domain names. This provided the company's 
+        business team with the capacity to independently make rapid changes to 
+        the splash pages. 
+        <li>Providing various statistics on the performance of the companies 
+        different websites. 
+        <li>Introducing automatization in several parts of the development. 
+        <li>Training employees and teaching web programming languages (HTML, 
+        CGI, Perl, PHP). </li>
+       </ul></td>
+  </tr>
+  <tr><td>&nbsp;</td><td></td></tr>
+  <tr valign="top">
+    <td><b>1997-1998</b> </td>
+    <td><b>Application and Integration Engineer</b> at Phasecom Ltd. (later Vyyo) 
+      <UL>
+        <li>Evaluating third party technology in order to include them in the 
+        networking side of the product. 
+        <li>Writing Application Notes for the different systems. 
+        <li>Training the Marketing and the Support team of those 
+        implementations. Working with switches, routers, VPN Data Encryption 
+        (RedCreek, VPNet) and Quality Of Service (Packeteer, BandWiz, Allot) 
+        devices. Accounting information, SNMP managers. 
+        <li>Designing and developing an asynchronous, telco return system for 
+        Phasecoms' cable modem system. </LI></UL>
+      <p></p></td></tr>
+  <tr><td>&nbsp;</td><td></td></tr>
+  <tr valign="top">
+    <td><b>1996-1997</b> </td>
+    <td><b>System engineer</b> at AgentSoft 
+      <ul>
+        <li>Design, setup and maintenance of the companies computer infrastructure from scratch.</li>
+        <li>Installation WinNT 4.0 domain based network with Win95 clients. Adding UNIX and Macintosh to the system for portability testing.</li>
+        <li>Evaluating and setup of version control system and bug tracking system. </li>
+      </ul></td>
+  </tr>
+  <tr><td>&nbsp;</td><td></td></tr>
+  <tr valign="top">
+    <td><b>1994-1996</b></td>
+    <td><b>Developer and System administrator</b> at Netmanage in Jerusalem 
+      <ul>
+        <li><b>Development:</b> Worked on hypertext (SGML) creation, compilation 
+        and viewing system. Wrote part of a compiler to translate between two 
+        markup languages. 
+        <li>Worked on the development of a file mirroring software based on FTP 
+        written in C++, part of the Chameleon suite. 
+        <li>Created several internally used interactive Web-pages using shell 
+        scripts and Perl. (used C, Object Oriented LISP, AWK, VB) 
+        <li><b>System administration:</b> Lead the transition from a badly 
+        designed Novell network to an NT domain cross-connected with other 
+        offices worldwide. 
+        <li>The administrated local network was composed of several Intranet 
+        servers and more than 50 PCs each of them configured for three operating 
+        systems. Installation of Intranet. 
+        <li><b>Automatization (build and bug tracking system): </b>Implemented 
+        some major improvements to automate the time consuming tasks of the 
+        distributed build system and to improve the working environment of the 
+        engineers. Improved the common bug tracking system (DDTS now ClearCase) 
+        and the common version control system (PVCS) used by the company. 
+        </li>
+      </ul>
+   <tr><td>&nbsp;</td><td></td></tr>
+  <tr valign="top">
+    <td><b>1993-1994</b></td>
+    <td>Project at the R&amp;D center of Digital in Jerusalem, writing scripts in C--</td>
+  </tr>
+   <tr><td>&nbsp;</td><td></td>
+  </tr>
+  <tr valign="top">
+    <td><b>1991-1992</b></td>
+    <td>Translations from Hebrew for the Hungarian Television.</td>
+  </tr>
+  <tr>
+    <td colSpan="2">&nbsp;</td>
+  </tr>
+  <tr>
+    <td colSpan="2"><h3>Education</h3></td>
+  </tr>
+  <tr valign="top">
+    <td><b>1997</b></td>
+    <td>MBA in Finance and Information Systems (IS) at The Hebrew University of Jerusalem.</td>
+  </tr>
+  <tr valign="top">
+    <td><b>1993</b></td>
+    <td>BSc. in Computer Sciences and Business Administration at The Hebrew University of Jerusalem.</td>
+  </tr>
+  <tr>
+    <td colSpan="2">&nbsp;</td></tr>
+  <tr>
+    <td colSpan="2"><h3>Languages</h3></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Hungarian (mother tongue), Hebrew (fluent), English (very good). Spanish (intermediate)</td>
+  </tr>
+  <tr>
+    <td colSpan="2">&nbsp; </td>
+  </tr>
+</tbody>
+</table>
+</body>
+</html>
