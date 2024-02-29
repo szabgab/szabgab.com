@@ -24,6 +24,13 @@ jobs:
       - name: Checkout site source
         uses: actions/checkout@v4
 
+      - name: Checkout hostlocal.com
+        uses: actions/checkout@v4
+        with:
+          repository: 'szabgab/hostlocal.com'
+          path: hostlocal.com
+
+
       - name: Setup Pages
         uses: actions/configure-pages@v4
 
