@@ -1,0 +1,41 @@
+name: CI
+
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+  schedule:
+    - cron: '42 5 * * *'
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    name: Test szabgab.com
+
+    steps:
+    - uses: actions/checkout@v4
+
+    - name: Set up perl
+      uses: shogo82148/actions-setup-perl@v1
+      with:
+          perl-version: 5.36
+          distribution: 'default'
+
+    - name: Show Perl Version
+      run: |
+        perl -v
+
+    - name: Install Modules
+      run: |
+        cd web/szabgab/
+        cpanm -v
+        cpanm --installdeps --with-develop --notest .
+
+    - name: Run tests
+      run: |
+        cd web/szabgab/
+        perl Makefile.PL
+        make
+        make test
+
+
