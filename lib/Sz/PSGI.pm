@@ -11,11 +11,6 @@ use Sz::App;
 
 my $ips_file = '/home/gabor/ips.json';
 
-my @REGEX = (
-	qr{^/img/},
-	qr{\.pdf$},
-);
-
 my %MIME = (
 	'ico' => 'image/x-icon',
 	'png' => 'image/png',
@@ -132,12 +127,6 @@ sub run {
 		];
 	}
 
-	foreach my $r (@REGEX) {
-		if ($env->{PATH_INFO} =~ $r) {
-			LOG("regex '$r' matched '$env->{PATH_INFO}'");
-			return static_file( "$root/html/$env->{PATH_INFO}" );
-		}
-	}
 	my $path = "$root/html/$env->{PATH_INFO}";
 	if (-f $path) {
 		LOG("path: '$path'");
