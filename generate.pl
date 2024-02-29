@@ -17,6 +17,7 @@ sub main {
     my $outdir = "_site";
     system "rm -rf $outdir";
     system "cp -r html $outdir";
+    system "mkdir $outdir/courses";
 
     opendir my $dh, "pages";
     my @files = readdir $dh;
@@ -29,7 +30,8 @@ sub main {
     my %seen;
     print Dumper \@files;
     for my $file (@files) {
-        if ($file =~ /^(\w+)\.(md|tmpl)$/) {
+        next if $file eq "." or $file eq "..";
+        if ($file =~ /^([\w.-]+)\.(md|tmpl)$/) {
             my $path = $1;
             die "Duplicate path '$path'" if $seen{$path}++;
             say $path;
@@ -38,13 +40,35 @@ sub main {
             } else {
                 generate_page($root, "/$path", "$outdir/$path.html");
             }
+        } else {
+            die "invalid file extension: '$file'";
         }
     }
+
+    courses($root, $outdir);
+
     generate_page($root, "/archive", "$outdir/archive.html");
 
     my $sitemap  = Sz::PSGI::create_sitemap($root);
     open my $out, ">:encoding(utf8)", "$outdir/sitemap.xml" or die;
     print $out $sitemap;
+}
+
+sub courses {
+    my ($root, $outdir) = @_;
+
+    opendir my $dh, "hostlocal.com/courses/eng/";
+    my @files = readdir $dh;
+    for my $file (@files) {
+        next if $file eq "." or $file eq "..";
+        if ($file =~ /^([\w-]+)\.json$/) {
+            my $path = $1;
+            say $path;
+            generate_page($root, "/courses/$path", "$outdir/courses/$path.html");
+        } else {
+            die "invalid file extension: '$file'";
+        }
+    }
 }
 
 

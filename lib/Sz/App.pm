@@ -155,7 +155,7 @@ sub keywords {
 sub show_course {
     my ($self, $env, $course_name) = @_;
 
-    my $filename = "$self->{root}/../../../hostlocal.com/courses/eng/$course_name.json";
+    my $filename = "$self->{root}/hostlocal.com/courses/eng/$course_name.json";
     return "Course could not be found" if not -e $filename;
 
     my $course = eval { decode_json path($filename)->slurp };
