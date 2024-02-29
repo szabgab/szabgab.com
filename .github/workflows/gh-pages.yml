@@ -24,11 +24,15 @@ jobs:
       - name: Checkout site source
         uses: actions/checkout@v4
 
-      - name: Checkout hostlocal.com
-        uses: actions/checkout@v4
-        with:
-          repository: 'szabgab/hostlocal.com'
-          path: hostlocal.com
+          #- name: Checkout hostlocal.com
+          #  uses: actions/checkout@v4
+          #  with:
+          #    repository: 'szabgab/hostlocal.com'
+          #    path: hostlocal.com
+          #
+          #
+      - name: clone
+        run: git clone git@bitbucket.org:szabgab/hostlocal.com.git
 
 
       - name: Setup Pages
