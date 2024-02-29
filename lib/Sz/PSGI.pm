@@ -9,8 +9,6 @@ use Data::Dumper qw(Dumper);
 use Sz::Meta qw(LOG);
 use Sz::App;
 
-my $ips_file = '/home/gabor/ips.json';
-
 sub redirect {
 	my ($url) = @_;
 
@@ -26,39 +24,12 @@ sub redirect {
 }
 
 
-sub handle_ip {
-	my ($env, $host) = @_;
-
-	my $date = POSIX::strftime("%Y-%m-%d %H:%M:%S", localtime());
-	my $ip = $env->{HTTP_X_REAL_IP}; # instead of REMOTE_ADDR Nginx revers proxy
-	my $ips = eval { decode_json path($ips_file)->slurp };
-	$ips ||= {};
-	$ips->{$host} = $ip;
-	my $json = eval { encode_json $ips };
-	eval { path($ips_file)->spew( $json ) };
-
-	my $ips_history = '/home/gabor/ips_' . POSIX::strftime("%Y_%m_%d", localtime()) . ".json";
-	if (open my $fh, '>>', $ips_history) {
-		print $fh eval { encode_json { host => $host, ip => $ip, time => POSIX::strftime("%Y-%m-%d %H:%M:%S", localtime()) } };
-		print $fh "\n";
-	}
-
-	return [
-		'200',
-		[ 'Content-Type' => 'application/json' ],
-		[ $json ],
-	];
-}
-
 sub run {
 	my ($root, $env) = @_;
 
 	LOG("Dynamic '$env->{PATH_INFO}'");
     LOG("REQUEST_URI: '$env->{REQUEST_URI}'");
 
-	if ($env->{PATH_INFO} =~ m{^/ip/(.*)}) {
-        return handle_ip($env, $1);
-	}
     return redirect( "/" )                                  if $env->{PATH_INFO} eq '/index.html';
 	return redirect('/perl-video.html')                     if $env->{PATH_INFO} eq '/video.html';
     return redirect( "/archive" )                           if $env->{PATH_INFO} eq '/blog.html';
