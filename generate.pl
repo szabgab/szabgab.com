@@ -42,7 +42,7 @@ sub main {
     }
     generate_page($root, "/archive", "$outdir/archive.html");
 
-	my $sitemap  = Sz::PSGI::create_sitemap($root);
+    my $sitemap  = Sz::PSGI::create_sitemap($root);
     open my $out, ">:encoding(utf8)", "$outdir/sitemap.xml" or die;
     print $out $sitemap;
 }
@@ -63,3 +63,12 @@ sub generate_page {
     open my $out, ">:encoding(utf8)", $outfile or die;
     print $out @{$res->[2]};
 }
+
+sub generate_redirect {
+    my ($outfile, $url) = @_;
+    open my $out, ">:encoding(utf8)", $outfile or die;
+    my $html = qq(<meta http-equiv="refresh" content="0; url=$url" />);
+    print $out $html;
+}
+
+
