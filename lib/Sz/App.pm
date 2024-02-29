@@ -389,7 +389,7 @@ Returning the output
 sub out {
     my ($self, $data, %params) = @_;
 
-    my $t = HTML::Template->new(filename => $self->{root} . "/templates/template.tmpl", die_on_bad_params => 0);
+    my $t = HTML::Template->new(filename => $self->{root} . "/templates/template.tmpl", die_on_bad_params => 0, utf8 => 1);
 
     # key = value pairs in the files or the incoming data are parameters of HTML::Template
     my $content = '';
