@@ -55,13 +55,6 @@ sub run {
     return redirect("https://code-maven.com/raku") if $env->{PATH_INFO} =~ m{^/talks/perl6/};
     return redirect("/$1") if $env->{PATH_INFO} =~ m{^/blog/.*/([^/]+)\.html$};
 
-	if ($env->{PATH_INFO} eq '/sitemap.xml') {
-	    return [
-			'200',
-			[ 'Content-Type' => 'application/xml' ],
-			[ create_sitemap($root) ],
-		];
-	}
 
 	if ($env->{REQUEST_URI} =~ m{^/blog/.*/.*/([^/]+)\.html$}) {
 		my $file = $1;

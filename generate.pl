@@ -41,7 +41,12 @@ sub main {
         }
     }
     generate_page($root, "/archive", "$outdir/archive.html");
+
+	my $sitemap  = Sz::PSGI::create_sitemap($root);
+    open my $out, ">:encoding(utf8)", "$outdir/sitemap.xml" or die;
+    print $out $sitemap;
 }
+
 
 sub generate_page {
     my ($root, $path, $outfile) = @_;
