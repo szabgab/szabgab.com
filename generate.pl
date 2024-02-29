@@ -19,6 +19,22 @@ sub main {
     system "cp -r html $outdir";
     system "mkdir $outdir/courses";
 
+    generate_pages($root, $outdir);
+
+    courses($root, $outdir);
+
+    generate_page($root, "/archive", "$outdir/archive.html");
+
+    my $sitemap  = Sz::PSGI::create_sitemap($root);
+    open my $out, ">:encoding(utf8)", "$outdir/sitemap.xml" or die;
+    print $out $sitemap;
+
+    generate_redirect("$outdir/courses/index.html", "/training");
+}
+
+sub generate_pages {
+    my ($root, $outdir) = @_;
+
     opendir my $dh, "pages";
     my @files = readdir $dh;
 
@@ -44,15 +60,9 @@ sub main {
             die "invalid file extension: '$file'";
         }
     }
-
-    courses($root, $outdir);
-
-    generate_page($root, "/archive", "$outdir/archive.html");
-
-    my $sitemap  = Sz::PSGI::create_sitemap($root);
-    open my $out, ">:encoding(utf8)", "$outdir/sitemap.xml" or die;
-    print $out $sitemap;
 }
+
+
 
 sub courses {
     my ($root, $outdir) = @_;
