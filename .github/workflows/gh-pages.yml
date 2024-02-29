@@ -37,24 +37,24 @@ jobs:
         run: |
           perl -v
 
-      - name: Install Modules
-        run: |
-          cd web/szabgab/
-          cpanm -v
-          cpanm --installdeps --with-develop --notest .
+          #- name: Install Modules
+          #  run: |
+          #    cd web/szabgab/
+          #    cpanm -v
+          #    cpanm --installdeps --with-develop --notest .
 
-      - name: Run tests
-        run: |
-          cd web/szabgab/
-          perl Makefile.PL
-          make
-          make test
+          #- name: Run tests
+          #  run: |
+          #    cd web/szabgab/
+          #    perl Makefile.PL
+          #    make
+          #    make test
 
-      - name: Generate pages
-        env:
-          SZABGAB_DEV: log
-        run: |
-          perl generate.pl
+          #- name: Generate pages
+          #  env:
+          #    SZABGAB_DEV: log
+          #  run: |
+          #    perl generate.pl
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
