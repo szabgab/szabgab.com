@@ -38,8 +38,6 @@ WriteMakefile(
         'Path::Tiny'            => 0,
         'LWP::Simple'           => 0,
         'YAML::XS'              => 0,
-        'Email::Stuffer'        => 0,
-        'Email::Sender::Transport::SMTP' => 0,
         'Plack::Request'        => 0,
 
 		'Test::More'       => '0.47',

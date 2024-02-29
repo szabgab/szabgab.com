@@ -16,8 +16,6 @@ use LWP::Simple qw(get);
 use Path::Tiny qw(path);
 use YAML::XS qw(LoadFile);
 use Text::MultiMarkdown qw(markdown);
-use Email::Stuffer;
-use Email::Sender::Transport::SMTP qw();
 use Plack::Request;
 use JSON::XS qw(encode_json decode_json);
 
@@ -154,40 +152,6 @@ sub keywords {
     return $self->out(\@content);
 }
 
-sub send {
-    my ($self, $env) = @_;
-    my $to = 'gabor@szabgab.com';
-    my $from = 'gabor@szabgab.com';
-	my $req = Plack::Request->new($env);
-    my $title = $req->param('title');
-    my $body = $req->param('body');
-    if ($title or $body) {
-        $title ||= 'Selfmail without subject';
-        $body ||= 'Selfmail without content';
-	    my $email = Email::Stuffer->text_body($body)->subject($title)->from($from)->transport(
-	    	Email::Sender::Transport::SMTP->new(
-	    		{
-	    			host => 'localhost',
-	    		}
-	    	)
-        );
-	    my $err;
-	    eval { $email->to($to)->send_or_die; 1 } or do { $err = $@ // 'Unknown error'; };
-	    return $err if $err;
-        return q{Sent <a href="/send">send another one</a>};
-    }
-    return q{
-        <html><head><title></title></head>
-        <body>
-        <form method="POST">
-        <input name="title" size="100"><br>
-        <textarea name="body" rows="30" cols="100"></textarea><br>
-        <input type="submit" value="Send"><br>
-        </form>
-        </body></html>
-    };
-}
-
 sub show_course {
     my ($self, $env, $course_name) = @_;
 
@@ -265,10 +229,6 @@ sub show {
 
     if ($script =~ m{^/keywords}) {
         return $self->keywords($env);
-    }
-
-    if ($script =~ m{/send}) {
-        return $self->send($env);
     }
 
     if ($script =~ m{^/?$}) {
