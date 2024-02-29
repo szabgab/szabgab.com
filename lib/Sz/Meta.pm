@@ -12,11 +12,11 @@ our @EXPORT_OK = qw(LOG);
 
 our %posts;
 # url => {
-# 	timestamp => 1234567899,
-# 	title => 'blablabla',
-# 	tags => [ 'Perl', 'unlink', 'copy' ],
-# 	indexes => [ '$_', '$/' ],
-# 	permaling => url
+#     timestamp => 1234567899,
+#     title => 'blablabla',
+#     tags => [ 'Perl', 'unlink', 'copy' ],
+#     indexes => [ '$_', '$/' ],
+#     permaling => url
 # }
 #
 
@@ -32,16 +32,16 @@ my $last_load = 0;
 # TODO: catch errors, such as missing title or missing timestamp
 
 my %REDIRECT = (
-	'/talks/fundamentals_of_perl/process-csv-file.html' => 'http://perlmaven.com/how-to-read-a-csv-file-using-perl',
-	'/talks/fundamentals_of_perl/multi-dimensional-hash.html' => 'http://perlmaven.com/multi-dimensional-hashes',
-	'/talks/fundamentals_of_perl/count-words.html' => 'http://perlmaven.com/count-words-in-text-using-perl',
-	'/talks/fundamentals_of_perl/net-ldap.html' => 'http://perlmaven.com/reading-from-ldap-in-perl-using-net-ldap',
-	'/talks/fundamentals_of_perl/reading-from-file-read-eof.html' => 'http://perlmaven.com/end-of-file-in-perl',
+    '/talks/fundamentals_of_perl/process-csv-file.html' => 'http://perlmaven.com/how-to-read-a-csv-file-using-perl',
+    '/talks/fundamentals_of_perl/multi-dimensional-hash.html' => 'http://perlmaven.com/multi-dimensional-hashes',
+    '/talks/fundamentals_of_perl/count-words.html' => 'http://perlmaven.com/count-words-in-text-using-perl',
+    '/talks/fundamentals_of_perl/net-ldap.html' => 'http://perlmaven.com/reading-from-ldap-in-perl-using-net-ldap',
+    '/talks/fundamentals_of_perl/reading-from-file-read-eof.html' => 'http://perlmaven.com/end-of-file-in-perl',
 );
 
 sub redirect {
-	my ($url) = @_;
-	return $REDIRECT{$url};
+    my ($url) = @_;
+    return $REDIRECT{$url};
 }
 
 # first we read in all the files, process the headers and save the rows in memory
@@ -51,53 +51,53 @@ sub process_pages {
     my ($root) = @_;
     LOG("process_pages");
 
-	%indexes = ();
-	%tags = ();
-	%lctags = ();
-	%ts_to_url = ();
-	%posts = ();
+    %indexes = ();
+    %tags = ();
+    %lctags = ();
+    %ts_to_url = ();
+    %posts = ();
 
     foreach my $file (sort glob "$root/pages/*") {
         next if $file !~ /\.(md|tmpl)$/;
         process_file($file);
     }
 
-	foreach my $url (keys %posts) {
-		foreach my $index (@{ $posts{$url}{indexes} }) {
-			push @{ $indexes{$index} }, $url;
-		}
+    foreach my $url (keys %posts) {
+        foreach my $index (@{ $posts{$url}{indexes} }) {
+            push @{ $indexes{$index} }, $url;
+        }
 
-		foreach my $tag (@{ $posts{$url}{tags} }) {
-			$tags{$tag}{ $posts{$url}{timestamp} }= 1;
-			$lctags{lc $tag}{ $posts{$url}{timestamp} }= 1;
-		}
-	}
+        foreach my $tag (@{ $posts{$url}{tags} }) {
+            $tags{$tag}{ $posts{$url}{timestamp} }= 1;
+            $lctags{lc $tag}{ $posts{$url}{timestamp} }= 1;
+        }
+    }
 
-	# abstract, title, timestamp, tags
-	my $count = 10;
-	my %counts = ( Perl =>10, 'Perl 6' => 5 );
+    # abstract, title, timestamp, tags
+    my $count = 10;
+    my %counts = ( Perl =>10, 'Perl 6' => 5 );
     foreach my $url (reverse sort { $posts{$a}{timestamp} <=> $posts{$b}{timestamp} } keys %posts) {
-		#my $post = read_the_file();
+        #my $post = read_the_file();
         next if $posts{$url}{skip}{rss};
-		if ($count > 0) {
-			$count--;
-        	push @feed, $posts{$url};
-		}
-		foreach my $tag (keys %counts) {
-			next if not grep {$tag eq $_} @{ $posts{$url}{tags} };
-			next if $counts{$tag} <= 0;
-			$counts{$tag}--;
-			push @{ $feeds{$tag} }, $posts{$url};
-		}
+        if ($count > 0) {
+            $count--;
+            push @feed, $posts{$url};
+        }
+        foreach my $tag (keys %counts) {
+            next if not grep {$tag eq $_} @{ $posts{$url}{tags} };
+            next if $counts{$tag} <= 0;
+            $counts{$tag}--;
+            push @{ $feeds{$tag} }, $posts{$url};
+        }
     }
 
     #foreach my $key (keys %posts) {
     #    $self->_process_tmpl_content( $posts{$key} );
     #}
-	# Archive: timestamp, url, title
-	# Front page: title, url, abstract
-	# Single page:
-	#    Redirect mapping from timestamp to URL and from URL to external site via =redirect
+    # Archive: timestamp, url, title
+    # Front page: title, url, abstract
+    # Single page:
+    #    Redirect mapping from timestamp to URL and from URL to external site via =redirect
 
     return;
 }
@@ -133,11 +133,11 @@ sub process_file {
             next LINE;
         }
 
-		if ($line =~ /^=redirect\s+(.*?)\s*$/) {
-			$REDIRECT{$url} = $1;
+        if ($line =~ /^=redirect\s+(.*?)\s*$/) {
+            $REDIRECT{$url} = $1;
             $post_ref->{redirect} = $1;
-			next LINE;
-		}
+            next LINE;
+        }
         if ($line =~ /^=timestamp\s+(\d+)/) {
             $post_ref->{timestamp} = $1;
             warn "timestamp had no value ($line)" if not $post_ref->{timestamp};
@@ -162,8 +162,8 @@ sub process_file {
         if ($line =~ /^=indexes\s+(.*)/) {
             (my $indexes = $1) =~ s/^\s+|\s+$//g;
             my @indexes = split /\s*,\s*/, $indexes;
-			$post_ref->{indexes} = \@indexes;
-			next LINE;
+            $post_ref->{indexes} = \@indexes;
+            next LINE;
         }
 
         if ($line =~ /^=description\s+(.*)/) {
@@ -177,15 +177,15 @@ sub process_file {
         }
 
 
-		if ($line =~ /^=abstract start$/ .. $line =~ /^=abstract end$/) {
-			next LINE if $line =~ /^=abstract start/;
-			if ($line =~ /^=abstract end/) {
-				next LINE;
-			}
-			$post_ref->{abstract} .= $line;
-			next LINE;
-		}
-		last LINE; # cut short, don't load the content here
+        if ($line =~ /^=abstract start$/ .. $line =~ /^=abstract end$/) {
+            next LINE if $line =~ /^=abstract start/;
+            if ($line =~ /^=abstract end/) {
+                next LINE;
+            }
+            $post_ref->{abstract} .= $line;
+            next LINE;
+        }
+        last LINE; # cut short, don't load the content here
     }
     $posts{$post_ref->{permalink}} = $post_ref;
     if (not defined $post_ref->{timestamp}) {
@@ -226,12 +226,12 @@ sub _get_posts_by_tag {
         next if $post->{skip}{tags};
         my $date = POSIX::strftime("%Y.%m.%d", localtime $timestamp);
         push @result, {
-			date => $date,
-			permalink => $post->{permalink},
-			title => $post->{title},
-			redirect => $post->{redirect},
-			};
-	}
+            date => $date,
+            permalink => $post->{permalink},
+            title => $post->{title},
+            redirect => $post->{redirect},
+            };
+    }
     return @result;
 }
 
@@ -242,30 +242,30 @@ sub counted_tags {
             $tag_cnt{$tag} = scalar(keys %{ $tags{$tag} });
         }
     }
-	my @tags;
+    my @tags;
     foreach my $tag (reverse sort {$tag_cnt{$a} <=> $tag_cnt{$b}} keys %tag_cnt) {
-		push @tags, {
-			tag => $tag,
-			cnt => $tag_cnt{$tag},
-		};
+        push @tags, {
+            tag => $tag,
+            cnt => $tag_cnt{$tag},
+        };
     }
-	return @tags;
+    return @tags;
 }
 
 
 sub keywords {
-	my ($key) = @_;
+    my ($key) = @_;
 
-	my @keys = sort {lc $a cmp lc $b} keys %indexes;
+    my @keys = sort {lc $a cmp lc $b} keys %indexes;
     if ($key) {
-		return $keys[$key-1];
+        return $keys[$key-1];
     }
     return @keys;
 }
 sub get_indexes {
-	my ($key) = @_;
+    my ($key) = @_;
 
-	map { { url => $_, title => $posts{$_}{title} } } sort {lc $a cmp lc $b} @{ $indexes{$key} };
+    map { { url => $_, title => $posts{$_}{title} } } sort {lc $a cmp lc $b} @{ $indexes{$key} };
 }
 
 
@@ -275,9 +275,9 @@ sub ts_to_url {
 }
 
 sub get_rss {
-	my ($tag) = @_;
-	return $feeds{$tag} if $tag and $feeds{$tag};
-	return \@feed;
+    my ($tag) = @_;
+    return $feeds{$tag} if $tag and $feeds{$tag};
+    return \@feed;
 }
 
 sub _process_smart_tag {
@@ -287,12 +287,12 @@ sub _process_smart_tag {
         $title ||= $value;
         return sprintf( qq(<a href="http://metacpan.org/release/%s">%s</a>), $dashed, $title);
     }
-	warn "Unknown smart-tag '$tag' in title '$title'\n";
+    warn "Unknown smart-tag '$tag' in title '$title'\n";
 }
 
 sub LOG {
     if ($ENV{SZABGAB_DEV}) {
-	    print STDERR "@_\n";
+        print STDERR "@_\n";
     }
 }
 

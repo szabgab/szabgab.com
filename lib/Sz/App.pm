@@ -53,16 +53,16 @@ sub new {
 }
 
 sub is_redirect {
-	my ($self, $env) = @_;
+    my ($self, $env) = @_;
     my $script = _script($env);
-	return Sz::Meta::redirect($script);
+    return Sz::Meta::redirect($script);
 }
 
 sub _script {
-	my ($env) = @_;
+    my ($env) = @_;
 
     #Carp::confess $env;
-	my $script = $env->{REQUEST_URI} || '/';
+    my $script = $env->{REQUEST_URI} || '/';
     $script =~ s/\?.*//;   # technorati.com pings us using ?ip=1 that we don't need here...
     $script =~ s{/+}{/}g;  # bug of multiple slashes sometimes
     #warn("SCRIPT: '$script'");
@@ -71,7 +71,7 @@ sub _script {
 
 sub get_books {
     my ($self, $env) = @_;
-	my $req = Plack::Request->new($env);
+    my $req = Plack::Request->new($env);
     my $selected_tag = $req->param('tag');
     my $amazon_tag = '?tag=szabgab-20';
     my $file = "$self->{root}/books.yml";
@@ -124,7 +124,7 @@ sub get_books {
 
 sub keywords {
     my ($self, $env) = @_;
-	my $req = Plack::Request->new($env);
+    my $req = Plack::Request->new($env);
     my $key = $req->param('key');
 
     my @content;
@@ -141,9 +141,9 @@ sub keywords {
     foreach my $key (@keys) {
         $c++;
         $html .= qq{<li id="$c">$key<ul>\n};
-			my @pages = Sz::Meta::get_indexes($key);
+            my @pages = Sz::Meta::get_indexes($key);
             $html .=  join '',
-				map { qq( <li><a href="$_->{url}">$_->{title}</a></li>\n) } @pages;
+                map { qq( <li><a href="$_->{url}">$_->{title}</a></li>\n) } @pages;
         $html .= "</ul></li>\n";
     }
     $html .= "</ul>\n";
@@ -158,7 +158,7 @@ sub show_course {
     my $filename = "$self->{root}/../../../hostlocal.com/courses/eng/$course_name.json";
     return "Course could not be found" if not -e $filename;
 
-	my $course = eval { decode_json path($filename)->slurp };
+    my $course = eval { decode_json path($filename)->slurp };
 
     my $slug = $env->{PATH_INFO};
     $slug =~ s{^/}{};
@@ -270,14 +270,14 @@ sub show {
         my $filename = "$ENV{SZABGAB_TALKS}/$1/$2.html";
         if (open my $fh, '<:encoding(utf8)', $filename) {
             my @rows = <$fh>;
-			my $text = q{<p style="background-color:orange; padding: 5px;">You are looking at a very old, but free version of the course.
+            my $text = q{<p style="background-color:orange; padding: 5px;">You are looking at a very old, but free version of the course.
 If you are interesed the most recent version, check it out
 on the <a href="http://perlmaven.com/">Perl Maven</a> site.</p>};
-			if ($rows[0] =~ /^title\s*=/) {
-				splice @rows, 1, 0, $text;
- 			} else {
-				unshift @rows, $text;
-			}
+            if ($rows[0] =~ /^title\s*=/) {
+                splice @rows, 1, 0, $text;
+             } else {
+                unshift @rows, $text;
+            }
             return $self->out(\@rows);
         } else {
             warn "Could not open file '$filename' $!";
@@ -368,7 +368,7 @@ sub _cache {
     # print Dumper $post;
     $post->{rows} = \@rows;
     $post->{content} = '';
-	$post->{abstract} = '';
+    $post->{abstract} = '';
     # print Dumper $post;
     if ($type eq 'tmpl') {
         $self->_process_tmpl_content( $post );
@@ -378,7 +378,7 @@ sub _cache {
     # print Dumper $post;
     my $content = $self->out($self->individual_page($env, $post, $url));
 
-	return $content;
+    return $content;
 }
 
 =head2 out
@@ -431,7 +431,7 @@ sub load_files {
 
     LOG("load_files");
     Sz::Meta::process_pages($self->{root});
-	%posts = %Sz::Meta::posts;
+    %posts = %Sz::Meta::posts;
 
     return;
 }
@@ -576,11 +576,11 @@ sub list_all_blogs {
             date      => POSIX::strftime("%Y %b %d", localtime $post_ref->{timestamp}),
             permalink => $post_ref->{permalink},
             title     => $post_ref->{title},
-			redirect  => $post_ref->{redirect},
+            redirect  => $post_ref->{redirect},
         }
     }
 
-	push @content, path("$self->{root}/templates/archive.tmpl")->slurp_utf8;
+    push @content, path("$self->{root}/templates/archive.tmpl")->slurp_utf8;
 
     foreach my $entry (@blogs) {
         my $url   = ($entry->{redirect} ? $entry->{redirect} : $entry->{permalink});
@@ -599,7 +599,7 @@ sub list_entries_with_tag {
     push @content, "page_title   = Blog entries related to $tag\n";
 
     my @tags = Sz::Meta::get_posts_by_tag($tag);
-	if (@tags) {
+    if (@tags) {
         push @content, "title = blog entries about $tag\n";
         push @content, "\n";
         push @content, "<p>Posts related to <b>$tag</b></p>";
@@ -623,8 +623,8 @@ sub tag_cloud {
     push @content, qq(<div id="tags">\n);
     push @content, qq(<ul>\n);
 
-	push @content, map {
-		sprintf(qq(<li><a href="/blog/tags/%s.html">%s</a> (%s)</li>\n),
+    push @content, map {
+        sprintf(qq(<li><a href="/blog/tags/%s.html">%s</a> (%s)</li>\n),
                             $_->{tag}, $_->{tag}, $_->{cnt} ) } Sz::Meta::counted_tags();
 
     push @content, qq(</ul></div>\n);
@@ -680,7 +680,7 @@ sub main_page {
     my @urls = sort { $posts{$a}{timestamp} <=> $posts{$b}{timestamp} } keys %posts;
     my $position = scalar @urls;
 
-	push @content, path("$self->{root}/templates/front.html")->slurp_utf8;
+    push @content, path("$self->{root}/templates/front.html")->slurp_utf8;
 
     return \@content;
 }
@@ -707,13 +707,13 @@ sub generate_rss {
         }
     );
 
-	my $posts = Sz::Meta::get_rss($tag);
+    my $posts = Sz::Meta::get_rss($tag);
 
-	#return '<pre>' . ( Dumper [map { $_->{tags} } @$posts] ) . '</pre>';
+    #return '<pre>' . ( Dumper [map { $_->{tags} } @$posts] ) . '</pre>';
 
     foreach my $post (@$posts) {
         my $text = ($post->{abstract} // '') . "\n";
-		my $url  = $post->{permalink};
+        my $url  = $post->{permalink};
         $text .= qq(<p>For the full article visit <a href="$URL$url">$post->{title}</a></p>\n);
         $text =~ s{"/}{"$URL/}g;
         $rss->add_item(
@@ -732,14 +732,14 @@ sub generate_rss {
 }
 
 sub _tags {
-	my @lines;
-	foreach my $t (@_) {
-		my $line = qq(<span class="blogdate">$t->{date}</span> <a href="$t->{permalink}">$t->{title}</a>);
-		$line   .= ( $t->{redirect} ? ' (r)' : '' );
-		$line   .= qq(<br />\n);
-		push @lines, $line;
-	}
-	return @lines;
+    my @lines;
+    foreach my $t (@_) {
+        my $line = qq(<span class="blogdate">$t->{date}</span> <a href="$t->{permalink}">$t->{title}</a>);
+        $line   .= ( $t->{redirect} ? ' (r)' : '' );
+        $line   .= qq(<br />\n);
+        push @lines, $line;
+    }
+    return @lines;
 }
 
 1;
