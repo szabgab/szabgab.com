@@ -13,12 +13,8 @@ WriteMakefile(
 	PL_FILES  => {},
 	PREREQ_PM => {
         'HTML::Template'        => 0,
-		'Time::localtime'       => 0,
-		'File::Path'            => 0,
 		'XML::RSS'              => 0,
 		'List::Util'            => 0,
-		'POSIX'                 => 0,
-		'Carp'                  => 0,
         'Text::MultiMarkdown'   => 0,
         'Path::Tiny'            => 0,
         'YAML::XS'              => 0,
