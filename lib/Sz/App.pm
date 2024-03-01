@@ -6,8 +6,6 @@ use HTML::Template;
 use Data::Dumper          qw(Dumper);
 use Encode                qw(decode);
 use Time::localtime       ();
-#use File::Basename        qw(basename);
-#use File::Spec::Functions qw(catfile);
 use XML::RSS              qw();
 use List::Util            qw(min);
 use POSIX                 qw();

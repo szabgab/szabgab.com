@@ -20,12 +20,8 @@ WriteMakefile(
 		: () ),
 	PL_FILES  => {},
 	PREREQ_PM => {
-		'WWW::Mechanize'        => 0,
-		'Getopt::Long'          => 0,
-		'Data::Dumper'          => 0,
         'HTML::Template'        => 0,
 		'Time::localtime'       => 0,
-		'File::Spec::Functions' => 0,
 		'File::Path'            => 0,
 		'XML::RSS'              => 0,
 		'List::Util'            => 0,
