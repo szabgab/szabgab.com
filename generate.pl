@@ -7,7 +7,7 @@ use Cwd qw(cwd);
 use Data::Dumper qw(Dumper);
 use POSIX qw(strftime);
 
-use Sz::PSGI;
+use Sz::App;
 
 main();
 
@@ -103,13 +103,10 @@ sub generate_page {
         REQUEST_URI => "/$path",
         #REQUEST_URI => "https://szabgab.com/$path",
     );
-    my $res = Sz::PSGI::run($root, \%env);
-    #say scalar @$res;
-    #say $res->[0]; # status 200 ?
-    #say Dumper $res->[1]; # ARRAY of header: Content-type
-    #say Dumper $res;
+    my $sz = Sz::App->new($root);
+    my $html = $sz->show(\%env);
     open my $out, ">:encoding(utf8)", $outfile or die;
-    print $out @{$res->[2]};
+    print $out $html;
 }
 
 sub generate_redirect {
