@@ -304,7 +304,7 @@ sub _cache {
     if ($url =~ m{^/([Pa-z0-9_-]+)(\.html)?$}) {
         $page = $1;
     } else {
-        return 'Error';
+        die "Error in $url";
     }
 
     my $type = 'tmpl';
