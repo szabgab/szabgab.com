@@ -30,17 +30,6 @@ sub run {
     LOG("Dynamic '$env->{PATH_INFO}'");
     LOG("REQUEST_URI: '$env->{REQUEST_URI}'");
 
-    return redirect( "/" )                                  if $env->{PATH_INFO} eq '/index.html';
-    return redirect('/perl-video.html')                     if $env->{PATH_INFO} eq '/video.html';
-    return redirect( "/archive" )                           if $env->{PATH_INFO} eq '/blog.html';
-    return redirect('https://feeds.feedburner.com/szabgab') if $env->{PATH_INFO} eq '/atom';
-    return redirect( "/training" )                          if $env->{PATH_INFO} eq '/courses/';
-    if ($env->{REQUEST_URI} =~ m{^(/[Pa-z0-9_-]+)\.html$}) {
-        my $new_url = $1;
-        LOG("redirect $env->{REQUEST_URI} to $new_url");
-        return redirect($new_url);
-    }
-
     if ($env->{PATH_INFO} =~ m{^/talks/perl_in_testing/(.*)}) {
         my $file = substr $1, 0, -5;
         if ($file =~ /^x\d+/) {

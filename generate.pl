@@ -34,7 +34,10 @@ sub main {
     open my $out, ">:encoding(utf8)", "$outdir/sitemap.xml" or die;
     print $out $sitemap;
 
-    generate_redirect("$outdir/courses/index.html", "/training");
+    generate_redirect("$outdir/courses/index.html" => "/training");
+    generate_redirect("$outdir/video.html"         => "/perl-video");
+    generate_redirect("$outdir/blog.html"          => "/archive");
+    generate_redirect("$outdir/atom.html"          => "https://feeds.feedburner.com/szabgab");
     generate_redirect("$outdir/talks/fundamentals_of_perl/process-csv-file.html"           => "https://perlmaven.com/how-to-read-a-csv-file-using-perl");
     generate_redirect("$outdir/talks/fundamentals_of_perl/multi-dimensional-hash.html"     => "https://perlmaven.com/multi-dimensional-hashes");
     generate_redirect("$outdir/talks/fundamentals_of_perl/count-words.html"                => "https://perlmaven.com/count-words-in-text-using-perl");
