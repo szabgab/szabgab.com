@@ -1,0 +1,179 @@
+---
+- title: "Day: A Novel (Night Trilogy Book 3)"
+  author: Elie Wiesel
+  amazon: https://www.amazon.com/gp/product/B007XV1SZU/
+  tags:
+    - Jews
+    - Holocaust
+- title: "Dawn: A Novel (Night Trilogy Book 2)"
+  author: Elie Wiesel
+  amazon: https://www.amazon.com/gp/product/B007XV1O1I/
+  tags:
+    - Jews
+    - Holocaust
+- title: "Night (Night Trilogy)"
+  author: Elie Wiesel
+  amazon: https://www.amazon.com/gp/product/B0071VUXXA/
+  tags:
+    - Jews
+    - Holocaust
+- title: "The Star and the Scepter: A Diplomatic History of Israel"
+  author: Emmanuel Navon
+  amazon: https://www.amazon.com/gp/product/B08JHHWSDY/
+  tags:
+    - Jews
+    - Israel
+    - diplomacy
+- title: "I Am Jewish: Personal Reflections Inspired by the Last Words of Daniel Pearl"
+  author: Ruth Pearl, Judea Perl
+  amazon: https://www.amazon.com/gp/product/B01HT6C20S/
+  tags:
+    - Jews
+- title: "Long Journey Home: A Young Girl's Memoir of Surviving the Holocaust"
+  author: Lucy Lipiner
+  amazon: https://www.amazon.com/gp/product/B00H6QVRNU/
+  tags:
+    - Jews
+    - Holocaust
+- title: "Gitta konyve (The book of Gitta) in Hungarian"
+  author: Zsuzsa Shiri
+  amazon: https://www.libri.hu/konyv/shiri_zsuzsa.gitta-konyve.html
+  tags:
+    - Jews
+    - Hungarian
+- title: "People Love Dead Jews: Report from a Haunted Present"
+  author: Dara Horn
+  amazon: https://smile.amazon.com/People-Love-Dead-Jews-Reports-ebook/dp/B08X2Y6PP6/
+  tags:
+    - Jews
+- title: "Beginner's Ladino (Spanish and English Edition)"
+  author: Alla Markova
+  amazon: https://www.amazon.com/gp/product/B003554D7S/
+  tags:
+    - Ladino
+- title: "Hope and Honor: A Memoir of a Soldier's Courage and Survival"
+  author: Sidney Shachnow, Jann Robbins
+  amazon: https://www.amazon.com/Hope-Honor-Soldiers-Courage-Survival-ebook/dp/B019N1PS8A
+  tags:
+    - Jews
+    - Holocaust
+- title: "Uprooted: How 3000 Years of Jewish Civilization in the Arab World Vanished Overnight"
+  author: Lyn Julius
+  amazon: https://www.amazon.com/Uprooted-Jewish-Civilization-Vanished-Overnight-ebook/dp/B07C58ZP5D
+  tags:
+    - Jews
+    - Arabs
+    - Middle East
+- title: "Firehouse"
+  author: David Halberstam
+  amazon: https://www.amazon.com/Firehouse-David-Halberstam/dp/0786888512
+  tags:
+    - Firefighters
+    - Terrorism
+- title: "The Rise of the Maccabees: Religious Historical Fiction kindle (Lions of Judea Book 1)"
+  author: Amit Arad
+  amazon: https://www.amazon.com/gp/product/B07T7K7T42/
+  tags:
+    - Jews
+- title: "How to Fight Anti-Semitism"
+  author: Bari Weiss
+  amazon: https://www.amazon.com/gp/product/0593136268
+  tags:
+    - Jews
+    - Antisemitism
+    - USA
+- title: "Israel: A Simple Guide to the Most Misunderstood Country on Earth"
+  author: Noa Tishby
+  amazon: https://www.amazon.com/gp/product/B08BZX1WBY
+  tags:
+    - Israel
+- title: "Never Alone: Prison, Politics, and My People"
+  author: Natan Sharansky, Gil Troy
+  amazon: https://www.amazon.com/gp/product/B083JZBBG3
+  tags:
+    - Israel
+    - dictatorship
+    - freedom
+    - USSR
+- title: "Jews Don't Count"
+  author: David Baddiel
+  amazon: https://www.amazon.com/gp/product/B084GJ78FJ
+  tags:
+    - Jews
+- title: "Minority Of One: The Unchaining Of An Arab Mind"
+  author: Hussein Aboubakr Mansour
+  amazon: https://www.amazon.com/gp/product/B088NG9BKH
+  tags:
+    - Egypt
+    - Islam
+- title: "In Order to Live: A North Korean Girl's Journey to Freedom"
+  author: Yeonmi Park, Maryanne Vollers
+  amazon: https://www.amazon.com/gp/product/B00SI0B5EY
+  tags:
+    - Korea
+    - dictatorship
+    - freedom
+- title: "The End of Faith: Religion, Terror, and the Future of Reason"
+  author: Sam Harris
+  amazon: https://www.amazon.com/gp/product/B000VUCIZE
+  tags:
+    - Islam
+    - religion
+- title: "Unveiled: How Western Liberals Empower Radical Islam"
+  author: Yasmine Mohammed
+  amazon: https://www.amazon.com/gp/product/B07YCVN78V
+  tags:
+    - Islam
+- title: Minority Tech
+  author: Anjuan Simmons
+  amazon: https://www.amazon.com/gp/product/B00E7HVKWE
+- title: "The Dance of the Possible"
+  author: Scott Berkun
+  amazon: "https://www.amazon.com/Dance-Possible-completely-irreverent-creativity-ebook/dp/B06WLGYW83/"
+- title: "The Ghost of My Father"
+  author: Scott Berkun
+  amazon: "https://www.amazon.com/Ghost-My-Father-Scott-Berkun-ebook/dp/B00O29QWZC/"
+- title: "The Year Without Pants: WordPress.com & the Future of Work"
+  author: Scott Berkun
+  amazon: "https://www.amazon.com/Year-Without-Pants-WordPress-com-Future-ebook/dp/B00DVJXI4M/"
+- title: "Mindfire: Big Ideas for Curious Minds"
+  author: Scott Berkun
+  amazon: "https://www.amazon.com/Mindfire-Big-Ideas-Curious-Minds/dp/0983873100/"
+- title: "Making Things Happen: Mastering Project Management"
+  author: Scott Berkun
+  amazon: "https://www.amazon.com/Making-Things-Happen-Mastering-Management/dp/0596517718/"
+- title: "Confessions of a Public Speaker"
+  author: Scott Berkun
+  amazon: "https://www.amazon.com/Confessions-Public-Speaker-English/dp/1449301959/"
+- title: "Learning Perl: Making Easy Things Easy and Hard Things Possible"
+  author:  Randal L. Schwartz, brian d foy, Tom Phoenix
+  amazon: "https://www.amazon.com/Learning-Perl-Making-Things-Possible-ebook/dp/B01M60UJY9/"
+  tags:
+    - perl
+- title: "Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython"
+  author: "Wes McKinney"
+  amazon: "https://www.amazon.com/Python-Data-Analysis-Wrangling-IPython/dp/1491957662/"
+  tags:
+    - python
+- title: "Introduction to Machine Learning with Python: A Guide for Data Scientists"
+  author: Andreas C. Muller, Sarah Guido
+  amazon: "https://www.amazon.com/Introduction-Machine-Learning-Python-Scientists/dp/1449369413/"
+  tags:
+    - python
+- title: "Monitoring with Graphite: Tracking Dynamic Host and Application Metrics at Scale"
+  author: Jason Dixon
+  amazon: "https://www.amazon.com/Monitoring-Graphite-Tracking-Dynamic-Application/dp/1491916435/"
+  tags:
+    - monitoring
+- title: "Continuous Enterprise Development in Java: Testable Solutions with Arquillian 1st Edition"
+  author: Andrew Lee Rubinger, Aslak Knutsen
+  amazon: "https://www.amazon.com/Continuous-Enterprise-Development-Java-Arquillian/dp/1449328296/"
+  tags:
+    - java
+    - testing
+- title: "Switch: How to Change Things When Change Is Hard"
+  author: "Chip Heath and Dan Heath"
+  amazon: "https://www.amazon.com/Switch-Change-Things-When-Hard/dp/0385528752"
+- title: "Extreme Programming Explained: Embrace Change"
+  author: "Kent Beck and Cynthia Andres"
+  amazon: "https://www.amazon.com/Extreme-Programming-Explained-Embrace-Change/dp/0321278658"
