@@ -40,11 +40,7 @@ or from the CGI script when someone is accessing the site.
 sub new {
     my ($class, $root) = @_;
     my $self = bless {root => $root}, $class;
-    my ($posts, $tags, $lctags, $indexes) = load_files($self->{root});
-    $self->{posts} = $posts;
-    $self->{tags} = $tags;
-    $self->{lctags} = $lctags;
-    $self->{indexes} = $indexes;
+    $self->load_files();
 
     return $self;
 }
@@ -810,7 +806,7 @@ my $last_load = 0;
 # then go over the pages in memory and resolve all the internal links
 # and add the basic HTML markup
 sub load_files {
-    my ($root) = @_;
+    my ($self) = @_;
     LOG("load_files");
 
     my %indexes;
@@ -819,7 +815,7 @@ sub load_files {
     %ts_to_url = ();
     my %posts;
 
-    foreach my $file (sort glob "$root/pages/*") {
+    foreach my $file (sort glob "$self->{root}/pages/*") {
         next if $file !~ /\.(md|tmpl)$/;
         my $post_ref = process_file($file);
         $posts{$post_ref->{permalink}} = $post_ref;
@@ -862,7 +858,10 @@ sub load_files {
     # Single page:
     #    Redirect mapping from timestamp to URL and from URL to external site via =redirect
 
-    return \%posts, \%tags, \%lctags, \%indexes;
+    $self->{posts} = \%posts;
+    $self->{tags} = \%tags;
+    $self->{lctags} = \%lctags;
+    $self->{indexes} = \%indexes;
 }
 
 sub process_file {
