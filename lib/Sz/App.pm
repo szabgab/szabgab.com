@@ -222,6 +222,11 @@ sub show {
         return $self->keywords($env);
     }
 
+    if ($script =~ m{^/?$}) {
+        LOG("root page");
+        return $self->_cache($env, "/index");
+    }
+
     if ($script =~ m{/$}) {
         $script .= 'index.html';
     }
@@ -245,7 +250,7 @@ sub show {
     # at some point every page will be a "blog entry"
     # TODO: there are a few pages with _ in their filename - change to -
     LOG("script '$script'");
-    if ($script =~ m{^/([Pa-z0-9_-]+)$}) {
+    if ($script =~ m{^/([Pa-z0-9_.-]+)$}) {
         if ($posts{$script} or $posts{"$script.html"}) {
             return $self->_cache($env, $script);
         }
@@ -268,8 +273,7 @@ on the <a href="http://perlmaven.com/">Perl Maven</a> site.</p>};
             warn "Could not open file '$filename' $!";
         }
     }
-    my $referer = $env->{HTTP_REFERER} ? $env->{HTTP_REFERER} : '';
-    warn(sprintf("Invalid page: '%s' from '%s'\n", $script, $referer));
+    die(sprintf("Invalid page: '%s'\n", $script));
     my $str = <<'END_STR';
 <h2>Missing page ?</h2>
 <p>
@@ -281,7 +285,7 @@ I'd appreciate if you told me about it.
 END_STR
 
     my @rows = ( 'title = Error', $str,
-       qq{Please, <a href="http://twitter.com/home?status=\@szabgab on http://szabgab.com/ I reached '$script' but it was not there.  ($referer)" target="_blank">Tell me on twitter</a>},
+       qq{Please, <a href="" target="_blank">Tell me on twitter</a>},
     );
     return generate_html($self->{root}, \@rows);
 
@@ -292,7 +296,7 @@ sub _cache {
     my ($self, $env, $url) = @_;
     LOG("_cache $url");
     my $page;
-    if ($url =~ m{^/([Pa-z0-9_-]+)(\.html)?$}) {
+    if ($url =~ m{^/([Pa-z0-9_.-]+)(\.html)?$}) {
         $page = $1;
     } else {
         die "Error in $url";
@@ -306,7 +310,7 @@ sub _cache {
         $file = "$self->{root}/pages/$page.md";
         #warn(sprintf("md file: '%s'\n", $file));
     }
-    return "Error" if not -e $file;
+    die "Could not find '$file'" if not -e $file;
 
     my $body = 0;
     my $header = 0;
