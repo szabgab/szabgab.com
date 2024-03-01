@@ -5,6 +5,7 @@ use lib 'lib';
 
 use Cwd qw(cwd);
 use Data::Dumper qw(Dumper);
+use POSIX qw(strftime);
 
 use Sz::PSGI;
 
@@ -30,7 +31,7 @@ sub main {
     generate_page($root, "/keywords", "$outdir/keywords.html");
     generate_page($root, "/books", "$outdir/books.html");
 
-    my $sitemap  = Sz::PSGI::create_sitemap($root);
+    my $sitemap  = create_sitemap($root);
     open my $out, ">:encoding(utf8)", "$outdir/sitemap.xml" or die;
     print $out $sitemap;
 
@@ -116,6 +117,55 @@ sub generate_redirect {
     open my $out, ">:encoding(utf8)", $outfile or die "Could not open '$outfile' $!";
     my $html = qq(<meta http-equiv="refresh" content="0; url=$url" />);
     print $out $html;
+}
+
+sub create_sitemap {
+    my ($root) = @_;
+    my $now = time;
+    my $ts = strftime("%Y-%m-%d", gmtime($now));
+
+    my $xml = qq{<?xml version="1.0" encoding="UTF-8"?>\n};
+    $xml .= qq{<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n};
+
+    $xml .= qq{   <url>\n};
+    $xml .= qq{      <loc>https://szabgab.com/</loc>\n};
+    $xml .= qq{      <lastmod>$ts</lastmod>\n};
+    $xml .= qq{   </url>\n};
+
+    opendir(my $dh, "$root/pages/") or die "Could not open pages/";
+    my @files = readdir($dh);
+    my @things = (
+        {
+            "page" => "blog",
+            "date" => $now,
+        },
+    );
+    for my $file (@files) {
+        next if $file eq '.' or $file eq '..';
+        next if substr($file, -5) ne '.tmpl';
+        open(my $fh, '<:encoding(utf8)', "$root/pages/$file") or die "Could not open pages/$file";
+            <$fh>;
+            my $timestamp = <$fh>;
+            die "Undefined timestamp in $file" if not defined $timestamp;
+            my ($ts) = $timestamp =~ /^=timestamp\s+(\d+)$/;
+            die "Not =timestamp in $file" if not $ts;
+        push @things, {
+            "page" => substr($file, 0, -5),
+            "date" => $ts,
+        }
+    }
+
+    for my $thing (@things) {
+        my $ts = strftime("%Y-%m-%d", gmtime($thing->{date}));
+        $xml .= qq{   <url>\n};
+        $xml .= qq{      <loc>https://szabgab.com/$thing->{page}.html</loc>\n};
+        $xml .= qq{      <lastmod>$ts</lastmod>\n};
+        $xml .= qq{   </url>\n};
+    }
+
+    $xml .= qq{</urlset>\n};
+
+    return $xml;
 }
 
 

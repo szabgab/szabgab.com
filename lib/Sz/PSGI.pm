@@ -3,7 +3,6 @@ use strict;
 use warnings;
 use Path::Tiny qw(path);
 use JSON::XS qw(encode_json decode_json);
-use POSIX qw(strftime);
 use Data::Dumper qw(Dumper);
 
 use Sz::Meta qw(LOG);
@@ -48,55 +47,6 @@ sub run {
         [ 'Content-Type' => 'text/html' ],
         [ $sz->show($env) ],
     ];
-}
-
-sub create_sitemap {
-    my ($root) = @_;
-    my $now = time;
-    my $ts = strftime("%Y-%m-%d", gmtime($now));
-
-    my $xml = qq{<?xml version="1.0" encoding="UTF-8"?>\n};
-    $xml .= qq{<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n};
-
-    $xml .= qq{   <url>\n};
-    $xml .= qq{      <loc>https://szabgab.com/</loc>\n};
-    $xml .= qq{      <lastmod>$ts</lastmod>\n};
-    $xml .= qq{   </url>\n};
-
-    opendir(my $dh, "$root/pages/") or die "Could not open pages/";
-    my @files = readdir($dh);
-    my @things = (
-        {
-            "page" => "blog",
-            "date" => $now,
-        },
-    );
-    for my $file (@files) {
-        next if $file eq '.' or $file eq '..';
-        next if substr($file, -5) ne '.tmpl';
-        open(my $fh, '<:encoding(utf8)', "$root/pages/$file") or die "Could not open pages/$file";
-            <$fh>;
-            my $timestamp = <$fh>;
-            die "Undefined timestamp in $file" if not defined $timestamp;
-            my ($ts) = $timestamp =~ /^=timestamp\s+(\d+)$/;
-            die "Not =timestamp in $file" if not $ts;
-        push @things, {
-            "page" => substr($file, 0, -5),
-            "date" => $ts,
-        }
-    }
-
-    for my $thing (@things) {
-        my $ts = strftime("%Y-%m-%d", gmtime($thing->{date}));
-        $xml .= qq{   <url>\n};
-        $xml .= qq{      <loc>https://szabgab.com/$thing->{page}.html</loc>\n};
-        $xml .= qq{      <lastmod>$ts</lastmod>\n};
-        $xml .= qq{   </url>\n};
-    }
-
-    $xml .= qq{</urlset>\n};
-
-    return $xml;
 }
 
 1;
