@@ -44,6 +44,15 @@ sub main {
     generate_redirect("$outdir/talks/fundamentals_of_perl/count-words.html"                => "https://perlmaven.com/count-words-in-text-using-perl");
     generate_redirect("$outdir/talks/fundamentals_of_perl/net-ldap.html"                   => "https://perlmaven.com/reading-from-ldap-in-perl-using-net-ldap");
     generate_redirect("$outdir/talks/fundamentals_of_perl/reading-from-file-read-eof.html" => "https://perlmaven.com/end-of-file-in-perl");
+
+    for my $filename (qw(
+        according-to-quick-poll-only-13-of-Perl-developers-use-windows
+        rehovot-Perl-mongers--first-meeting--matlab-and-pdl
+        how-to-help-people-make-money-using-Perl
+        what-is-new-in-Perl-5.10--say-defined-or-state
+        )) {
+        generate_redirect("$outdir/$filename.html" => "/" . lc $filename);
+    }
 }
 
 sub generate_pages {
