@@ -303,24 +303,6 @@ END_STR
 }
 
 
-sub keyword_selector {
-    my $html = '';
-    $html .= qq{<form action="/keywords.html" method="GET">\n};
-    $html .= qq{<select id="keyword_selector" name="key">\n};
-    $html .= qq{<option value=""></option>\n};
-    my $c = 0;
-    my @keys = Sz::Meta::keywords();
-    foreach my $key (@keys) {
-        $c++;
-        $html .= qq{<option value="$c">$key</option>\n};
-    }
-    $html .= "</select>\n";
-    #$html .= qq{<input id="keyworder" type="button" value="Go" />\n};
-    $html .= qq{<input id="keyworder" type="submit" value="Go" />\n};
-    $html .= "</form>\n";
-}
-
-
 sub _cache {
     my ($self, $env, $url) = @_;
     LOG("_cache $url");
@@ -405,7 +387,6 @@ sub out {
 
     $t->param('body' => $content);
     $t->param( %params );
-    $t->param('keyword_selector' => keyword_selector());
     #$t->param(last_update => scalar localtime ((stat ".")[9]));
 
     return $t->output;
