@@ -24,6 +24,7 @@ sub main {
     courses($root, $outdir);
 
     generate_page($root, "/archive", "$outdir/archive.html");
+    generate_page($root, "/keywords", "$outdir/keywords.html");
 
     my $sitemap  = Sz::PSGI::create_sitemap($root);
     open my $out, ">:encoding(utf8)", "$outdir/sitemap.xml" or die;
