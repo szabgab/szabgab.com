@@ -225,11 +225,6 @@ sub show {
         return $self->keywords($env);
     }
 
-    if ($script =~ m{^/?$}) {
-        LOG("root page");
-        return $self->_cache($env, "/index.html");
-    }
-
     if ($script =~ m{/$}) {
         $script .= 'index.html';
     }
