@@ -31,12 +31,8 @@ WriteMakefile(
 		'List::Util'            => 0,
 		'POSIX'                 => 0,
 		'Carp'                  => 0,
-		'CGI'                   => 0,
-		'CGI::Simple'           => 0,
         'Text::MultiMarkdown'   => 0,
-        'MIME::Lite'            => 0,
         'Path::Tiny'            => 0,
-        'LWP::Simple'           => 0,
         'YAML::XS'              => 0,
         'Plack::Request'        => 0,
 

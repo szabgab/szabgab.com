@@ -12,7 +12,6 @@ use XML::RSS              qw();
 use List::Util            qw(min);
 use POSIX                 qw();
 use Carp                  qw();
-use LWP::Simple qw(get);
 use Path::Tiny qw(path);
 use YAML::XS qw(LoadFile);
 use Text::MultiMarkdown qw(markdown);
