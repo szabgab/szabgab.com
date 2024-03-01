@@ -105,8 +105,8 @@ sub process_pages {
 sub process_file {
     my ($file) = @_;
     my $url = basename $file; # TODO what if there are subdirs in pages/ ?
-    $url =~ s/tmpl$/html/;
-    $url =~ s/md$/html/;
+    $url =~ s/\.tmpl$//;
+    $url =~ s/\.md$//;
 
     my $res = open (my $fh, "<:encoding(utf8)", $file);
     if (not $res) {
