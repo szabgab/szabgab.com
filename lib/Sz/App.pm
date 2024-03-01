@@ -110,7 +110,7 @@ sub get_books {
         '<hr><h2>Books</h2>',
         @books_content
     );
-    return generate_html($self->{root}, \@content);
+    return $self->generate_html(\@content);
 }
 
 sub keywords {
@@ -140,7 +140,7 @@ sub keywords {
     $html .= "</ul>\n";
     push @content, $html;
 
-    return generate_html($self->{root}, \@content);
+    return $self->generate_html(\@content);
 }
 
 sub show_course {
@@ -203,7 +203,7 @@ sub show_course {
     push @content, q{<p>If you would like to bring this course to your organization, let's talk about it! You can reach me via email at <a href="mailto:gabor@szabgab.com">gabor@szabgab.com</a> or you can go ahead and schedule a chat:</p>};
     push @content, q{<p><a class="button is-primary" href="https://calendly.com/szabgab/training">Schedule a call</a></p>};
 
-    return generate_html($self->{root}, \@content);
+    return $self->generate_html(\@content);
 }
 
 sub show {
@@ -232,15 +232,15 @@ sub show {
     }
 
     if ($script eq '/archive') {
-        return generate_html($self->{root}, $self->list_all_blogs)
+        return $self->generate_html($self->list_all_blogs)
     }
 
     if ($script =~ m{^/blog/tags$}) {
-        return generate_html($self->{root}, $self->tag_cloud);
+        return $self->generate_html($self->tag_cloud);
     }
     if ($script =~ m{^/blog/tags/(.+).html$}) {
         (my $tag = $1) =~ s/%20/ /g;
-        return generate_html($self->{root}, $self->list_entries_with_tag($tag));
+        return $self->generate_html($self->list_entries_with_tag($tag));
     }
 
     if ($script =~ m{^/blog/(.*)\.rss$}) {
@@ -268,7 +268,7 @@ on the <a href="http://perlmaven.com/">Perl Maven</a> site.</p>};
              } else {
                 unshift @rows, $text;
             }
-            return generate_html($self->{root}, \@rows);
+            return $self->generate_html(\@rows);
         } else {
             warn "Could not open file '$filename' $!";
         }
@@ -287,7 +287,7 @@ END_STR
     my @rows = ( 'title = Error', $str,
        qq{Please, <a href="" target="_blank">Tell me on twitter</a>},
     );
-    return generate_html($self->{root}, \@rows);
+    return $self->generate_html(\@rows);
 
 }
 
@@ -350,7 +350,7 @@ sub _cache {
         $self->_process_md_content( $post );
     }
     # print Dumper $post;
-    my $content = generate_html($self->{root}, $self->individual_page($env, $post, $url));
+    my $content = $self->generate_html($self->individual_page($env, $post, $url));
 
     return $content;
 }
@@ -361,9 +361,9 @@ Returning the output
 
 =cut
 sub generate_html {
-    my ($root, $data, %params) = @_;
+    my ($self, $data, %params) = @_;
 
-    my $t = HTML::Template->new(filename =>  "$root/templates/template.tmpl", die_on_bad_params => 0, utf8 => 1);
+    my $t = HTML::Template->new(filename =>  "$self->{root}/templates/template.tmpl", die_on_bad_params => 0, utf8 => 1);
 
     # key = value pairs in the files or the incoming data are parameters of HTML::Template
     my $content = '';
