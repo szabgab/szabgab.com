@@ -10,7 +10,6 @@ use Exporter qw(import);
 our @EXPORT_OK = qw(LOG);
 
 
-our %posts;
 # url => {
 #     timestamp => 1234567899,
 #     title => 'blablabla',
@@ -20,9 +19,6 @@ our %posts;
 # }
 #
 
-my %indexes;
-my %tags;
-my %lctags;
 my %ts_to_url;
 my @feed;
 my %feeds;
@@ -34,19 +30,20 @@ my $last_load = 0;
 # first we read in all the files, process the headers and save the rows in memory
 # then go over the pages in memory and resolve all the internal links
 # and add the basic HTML markup
-sub process_pages {
+sub load_files {
     my ($root) = @_;
-    LOG("process_pages");
+    LOG("load_files");
 
-    %indexes = ();
-    %tags = ();
-    %lctags = ();
+    my %indexes;
+    my %tags;
+    my %lctags;
     %ts_to_url = ();
-    %posts = ();
+    my %posts;
 
     foreach my $file (sort glob "$root/pages/*") {
         next if $file !~ /\.(md|tmpl)$/;
-        process_file($file);
+        my $post_ref = process_file($file);
+        $posts{$post_ref->{permalink}} = $post_ref;
     }
 
     foreach my $url (keys %posts) {
@@ -86,7 +83,7 @@ sub process_pages {
     # Single page:
     #    Redirect mapping from timestamp to URL and from URL to external site via =redirect
 
-    return;
+    return \%posts, \%tags, \%lctags, \%indexes;
 }
 
 sub process_file {
@@ -175,7 +172,6 @@ sub process_file {
         }
         last LINE; # cut short, don't load the content here
     }
-    $posts{$post_ref->{permalink}} = $post_ref;
     if (not defined $post_ref->{timestamp}) {
         LOG(Dumper $post_ref);
     }
@@ -191,71 +187,6 @@ sub process_file {
 
     return $post_ref;
 }
-
-sub get_posts_by_tag {
-    my ($tag) = @_;
-    _get_posts_by_tag($tag, \%tags);
-}
-sub get_posts_by_lc_tag {
-    my ($tag) = @_;
-    _get_posts_by_tag($tag, \%lctags);
-}
-
-
-sub _get_posts_by_tag {
-    my ($tag, $h) = @_;
-
-    return if not $h->{$tag} or ref $h->{$tag} ne 'HASH';
-
-    my @result;
-    foreach my $timestamp (reverse sort keys %{ $h->{$tag} }) {
-        #warn($timestamp);
-        my $post = $posts{ ts_to_url($timestamp) };
-        next if $post->{skip}{tags};
-        my $date = POSIX::strftime("%Y.%m.%d", localtime $timestamp);
-        push @result, {
-            date => $date,
-            permalink => $post->{permalink},
-            title => $post->{title},
-            redirect => $post->{redirect},
-            };
-    }
-    return @result;
-}
-
-sub counted_tags {
-    my %tag_cnt;
-    foreach my $tag (sort keys %tags) {
-        if ($tags{$tag} and ref $tags{$tag} eq 'HASH') {
-            $tag_cnt{$tag} = scalar(keys %{ $tags{$tag} });
-        }
-    }
-    my @tags;
-    foreach my $tag (reverse sort {$tag_cnt{$a} <=> $tag_cnt{$b}} keys %tag_cnt) {
-        push @tags, {
-            tag => $tag,
-            cnt => $tag_cnt{$tag},
-        };
-    }
-    return @tags;
-}
-
-
-sub keywords {
-    my ($key) = @_;
-
-    my @keys = sort {lc $a cmp lc $b} keys %indexes;
-    if ($key) {
-        return $keys[$key-1];
-    }
-    return @keys;
-}
-sub get_indexes {
-    my ($key) = @_;
-
-    map { { url => $_, title => $posts{$_}{title} } } sort {lc $a cmp lc $b} @{ $indexes{$key} };
-}
-
 
 sub ts_to_url {
     my ($ts) = @_;

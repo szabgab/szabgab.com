@@ -16,10 +16,6 @@ use Text::MultiMarkdown qw(markdown);
 use Plack::Request;
 use JSON::XS qw(encode_json decode_json);
 
-
-my %posts;
-
-
 use Sz::Meta qw(LOG);
 
 my $URL = 'https://szabgab.com';
@@ -44,7 +40,11 @@ or from the CGI script when someone is accessing the site.
 sub new {
     my ($class, $root) = @_;
     my $self = bless {root => $root}, $class;
-    $self->load_files;
+    my ($posts, $tags, $lctags, $indexes) = Sz::Meta::load_files($self->{root});
+    $self->{posts} = $posts;
+    $self->{tags} = $tags;
+    $self->{lctags} = $lctags;
+    $self->{indexes} = $indexes;
 
     return $self;
 }
@@ -124,7 +124,7 @@ sub keywords {
     push @content, "\n";
     my $html = '';
 
-    my @keys = Sz::Meta::keywords($key);
+    my @keys = $self->sorted_keywords($key);
 
     # table
     $html .= "<ul>\n";
@@ -132,7 +132,7 @@ sub keywords {
     foreach my $key (@keys) {
         $c++;
         $html .= qq{<li id="$c">$key<ul>\n};
-            my @pages = Sz::Meta::get_indexes($key);
+            my @pages = $self->get_indexes($key);
             $html .=  join '',
                 map { qq( <li><a href="$_->{url}">$_->{title}</a></li>\n) } @pages;
         $html .= "</ul></li>\n";
@@ -251,7 +251,7 @@ sub show {
     # TODO: there are a few pages with _ in their filename - change to -
     LOG("script '$script'");
     if ($script =~ m{^/([Pa-z0-9_.-]+)$}) {
-        if ($posts{$script} or $posts{"$script.html"}) {
+        if ($self->{posts}{$script} or $self->{posts}{"$script.html"}) {
             return $self->_cache($env, $script);
         }
     }
@@ -399,15 +399,7 @@ The constructor needs to get the path to the directory that holds the blog/
 subdirectory.
 
 =cut
-sub load_files {
-    my ($self) = @_;
 
-    LOG("load_files");
-    Sz::Meta::process_pages($self->{root});
-    %posts = %Sz::Meta::posts;
-
-    return;
-}
 
 # TODO currently reading thhe md file the "content" does NOT  contain the "abstract" while reading tmpl file the "content" includes the "abstract" part as well.
 sub _process_md_content {
@@ -541,9 +533,9 @@ sub list_all_blogs {
     push @content, "title        = All the blog entries\n";
 
     my @blogs;
-    my @timestamps = sort { $posts{$a}{timestamp} <=> $posts{$b}{timestamp} } keys %posts;
+    my @timestamps = sort { $self->{posts}{$a}{timestamp} <=> $self->{posts}{$b}{timestamp} } keys %{$self->{posts}};
     foreach my $script (reverse @timestamps[ - @timestamps .. -1]) {
-        my $post_ref = $posts{$script};
+        my $post_ref = $self->{posts}{$script};
         next if $post_ref->{skip}{archive};
         push @blogs, {
             date      => POSIX::strftime("%Y %b %d", localtime $post_ref->{timestamp}),
@@ -571,7 +563,7 @@ sub list_entries_with_tag {
     push @content, "title        = Blog entries related to $tag\n";
     push @content, "page_title   = Blog entries related to $tag\n";
 
-    my @tags = Sz::Meta::get_posts_by_tag($tag);
+    my @tags = $self->get_posts_by_tag($tag);
     if (@tags) {
         push @content, "title = blog entries about $tag\n";
         push @content, "\n";
@@ -598,7 +590,7 @@ sub tag_cloud {
 
     push @content, map {
         sprintf(qq(<li><a href="/blog/tags/%s.html">%s</a> (%s)</li>\n),
-                            $_->{tag}, $_->{tag}, $_->{cnt} ) } Sz::Meta::counted_tags();
+                            $_->{tag}, $_->{tag}, $_->{cnt} ) } $self->counted_tags();
 
     push @content, qq(</ul></div>\n);
     return \@content;
@@ -628,17 +620,17 @@ sub individual_page {
     return \@content;
 }
 
-sub _get_tags {
-    my ($url) = @_;
-    if ($posts{$url}{tags} and ref $posts{$url}{tags} eq 'ARRAY') {
-        my @tags;
-        foreach my $t ( @{$posts{$url}{tags}} ) {
-            push @tags, qq(<a href="/blog/tags/$t.html">$t</a>)
-        }
-        return qq(<p><a href="/blog/tags.html">Tags</a>: ) . join (", ", @tags) . "</p>";
-    }
-    return '';
-}
+#sub _get_tags {
+#    my ($url) = @_;
+#    if ($posts{$url}{tags} and ref $posts{$url}{tags} eq 'ARRAY') {
+#        my @tags;
+#        foreach my $t ( @{$posts{$url}{tags}} ) {
+#            push @tags, qq(<a href="/blog/tags/$t.html">$t</a>)
+#        }
+#        return qq(<p><a href="/blog/tags.html">Tags</a>: ) . join (", ", @tags) . "</p>";
+#    }
+#    return '';
+#}
 
 
 sub main_page {
@@ -650,7 +642,7 @@ sub main_page {
     push @content, "title        = Gabor Szabo - Test Automation, CI/CD, and DevOps Consultant\n";
     push @content, "page_title   = Gabor Szabo - helping organizations create software faster\n";
     push @content, "\n";
-    my @urls = sort { $posts{$a}{timestamp} <=> $posts{$b}{timestamp} } keys %posts;
+    my @urls = sort { $self->{posts}{$a}{timestamp} <=> $self->{posts}{$b}{timestamp} } keys %{$self->{posts}};
     my $position = scalar @urls;
 
     push @content, path("$self->{root}/templates/front.html")->slurp_utf8;
@@ -714,6 +706,73 @@ sub _tags {
     }
     return @lines;
 }
+
+sub get_posts_by_tag {
+    my ($self, $tag) = @_;
+    $self->_get_posts_by_tag($tag, $self->{tags});
+}
+#sub get_posts_by_lc_tag {
+#    my ($self, $tag) = @_;
+#    _get_posts_by_tag($tag, $self->{lctags});
+#}
+
+
+sub _get_posts_by_tag {
+    my ($self, $tag, $tags) = @_;
+
+    return if not $tags->{$tag} or ref $tags->{$tag} ne 'HASH';
+
+    my @result;
+    foreach my $timestamp (reverse sort keys %{ $tags->{$tag} }) {
+        #warn($timestamp);
+        my $post = $self->{posts}{ ts_to_url($timestamp) };
+        next if $post->{skip}{tags};
+        my $date = POSIX::strftime("%Y.%m.%d", localtime $timestamp);
+        push @result, {
+            date => $date,
+            permalink => $post->{permalink},
+            title => $post->{title},
+            redirect => $post->{redirect},
+        };
+    }
+    return @result;
+}
+
+sub get_indexes {
+    my ($self, $key) = @_;
+
+    map { { url => $_, title => $self->{posts}{$_}{title} } } sort {lc $a cmp lc $b} @{ $self->{indexes}{$key} };
+}
+
+sub counted_tags {
+    my ($self) = @_;
+    my %tag_cnt;
+    foreach my $tag (sort keys %{$self->{tags}}) {
+        if ($self->{tags}{$tag} and ref $self->{tags}{$tag} eq 'HASH') {
+            $tag_cnt{$tag} = scalar(keys %{ $self->{tags}{$tag} });
+        }
+    }
+    my @tags;
+    foreach my $tag (reverse sort {$tag_cnt{$a} <=> $tag_cnt{$b}} keys %tag_cnt) {
+        push @tags, {
+            tag => $tag,
+            cnt => $tag_cnt{$tag},
+        };
+    }
+    return @tags;
+}
+
+
+sub sorted_keywords {
+    my ($self, $key) = @_;
+
+    my @keys = sort {lc $a cmp lc $b} keys %{$self->{indexes}};
+    if ($key) {
+        return $keys[$key-1];
+    }
+    return @keys;
+}
+
 
 1;
 
