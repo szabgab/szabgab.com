@@ -18,8 +18,11 @@ sub main {
     system "rm -rf $outdir";
     system "cp -r html $outdir";
     system "mkdir $outdir/courses";
+    system "mkdir $outdir/talks";
+    system "mkdir $outdir/talks/fundamentals_of_perl";
 
     generate_pages($root, $outdir);
+    return if @ARGV; # if we asked for a specific page, then only generate that page!
 
     courses($root, $outdir);
 
@@ -32,6 +35,11 @@ sub main {
     print $out $sitemap;
 
     generate_redirect("$outdir/courses/index.html", "/training");
+    generate_redirect("$outdir/talks/fundamentals_of_perl/process-csv-file.html"           => "https://perlmaven.com/how-to-read-a-csv-file-using-perl");
+    generate_redirect("$outdir/talks/fundamentals_of_perl/multi-dimensional-hash.html"     => "https://perlmaven.com/multi-dimensional-hashes");
+    generate_redirect("$outdir/talks/fundamentals_of_perl/count-words.html"                => "https://perlmaven.com/count-words-in-text-using-perl");
+    generate_redirect("$outdir/talks/fundamentals_of_perl/net-ldap.html"                   => "https://perlmaven.com/reading-from-ldap-in-perl-using-net-ldap");
+    generate_redirect("$outdir/talks/fundamentals_of_perl/reading-from-file-read-eof.html" => "https://perlmaven.com/end-of-file-in-perl");
 }
 
 sub generate_pages {
@@ -102,7 +110,7 @@ sub generate_page {
 
 sub generate_redirect {
     my ($outfile, $url) = @_;
-    open my $out, ">:encoding(utf8)", $outfile or die;
+    open my $out, ">:encoding(utf8)", $outfile or die "Could not open '$outfile' $!";
     my $html = qq(<meta http-equiv="refresh" content="0; url=$url" />);
     print $out $html;
 }

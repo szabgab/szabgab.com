@@ -31,19 +31,6 @@ my $last_load = 0;
 
 # TODO: catch errors, such as missing title or missing timestamp
 
-my %REDIRECT = (
-    '/talks/fundamentals_of_perl/process-csv-file.html' => 'http://perlmaven.com/how-to-read-a-csv-file-using-perl',
-    '/talks/fundamentals_of_perl/multi-dimensional-hash.html' => 'http://perlmaven.com/multi-dimensional-hashes',
-    '/talks/fundamentals_of_perl/count-words.html' => 'http://perlmaven.com/count-words-in-text-using-perl',
-    '/talks/fundamentals_of_perl/net-ldap.html' => 'http://perlmaven.com/reading-from-ldap-in-perl-using-net-ldap',
-    '/talks/fundamentals_of_perl/reading-from-file-read-eof.html' => 'http://perlmaven.com/end-of-file-in-perl',
-);
-
-sub redirect {
-    my ($url) = @_;
-    return $REDIRECT{$url};
-}
-
 # first we read in all the files, process the headers and save the rows in memory
 # then go over the pages in memory and resolve all the internal links
 # and add the basic HTML markup
@@ -104,6 +91,8 @@ sub process_pages {
 
 sub process_file {
     my ($file) = @_;
+    #LOG("process_file $file");
+
     my $url = basename $file; # TODO what if there are subdirs in pages/ ?
     $url =~ s/\.tmpl$//;
     $url =~ s/\.md$//;
@@ -134,7 +123,6 @@ sub process_file {
         }
 
         if ($line =~ /^=redirect\s+(.*?)\s*$/) {
-            $REDIRECT{$url} = $1;
             $post_ref->{redirect} = $1;
             next LINE;
         }

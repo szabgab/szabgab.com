@@ -52,12 +52,6 @@ sub new {
     return $self;
 }
 
-sub is_redirect {
-    my ($self, $env) = @_;
-    my $script = _script($env);
-    return Sz::Meta::redirect($script);
-}
-
 sub _script {
     my ($env) = @_;
 
@@ -348,6 +342,9 @@ sub _cache {
 
     my $post = Sz::Meta::process_file($file);
     # print Dumper $post;
+    if ($post->{redirect}) {
+        return qq(<meta http-equiv="refresh" content="0; url=$post->{redirect}" />);
+    }
     $post->{rows} = \@rows;
     $post->{content} = '';
     $post->{abstract} = '';

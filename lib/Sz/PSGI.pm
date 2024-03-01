@@ -69,9 +69,6 @@ sub run {
 
 
     my $sz = Sz::App->new($root);
-    if (my $url = $sz->is_redirect($env)) {
-        return redirect( $url );
-    }
     return [
         '200',
         [ 'Content-Type' => 'text/html' ],
