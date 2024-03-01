@@ -2,14 +2,6 @@ use strict;
 use warnings;
 use ExtUtils::MakeMaker;
 
-#GeoIP database download from 
-#http://geolite.maxmind.com/download/geoip/database/
-#
-#cd data
-#wget http://geolite.maxmind.com/download/geoip/database/GeoLiteCountry/GeoIP.dat.gz
-#gunzip GeoIP.dat.gz
-
-
 WriteMakefile(
 	NAME         => 'Sz::App',
 	AUTHOR       => q{Gabor Szabo <szabgab@cpan.org>},
