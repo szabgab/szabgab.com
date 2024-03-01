@@ -809,9 +809,6 @@ sub load_files {
     my ($self) = @_;
     LOG("load_files");
 
-    my %indexes;
-    my %tags;
-    my %lctags;
     %ts_to_url = ();
     my %posts;
 
@@ -823,12 +820,12 @@ sub load_files {
 
     foreach my $url (keys %posts) {
         foreach my $index (@{ $posts{$url}{indexes} }) {
-            push @{ $indexes{$index} }, $url;
+            push @{ $self->{indexes}{$index} }, $url;
         }
 
         foreach my $tag (@{ $posts{$url}{tags} }) {
-            $tags{$tag}{ $posts{$url}{timestamp} }= 1;
-            $lctags{lc $tag}{ $posts{$url}{timestamp} }= 1;
+            $self->{tags}{$tag}{ $posts{$url}{timestamp} }= 1;
+            $self->{lctags}{lc $tag}{ $posts{$url}{timestamp} }= 1;
         }
     }
 
@@ -859,9 +856,6 @@ sub load_files {
     #    Redirect mapping from timestamp to URL and from URL to external site via =redirect
 
     $self->{posts} = \%posts;
-    $self->{tags} = \%tags;
-    $self->{lctags} = \%lctags;
-    $self->{indexes} = \%indexes;
 }
 
 sub process_file {
