@@ -199,16 +199,6 @@ sub get_rss {
     return \@feed;
 }
 
-sub _process_smart_tag {
-    my ($tag, $value, $title) = @_;
-    if ($tag eq 'dist') {
-        (my $dashed = $value) =~ s/::/-/g;
-        $title ||= $value;
-        return sprintf( qq(<a href="http://metacpan.org/release/%s">%s</a>), $dashed, $title);
-    }
-    warn "Unknown smart-tag '$tag' in title '$title'\n";
-}
-
 sub LOG {
     if ($ENV{SZABGAB_DEV}) {
         print STDERR "@_\n";

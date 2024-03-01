@@ -455,7 +455,7 @@ sub _process_tmpl_content {
         $line =~ s{<hl>}{<span class="hl">}g;
         $line =~ s{</hl>}{</span>}g;
         $line =~ s{\[(dist|self)://([\w:]+)(\s+(.*))?\]}
-                  {Sz::Meta::_process_smart_tag($1, $2, $4)}eg;
+                  {process_smart_tag($1, $2, $4)}eg;
 
        if ($line =~ /^=abstract start$/ .. $line =~ /^=abstract end$/) {
            next if $line =~ /^=abstract start/;
@@ -772,6 +772,17 @@ sub sorted_keywords {
     }
     return @keys;
 }
+
+sub process_smart_tag {
+    my ($tag, $value, $title) = @_;
+    if ($tag eq 'dist') {
+        (my $dashed = $value) =~ s/::/-/g;
+        $title ||= $value;
+        return sprintf( qq(<a href="http://metacpan.org/release/%s">%s</a>), $dashed, $title);
+    }
+    warn "Unknown smart-tag '$tag' in title '$title'\n";
+}
+
 
 
 1;
