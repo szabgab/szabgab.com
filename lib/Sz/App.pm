@@ -673,7 +673,7 @@ sub generate_rss {
         }
     );
 
-    my $posts = get_rss($tag);
+    my $posts = $self->get_rss($tag);
 
     #return '<pre>' . ( Dumper [map { $_->{tags} } @$posts] ) . '</pre>';
 
@@ -959,7 +959,7 @@ sub ts_to_url {
 }
 
 sub get_rss {
-    my ($tag) = @_;
+    my ($self, $tag) = @_;
     return $feeds{$tag} if $tag and $feeds{$tag};
     return \@feed;
 }
