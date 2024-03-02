@@ -22,6 +22,11 @@ my $URL = 'https://szabgab.com';
 
 our $VERSION = 0.01;
 
+my %ts_to_url;
+my @feed;
+my %feeds;
+
+
 =head1 NAME
 
 Sz::App - Private web application
@@ -779,12 +784,6 @@ sub process_smart_tag {
     warn "Unknown smart-tag '$tag' in title '$title'\n";
 }
 
-
-use Exporter qw(import);
-
-our @EXPORT_OK = qw(LOG);
-
-
 # url => {
 #     timestamp => 1234567899,
 #     title => 'blablabla',
@@ -793,12 +792,6 @@ our @EXPORT_OK = qw(LOG);
 #     permaling => url
 # }
 #
-
-my %ts_to_url;
-my @feed;
-my %feeds;
-
-my $last_load = 0;
 
 # TODO: catch errors, such as missing title or missing timestamp
 
