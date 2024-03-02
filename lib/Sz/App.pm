@@ -46,6 +46,7 @@ sub new {
     my ($class, $root) = @_;
     my $self = bless {root => $root}, $class;
     $self->load_files();
+    $self->process_pages();
 
     return $self;
 }
@@ -795,9 +796,7 @@ sub process_smart_tag {
 
 # TODO: catch errors, such as missing title or missing timestamp
 
-# first we read in all the files, process the headers and save the rows in memory
-# then go over the pages in memory and resolve all the internal links
-# and add the basic HTML markup
+
 sub load_files {
     my ($self) = @_;
     LOG("load_files");
@@ -809,6 +808,14 @@ sub load_files {
         my $post_ref = $self->process_file($file);
         $self->{posts}{$post_ref->{permalink}} = $post_ref;
     }
+}
+
+# first we read in all the files, process the headers and save the rows in memory
+# then go over the pages in memory and resolve all the internal links
+# and add the basic HTML markup
+sub process_pages {
+    my ($self) = @_;
+    LOG("process_pages");
 
     foreach my $url (keys %{$self->{posts}}) {
         foreach my $index (@{ $self->{posts}{$url}{indexes} }) {
