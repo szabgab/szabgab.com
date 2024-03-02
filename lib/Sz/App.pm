@@ -2,20 +2,19 @@ package Sz::App;
 use strict;
 use warnings;
 
-use HTML::Template;
+use Carp                  qw();
 use Data::Dumper          qw(Dumper);
 use Encode                qw(decode);
-use Time::localtime       ();
-use XML::RSS              qw();
+use File::Basename        qw(basename);
+use HTML::Template;
+use JSON::XS              qw(decode_json);
 use List::Util            qw(min);
+use Text::MultiMarkdown   qw(markdown);
+use Time::localtime       ();
 use POSIX                 qw();
-use Carp                  qw();
-use Path::Tiny qw(path);
-use YAML::XS qw(LoadFile);
-use Text::MultiMarkdown qw(markdown);
-use JSON::XS qw(encode_json decode_json);
-use File::Basename qw(basename);
-use YAML qw(DumpFile LoadFile);
+use Path::Tiny            qw(path);
+use XML::RSS              qw();
+use YAML::XS              qw(LoadFile);
 
 my $URL = 'https://szabgab.com';
 
