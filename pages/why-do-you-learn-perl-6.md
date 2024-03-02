@@ -17,7 +17,7 @@ These people usually bring zero enthusiasm with themselves and will probably
 invest negative energy in actually making sense of what I am teaching.
 
 Hence it is really refreshing to teach advanced classes such as
-the <a href="/perl_in_test_automation">Test Automation using Perl</a>
+the <a href="/perl-in-test-automation">Test Automation using Perl</a>
 where people usually already know what they want and why do they attend the
 class.
 

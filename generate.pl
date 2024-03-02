@@ -50,7 +50,8 @@ sub main {
     generate_redirect("$outdir/fundamentals_of_perl.html"                                  => "/fundamentals-of-perl");
     generate_redirect("$outdir/perl6_training.html"                                        => "/perl6-training");
     generate_redirect("$outdir/perl6_tricks_and_treats.html"                               => "/perl6-tricks-and-treats");
-
+    generate_redirect("$outdir/kick_starting_test_automation.html"                         => "/kick-starting-test-automation");
+    generate_redirect("$outdir/perl_in_test_automation.html"                               => "/perl-in-test-automation");
 
     for my $filename (qw(
         according-to-quick-poll-only-13-of-Perl-developers-use-windows
