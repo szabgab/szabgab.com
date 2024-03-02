@@ -336,7 +336,7 @@ sub _cache {
         warn "Invalid row: '$row' in '$file'";
     }
 
-    my $post = process_file($file);
+    my $post = $self->process_file($file);
     # print Dumper $post;
     if ($post->{redirect}) {
         return qq(<meta http-equiv="refresh" content="0; url=$post->{redirect}" />);
@@ -807,7 +807,7 @@ sub load_files {
 
     foreach my $file (sort glob "$self->{root}/pages/*") {
         next if $file !~ /\.(md|tmpl)$/;
-        my $post_ref = process_file($file);
+        my $post_ref = $self->process_file($file);
         $posts{$post_ref->{permalink}} = $post_ref;
     }
 
@@ -852,7 +852,7 @@ sub load_files {
 }
 
 sub process_file {
-    my ($file) = @_;
+    my ($self, $file) = @_;
     #LOG("process_file $file");
 
     my $url = basename $file; # TODO what if there are subdirs in pages/ ?
