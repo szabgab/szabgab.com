@@ -226,7 +226,7 @@ sub show {
 
     if ($script =~ m{^/?$}) {
         LOG("root page");
-        return $self->_cache($env, "/index");
+        return $self->_cache("/index");
     }
 
     if ($script =~ m{/$}) {
@@ -254,7 +254,7 @@ sub show {
     LOG("script '$script'");
     if ($script =~ m{^/([Pa-z0-9_.-]+)$}) {
         if ($self->{posts}{$script} or $self->{posts}{"$script.html"}) {
-            return $self->_cache($env, $script);
+            return $self->_cache($script);
         }
     }
 
@@ -295,7 +295,7 @@ END_STR
 
 
 sub _cache {
-    my ($self, $env, $url) = @_;
+    my ($self, $url) = @_;
     LOG("_cache $url");
     my $page;
     if ($url =~ m{^/([Pa-z0-9_.-]+)(\.html)?$}) {
@@ -352,7 +352,7 @@ sub _cache {
         $self->_process_md_content( $post );
     }
     # print Dumper $post;
-    my $content = $self->generate_html($self->individual_page($env, $post, $url));
+    my $content = $self->generate_html($self->individual_page($post, $url));
 
     return $content;
 }
@@ -600,7 +600,7 @@ sub tag_cloud {
 
 
 sub individual_page {
-    my ($self, $env, $post, $url) = @_;
+    my ($self, $post, $url) = @_;
     Carp::croak('Need to supply url') if not $url;
 
     my @content;
