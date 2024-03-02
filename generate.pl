@@ -58,7 +58,7 @@ sub main {
     generate_redirect("$outdir/testing_php_applications.html"                              => "/testing-php-applications-using-php");
     generate_redirect("$outdir/test_automation_tips.html"                                  => "/test-automation-tips");
     generate_redirect("$outdir/perl_tutorial.html"                                         => "https://perlmaven.com/perl-tutorial");
-
+    generate_redirect("$outdir/test_automation.html"                                       => "/test-automation");
 
     for my $filename (qw(
         according-to-quick-poll-only-13-of-Perl-developers-use-windows
