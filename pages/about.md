@@ -216,7 +216,7 @@ Nowadays I mostly write on the <a href="https://code-maven.com/">Code Maven</a> 
 <h2>Newsletter</h2>
 <p>
 On a regular basis I am sending out two newsletters.
-One called <a href="test_automation_tips">Test Automation Tips</a>
+One called <a href="/test-automation-tips">Test Automation Tips</a>
 and the other called and <a href="perl6">Perl 6 Tricks and Treats</a>.
 </p>
 -->

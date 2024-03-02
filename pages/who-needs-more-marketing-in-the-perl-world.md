@@ -22,8 +22,8 @@ me first write down what I'd like to have.
 ## Promoting my Perl classes
 
 I am offering training in Perl in general but I have a specific
-course called [Test Automation using Perl](/perl_in_test_automation)
-that I'd like to promote more. I have a [test automation newsletter](/test_automation_tips)
+course called [Test Automation using Perl](/perl-in-test-automation)
+that I'd like to promote more. I have a [test automation newsletter](/test-automation-tips)
 and I blog about it but I am sure I could have more clients if there was someone
 promoting the testing tools of Perl directly to Test and QA managers.
 It would especially help if that person was also mentioning my classes but even

@@ -56,6 +56,7 @@ sub main {
     generate_redirect("$outdir/pperl_mongers.html"                                         => "/perl-mongers");
     generate_redirect("$outdir/subversion_vs_xyz.html"                                     => "/subversion-vs-xyz");
     generate_redirect("$outdir/testing_php_applications.html"                              => "/testing-php-applications-using-php");
+    generate_redirect("$outdir/test_automation_tips.html"                                  => "/test-automation-tips");
 
     for my $filename (qw(
         according-to-quick-poll-only-13-of-Perl-developers-use-windows
