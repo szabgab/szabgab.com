@@ -46,6 +46,7 @@ sub main {
     generate_redirect("$outdir/talks/fundamentals_of_perl/reading-from-file-read-eof.html" => "https://perlmaven.com/end-of-file-in-perl");
     generate_redirect("$outdir/advanced_perl.html"                                         => "/advanced-perl");
     generate_redirect("$outdir/beginner-perl-maven-ebook-1_24.html"                        => "/beginner-perl-maven-ebook-1-24");
+    generate_redirect("$outdir/foss_in_israel_on_meetup.html"                              => "/foss-in-israel-on-meetup");
 
     for my $filename (qw(
         according-to-quick-poll-only-13-of-Perl-developers-use-windows

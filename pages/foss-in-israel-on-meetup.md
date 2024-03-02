@@ -2,17 +2,14 @@
 =timestamp 1381089121
 =tags Perl
 
-=abstract start
 
-I just learned that there is a
-<a href="http://www.meetup.com/Open-Source-and-Free-Software-in-Israel/">Meetup Group</a>
+I just learned that there is a [Meetup Group](https://www.meetup.com/Open-Source-and-Free-Software-in-Israel/)
 dedicated for Free and Open Source Software in Israel.
 
 It can be used by the various FOSS-related groups that have meetings in Israel.
 
 For example the upcoming meeting if the Tel Aviv Perl Mongers is also
-<a href="http://www.meetup.com/Open-Source-and-Free-Software-in-Israel/events/143967952/">listed</a>.
+[listed](https://www.meetup.com/Open-Source-and-Free-Software-in-Israel/events/143967952/)
 
-=abstract end
 
 
