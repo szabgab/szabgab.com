@@ -235,15 +235,6 @@ sub show {
         return $self->generate_rss($1);
     }
 
-    # at some point every page will be a "blog entry"
-    # TODO: there are a few pages with _ in their filename - change to -
-    LOG("path '$path'");
-    if ($path =~ m{^/([Pa-z0-9_.-]+)$}) {
-        if ($self->{posts}{$path} or $self->{posts}{"$path.html"}) {
-            return $self->_cache($path);
-        }
-    }
-
     if ($path =~ m{^/talks/(fundamentals_of_perl|perl6|perl_in_testing)/(.*).html$}) {
         my $filename = "$ENV{SZABGAB_TALKS}/$1/$2.html";
         if (open my $fh, '<:encoding(utf8)', $filename) {
@@ -261,6 +252,16 @@ on the <a href="http://perlmaven.com/">Perl Maven</a> site.</p>};
             warn "Could not open file '$filename' $!";
         }
     }
+
+    # at some point every page will be a "blog entry"
+    # TODO: there are a few pages with _ in their filename - change to -
+    LOG("path '$path'");
+    if ($path =~ m{^/([a-z0-9.-]+)$}) {
+        if ($self->{posts}{$path} or $self->{posts}{"$path.html"}) {
+            return $self->_cache($path);
+        }
+    }
+
     die(sprintf("Invalid page: '%s'\n", $path));
     my $str = <<'END_STR';
 <h2>Missing page ?</h2>
