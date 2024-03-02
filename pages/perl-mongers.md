@@ -2,31 +2,26 @@
 =timestamp 1153282989
 =skip all
 
-<p>
 Statistics about the size and activity of <a href="http://www.pm.org/">Perl Mongers</a>.
-<br />
-Data collected from the leaders of the groups in the first week of April 2003
-<br />
-Top 5 in number of subscribers
-</p>
-<ol>
-<li>London</li>
-<li>Seatle</li>
-<li>Boston</li>
-<li>NY</li>
-<li>Paris</li>
-</ol>
-<p>
-Top 5 in number of posts
-</p>
 
-<ol>
-<li>London</li>
-<li>Israel</li>
-<li>Paris</li>
-<li>Boston</li>
-<li>Seatle</li>
-</ol>
+Data collected from the leaders of the groups in the first week of April 2003
+
+Top 5 in number of subscribers
+
+1. London
+1. Seatle
+1. Boston
+1. NY
+1. Paris
+
+Top 5 in number of posts
+
+1. London
+1. Israel
+1. Paris
+1. Boston
+1. Seatle
+
 <table class="pmtable">
 <tr>
 <td class="pm_td_text">Language</td>
@@ -363,45 +358,40 @@ Top 5 in number of posts
 </tr>
 </table>
 
-<p>And a few comments on this:
+And a few comments on this:
 We see that the biggest group is London with 432 subscribers and there are 5 groups with more than 200 subscribers.
 A 3 groups between 100 and 200.
-According to the central site of the <a href="http://www.pm.org/">Perl Mongers</a> there are about 600 groups,
-317 of them are active. Assuming an average of 50 subscribers for every one of the 317 groups we get 
+According to the central site of the [Perl Mongers](https://www.pm.org/) there are about 600 groups,
+317 of them are active. Assuming an average of 50 subscribers for every one of the 317 groups we get
 15,850 Perl Mongers world wide.  (Actually I think there are a lot less really active groups.)
-</p>
 
 
 
 
-<h2>What is the Perl community ?</h2>
-<p>Thinking aloud, how can we define people who belong to the Perl <i>community</i> and those who
+## What is the Perl community ?
+
+Thinking aloud, how can we define people who belong to the Perl <i>community</i> and those who
 don't. If we - Perl Mongers - would like more people to be involved in that <i>community</i> how can
 we reach the others. What do they need in order to get involved ?
-</p>
 
-<p>So let's ask who can be considered to belong to the <i>community</i>?</p>
-<ul>
-<li> Going to conference(s)/workshop(s)</li>
-<li> Participating in (ir)regular monthly technical/social meetings with the local perl community</li>
-<li> Subscribed to a Perl Monger mailing list</li>
-<li> Regularly participating in a PM mailing list</li>
-<li> Subscribed to a domain specific mailing list
-(e.g. the <a href="http://lists.cpan.org/showlist.cgi?name=perl-xml">perl-xml</a> mailing list or
-the <a href="http://learn.perl.org/">beginners list</a>)</li>)
-<li> Regularly participating in a domain specific mailing list</li>
-<li> Regularly reading Perl Monks</li>
-<li> Regularly posting on Perl Monks</li>
-<li> Participating in p5p, p6p, parrot or ponie</li>
-<li> Contributing to CPAN </li>
-<li> Reads/Writes <a href="http://use.perl.org/">use.perl.org</a></li>
-</ul>
+So let's ask who can be considered to belong to the <i>community</i>?
 
-<p>Let's try to put in groups the people who don't belong to the above definition.
-This does not yet seem to be very useful</p>
-<ul>
-<li> Writing Perl scripts or even large applications using CPAN modules</li>
-<li> Writing Perl scripts, usually without any module, certainly without any CPAN module</li>
-</ul>
+* Going to conference(s)/workshop(s)
+* Participating in (ir)regular monthly technical/social meetings with the local perl community
+* Subscribed to a Perl Monger mailing list
+* Regularly participating in a PM mailing list
+* Subscribed to a domain specific mailing list e.g. the [perl-xml](https://lists.cpan.org/showlist.cgi?name=perl-xml) mailing list or the [beginners list](https://learn.perl.org/).
+* Regularly participating in a domain specific mailing list
+* Regularly reading Perl Monks
+* Regularly posting on Perl Monks
+* Participating in p5p, p6p, parrot or ponie
+* Contributing to CPAN
+* Reads/Writes use.perl.org
+
+Let's try to put in groups the people who don't belong to the above definition.
+This does not yet seem to be very useful.
+
+* Writing Perl scripts or even large applications using CPAN modules
+* Writing Perl scripts, usually without any module, certainly without any CPAN module
 
 
