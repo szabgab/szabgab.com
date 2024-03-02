@@ -803,52 +803,50 @@ sub load_files {
     LOG("load_files");
 
     %ts_to_url = ();
-    my %posts;
 
     foreach my $file (sort glob "$self->{root}/pages/*") {
         next if $file !~ /\.(md|tmpl)$/;
         my $post_ref = $self->process_file($file);
-        $posts{$post_ref->{permalink}} = $post_ref;
+        $self->{posts}{$post_ref->{permalink}} = $post_ref;
     }
 
-    foreach my $url (keys %posts) {
-        foreach my $index (@{ $posts{$url}{indexes} }) {
+    foreach my $url (keys %{$self->{posts}}) {
+        foreach my $index (@{ $self->{posts}{$url}{indexes} }) {
             push @{ $self->{indexes}{$index} }, $url;
         }
 
-        foreach my $tag (@{ $posts{$url}{tags} }) {
-            $self->{tags}{$tag}{ $posts{$url}{timestamp} }= 1;
-            $self->{lctags}{lc $tag}{ $posts{$url}{timestamp} }= 1;
+        foreach my $tag (@{ $self->{posts}{$url}{tags} }) {
+            $self->{tags}{$tag}{ $self->{posts}{$url}{timestamp} }= 1;
+            $self->{lctags}{lc $tag}{ $self->{posts}{$url}{timestamp} }= 1;
         }
     }
 
     # abstract, title, timestamp, tags
     my $count = 10;
     my %counts = ( Perl =>10, 'Perl 6' => 5 );
-    foreach my $url (reverse sort { $posts{$a}{timestamp} <=> $posts{$b}{timestamp} } keys %posts) {
+    foreach my $url (reverse sort { $self->{posts}{$a}{timestamp} <=> $self->{posts}{$b}{timestamp} } keys %{$self->{posts}}) {
         #my $post = read_the_file();
-        next if $posts{$url}{skip}{rss};
+        next if $self->{posts}{$url}{skip}{rss};
         if ($count > 0) {
             $count--;
-            push @feed, $posts{$url};
+            push @feed, $self->{posts}{$url};
         }
         foreach my $tag (keys %counts) {
-            next if not grep {$tag eq $_} @{ $posts{$url}{tags} };
+            next if not grep {$tag eq $_} @{ $self->{posts}{$url}{tags} };
             next if $counts{$tag} <= 0;
             $counts{$tag}--;
-            push @{ $feeds{$tag} }, $posts{$url};
+            push @{ $feeds{$tag} }, $self->{posts}{$url};
         }
     }
 
-    #foreach my $key (keys %posts) {
-    #    $self->_process_tmpl_content( $posts{$key} );
+    #foreach my $key (keys %{$self->{posts}}) {
+    #    $self->_process_tmpl_content( $self->{posts}{$key} );
     #}
     # Archive: timestamp, url, title
     # Front page: title, url, abstract
     # Single page:
     #    Redirect mapping from timestamp to URL and from URL to external site via =redirect
 
-    $self->{posts} = \%posts;
 }
 
 sub process_file {
