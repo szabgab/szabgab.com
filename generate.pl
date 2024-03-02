@@ -45,6 +45,7 @@ sub main {
     generate_redirect("$outdir/talks/fundamentals_of_perl/net-ldap.html"                   => "https://perlmaven.com/reading-from-ldap-in-perl-using-net-ldap");
     generate_redirect("$outdir/talks/fundamentals_of_perl/reading-from-file-read-eof.html" => "https://perlmaven.com/end-of-file-in-perl");
     generate_redirect("$outdir/advanced_perl.html"                                         => "/advanced-perl");
+    generate_redirect("$outdir/beginner-perl-maven-ebook-1_24.html"                        => "/beginner-perl-maven-ebook-1-24");
 
     for my $filename (qw(
         according-to-quick-poll-only-13-of-Perl-developers-use-windows

@@ -2,41 +2,35 @@
 =timestamp 1363172642
 =tags Perl, ebook
 
-=abstract start
-
-The new edition of the <a href="http://perlmaven.com/beginner-perl-maven-e-book">Beginner Perl Maven e-book</a>
-has been published.
+The new edition of the [Beginner Perl Maven e-book](https://perlmaven.com/beginner-perl-maven-e-book) has been published.
 
 Some people say that the title is unclear, so let me explain. This is for people who would like to
 become Perl Mavens, but who know little or no Perl at all. Who are beginners on their path to
 become Perl Mavens.
 
-=abstract end
 
-On the <a href="http://perlmaven.com/">Perl Maven</a> site I publish
-my <a href="http://perlmaven.com/perl-tutorial">Perl Tutorial</a>, and sell several
-<a href="http://perlmaven.com/products">kits for learning Perl</a>.
+On the [Perl Maven](https://perlmaven.com/) site I publish
+my [Perl Tutorial](https://perlmaven.com/perl-tutorial), and sell several
+[kits for learning Perl](https://perlmaven.com/products).
 
 Some are e-books, like this one. Others include video as well.
 
-<h2>What is new?</h2>
+## What is new?
 
 A lot of the chapters were refreshed and several new articles added, but most notably,
 from this edition you will be able to download all the examples as stand alone scripts.
 This will make it a lot easier to reuse them.
 
 
-<h2>Lifetime upgrade</h2>
+## Lifetime upgrade
 
 People who buy the e-book get a DRM free e-book and lifetime upgrade.
 
 If you have already purchased this e-book, then you only need to go to
-<a href="http://perlmaven.com/account">your account</a> and you will be able to download
+[your account](https://perlmaven.com/account) and you will be able to download
 the new edition.
 
-<h2>Buy now or later?</h2>
+## Buy now or later?
 
 There is 50% discount for the next few days.
-
-<!-- perl5maven.com links replaced by perlmaven.com links -->
 
