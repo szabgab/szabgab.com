@@ -18,7 +18,6 @@ WriteMakefile(
         'Text::MultiMarkdown'   => 0,
         'Path::Tiny'            => 0,
         'YAML::XS'              => 0,
-        'Plack::Request'        => 0,
 
 		'Test::More'       => '0.47',
 		'Test::Exception'  => 0,

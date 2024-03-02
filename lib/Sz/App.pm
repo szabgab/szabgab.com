@@ -13,7 +13,6 @@ use Carp                  qw();
 use Path::Tiny qw(path);
 use YAML::XS qw(LoadFile);
 use Text::MultiMarkdown qw(markdown);
-use Plack::Request;
 use JSON::XS qw(encode_json decode_json);
 use File::Basename qw(basename);
 use YAML qw(DumpFile LoadFile);
@@ -51,21 +50,10 @@ sub new {
     return $self;
 }
 
-sub _script {
-    my ($env) = @_;
-
-    #Carp::confess $env;
-    my $script = $env->{REQUEST_URI} || '/';
-    $script =~ s/\?.*//;   # technorati.com pings us using ?ip=1 that we don't need here...
-    $script =~ s{/+}{/}g;  # bug of multiple slashes sometimes
-    #warn("SCRIPT: '$script'");
-    return $script;
-}
-
 sub get_books {
-    my ($self, $env) = @_;
-    my $req = Plack::Request->new($env);
-    my $selected_tag = $req->param('tag');
+    my ($self) = @_;
+    # TODO: generate one page for each tag
+    my $selected_tag;
     my $amazon_tag = '?tag=szabgab-20';
     my $file = "$self->{root}/books.yml";
     #my $books = Load(path($file)->slurp_utf8);
@@ -116,9 +104,9 @@ sub get_books {
 }
 
 sub keywords {
-    my ($self, $env) = @_;
-    my $req = Plack::Request->new($env);
-    my $key = $req->param('key');
+    my ($self) = @_;
+    # TODO: handle all the keys
+    my $key;
 
     my @content;
     push @content, "title = Index of Perl keywords\n";
@@ -146,14 +134,14 @@ sub keywords {
 }
 
 sub show_course {
-    my ($self, $env, $course_name) = @_;
+    my ($self, $path, $course_name) = @_;
 
     my $filename = "$self->{root}/hostlocal.com/courses/eng/$course_name.json";
     return "Course could not be found" if not -e $filename;
 
     my $course = eval { decode_json path($filename)->slurp };
 
-    my $slug = $env->{PATH_INFO};
+    my $slug = $path;
     $slug =~ s{^/}{};
     my @content = ("title        = $course->{title}\n");
     push @content, ("page_path   = $slug\n");
@@ -209,56 +197,55 @@ sub show_course {
 }
 
 sub show {
-    my ($self, $env) = @_;
-    my $script = _script($env);
+    my ($self, $path) = @_;
 
-    if ($script =~ m{^/courses/([a-z0-9-]+)}) {
-        return $self->show_course($env, $1);
+    if ($path =~ m{^/courses/([a-z0-9-]+)}) {
+        return $self->show_course($path, $1);
     }
 
-    if ($script =~ m{^/books}) {
-        return $self->get_books($env);
+    if ($path =~ m{^/books}) {
+        return $self->get_books();
     }
 
-    if ($script =~ m{^/keywords}) {
-        return $self->keywords($env);
+    if ($path =~ m{^/keywords}) {
+        return $self->keywords();
     }
 
-    if ($script =~ m{^/?$}) {
+    if ($path =~ m{^/?$}) {
         LOG("root page");
         return $self->_cache("/index");
     }
 
-    if ($script =~ m{/$}) {
-        $script .= 'index.html';
+    if ($path =~ m{/$}) {
+        $path .= 'index.html';
     }
 
-    if ($script eq '/archive') {
+    if ($path eq '/archive') {
         return $self->generate_html($self->list_all_blogs)
     }
 
-    if ($script =~ m{^/blog/tags$}) {
+    if ($path =~ m{^/blog/tags$}) {
         return $self->generate_html($self->tag_cloud);
     }
-    if ($script =~ m{^/blog/tags/(.+).html$}) {
+    if ($path =~ m{^/blog/tags/(.+).html$}) {
         (my $tag = $1) =~ s/%20/ /g;
         return $self->generate_html($self->list_entries_with_tag($tag));
     }
 
-    if ($script =~ m{^/blog/(.*)\.rss$}) {
-        return $self->generate_rss($env, $1);
+    if ($path =~ m{^/blog/(.*)\.rss$}) {
+        return $self->generate_rss($1);
     }
 
     # at some point every page will be a "blog entry"
     # TODO: there are a few pages with _ in their filename - change to -
-    LOG("script '$script'");
-    if ($script =~ m{^/([Pa-z0-9_.-]+)$}) {
-        if ($self->{posts}{$script} or $self->{posts}{"$script.html"}) {
-            return $self->_cache($script);
+    LOG("path '$path'");
+    if ($path =~ m{^/([Pa-z0-9_.-]+)$}) {
+        if ($self->{posts}{$path} or $self->{posts}{"$path.html"}) {
+            return $self->_cache($path);
         }
     }
 
-    if ($script =~ m{^/talks/(fundamentals_of_perl|perl6|perl_in_testing)/(.*).html$}) {
+    if ($path =~ m{^/talks/(fundamentals_of_perl|perl6|perl_in_testing)/(.*).html$}) {
         my $filename = "$ENV{SZABGAB_TALKS}/$1/$2.html";
         if (open my $fh, '<:encoding(utf8)', $filename) {
             my @rows = <$fh>;
@@ -275,7 +262,7 @@ on the <a href="http://perlmaven.com/">Perl Maven</a> site.</p>};
             warn "Could not open file '$filename' $!";
         }
     }
-    die(sprintf("Invalid page: '%s'\n", $script));
+    die(sprintf("Invalid page: '%s'\n", $path));
     my $str = <<'END_STR';
 <h2>Missing page ?</h2>
 <p>
@@ -653,7 +640,7 @@ sub main_page {
 }
 
 sub generate_rss {
-    my ($self, $env, $tag) = @_;
+    my ($self, $tag) = @_;
 
     $tag =~ s/%20/ /g;
     my $rss = XML::RSS->new( version => '1.0' );

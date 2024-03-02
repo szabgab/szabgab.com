@@ -107,13 +107,8 @@ sub courses {
 
 sub generate_page {
     my ($root, $path, $outfile) = @_;
-    my %env = (
-        PATH_INFO => "/$path",
-        REQUEST_URI => "/$path",
-        #REQUEST_URI => "https://szabgab.com/$path",
-    );
     my $sz = Sz::App->new($root);
-    my $html = $sz->show(\%env);
+    my $html = $sz->show($path);
     open my $out, ">:encoding(utf8)", $outfile or die;
     print $out $html;
 }
