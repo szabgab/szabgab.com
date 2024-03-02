@@ -48,6 +48,8 @@ sub main {
     generate_redirect("$outdir/beginner-perl-maven-ebook-1_24.html"                        => "/beginner-perl-maven-ebook-1-24");
     generate_redirect("$outdir/foss_in_israel_on_meetup.html"                              => "/foss-in-israel-on-meetup");
     generate_redirect("$outdir/fundamentals_of_perl.html"                                  => "/fundamentals-of-perl");
+    generate_redirect("$outdir/perl6_training.html"                                        => "/perl6-training");
+    generate_redirect("$outdir/perl6_tricks_and_treats.html"                               => "/perl6-tricks-and-treats");
 
 
     for my $filename (qw(
