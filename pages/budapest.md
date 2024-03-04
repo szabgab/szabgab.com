@@ -25,6 +25,12 @@ Some food-related recommendations:
 * [Halászlé](https://duckduckgo.com/?q=hal%C3%A1szl%C3%A9&t=ffab&iar=images&iax=images&ia=images)
 * [Hortobágyi húsos palacsinta](https://duckduckgo.com/?q=hortobagyi+palacsinta&t=ffab&iar=images&iax=images&ia=images)
 
+* Paprikáscsirke galuskával
+* Marhapörkőlt tarhonyával
+* Mákosguba
+* Túrógombóc
+
+
 
 ## Street-food
 
