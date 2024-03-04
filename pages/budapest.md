@@ -27,9 +27,12 @@ Some food-related recommendations:
 
 * Paprikáscsirke galuskával
 * Marhapörkőlt tarhonyával
+* Disznótoros
 * Mákosguba
 * Túrógombóc
 
+
+Not Hungarian: Wesselényi út út 32 Persian sweets
 
 
 ## Street-food
@@ -72,7 +75,8 @@ These you usually get in restaurants or coffee shops:
 * There is another nice pub/coffee shop area in the city in Jókai tér (Jokai square) next to the Octogon which can be reached using the M1 metro line or by tram 4 or 6.
 
 
-
+* I did not try this, but it looked good: Lángos Papi, Madách út.
+* I did not try this: Belvárosi Disznótoros I think in Király utca
 
 
 # Older Recommendations in Budapest
