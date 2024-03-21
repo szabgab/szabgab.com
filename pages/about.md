@@ -49,6 +49,9 @@ Some of my public presentations were recorded:
 * At <a href="https://il.pycon.org/2017/"><b>PyCon Israel 2017</b></a> I talked about <a href="https://il.pycon.org/wwwpyconIL/agenda/173%20">Testing with PyTest</a>. The video of <a href="https://pyvideo.org/pycon-israel-2017/testing-with-pytest.html">Testing with PyTest</a>.
 * At <a href="https://il.pycon.org/2019/"><b>PyCon Israel 2019</b></a> I talked about <a href="https://www.youtube.com/watch?v=QddQcqa19zo">Fixtures and Test Doubles in Pytest</a>
 
+
+* 2023.09 Rust Meetup in Hebrew: <a href="https://www.youtube.com/watch?v=HRhAkSdvGx4">What I learned from learning Rust</a>.
+
 ## YouTube Channels
 
 I have 4 YouTube Channels in 4 different languages. I primarily upload videos in English and Hebrew, but I have been experimenting with Spanish as well.
