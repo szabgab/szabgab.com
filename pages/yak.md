@@ -4,8 +4,8 @@
 
 =abstract start
 
-<a href="/yak-shaving">Yak shaving</a> in many cases is probably <a href="/recursive-development-that-leads-nowhere">Recursive development that leads nowhere</a>
-but there is also <a href="/the-useful-yak-shaving">useful yak shaving</a>.
+[Yak shaving](/yak-shaving) in many cases is probably [Recursive development that leads nowhere](/recursive-development-that-leads-nowhere)
+but there is also [useful yak shaving](/the-useful-yak-shaving).
 
 And now that I've started on process of code-reading I frequently encounter cases where I cannot keep reading a piece of code before I understand
 some code construct or a module it uses.
@@ -17,19 +17,19 @@ So I I'll try to use this page as my scatch-book for code reading and Yak handli
 
 ## Perl uses cases of Test::Class
 
-* Use cases of <a href="https://metacpan.org/release/Test-Class">Test::Class</a>
-* <a href="https://metacpan.org/pod/File::Random">File::Random</a>
+* Use cases of [Test::Class](https://metacpan.org/release/Test-Class).
+* [File::Random](https://metacpan.org/pod/File::Random).
 
-* Source code of <a href="https://metacpan.org/source/File::Random">File::Random</a>
-* <a href="https://metacpan.org/release/Set-Scalar/source/lib/Set/Scalar.pm">Set::Scalar</a> - DONE: <a href="https://perlmaven.com/sets">set in Perl</a>
-* <a href="https://metacpan.org/pod/Want">Want (howmany)</a>
+* Source code of [File::Random](https://metacpan.org/source/File::Random).
+* [Set::Scalar](https://metacpan.org/release/Set-Scalar/source/lib/Set/Scalar.pm) - DONE: [set in Perl](https://perlmaven.com/sets).
+* [Want (howmany)](https://metacpan.org/pod/Want).
 
-* Reading the code of <a href="https://metacpan.org/release/Test-Class">Test::Class</a>
-* It uses <a href="https://metacpan.org/pod/Attribute::Handlers">Attribute::Handlers</a>
+* Reading the code of [Test::Class](https://metacpan.org/release/Test-Class).
+* It uses [Attribute::Handlers](https://metacpan.org/pod/Attribute::Handlers).
 
 ## How Python packages are tested
 
-* <a href="https://jinja.palletsprojects.com/">Jinja</a> is important, but probably simple to test.
-* In GitHub Actions it uses Lock threads. -  DONE: <a href="https://code-maven.com/slides/github-ci/lock-threads">Lock threads</a>.
-* In GitHub Actions it uses <a href="https://tox.readthedocs.io/">tox</a>.
+* [Jinja](https://jinja.palletsprojects.com/) is important, but probably simple to test.
+* In GitHub Actions it uses Lock threads. -  DONE: [Lock threads](https://code-maven.com/slides/github-ci/lock-threads).
+* In GitHub Actions it uses [tox](https://tox.readthedocs.io/).
 
