@@ -41,7 +41,15 @@ Core developer of the [Perl Dancer](https://perldancer.org/) project.
 I know you support me out of your good heart and not in order to get recognition, but I would like to give it anyway
 as I'd like to publicly thank your support.
 
-Monthly support via [Patreon](https://www.patreon.com/szabgab) in abc order:
+## Support via [GitHub Sponsors]()
+
+* [ctrlo](https://github.com/ctrlo)
+* [David Solimano](https://github.com/DSolimano)
+* [Michael Houghton](https://github.com/herveus)
+* ... + private supporters
+
+
+## Support via [Patreon](https://www.patreon.com/szabgab):
 
 * [Anirvan Chatterjee](https://www.chatterjee.net/)
 * Buddy Burden
@@ -55,6 +63,7 @@ Monthly support via [Patreon](https://www.patreon.com/szabgab) in abc order:
 * Richard Leach
 * [Shanta McBain](https://www.linkedin.com/in/shanta-mcbain-7b644437/)
 * [Tori Hunter](https://www.linkedin.com/in/tori-hunter-00009639/)
+* ... + private supporters
 
 If you are not in this list, or if something is incorrect, let me know and I'll fix it.
 
@@ -65,6 +74,14 @@ The list of people who supported the updating of the [Perl Maven Tutorial](https
 The list of people who supported the [Bailador eBook](https://leanpub.com/bailador/) can be found in the eBook and on the free sample pages.
 
 The list of people who supported the [Dancer SPA eBook](https://leanpub.com/dancer-spa/) can be found in the eBook and on the free sample pages.
+
+## Past supporters via GitHub Sponsors
+
+* [jfdelpech](https://github.com/jfdelpech)
+* [Bartosz Jarzyna](https://github.com/bbrtj)
+* [Mark Fretwell](https://github.com/orion-markf)
+* [Jarosław Danielski](https://github.com/jdanproject)
+* ... + private supporters
 
 ## Past supporters via Patreon
 
@@ -90,4 +107,5 @@ The list of people who supported the [Dancer SPA eBook](https://leanpub.com/danc
 * Victor Moral
 * Wolfgang Odendahl
 * Yes2Crypto
+* ... + private supporters
 
