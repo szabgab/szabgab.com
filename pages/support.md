@@ -4,7 +4,7 @@
 
 =abstract start
 
-There are many people who ask me how could they (financially) support the volunteer work I do and share freely with the public.
+There are many people who ask me how could they (financially) support the work I do and share freely with the public.
 
 Let me list a number of ways:
 
