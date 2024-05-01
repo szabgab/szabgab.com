@@ -60,6 +60,21 @@ A lot of my success in my job is due to my use of Perl, so I'm happy to give bac
 
 </div>
 
+![David Precious](/img/david_precious.png)
+
+> Why I support you? Because you spend a lot of time and effort writing Perl Weekly and Perl Maven content, documentation etc,
+> answering Perl questions in various places, and just generally appear to care a lot for the Perl community, which I care for deeply too."
+
+**[David Precious](https://www.preshweb.co.uk/about/)**
+Core developer of the [Perl Dancer](https://perldancer.org/) project.
+
+
+> In any case, thanks for both your service and support to the Perl community with the Perl Weekly newsletter.
+> A lot of my success in my job is due to my use of Perl, so I'm happy to give back to the community.
+
+**John Wiersba**
+
+
 I know you support me out of your good heart and not in order to get recognition, but I would like to give it anyway
 as I'd like to publicly thank your support.
 
