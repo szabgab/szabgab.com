@@ -2,16 +2,12 @@
 =timestamp 1627454998
 =tags cars, electric vehicles
 
-=abstract start
-
 We have two cars in our family and both are nearing the time when we need to replace them.
 They have started to reach the point when various parts start to break and fixing those parts start to cost more
 than the value loss of a new car.
 
 Especially if we take in account the lack of reliability - we really don't want our cars to break down while driving to work
 - and the time lost for taking the car to the garage.
-
-=abstract end
 
 We can ask a separate question if we even need two cars and I might address that issue separately, but for now let's assume we
 do need the cars.
@@ -44,63 +40,60 @@ cars (meaning the number an frequency of petrol stations) will decline and thus 
 will decline.
 
 
-<h2>Electric car market share</h2>
+## Electric car market share
 
 I tried to figure out what is the market-share of electric cars.
 
 Types of electric vehicles:
 
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Electric_vehicle">EV</a> - Electric Vehicle (generic term)</li>
-<li><a href="https://en.wikipedia.org/wiki/Battery_electric_vehicle">BEV</a>. Battery Electric Vehicles, or BEVs. These are cars that are powered only from an electric battery.</li>
-<li><a href="https://en.wikipedia.org/wiki/Plug-in_hybrid">PHEV</a>. Plugin Hybrid Electric Vehicles, or PHEVs. These are cars that have both an electric battery and a combustion engine. Can be charged from wall.</li>
-<li><a href="https://en.wikipedia.org/wiki/Hybrid_electric_vehicle">HEV or Hybrid</a>. Hybrid cars have an electric battery and a combustion engine.</li>
-<li>...</li>
-<li>Combustion engine only (We are here now)</li>
-</ul>
+* [EV](https://en.wikipedia.org/wiki/Electric_vehicle) - Electric Vehicle (generic term)
+* [BEV](https://en.wikipedia.org/wiki/Battery_electric_vehicle). Battery Electric Vehicles, or BEVs. These are cars that are powered only from an electric battery.
+* [PHEV](https://en.wikipedia.org/wiki/Plug-in_hybrid). Plugin Hybrid Electric Vehicles, or PHEVs. These are cars that have both an electric battery and a combustion engine. Can be charged from wall.
+* [HEV or Hybrid](https://en.wikipedia.org/wiki/Hybrid_electric_vehicle). Hybrid cars have an electric battery and a combustion engine.
+* ...
+* Combustion engine only (We are here now)
 
-See also: <a href="https://www.evgo.com/ev-drivers/types-of-evs/">Types of Electric Vehicles</a>.
+See also: [Types of Electric Vehicles](https://www.evgo.com/ev-drivers/types-of-evs/).
 
-<a href="https://en.wikipedia.org/wiki/Electric_car_use_by_country">Electric car use by country</a> shows that Norway, Iceland, and Sweden
+[Electric car use by country](https://en.wikipedia.org/wiki/Electric_car_use_by_country) shows that Norway, Iceland, and Sweden
 lead in terms of percentage in the sales of electric vehicles. Of course there are relatively few people living in those countries,
 especially in Iceland, are some of the wealthiest countries. They can also have plenty of green energy using all the waterfalls
 and they are rather isolated so there aren't many tourists coming in by car. Meaning they won't need to keep
 the gasoline petrol-station infrastructure for the tourists.
 
 
-<a href="https://elbil.no/english/norwegian-ev-policy/">Norwegian EV policy</a> - they have decided that by 2025, that's in 4 years
+[Norwegian EV policy](https://elbil.no/english/norwegian-ev-policy/) - they have decided that by 2025, that's in 4 years
 all new cars sold should be zero (battery electric or hydrogen) emission vehicles. Impressive.
 
 
-<h2>Israel</h2>
+## Israel
 
 I read a few articles about Electric Cars in Israel. The message is mixed. In some places they say 2.5% of the new car sales are EV, in other
 sources the figure is 5%.
 
-<a href="https://www.evm.co.il/%D7%A8%D7%9B%D7%91-%D7%97%D7%A9%D7%9E%D7%9C%D7%99-%D7%91%D7%99%D7%A9%D7%A8%D7%90%D7%9C/">Electric cars in Israel (Hebrew)</a>
+[Electric cars in Israel (Hebrew)](https://www.evm.co.il/%D7%A8%D7%9B%D7%91-%D7%97%D7%A9%D7%9E%D7%9C%D7%99-%D7%91%D7%99%D7%A9%D7%A8%D7%90%D7%9C/)
 
 The country is small and we live in the center. The northern border is 220 km away. Eilat, the south-most place is 320 km.
 I think most EVs can do either of those distances without refueling and for most of our daily driving needs they don't need
 to fuel either. The big question will be if the car can be charged at our regular parking space?
 
 I went to the grocery store where I saw the EV charging station. It belongs to a company called
-<a href="https://evedge.co.il/">EV Edge (Hebrew)</a> . They also provide private charging stations for multi-story buildings and
-they have a <a href="https://evedge.co.il/%d7%a8%d7%a9%d7%aa-%d7%a2%d7%9e%d7%93%d7%95%d7%aa/">map of public stations</a>.
+[EV Edge (Hebrew)](https://evedge.co.il/). They also provide private charging stations for multi-story buildings and
+they have a [map of public stations](https://evedge.co.il/%d7%a8%d7%a9%d7%aa-%d7%a2%d7%9e%d7%93%d7%95%d7%aa/).
 
-There seem to be another company called <a href="https://www.evmeter.com/">EV Meter</a> but I could not find their map.
+There seem to be another company called [EV Meter](https://www.evmeter.com/) but I could not find their map.
 
-<a href="https://www.afconev.co.il/">Afcon EV (Hebrew)</a> is another company with a
-<a href="https://www.afconev.co.il/%D7%9E%D7%A6%D7%90-%D7%A2%D7%9E%D7%93%D7%AA-%D7%98%D7%A2%D7%99%D7%A0%D7%94/">map</a>.
+[Afcon EV (Hebrew)](https://www.afconev.co.il/) is another company with a
+[map](https://www.afconev.co.il/%D7%9E%D7%A6%D7%90-%D7%A2%D7%9E%D7%93%D7%AA-%D7%98%D7%A2%D7%99%D7%A0%D7%94/).
 They also included the price of installing a station. 5,238 NIS (~ 1600 USD) for a buidling. If I am not mistaken they
 sell Tesla.
 
 
 
-<a href="https://www.evm.co.il/">EVM (Hebrew)</a> is the magazine for electric cars with its own
-<a href="https://www.evm.co.il/%D7%9E%D7%A4%D7%AA-%D7%A2%D7%9E%D7%93%D7%95%D7%AA-%D7%98%D7%A2%D7%99%D7%A0%D7%94-%D7%9C%D7%A8%D7%9B%D7%91-%D7%97%D7%A9%D7%9E%D7%9C%D7%99/">map</a>.
+[EVM (Hebrew)](https://www.evm.co.il/) is the magazine for electric cars with its own
+[map](https://www.evm.co.il/%D7%9E%D7%A4%D7%AA-%D7%A2%D7%9E%D7%93%D7%95%D7%AA-%D7%98%D7%A2%D7%99%D7%A0%D7%94-%D7%9C%D7%A8%D7%9B%D7%91-%D7%97%D7%A9%D7%9E%D7%9C%D7%99/).
 
-<a href="https://www.plugged-in.co.il/">Plugged In (Hebrew)</a> is another website about Electric Vehicles in Israel.
-It links to several <a href="https://www.plugged-in.co.il/charging-point-map/">maps</a>.
-
+[Plugged In (Hebrew)](https://www.plugged-in.co.il/) is another website about Electric Vehicles in Israel.
+It links to several [maps](https://www.plugged-in.co.il/charging-point-map/).
 
 
