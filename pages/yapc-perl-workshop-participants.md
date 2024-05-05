@@ -75,8 +75,8 @@ This is usually, but not always the host country.
 
 ## YAPC::EU numbers
 
-|  Year                |    Location           |   Talks             |  People                       |
-|                      |                       | Submitted/Accepted  | Registered/Committed          |
+|                      |                       |   Talks             |  People                       |
+|  Year                |    Location           | Submitted/Accepted  | Registered/Committed          |
 | -------------------- | --------------------- | ------------------- | ----------------------------- |
 |  2015                | Granada/Spain         | 134/112             | 384/261 (Spain     77/50)     |
 |  2015.07.22 (d-10)   | Granada/Spain         | 107/92              | 365/243 (Spain     73/46)     |
@@ -116,7 +116,8 @@ This is usually, but not always the host country.
 [4] There were also a lot of people from Russia at this event: 86/57.
 
 ## YAPC::NA numbers
-
+| Year              | Location                 | Talks   | People  |
+| ----------------- | ------------------------ | ------- | ------- |
 | 2015              | Salt Lake City/Utah      | 153/98  | 404/341 |
 | 2015.05.30 (d-09) | Salt Lake City/Utah      | 131/77  | 382/311 |
 | 2015.05.23 (d-16) | Salt Lake City/Utah      | 131/77  | 357/285 |
