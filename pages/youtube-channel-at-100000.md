@@ -2,12 +2,8 @@
 =timestamp 1436819672
 =tags Perl, YouTube
 
-=abstract start
-
 I know I am far from being a celebrity but it is still nice to see that the videos and
 screencasts on my [YouTube channel](https://www.youtube.com/user/gabor529) has just passed 100,000 views.
-
-=abstract end
 
 It was created on May 19, 2007 so it seems it took just a bit more than 8 years, but of course for a long time I had
 no, or very few videos there.

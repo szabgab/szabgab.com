@@ -2,13 +2,9 @@
 =timestamp 1469682612
 =tags Perl, YouTube
 
-=abstract start
-
 Almost exactly a year ago, on 13 July 2015 I've celebrated the [100,000 views](/youtube-channel-at-100000) on my [YouTube channel](https://www.youtube.com/user/gabor529). Then on 9 May 2016 it has passed the [1,000 subscribers](/youtube-channel-at-1000-subscribers).
 
 Today I can celebrate again reaching 200,000 views.
-
-=abstract end
 
 The channel was created on May 19, 2007 so it took just a bit over 8 years to have the first 100,000 views, but the second 100,000
 views came in 1 year and 12 days.
