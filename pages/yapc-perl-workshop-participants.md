@@ -24,43 +24,44 @@ might attend but could not do so.
 In the "People" column for YAPC::EU I've also included the country where the most participants come from.
 This is usually, but not always the host country.
 
-<h2>Perl Workshop numbers</h2>
+## Perl Workshop numbers
 
-                                                  Talks               People
-  Year                     Location            Submitted/Accepted   Registered/Committed
-   2015.09.06              LPW     (London)       9/0                38/10
-   2015.08.12 (d-114)      LPW     (London)       9/0                28/7
-   2015.07.31 (d-126)      LPW     (London)       7/0                25/7
-   2015.07.24 (d-133)      LPW     (London)       7/0                25/7
-   2015.07.07 (d-150)      LPW     (London)       5/0                15/5
-   2014                    LPW     (London)      60/55              257/188
-   2013                    LPW     (London)      48/42              303/205
 
-   2015.09.06              PPW     (Pittsburgh)  12/0                29/1
-   2015.08.12 (d-58)       PPW     (Pittsburgh)   2/0                13/1
-   2015.07.31 (d-70)       PPW     (Pittsburgh)   1/0                10/1
-   2015.07.24 (d-77)       PPW     (Pittsburgh)   0/0                 6/1
-   2015.07.07 (d-94)       PPW     (Pittsburgh)   0/0                 0/0
-   2014                    PPW     (Pittsburgh)  35/30               96/86
+|  Year                 |    Location            | Talks Submitted/Accepted  |  People Registered/Committed |
+| --------------------- | -----------------------| -----------------------   | ---------------------------- |
+|   2015.09.06          |    LPW     (London)    |   9/0                     |  38/10                |
+|   2015.08.12 (d-114)  |    LPW     (London)    |   9/0                     |  28/7                 |
+|   2015.07.31 (d-126)  |    LPW     (London)    |   7/0                     |  25/7                 |
+|   2015.07.24 (d-133)  |    LPW     (London)    |   7/0                     |  25/7                 |
+|   2015.07.07 (d-150)  |    LPW     (London)    |   5/0                     |  15/5                 |
+|   2014                |    LPW     (London)    |  60/55                    | 257/188               |
+|   2013                |    LPW     (London)    |  48/42                    | 303/205               |
+|
+|   2015.09.06          |    PPW     (Pittsburgh)|  12/0                     |  29/1                 |
+|   2015.08.12 (d-58)   |    PPW     (Pittsburgh)|   2/0                     |  13/1                 |
+|   2015.07.31 (d-70)   |    PPW     (Pittsburgh)|   1/0                     |  10/1                 |
+|   2015.07.24 (d-77)   |    PPW     (Pittsburgh)|   0/0                     |   6/1                 |
+|   2015.07.07 (d-94)   |    PPW     (Pittsburgh)|   0/0                     |   0/0                 |
+|   2014                |    PPW     (Pittsburgh)|  35/30                    |  96/86                |
+|
+|   2015                |    Swiss   PW (Olten)  |  24/21                    |  60/44                |
+|   2015.08.12 (d-14)   |    Swiss   PW (Olten)  |  21/17                    |  53/35                |
+|   2015.07.31 (d-26)   |    Swiss   PW (Olten)  |  20/17                    |  52/34                |
+|   2015.07.24 (d-33)   |    Swiss   PW (Olten)  |  16/10                    |  45/27                |
+|   2015.07.07 (d-50)   |    Swiss   PW (Olten)  |  10/10                    |  38/24                |
+|   2015.05.08 (d-110)  |    Swiss   PW (Olten)  |   1/0                     |  18/11                |
+|   2014                |    Swiss   PW (Olten)  |  19/17                    |  39/29                |
+|
+|   2015                |    Russian PW (Moscow) |  18/18                    |   208                 |
+|
+|   2015                |    German  PW (Drezden)|  38/34                    |  87/75                |
+|
+|   2015                |    French  PW (Paris)  |  10/10                    |  50/11                |
+|   2015.05.08 (d-48)   |    French  PW (Paris)  |   6/0                     |  22/2                 |
+|   2014                |    French  PW (Paris)  |  15/15                    |  66/13     (free) [1] |
+|   2013                |    French  PW (Nancy)  |  28/28                    |  43/27                |
 
-   2015                    Swiss   PW (Olten)    24/21               60/44
-   2015.08.12 (d-14)       Swiss   PW (Olten)    21/17               53/35
-   2015.07.31 (d-26)       Swiss   PW (Olten)    20/17               52/34
-   2015.07.24 (d-33)       Swiss   PW (Olten)    16/10               45/27 
-   2015.07.07 (d-50)       Swiss   PW (Olten)    10/10               38/24 
-   2015.05.08 (d-110)      Swiss   PW (Olten)     1/0                18/11 
-   2014                    Swiss   PW (Olten)    19/17               39/29 
-
-   2015                    Russian PW (Moscow)   18/18                208
-
-   2015                    German  PW (Drezden)  38/34               87/75
-
-   2015                    French  PW (Paris)    10/10               50/11
-   2015.05.08 (d-48)       French  PW (Paris)     6/0                22/2
-   2014                    French  PW (Paris)    15/15               66/13     (free) [1]
-   2013                    French  PW (Nancy)    28/28               43/27    
-   
-   [1] 2014 French PW was free so only the speakers are marked as committed.
+[1] 2014 French PW was free so only the speakers are marked as committed.
 
 <ul>
 <li><a href="http://act.perl-workshop.ch/spw2015/">SPW: Swiss Perl Workshop 2015.08.28-29</a></li>
