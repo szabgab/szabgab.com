@@ -3,19 +3,15 @@
 =tags Perl
 =format new
 
-=abstract start
-
-There are going to be 7 <a href="http://www.yapcna.org/yn2013/training.html">training courses</a>
-around <a href="http://www.yapcna.org/yn2013/">YAPC::NA 2013 in Austin Texas</a>.
+There are going to be 7 [training courses](http://www.yapcna.org/yn2013/training.html)
+around [YAPC::NA 2013 in Austin Texas](http://www.yapcna.org/yn2013/).
 Two 2-day courses, and a 1-day course before the conference.
 
 Three 1-day courses, and a 2-day course after the conference.
 (The same Git training runs twice. Once before and once after the conference.)
 
 I run two of the 2-day courses. You can already register, and
-<a href="http://www.yapcna.org/yn2013/purchase">ensure your spot in the courses</a>.
-
-=abstract end
+[ensure your spot in the courses](http://www.yapcna.org/yn2013/purchase).
 
 <style>
 .empty-room {
@@ -70,7 +66,7 @@ td {
 </tr>
 </table>
 
-You can purchase your ticket <a href="http://www.yapcna.org/yn2013/purchase">here</a>
+You can purchase your ticket [here](http://www.yapcna.org/yn2013/purchase).
 
 
 
