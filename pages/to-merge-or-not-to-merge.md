@@ -2,7 +2,7 @@
 =timestamp 1367172269
 =tags Perl, Perl 5, Perl 6
 
-=abstract start
+
 
 I have a problem:
 
@@ -14,7 +14,7 @@ or should I merge them together?
 
 Or maybe I should merge P5M into PM and leave P6M separate.
 
-=abstract end
+
 
 <h2>Background</h2>
 

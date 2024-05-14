@@ -2,7 +2,7 @@
 =timestamp 1326583490
 =tags Perl Weekly, Perl, news, Facebook, Google+, Twitter
 
-=abstract start
+
 
 No, no! I am not wrapping time yet.
 
@@ -12,7 +12,7 @@ So I have started to post news items as I read them.
 
 If you would like to get updates more frequently than the weekly newsletter then this might be for you.
 
-=abstract end
+
 
 <h2>Social networks</h2>
 

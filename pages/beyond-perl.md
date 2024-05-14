@@ -2,13 +2,13 @@
 =timestamp 1668841661
 =tags blogs
 
-=abstract start
+
 
 You must be blind, or in a really isolated spot if you don't see that the use of Perl has been declining for many years.
 Not only in its market share, but in absolute numbers as well. Many people have moved to other languages
 or shifted their entire career to somewhere else.
 
-=abstract end
+
 
 When <a href="https://www.perl.com/article/the-perl-ambassador-gabor-szabo/">I was interviews</a> by Mohammad S. Anwar
 for perl.com I added an extra question: <b>What is the future of Perl?</b>, to which my answer focused on the people who currently use

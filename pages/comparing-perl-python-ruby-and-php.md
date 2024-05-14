@@ -2,7 +2,7 @@
 =timestamp 1367363818
 =tags Perl, Python, Ruby, PHP, Alexa
 
-=abstract start
+
 
 You know I like useless statistics, right? So here are some:
 
@@ -11,7 +11,7 @@ Comparing the ranking of Perl, Python, Ruby, and PHP related web sites.
 Once every few months I check the <a href="http://www.alexa.com/">Alexa</a> ranking of a bunch of sites that interest me on some level.
 Actually I track more than what you can see here, but this will be interesting to you. I promise.
 
-=abstract end
+
 
 (na means either I have not checked the site or Alexa did not give me an answer for that site.)
 

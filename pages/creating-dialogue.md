@@ -2,7 +2,7 @@
 =timestamp 1638177917
 =tags Jews
 
-=abstract start
+
 
 Some people say that there is a growing gap between Jews in Israel and Jews in the Diaspora in which usually they refer to the Jews in the USA.
 
@@ -11,7 +11,7 @@ According to them there are 23.4 million jews and more than 50% live in the USA,
 
 Anyway, I don't know if the gap is growing or not, but making it smaller is always a good idea. So I just noted a few ideas for myself.
 
-=abstract end
+
 
 <ul>
 <li>Provide an opportunity for diaspora Jews to meet Jews and non-Jews from Israel.</li>

@@ -2,7 +2,7 @@
 =timestamp 1468850977
 =tags Perl, YAPC
 
-=abstract start
+
 
 After 3 years break I sort-of attended [YAPC::NA 2016](http://www.yapcna.org/yn2016/).
 
@@ -12,7 +12,7 @@ or to go to Universal Studios, to Sea World, and to the Kennedy Space Center.
 
 The latter 3 won.
 
-=abstract end
+
 
 I cannot tell you much about the conference, though luckily the [talks were recorded](https://www.youtube.com/c/yapcna)
 which is appreciated a lot, so I could watch a few of them already.

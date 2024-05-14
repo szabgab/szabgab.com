@@ -2,12 +2,12 @@
 =timestamp 1447831222
 =tags money, blogs
 
-=abstract start
+
 
 I guess the wider topic would be <b>How to make money online</b> and one day I'll write an article with that title as well,
 but for now let's focus on this one.
 
-=abstract end
+
 
 I have a number of web sites where I write articles. This one is just my personal site where I write generic articles,
 but my biggest site is the <a href="http://perlmaven.com/">Perl Maven</a>. 

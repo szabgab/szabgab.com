@@ -2,7 +2,7 @@
 =timestamp 1394511860
 =tags Perl, YAPC
 
-=abstract start
+
 
 While I am not part of any official Perl organization, I have some
 experience with the Perl community, and with organizing events.
@@ -14,7 +14,7 @@ an idea for enhancing the event while getting some funding.
 First there are the general tools for promoting the events, then
 a few things I can help with.
 
-=abstract end
+
 
 <h2>Perl Jam</h2>
 

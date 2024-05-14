@@ -2,13 +2,13 @@
 =timestamp 1628055131
 =tags frameworks, Python, JavaScript
 
-=abstract start
+
 
 Oh my, as a consultant, I have seen the results of the home-made frameworks so many time.
 
 I think the process is like this:
 
-=abstract end
+
 
 There is an engineer who might know the business topic of the company well (e.g. some specific part of biology or chemistry),
 but maybe does not have the experience of many frameworks and definitely never had to deal with <b>legacy code</b>.

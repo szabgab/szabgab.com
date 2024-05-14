@@ -2,14 +2,14 @@
 =timestamp 1237128967
 =tags newsletter, testing, PHP, SimpleTest
 
-=abstract start
+
 
 This is the second article about SimepleTest
 (the first one was at <a href="/testing-php-code-with-simpletest.html">Testing PHP code with SimpleTest</a> ) where I discuss how to 
 test an already written application top down without caring how the 
 individual functions behave.
 
-=abstract end
+
 
 <hr>
 This entry was first sent out as part of the 

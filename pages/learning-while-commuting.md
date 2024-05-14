@@ -2,14 +2,14 @@
 =timestamp 1482303014
 =tags podcasts, learning, jobs, commuting
 
-=abstract start
+
 
 While writing the rant yesterday about <a href="https://szabgab.com/pay-by-karma.html">free help and Karma</a>
 I was also thinking about the people in New York who need to commute 2 hours each way which eats up their time.
 
 Could that time be used for something that helps them?
 
-=abstract end
+
 
 
 Of course it is not restricted to people in New York. There are plenty of places in the world where people

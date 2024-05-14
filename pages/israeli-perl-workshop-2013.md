@@ -2,7 +2,7 @@
 =timestamp 1360594454
 =tags Perl, Israel, 2013, Workshop
 
-=abstract start
+
 
 This year we were a bit in stealth mode with the organization of the <a href="http://act.perl.org.il/">Israeli Perl
 Workshop</a>, but it is not late to talk about it a bit.
@@ -12,7 +12,7 @@ The workshop will take place on February 25, 2013 in the <a href="http://www.she
 The <a href="http://act.perl.org.il/ilpw2013/schedule">schedule of the workshop</a> is finally available.
 19 talks in two tracks.
 
-=abstract end
+
 
 The full price is 190 NIS, but with the early-bird discount you can get in for 90 NIS.
 That is less than a ticket to the movies with pop-corn!

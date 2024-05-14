@@ -2,12 +2,12 @@
 =timestamp 1409586318
 =tags Perl, Perl Maven
 
-=abstract start
+
 
 August stared way too busy updating the <b>Test Automation using Perl</b> slides and then I spent almost 2 weeks traveling.
 It did not leave much time for the <a href="http://perlmaven.com/">Perl Maven</a> site and for other things.
 
-=abstract end
+
 
 <h2>Perl Maven Pro</h2>
 

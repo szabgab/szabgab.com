@@ -2,11 +2,11 @@
 =timestamp 1595573593
 =tags Marketing, Twitter
 
-=abstract start
+
 
 With all my "inbound marketing" or whatever it is called, I remembered I had more Twitter accounts lying around so maybe I should start using them.
 
-=abstract end
+
 
 Some stats of their current state:
 

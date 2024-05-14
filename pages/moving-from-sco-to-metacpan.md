@@ -2,7 +2,7 @@
 =timestamp 1384952695
 =tags Perl, MetaCPAN, SCO, SEO, Alexa
 
-=abstract start
+
 
 There are people out there (including myself) who think it would
 be better if more people switched from
@@ -21,7 +21,7 @@ While I am not a SEO expert, I managed to get the <a href="http://perlmaven.com/
 site from 17K visits in last November to 67K visits this October. So I might have some,
 otherwise obvious, insight.
 
-=abstract end
+
 
 <h2>Make sure the overwhelming majority wants the change</h2>
 

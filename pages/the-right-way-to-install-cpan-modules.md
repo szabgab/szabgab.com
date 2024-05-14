@@ -2,7 +2,7 @@
 =timestamp 1328008562
 =tags Perl, CPAN, CM
 
-=abstract start
+
 
 There are several ways to install CPAN modules and about everyone advocates something else.
 
@@ -14,7 +14,7 @@ you can install the modules using a CPAN client. In that case you can do it to t
 You could also build your own perl with or without <a href="http://www.perlbrew.pl/">perlbrew</a>
 and then you can install everything with a CPAN client.
 
-=abstract end
+
 
 Recently chromatic suggested we should all 
 <a href="http://www.modernperlbooks.com/mt/2012/01/avoiding-the-vendor-perl-fad-diet.html">use perlbrew</a>

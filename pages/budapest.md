@@ -2,13 +2,13 @@
 =timestamp 1544797188
 =tags Budapest
 
-=abstract start
+
 
 Once in a while someone asks me to recommend places in Budapest and the surraunding.
 Instead of collecting the places every time here is the list available for all.
 Just keep in mind that things might change so some of the recommendations might not be that good any more.
 
-=abstract end
+
 
 # Recommendations for Budapest, Hungary
 

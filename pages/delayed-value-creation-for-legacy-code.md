@@ -2,11 +2,11 @@
 =timestamp 1633337917
 =tags legacy
 
-=abstract start
+
 
 While gradual improvement of a legacy software project usually can give you value almost immediately, even that might take a few weeks or months.
 
-=abstract end
+
 
 
 For example, I encountered systems where there was only a single environment.

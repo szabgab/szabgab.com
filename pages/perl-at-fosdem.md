@@ -2,7 +2,7 @@
 =timestamp 1255696000
 =tags Perl, FOSDEM, conferences
 
-=abstract start
+
 
 <a href="http://martian.org/karen/">Karen Pauley</a> just wrote 
 about attending conferences that are 
@@ -16,7 +16,7 @@ Perl and Parrot on some of these events but I never did it overseas.
 Brussels, Belgium. The next conference will be 6-7 February 2010 
 and I plan to be there.
 
-=abstract end
+
 
 Apparently this is one of the biggest Open Source conference and as 
 I've heard there is hardly any Perl content. So I am interested in 

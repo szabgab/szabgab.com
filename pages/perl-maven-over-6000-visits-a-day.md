@@ -2,13 +2,13 @@
 =timestamp 1393449672
 =tags Perl
 
-=abstract start
+
 
 It was only two month ago that the <a href="http://perlmaven.com/">Perl Maven</a> site crossed the
 <a href="/perl-maven-over-5000-visits-a-day.html">5,000 visits a day line</a>
 and yesterday we passed 6,000 visits a day.
 
-=abstract end
+
 
 It is a bit a slowdown, but still very fast.
 

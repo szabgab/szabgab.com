@@ -2,13 +2,13 @@
 =timestamp 1392648632
 =tags MongoDB, Modiin
 
-=abstract start
+
 
 I am going to give a <a href="http://modiinhub.com/event/introduction-to-mongodb-the-nosql-database/">talk</a>
 about <a href="http://www.mongodb.org/">MongoDB</a> on
 February 23, 2014 at the <a href="http://modiinhub.com/">Modiin Hub</a>.
 
-=abstract end
+
 
 The talk will be programming language agnostic, examples will be shown in a number of programming languages.
 

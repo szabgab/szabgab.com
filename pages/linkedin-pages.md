@@ -2,7 +2,7 @@
 =timestamp 1594398589
 =tags LinkedIn, marketing, promotion, Python, DevOps
 
-=abstract start
+
 
 <a href="https://www.linkedin.com/">LinkedIn</a> is a professional social network that for many years was built on mutual connections.
 It is excellent to build your contact list, but this mode requires you to approve each one of your connections.
@@ -11,7 +11,7 @@ At one point LinkedIn started to allow people to follow other people, (like in T
 
 A few years ago they also added a feature called "LinkedIn Pages" that can represent a company or a brand.
 
-=abstract end
+
 
 I write content in two languages - English and Hebrew - and while I think LinkedIn can recognize the language more-or-less and
 show you content only in languages that you know, this isn't perfect. In addition I thought using these pages could be an interesting

@@ -2,7 +2,7 @@
 =timestamp 1401788296
 =tags Perl, Perl Maven
 
-=abstract start
+
 
 A year ago, on 27 May 2013, in an e-mail to the subscribers of the <a href="http://perlmaven.com/perl-maven-newsletter">free Perl Maven newsletter</a>,
 I've announced the creation of the <a href="http://perlmaven.com/pro">Perl Maven Pro</a>, subscription service.
@@ -11,7 +11,7 @@ A few days later, on 1 June 2013 I have published the first article for the subs
 Now that I am looking back, I see I have not blogged about it on my personal site, and apparently I was quite silent
 about it in general. This is strange and needs to be changed.
 
-=abstract end
+
 
 So what happened in this year?
 

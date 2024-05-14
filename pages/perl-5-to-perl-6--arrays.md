@@ -3,12 +3,12 @@
 =tags Perl, Perl 6, newsletter, arrays
 =redirect http://perl6maven.com/perl5-to-perl6-arrays
 
-=abstract start
+
 
 Continuing the <a href="/perl6-tricks-and-treats">Perl 6 Tricks and Treats</a>
 newsletter to help people switch from Perl 5 to Perl 6. Looking at arrays.
 
-=abstract end
+
 
 <hr>
 This entry was first sent out as part of the 

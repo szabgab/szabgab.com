@@ -2,7 +2,7 @@
 =timestamp 1528617003
 =tags Conference, Hiking
 
-=abstract start
+
 
 This was my second <a href="https://craft-conf.com/">Craft Conference</a> and I enjoyed it as much as I enjoyed 
 <a href="/craft-conf-2017.html">Craft Conf 2017</a>.
@@ -11,7 +11,7 @@ I attended two great workshops before the conference. Met Ruth and <a href="http
 
 I've attended great talks and went on the hike I organized.
 
-=abstract end
+
 
 <h2>Workshops</h2>
 

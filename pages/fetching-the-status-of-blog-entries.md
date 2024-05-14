@@ -2,7 +2,7 @@
 =timestamp 1359632426
 =tags Shell, Perl, cut, sort, grep, uniq
 
-=abstract start
+
 
 I write my blog entries in some pseudo-POD/HTML that grew organically.
 In other words, it is a mess.
@@ -10,7 +10,7 @@ In other words, it is a mess.
 I wanted to easily see which articles are ready to be published and which one might need some
 more writing.
 
-=abstract end
+
 
 Each article is a text file with .tt extension
 (don't ask! probably something to do with <a href="https://metacpan.org/release/Template-Toolkit">Template::Toolkit</a>),

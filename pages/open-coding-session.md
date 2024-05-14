@@ -2,12 +2,12 @@
 =timestamp 1612476630
 =tags video
 
-=abstract start
+
 
 An "Open coding session" would be a session in which I work on some code and let other people watch me doing it. They might even be able to
 help writing the code with suggedtions.
 
-=abstract end
+
 
 After the webinar today a few people hanged around. I am not sure how much were they paying attention to
 what I was doin, but at lest one of them asked a quedtion about one of the code examples I wrote and pushed to GitHub.

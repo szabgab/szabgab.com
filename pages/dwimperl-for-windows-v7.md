@@ -2,13 +2,13 @@
 =timestamp 1329048361
 =tags Perl, Windows, Padre, Moose
 
-=abstract start
+
 
 Installing CPAN modules is time consuming. Having a Perl distribution that contains every
 CPAN module you'll ever need can save you lots of hours. Having that on the laterst
 Perl 5.14.2 is even better.
 
-=abstract end
+
 
 Last week I released and announced the <a href="/dwimperl-for-windows-v6.html">first DWIM Perl for Windows</a>
 package that was based on Strawberry Perl 5.12. Then I was contacted by KMX, who built the latest

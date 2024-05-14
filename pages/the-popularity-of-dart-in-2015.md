@@ -2,12 +2,12 @@
 =timestamp 1451653680
 =tags Dart, Alexa
 
-=abstract start
+
 
 In January 2015 I've published an article about the <a href="/the-popularity-of-dart-in-2014.html">popularity of Dart in 2014</a>.
 This is theupdate for January 2015.
 
-=abstract end
+
 
 <table class="popularity">
 <tr><th>site</th>                                                                           <th>1 Jan 2014</th><th>1 Jan 2015</th><th>1 Jan 2016</th></tr>

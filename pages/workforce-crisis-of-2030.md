@@ -2,13 +2,13 @@
 =timestamp 1627965962
 =tags workforce, TED
 
-=abstract start
+
 
 I just watched [The workforce crisis of 2030](https://www.ted.com/talks/rainer_strack_the_workforce_crisis_of_2030_and_how_to_start_solving_it_now)
 by [Rainer Strack](https://www.linkedin.com/in/rainer-strack-1165bb93/) from [BCG - The Boston Consulting Group](https://www.bcg.com/).
 A TED talk from 2014.
 
-=abstract end
+
 
 * Labor shortage.
 * Skill mismatch.

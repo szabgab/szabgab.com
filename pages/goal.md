@@ -2,7 +2,7 @@
 =timestamp 1596603348
 =tags Goal
 
-=abstract start
+
 
 If I was a corporation I'd need to create a Mission Statement, but well, besides being a human (as certified by various Captcha provides)
 I am also a business. I work and I earn money and sometimes I even employ a person or buy their service.
@@ -10,7 +10,7 @@ I am also a business. I work and I earn money and sometimes I even employ a pers
 
 So I can also have a business statement. Also known as a goal.
 
-=abstract end
+
 
 <div id="goal">
 Help individual people and teams to improve their skills and processes so

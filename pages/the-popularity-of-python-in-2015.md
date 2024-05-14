@@ -2,12 +2,12 @@
 =timestamp 1451643414
 =tags Python, Alexa
 
-=abstract start
+
 
 In January 2015 I've published an article about the <a href="/the-popularity-of-python-in-2014.html">popularity of Python-related sites in 2014</a>.
 This is the updated report for January 2016.
 
-=abstract end
+
 
 <table class="popularity">
 <tr><th>site</th>                                                                                       <th>15 Jan 2013</th><th>1 Jan 2014</th><th>1 Jan 2015</th> <th>1 Jan 2016</th></tr>

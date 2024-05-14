@@ -2,7 +2,7 @@
 =timestamp 1476199496
 =tags CMOS
 
-=abstract start
+
 
 Each one of us needs to talk about our work at one point or another in our career.
 
@@ -10,7 +10,7 @@ If no other time, then when we apply for a new job.
 
 How can you be better at that?
 
-=abstract end
+
 
 <h2>Job Interviews</h2>
 

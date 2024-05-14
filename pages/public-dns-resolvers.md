@@ -2,7 +2,7 @@
 =timestamp 1373535451
 =tags Perl, DNS
 
-=abstract start
+
 
 A while ago I move most of my domains from using the DNS servers of Godaddy to
 my own DNS servers. Every time I'd move a domain, Godaddy would drop it from their
@@ -10,7 +10,7 @@ DNS server immediately but the world would pick up the change on latest.
 
 Sometimes even more than 48 hours later.
 
-=abstract end
+
 
 More specifically, if I understand this correctly, what takes time is the update
 of all the global root servers that should know where is the DNS server of the domain.

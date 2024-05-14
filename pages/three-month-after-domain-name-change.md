@@ -2,7 +2,7 @@
 =timestamp 1375399640
 =tags Perl, Alexa
 
-=abstract start
+
 
 Three month ago, on May 1, 2013, in an attempt to clarify what the site is about,
 I moved all the content of perl5maven.com to
@@ -16,7 +16,7 @@ PHP</a> sites with their respective Alexa ranking.
 As Alexa uses a 3-month average, I wanted to see what's the status now, and let you know what I see in
 the <a href="http://www.google.com/analytics/">Google Analytics</a> reports of the <a href="http://perlmaven.com/">Perl Maven</a> site.
 
-=abstract end
+
 
 <h2>Google Analytics - the private data</h2>
 

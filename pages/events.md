@@ -2,7 +2,7 @@
 =timestamp 1516288636
 =tags Conference, Hiking
 
-=abstract start
+
 
 People over Tools.
 
@@ -10,7 +10,7 @@ Tech conferences are great to listen to presentations and to mingle with fellow 
 
 Having a much more relaxed environment can have a substantial impact on communication that can lead to cooperation.
 
-=abstract end
+
 
 Spending a few hours together in the nature or walking around the city is an excellent opportunity 
 for organizers, speakers, and participants to talk to each other in a more natural environment.

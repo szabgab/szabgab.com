@@ -2,14 +2,14 @@
 =timestamp 1596778772
 =tags jobs
 
-=abstract start
+
 
 Looking for a job while you are unemployed must be really hard.
 You do all kinds of things: you update your CV, you search for job positions, you send your CV.
 
 Then you wait.
 
-=abstract end
+
 
 And wait.
 

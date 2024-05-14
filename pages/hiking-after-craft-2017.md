@@ -2,7 +2,7 @@
 =timestamp 1490337347
 =tags Conference, Hiking, Hungary
 
-=abstract start
+
 
 If you like nature, nice views, and would like to get away from the city after you've enjoyed the
 <a href="https://craft-conf.com/">Craft Conference</a>, then you are invited to this short hike in
@@ -12,7 +12,7 @@ Date: April 29, 2017. from 10:00 till about 12:00.
 
 Assuming the weather permits.
 
-=abstract end
+
 
 <h2>Arriving</h2>
 

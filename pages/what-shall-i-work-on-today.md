@@ -2,13 +2,13 @@
 =timestamp 1687158453
 =tags blogs
 
-=abstract start
+
 
 Recently I started to work towards the idea to focus on my own open source projects. This however poses a dilemma. It is not new, but today I just had that.
 
 What shall  work on today?
 
-=abstract end
+
 
 There are a number of open source projects I work on. I have the <a href="https://code-maven.com/slides/">slides</a> of my training material.
 Many parts of that are recored as videos. I always need to add more slides - these days I learn Rust and this I update those slides.

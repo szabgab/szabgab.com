@@ -2,13 +2,13 @@
 =timestamp 1420374216
 =tags Ruby, Alexa
 
-=abstract start
+
 
 In January 2014 I've published an article about the <a href="/the-popularity-of-perl-in-2013.html">popularity of Perl in 2013</a>.
 In that article I've also included a number of Ruby sites as well.  <a href="/the-popularity-of-perl-in-2014.html">This year</a>
 I've moved the Ruby part to a separate article and added quite a few other sites.
 
-=abstract end
+
 
 I wanted to figure out which are the most popular sites in terms of pageviews and visitors.
 

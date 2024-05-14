@@ -2,7 +2,7 @@
 =timestamp 1238999462
 =tags Perl 6, Perl, newsletter, IRC, pastebot
 
-=abstract start
+
 
 In this part of the <a href="/perl6-tricks-and-treats">Perl 6 Tricks and Treats</a>
 newsletter we look into how to get started. Where to read the documentation, the spec-test.
@@ -11,7 +11,7 @@ the perl 6 evalbot and the pastebot used to share code snippets.
 
 We'll also check out what is the last element of an infinite list.
 
-=abstract end
+
 
 <hr>
 This entry was first sent out as part of the 

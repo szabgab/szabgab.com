@@ -2,13 +2,13 @@
 =timestamp 1510145131
 =tags Agile, estimates
 
-=abstract start
+
 
 I am a bit late to the show, but recently I bumped into the <a href="https://ryanripley.com/agile-for-humans/">Agile for Humans</a> podcast and started to listen to it from the very beginning. Today I listened to episode #5 from June 2015, a <a href="https://ryanripley.com/005-agile-for-humans/">panel discussion on #noestimates</a>. That is <a href="https://twitter.com/hashtag/NoEstimates">#noestimates</a> on Twitter.
 
 Let me just think aloud about the subject.
 
-=abstract end
+
 
 <h2>Estimates are unavoidable</h2>
 

@@ -2,14 +2,14 @@
 =timestamp 1357652835
 =tags Perl, CPAN, license, repository
 
-=abstract start
+
 
 Recently I posted two articles about the
 <a href="http://blogs.perl.org/users/gabor_szabo/2012/12/174-of-cpan-uploads-have-no-license-in-the-meta-files.html">license information of CPAN modules</a> and <a href="http://blogs.perl.org/users/gabor_szabo/2013/01/50-of-the-new-cpan-uploads-lack-a-repository-link.html">links to public version control systems</a> holding the source of those modules.
 
 Today I posted an article on <a href="http://perlmaven.com/fetching-meta-data-from-meta-cpan">how to fetch META data from Meta CPAN</a> so you can check the data for yourself.
 
-=abstract end
+
 
 This is especially interesting for CPAN authors who would like to make it easier
 to get contributions to their modules and who want to make it easier for people to use their

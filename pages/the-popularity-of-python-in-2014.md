@@ -2,13 +2,13 @@
 =timestamp 1420472673
 =tags Python, Alexa
 
-=abstract start
+
 
 In January 2014 I've published an article about the <a href="/the-popularity-of-perl-in-2013.html">popularity of Perl in 2013</a>.
 In that article I've also included a number of Python sites as well.  <a href="/the-popularity-of-perl-in-2014.html">This year</a>
 I've moved the Python part to this article and added a lot more sites.
 
-=abstract end
+
 
 As I don't have access to the logs of these sites, the second best approach I found is to look at the <a href="http://www.alexa.com/">Alexa</a> ranking of the sites.
 While it is far from being perfect it seems to have a strong correllation to what Google Analytics report.

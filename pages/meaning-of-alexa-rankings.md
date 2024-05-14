@@ -3,14 +3,14 @@
 =tags Alexa, Perl
 =format new
 
-=abstract start
+
 
 When you'd like to evaluate the popularity of a web-site where you don't have access to the logs, you don't have much choices.
 <a href="http://www.alexa.com/">Alexa</a> (that belongs to Amazon) collects some statistics.
 
 It is far from being exact, but it does have some correllation to the real visitor counts and pageviews.
 
-=abstract end
+
 
 According to <a href="http://www.alexa.com/about">their description</a> the ranking is calculated based on the
 pageviews and visits a site received in the 3 months preceding the given date, while the Alexa toolbar was active in the browser of the visitor.

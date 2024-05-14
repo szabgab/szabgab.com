@@ -2,12 +2,12 @@
 =timestamp 1451649585
 =tags PHP, Alexa
 
-=abstract start
+
 
 In January 2015 I've published an article about the <a href="/the-popularity-of-php-in-2014.html">popularity of PHP in 2014</a>.
 This is the updated report for January 2016.
 
-=abstract end
+
 
 
 <table class="popularity">

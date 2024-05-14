@@ -2,12 +2,12 @@
 =timestamp 1485118905
 =tags Perl, Python, JavaScript, Git, GitHub
 
-=abstract start
+
 
 This is the description of the Open Source meetings in Modiin, Israel.
 For dates and to RSVP visit <a href="https://www.meetup.com/Modiin-Tech-Talks/">our Meetup page</a>
 
-=abstract end
+
 
 This is an evening of working together on Open Source projects and learning from each other.
 

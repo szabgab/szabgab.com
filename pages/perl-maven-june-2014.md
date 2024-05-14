@@ -2,12 +2,12 @@
 =timestamp 1404211341
 =tags Perl, Perl Maven
 
-=abstract start
+
 
 A month ago the Perl Maven Pro subscription was <a href="/one-year-of-perl-maven-pro.html">one year old</a>.
 I outlined some plans back then but unfortunately I could not fully implement them last month.
 
-=abstract end
+
 
 I managed to publish only 5 articles on the <a href="http://perlmaven.com/">Perl Maven</a> site. 3 of them were
 for the <a href="http://perlmaven.com/pro">Pro subscribers</a>.

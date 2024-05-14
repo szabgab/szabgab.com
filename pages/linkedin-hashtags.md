@@ -2,12 +2,12 @@
 =timestamp 1594447422
 =tags LinkedIn
 
-=abstract start
+
 
 When you write content on LinkedIn one of the ways to let readers find you is by including hashtags.
 So it can be a good idea to check which keywords are followed by many people and which are followed by only a few.
 
-=abstract end
+
 
 There might be an API to fetch this information or there might be a site that shows me this information, but I am not aware of any of that.
 Besides, I like to have a snapshot of this data. This is not a comprehensive list, just the keywords I am interested in.

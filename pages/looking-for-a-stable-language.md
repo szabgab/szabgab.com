@@ -2,7 +2,7 @@
 =timestamp 1342646745
 =tags Perl, Perl 6, Python, Ruby
 
-=abstract start
+
 
 Do you want to be sure that when you upgrade any upstream stuff your code does not break?
 
@@ -13,7 +13,7 @@ the smallest function of the smallest CPAN module your code depends on.
 
 You just want to be sure everything works.
 
-=abstract end
+
 
 I totally understand you. After all who wants to see her code broken by some upstream change?
 

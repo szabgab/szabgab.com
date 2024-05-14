@@ -2,13 +2,13 @@
 =timestamp 1689143372
 =tags Rust
 
-=abstract start
+
 
 I am sure there are tons of similar solutions, but this is **mine**.
 This is mine and I can tweak it the way I like.
 And anyway it was really easy to create my first [Rust Crate](https://crates.io/).
 
-=abstract end
+
 
 [rustatic](https://crates.io/crates/rustatic) is a web server for static site primarily intended to be used
 while developing static web sites. I have a number of such sites and every time I have a different solution in the given

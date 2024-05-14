@@ -2,13 +2,13 @@
 =timestamp 1596704040
 =tags business, work
 
-=abstract start
+
 
 There are a number of different ways I earn money. Each one has its advantage and disadvantage.
 In this series of articles I'll go over the various ways I have been earning money as a self-employed,
 but I'll also include the possibility of full-time employment.
 
-=abstract end
+
 
 I do this partially to clarify my thoughts to myself, but I also hope thee can help you as well
 if you are thinking about similar topics.

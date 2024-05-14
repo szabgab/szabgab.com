@@ -2,7 +2,7 @@
 =timestamp 1577887616
 =tags Python, PyCon, PyConIL
 
-=abstract start
+
 
 I started to write this during the days immediately after <a href="https://pycon.org.il/2019/">PyConIL 2019</a> ended, but then
 I somehow did not send it and did not publish it. Now, more than half a year later when the main organizers
@@ -13,7 +13,7 @@ So I have rewritten it a bit.
 I had a minor part in organizing the event, specifically I was part of the team organizing the BOFs and the "After Party"
 at the end of the first day.
 
-=abstract end
+
 
 Hi,
 

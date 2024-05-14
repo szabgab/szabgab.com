@@ -2,7 +2,7 @@
 =timestamp 1577163695
 =tags Meetup, Workshop
 
-=abstract start
+
 
 Every day there are a number of technology-related <a href="https://www.meetup.com/">Meetups</a> in Tel Aviv and in other cities of Israel.
 The majority of them have the same schedule.
@@ -12,7 +12,7 @@ Ocassionally Pizza or other refreshment at the beginning or during the break.
 
 This is a reasonable format for many events, but I felt I would like to do something different. So I started to run <b><a href="https://workshops.code-maven.com/">Workshops</a></b>.
 
-=abstract end
+
 
 <h2>Hands-on Workshops</h2>
 

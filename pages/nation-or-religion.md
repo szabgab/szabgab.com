@@ -2,13 +2,13 @@
 =timestamp 1627238957
 =tags jews
 
-=abstract start
+
 
 Are the jews (is Judaism) a nation or a religion?
 
 This question has bothered many people throughout the years and many times it boiled down to someone trying to limit the rights of the jews.
 
-=abstract end
+
 
 Back in Hungary I remember people saying we jews are not Hungarian (as in the Hungarian nation), but then the basis of their argument
 was that we are not Christians. I recall the wife of a friend of mine asking my sister and myself why do we consider ourselves Hungarian.

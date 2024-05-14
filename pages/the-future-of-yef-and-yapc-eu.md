@@ -2,14 +2,14 @@
 =timestamp 1444759900
 =tags YAPC, YEF, TPF
 
-=abstract start
+
 
 <a href="http://www.tobez.org/">Anton Berezin</a> who runs <a href="http://yapceurope.org/">YEF, the YAPC Europe Foundation</a> gave 
 a presentation: <a href="http://www.tobez.org/presentations/2015-YAPC-EU/">YEF - a Turning Point</a>
 at <a href="http://act.yapc.eu/ye2015/">YAPC::EU in Granada</a> and he mentioned the YEF board is thinking about shutting down some of the
 activities of YEF.
 
-=abstract end
+
 
 <h2>YEF and YAPC::EU</h2>
 

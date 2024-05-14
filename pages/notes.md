@@ -2,11 +2,11 @@
 =timestamp 1552902720
 =tags DevOps, Tweets, LinkedIn
 
-=abstract start
+
 
 A bunch of tweets and posts to my LinkedIn network. Juts random ideas collected here.
 
-=abstract end
+
 
 
 Some people in StartUps think that they should introduce test automation only once they have a product released to the world. I beg

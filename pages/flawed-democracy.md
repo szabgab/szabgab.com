@@ -2,7 +2,7 @@
 =timestamp 1527404011
 =tags Israel, politics
 
-=abstract start
+
 
 Though I usually unfollow everyone who has shares Israel-bashing on Twitter, every now and then someone shares such a Tweet.
 For example today I saw some people sharing a link about some proposed law in Israel that will reduce the freedom of speech.
@@ -12,7 +12,7 @@ The point is that these people try to ridicule Israel being the only democracy i
 
 Yeah, I know this sound arrogant, so I went to check the <a href="https://en.wikipedia.org/wiki/Democracy_Index">Democracy Index</a> on Wikipedia.
 
-=abstract end
+
 
 It says Israel is a <b>Flawed democracy</b>. No 30 in the world among the 167 countries listed.
 

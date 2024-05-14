@@ -2,14 +2,14 @@
 =timestamp 1415638747
 =tags Perl
 
-=abstract start
+
 
 I am subscribed to <a href="https://opensource.com/">Open Source.com newsletter</a>.
 The other day, in their message there were two articles included I wanted to put in my public bookmarking.
 
 Unfortunately I don't have a public bookmark system.
 
-=abstract end
+
 
 So I kept the e-mail around till I write one. I've already looked at this e-mail 3 or 4 times, and every
 time I had the urge to start writing this application I want so much. This web application that would

@@ -2,7 +2,7 @@
 =timestamp 1377771467
 =tags Perl, Git, GitHub, GitPrep
 
-=abstract start
+
 
 I hear people talk about the lack of Perl programmers available.
 
@@ -12,7 +12,7 @@ I hear people say you should not promote Perl, but products based on Perl.
 
 So what is <b>GitPrep</b>?
 
-=abstract end
+
 
 <a href="http://gitprep.org/">GitPrep</a> is an Open Source GitHub clone written in
 Perl, using the <a href="http://mojolicio.us/">Mojolicious</a> web framework.

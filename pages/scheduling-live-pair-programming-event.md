@@ -2,12 +2,12 @@
 =timestamp 1618568371
 =tags programming, Zoom
 
-=abstract start
+
 
 As mentioned in another post, I've started to run <a href="/live-pair-programming.html">live pair programming events</a>. Scheduling one take quite some work.
 Let me describe it here so maybe I can think of ways to reduce the overhead.
 
-=abstract end
+
 
 <h2>Find the pair programming partner.</h2>
 

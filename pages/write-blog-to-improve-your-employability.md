@@ -2,11 +2,11 @@
 =timestamp 1593754399
 =tags blogs
 
-=abstract start
+
 
 In one of the recent <a href="https://code-maven.com/job-search">webinars</a> I had this epiphany about the value of writing a blog for anyone in the hi-tech world.
 
-=abstract end
+
 
 I used to say that is important because a future employer will be able to see the effort of the author and that will make it easier to get hired,
 but there is a much more important reason.

@@ -2,7 +2,7 @@
 =timestamp 1450441195
 =tags money
 
-=abstract start
+
 
 Earlier I mentioned a number of <a href="http://szabgab.com/content-marketing-experts.html">content marketing experts</a> I recommend you to follow.
 Today I saw a post from Pat Flynn, a new episode in his podcasts:
@@ -12,7 +12,7 @@ SPI 192: (Updated) Types of Passive Income Generated Online and What to Expect F
 
 It is a 50 min long podcast I recommend you listen to.
 
-=abstract end
+
 
 Personally, I have a hard time remembering things I just hear, but if I take notes and try to put my comments around the notes that helps
 a lot. So following you'll find my notes as I was listing to this podcast. Some might be even relevant to you.

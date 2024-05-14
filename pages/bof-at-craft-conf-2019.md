@@ -2,11 +2,11 @@
 =timestamp 1556517018
 =tags BOF
 
-=abstract start
+
 
 This is just a placeholder to help me plan the <a href="https://en.wikipedia.org/wiki/Birds_of_a_feather_(computing)">BOFs</a> for <a href="https://craft-conf.com/">Craft-Conf 2019</a>.
 
-=abstract end
+
 
 Once the schedule of the BOFs is ready, it will be published on the official Craft Conf website.
 

@@ -2,13 +2,13 @@
 =timestamp 1372069606
 =tags Perl, Perl Weekly
 
-=abstract start
+
 
 Today I am sending out the 100th edition of the <a href="http://perlweekly.com/">Perl Weekly newsletter</a>.
 
 So where are we after 100 weeks?
 
-=abstract end
+
 
 <h2>Thank you</h2>
 

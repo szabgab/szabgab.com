@@ -2,13 +2,13 @@
 =timestamp 1619011746
 =tags blogs
 
-=abstract start
+
 
 Recently I've started to have <a href="https://code-maven.com/live">live pair programming sessions</a> working on Open Source projects.
 
 However I keep asking myself: <b>What is my goal with these live pair programming sessions?</b>
 
-=abstract end
+
 
 A couple of things came to my mind:
 

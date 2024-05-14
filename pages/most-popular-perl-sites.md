@@ -2,13 +2,13 @@
 =timestamp 1347127919
 =tags Perl, Perl 6, Alexa
 
-=abstract start
+
 
 Have you ever wondered which Perl-related sites have the biggest audience?
 
 I checked it now.
 
-=abstract end
+
 
 Made a couple of groups. The number on the right is the rangking of
 the specific web site among all the web sites in the world.

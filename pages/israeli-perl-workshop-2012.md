@@ -2,7 +2,7 @@
 =timestamp 1329824339
 =tags Perl
 
-=abstract start
+
 
 It starts less than a week from now with a 
 <a href="http://act.perl.org.il/ilpw2012/wiki?node=Pre%20workshop%20social">Pre-Workshop Social meeting</a>
@@ -13,7 +13,7 @@ Then, on 28th February, a full day of Perl talks in two tracks.
 We conclude the event with a 
 <a href="http://act.perl.org.il/ilpw2012/wiki?node=Post%20workshop%20social">dinner after the workshop</a>.
 
-=abstract end
+
 
 There are two guests from Germany: <a href="http://act.perl.org.il/ilpw2012/user/3880">Stefan Hornburg (racke)</a>
 who will give two talks and <a href="http://act.perl.org.il/ilpw2012/user/1256">Florian Ragwitz (rafl)</a> who will

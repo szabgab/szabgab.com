@@ -2,13 +2,13 @@
 =timestamp 1533196620
 =tags Perl, MetaCPAN, CPAN
 
-=abstract start
+
 
 Number of visits per month of <a href="http://search.cpan.org/">search.cpan.org</a> between January 1, 2008 and December 2018.
 
 Number of visits per month of <a href="http://metacpan.org/">MetaCPAN</a> since January 1, 2012.
 
-=abstract end
+
 
 <h2>search.cpan.org</h2>
 

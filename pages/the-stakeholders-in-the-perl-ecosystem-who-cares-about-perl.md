@@ -2,12 +2,12 @@
 =timestamp 1269995499
 =tags CPAN, Perl, business, open source, ecosystem, training, Perl ecosystem, marketing
 
-=abstract start
+
 
 In this longish post I am trying to enumerate all the forces that care about Perl. 
 Both those who are <b>"just" having fun</b> and those who are <b>in for the money</b>.
 
-=abstract end
+
 
 Many people might react badly if I claim that they have financial interest
 in the well being of Perl as they see it only as fun. My feeling is that the

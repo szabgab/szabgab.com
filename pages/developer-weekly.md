@@ -2,7 +2,7 @@
 =timestamp 1504094625
 =tags newsletter
 
-=abstract start
+
 
 I am starting a new weekly newsletter called Developer Weekly.
 
@@ -10,7 +10,7 @@ There are over 100 "Engineering blogs" or "Developers blogs" published by major 
 Etsy, Netflix, Google. Just to name a few. Recently I have started to read them and there were quite a few interesting
 articles.
 
-=abstract end
+
 
 In this weekly newsletter I am going to include a few selected items with some commentary of my own.
 

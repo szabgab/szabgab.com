@@ -2,7 +2,7 @@
 =timestamp 1237797959
 =tags Perl 6, Perl, Rakudo, Parrot, newsletter, grants
 
-=abstract start
+
 
 In this part of the <a href="/perl6-tricks-and-treats">Perl 6 Tricks and Treats</a>
 newsletter we build Inline::Rakudo, a perl 5 module that allows us to embed perl 6 code
@@ -10,7 +10,7 @@ in our existing Perl 5 script. For example if you happen to build an
 <a href="http://padre.perlide.org/">IDE for Perl in Perl 5</a> then it might be very 
 useful to be able to run Perl 6 code within your process.
 
-=abstract end
+
 
 <hr>
 This entry was first sent out as part of the 

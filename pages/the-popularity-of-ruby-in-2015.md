@@ -2,12 +2,12 @@
 =timestamp 1451641914
 =tags Ruby, Alexa
 
-=abstract start
+
 
 In January 2015 I've published an article about the <a href="/the-popularity-of-ruby-in-2014.html">popularity of Ruby sites in 2014</a>
 measuring the relative popularity of various Ruby-related web sites. This is the update for January 2016.
 
-=abstract end
+
 
 
 <table class="popularity">

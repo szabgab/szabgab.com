@@ -2,8 +2,8 @@
 =timestamp 1595908729
 =tags blogs
 
-=abstract start
-=abstract end
+
+
 
 In order to get more clients I need to build up my whole funnel, but actually I already have tons of visitors,
 so now I should focus a lot more on creating the product/service I can sell and then on converting the

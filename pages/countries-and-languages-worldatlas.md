@@ -2,14 +2,14 @@
 =timestamp 1668886792
 =tags politics, colonization
 
-=abstract start
+
 
 One of the features of colonization is that in the colonized country the language of the colonizer becomes an official language. Maybe even the only official language.
 Even after the country gains independence.
 
 This is not necessarily the only way a language spreads to another country, but seems like a close proxy. So I wanted to see how various languages do on this fron.
 
-=abstract end
+
 
 The <a href="https://www.worldatlas.com/">World Atlas</a> provides some related data:
 

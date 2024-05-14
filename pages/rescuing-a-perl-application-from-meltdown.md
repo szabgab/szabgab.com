@@ -2,14 +2,14 @@
 =timestamp 1629042519
 =tags Perl, testing, BDD
 
-=abstract start
+
 
 A few years ago I had a client - a large non-hitech company with a small tech team and within that tech team an even smaller team that maintained an application written in Perl.
 The application was using a 3rd party and proprietary Perl library that itself forced a lot of limitation on the this team.
 
 Unfortunately the people who originally wrote the application have already moved on and the current team did not have a lot of experience in Perl.
 
-=abstract end
+
 
 The did not have to write Object Oriented code, nor something inherently very difficult, but they were stuck with the third-party library
 and the fear of management of a negative impact on the production. Which was creating reports.

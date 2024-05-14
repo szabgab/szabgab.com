@@ -2,12 +2,12 @@
 =timestamp 1637829866
 =tags blogs, Ladino, LibreLingo, languages
 
-=abstract start
+
 
 <a href="https://librelingo.app/">Libre Lingo</a> is an Open Source alternative to <a href="https://www.duolingo.com/">DuoLingo</a>
 
 
-=abstract end
+
 
 Yesterday, on November 24, 2021, I asked on the the <a href="https://forum.duolingo.com/">Duolingo forum</a> if people know
 <a href="https://forum.duolingo.com/comment/53997278">how the file format of Duoling looks like</a>. My thought was that I would

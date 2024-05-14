@@ -2,7 +2,7 @@
 =timestamp 1253599111
 =tags Perl, localization
 
-=abstract start
+
 
 I envy the <a href="http://www.php.net/">PHP</a> web site where they have 
 links to the translations of their <a href="http://www.php.net/docs.php">documentation.</a>
@@ -10,7 +10,7 @@ Even though it is not linked from the main page they seem to accept that not eve
 knows English well enough.
 In the Perl community we cold actually do much better than that. 
 
-=abstract end
+
 
 On <a href="http://perl.org/">perl.org</a> or maybe even 
 on <a http://perldoc.perl.org/">perldoc.perl.org</a> and on

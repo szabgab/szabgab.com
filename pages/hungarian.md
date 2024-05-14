@@ -2,12 +2,12 @@
 =timestamp 1679110230
 =tags Hungarian
 
-=abstract start
+
 
 I learned <a href="/spanish.html">Spanish</a> online and as some of my familiy memebers wanted to learn Hungarian I thought I could put together
 a list of suggestions I found on how to learn Hungarian as a second language when you don't live in Hungary. Especially how to do it online.
 
-=abstract end
+
 
 <a href="https://www.duolingo.com/">Duolingo</a> has a course teaching Hungarian for English speaker.  I used Duolingo to learn Spanish and I played with the Hungarian version a few times. I don't know how good is the beginning part teaching the extra letters and the sounds, but the rest is not bad. There are a number of other language learning apps. Some of them specialize on Hungarian, some are generic that might also have a Hungarian course. Try them.
 

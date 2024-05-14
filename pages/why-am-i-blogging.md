@@ -2,7 +2,7 @@
 =timestamp 1464939591
 =tags blogs, articles, Perl, Python, JavaScript
 
-=abstract start
+
 
 Now that I have more time again to focus on blogging and my own coding I was thinking quite a lot about why am I really blogging?
 I had a long period when I was trying to rally the Perl community to invest more energy in promoting what we do. I managed fairly
@@ -10,7 +10,7 @@ well getting some people to come to FOSDEM, T-Dose and a number of other events.
 
 In other areas I was less successful.
 
-=abstract end
+
 
 I even got some very negative feedback on some of the things I have been doing. In some cases, after a while the same people who criticized me followed my route.
 I am sure some of the stuff I do upsets people. Without they giving me real explanation I'll take that as a compliment.

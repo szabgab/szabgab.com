@@ -2,13 +2,13 @@
 =timestamp 1651724310
 =tags blogs
 
-=abstract start
+
 
 In the <a href="https://www.google.com/advanced_search">advanced search</a>
 Google allows us to specify the language in which we are searching in.
 To my surprise there are only 46 or so languages listed.
 
-=abstract end
+
 
 It is really strange given there are a lot more languages.
 As far as I know there are about 6,000 languages.

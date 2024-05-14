@@ -2,12 +2,12 @@
 =timestamp 1591643811
 =tags consultant
 
-=abstract start
+
 
 As a consultant I have clients where I spend a few days a week or even just a few days a month.
 I have an account in the internal calendar system and I would like an easy way to allow people to schedule meetings with me.
 
-=abstract end
+
 
 Normally a calendar show all days as "free" and you can mark timeslots or dates as "busy".
 That's good if the majority of the time you are "free" because you work at the company. It isn't as good if you need

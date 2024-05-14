@@ -2,7 +2,7 @@
 =timestamp 1628347137
 =tags ads
 
-=abstract start
+
 
 As a website owner who has content and tries to make some money from the ads, would you be ready to offer an ad-free option
 of your website to people who are ready to pay you some small monthly fee or a slightly larger one-time fee?
@@ -13,7 +13,7 @@ I know I would want both.
 
 I wonder, are there systems that make it easy for website owners to allow for ad-free browsing in exchange to some small fee?
 
-=abstract end
+
 
 <h2>Related Articles</h2>
 

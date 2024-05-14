@@ -2,7 +2,7 @@
 =timestamp 1255503521
 =tags Padre, Perl, IDE, editor
 
-=abstract start
+
 
 I am happy to announce the release of version 0.48 of 
 <a href="http://padre.perlide.org/">Padre, the Perl IDE</a>
@@ -11,7 +11,7 @@ Padre is written in Perl and it aimed to be the best editor
 for writing Perl scripts and applications. Both in Perl 5 
 and in Perl 6.
 
-=abstract end
+
 
 Thanks to the many contributors, in the recent versions it 
 gained a very good help system for both major versions of 

@@ -2,13 +2,13 @@
 =timestamp 1234081459
 =tags newsletter, testing, Perl 6, Perl, wrappers, shim, TAP
 
-=abstract start
+
 
 An entry of the <a href="/test-automation-tips">Test Automation Tips</a>
 discussing how we can use the Perl 5 testing system to run 
 TAP producing test in any language.
 
-=abstract end
+
 
 <hr>
 This entry was first sent out as part of the 

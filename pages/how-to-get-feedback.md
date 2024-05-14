@@ -2,7 +2,7 @@
 =timestamp 1329219393
 =tags Perl
 
-=abstract start
+
 
 When you write an article or a piece of code, when you submit a grant proposal or if you
 are running a <a href="http://perlweekly.com/">newsletter about Perl</a>, 
@@ -10,7 +10,7 @@ at one point you'll want to get some feedback.
 
 There are two ways to do that.
 
-=abstract end
+
 
 Ask for feedback,
 

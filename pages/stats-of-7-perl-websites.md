@@ -2,14 +2,14 @@
 =timestamp 1413630335
 =tags MetaCPAN, stats
 
-=abstract start
+
 
 Once in a while I share some stats of some of the Perl-related web sites. For example at the beginning of 2014 I
 wrote about the <a href="/the-popularity-of-perl-in-2013.html">popularity of Perl</a> bases on some numbers from 2013.
 
 This time I just share the numbers as appear in Google Analytics for a number of sites where I have access to this data.
 
-=abstract end
+
 
 <img src="/img/stats-of-5-perl-websites-2014-10.png" title="Stats of 5 Perl-related web sites" width="800" />
 

@@ -3,14 +3,14 @@
 =tags newsletter, testing, TAP, Perl, Perl 5, Smolder
 =indexes TAP, Smolder, Test::Harness, TAP::Formatter::HTML
 
-=abstract start
+
 
 It is not enough to run tests and get OKs and not OKs, it is also
 important to have a nice way to report these results. In this
 entry we are going to look at some of the ways TAP streams can 
 be displayed in a nicer way that pure text report.
 
-=abstract end
+
 
 <hr>
 This entry was first sent out as part of the 

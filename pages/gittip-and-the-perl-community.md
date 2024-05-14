@@ -2,7 +2,7 @@
 =timestamp 1398799732
 =tags Perl, Gittip
 
-=abstract start
+
 
 <a href="https://www.gittip.com/">GitTip</a> is a site providing "sustainable crowdfunding". The idea is that instead
 of a one-time sum people give very modest contribution but on a regular, weekly base.
@@ -11,7 +11,7 @@ At first I was a bit suspicious about the whole idea, but on the other hand for 
 
 I just did not understood it when I first saw it.
 
-=abstract end
+
 
 In a nutshell, people can commit to give a weekly sum as low as 0.01 USD (yes, 1 cent) and as high as 100 USD to one or more people
 or teams. The website provides the escrow functionality - it charges the money from the "givers" and sends the money to the "receivers".

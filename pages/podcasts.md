@@ -2,7 +2,7 @@
 =timestamp 1467920861
 =tags Podcasts
 
-=abstract start
+
 
 When I commute to work, or when I walk around as an exercise, or even when I hike, I have plenty of time to listen to stuff.
 In the recent years I have been using an app called
@@ -10,7 +10,7 @@ In the recent years I have been using an app called
 
 Anyway, let me share a number of podcasts I have been listening.
 
-=abstract end
+
 
 <h2>Programming and Testing related</h2>
 

@@ -2,11 +2,11 @@
 =timestamp 1689477771
 =tags blogs
 
-=abstract start
+
 
 My suggestion to my programming students is not to try to be perfect. Especially not on the first try. Instead of that mess around, make progress, but then later come back to your code and refactor it to make easier to read and to make it easier to make further progress.
 
-=abstract end
+
 
 The same seems to be true to other aspects of my own work. For example, I have many projects running at the same time and sometimes I can't finish a task before I need to switch to another task.
 It is not ideal. It is very far from being ideal, but this is what it is. Often I run out of the allocated time, or the day ends and I am too tired to finish a task. Sometimes more urgent issues take precence and that's the reason I cannot finish a task.

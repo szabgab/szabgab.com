@@ -2,13 +2,13 @@
 =timestamp 1254721436
 =tags Padre, Perl
 
-=abstract start
+
 
 <a href="http://padre.perlide.org/">Padre, the Perl IDE</a> is getting better 
 and better in how it can help the Perl programmer but we have a serious
 lack of explanations and demonstrations on how to use Padre itself.
 
-=abstract end
+
 
 I am very happy that <a href="http://perlwannabe.vox.com/">Peter Lavender</a> 
 has  just started to address this issue by adding a new entry to the 

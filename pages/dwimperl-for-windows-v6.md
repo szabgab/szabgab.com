@@ -2,7 +2,7 @@
 =timestamp 1328546640
 =tags Perl, Windows, Padre, Moose
 
-=abstract start
+
 
 Installing CPAN modules is time consuming. Having a Perl distribution that contains every
 CPAN module you'll ever need can save you lots of hours. It can also help in making sure
@@ -10,7 +10,7 @@ you always get working versions of the CPAN modules. Even if they are not the ab
 
 That's the idea behind DWIM Perl.
 
-=abstract end
+
 
 DWIM Perl will have releases for Window, Linux and hopefully for Mac as well.
 

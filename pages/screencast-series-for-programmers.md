@@ -2,7 +2,7 @@
 =timestamp 1420782456
 =tags Ruby, JavaScript, Ruby on Rails, Alexa
 
-=abstract start
+
 
 As I run a large <a href="https://perlmaven.com/">Perl-related</a> site with <a href="https://perlmaven.com/pro">screncasts</a>
 I wanted to look more closely at some of the other sites and services out there offering high-quality screencasts.
@@ -10,7 +10,7 @@ I wanted to look more closely at some of the other sites and services out there 
 Luckily, back in June 2013 Avdi Grimm posted a <a href="http://devblog.avdi.org/2013/06/21/a-list-of-programming-screencast-series/">list of programming screencast series</a>.
 I took that list, added some more links, and a lot of other information about the popularity of the sites, and about the cost of the subscriptions.
 
-=abstract end
+
 
 For each site I also looked up the <a href="http://alexa.com/">Alexa</a> ranking. It can give some indication
 about the relative popularity of those sites and you can also compare those

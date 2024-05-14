@@ -2,7 +2,7 @@
 =timestamp 1324563898
 =tags Perl, Ruby, Python, JavaScript, HTML5, NoSQL, DevOps
 
-=abstract start
+
 
 When it comes of being up to date in programming languages some people
 have the time to follow <a href="http://www.reddit.com/r/programming/">Reddit</a>
@@ -15,7 +15,7 @@ Yet others want both.
 
 In this post I collected 20 weekly curated newsletters you might want to subscribe to.
 
-=abstract end
+
 
 In ABC order. Last update: 2015.02.12
 

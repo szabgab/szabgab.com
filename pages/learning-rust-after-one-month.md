@@ -2,14 +2,14 @@
 =timestamp 1688883309
 =tags Rust
 
-=abstract start
+
 
 I have been learning Rust for almost a month now. I made some nice progress, but I still feel very frustrated. I still feel a total newbie
 and there are still a lot more things to learn.
 
 However, I feel I should take a little break now and describe what I did so far to learn Rust.
 
-=abstract end
+
 
 Reading [The Rust Programming Language](https://doc.rust-lang.org/stable/book/) is not easy for me.
 On one hand I feel overwhelmed by the text and I am too lazy to read all the text. When I try to read it there are many things that I do no understand.

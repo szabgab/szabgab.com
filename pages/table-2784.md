@@ -2,11 +2,11 @@
 =timestamp 1615961487
 =tags blogs
 
-=abstract start
+
 
 I just received this error message from the web site of my Bank. And to clarify, I only have an account in that bank, I don't own the whole bank.
 
-=abstract end
+
 
 <h2>So what happened and how can this be fixed?</h2>
 

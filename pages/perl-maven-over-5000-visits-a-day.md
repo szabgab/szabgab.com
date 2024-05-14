@@ -2,7 +2,7 @@
 =timestamp 1386763842
 =tags Perl
 
-=abstract start
+
 
 It was only a month ago that the <a href="http://perlmaven.com/">Perl Maven</a> site crossed the
 <a href="/working-with-django-perl-maven-over-4000.html">4,000 visits a day</a>
@@ -11,7 +11,7 @@ and only 2 months since it went over
 
 Yesterday it crossed the 5,000 visits a day line.
 
-=abstract end
+
 
 (All this according to <a href="http://clicky.com/">Clicky</a> which constantly shows
 higher numbers than Google Analytics, but they both show the growth.)

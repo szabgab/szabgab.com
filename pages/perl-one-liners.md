@@ -2,7 +2,7 @@
 =timestamp 1385132638
 =tags Perl
 
-=abstract start
+
 
 Making your computer do what you want provides great joy, but it requires skills.
 Especially it requires you to learn programming which can be a daunting task.
@@ -10,7 +10,7 @@ Writing short commands, so called one-liners, on the other hand is much easier.
 
 Especially if you have the right examples to get started.
 
-=abstract end
+
 
 Perl has been known as one of the most powerful programming languages,
 and probably the most flexible one.

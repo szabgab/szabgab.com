@@ -2,7 +2,7 @@
 =timestamp 1470025022
 =tags Perl
 
-=abstract start
+
 
 On 1st August 2011, exactly 5 years ago, the first edition of the Perl Weekly newsletter was published.
 Since then we have published 6,676 articles by 248 authors in 262 issues.
@@ -11,7 +11,7 @@ The number of <a href="https://twitter.com/perlweekly">Twitter followers</a> is 
 
 Let's celebrate!
 
-=abstract end
+
 
 <h2>Thanks to the editors</h2>
 

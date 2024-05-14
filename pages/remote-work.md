@@ -2,11 +2,11 @@
 =timestamp 1584971089
 =tags distributed, remote
 
-=abstract start
+
 
 Covid-19 will force us to stay at home for several weeks or even months and remote work will stay even after. So it is worth investing time to learn how to do it well. Learn from the successes and failures of other people.
 
-=abstract end
+
 
 I recommend you listen to this podcast: <a href="https://distributed.blog/podcast/">Distributed Podcast with Matt Mullenweg</a> who runs a company with over 1,000 employees in 70 countries and no office.
 

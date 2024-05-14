@@ -2,7 +2,7 @@
 =timestamp 1499957485
 =tags Bailador, Perl, Perl 6, book, crowdfunding
 
-=abstract start
+
 
 I've been working on the <a href="https://leanpub.com/bailador/">Bailador book</a> and the <a href="https://www.indiegogo.com/projects/book-web-application-development-in-perl-6-website--2/reft/775728/why1">Crowdfunding campaign</a> for more than 3 months now. About 2 of them publicly. The campaign ends in a week and the book already has 68 pages.
 
@@ -10,7 +10,7 @@ It might be time to explain why am I doing this?
 
 It's clear that the money is not good. I could earn a lot more in the time I spend on writing the book. Then why?
 
-=abstract end
+
 
 <h2>Help people like you</h2>
 

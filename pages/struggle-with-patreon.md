@@ -2,7 +2,7 @@
 =timestamp 1600843975
 =tags Business, Patreon
 
-=abstract start
+
 
 Since I restarted using Patreon on July 27, 2020 I noticed they run various courses to help the creators on Patreon improve their game.
 The second such "course" is starting today, it is called the "A-club" in which we are going to be divided into small groups to help each other.
@@ -11,7 +11,7 @@ Sounds interesting, we'll see how it works.
 Before it even starts they asked us to write a few words about ourselves and our goals. So I started to write about my struggle,
 but I feel I need to think and write about this more.
 
-=abstract end
+
 
 
 Here is the struggle:

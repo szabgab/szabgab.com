@@ -2,7 +2,7 @@
 =timestamp 1407400294
 =tags Perl, Catalyst, Dancer, Mojolicious, StackOverflow
 
-=abstract start
+
 
 I am not exactly sure why did I look at these numbers, or what would they mean, but here they are:
 
@@ -12,7 +12,7 @@ I am not exactly sure why did I look at these numbers, or what would they mean, 
 <li><a href="http://stackoverflow.com/questions/tagged/dancer">133 Dancer</a></li>
 </ul>
 
-=abstract end
+
 
 <h2>Perl Maven</h2>
 

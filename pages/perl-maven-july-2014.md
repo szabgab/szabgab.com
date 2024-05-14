@@ -2,7 +2,7 @@
 =timestamp 1407605831
 =tags Perl, Perl Maven
 
-=abstract start
+
 
 July started out as a productive month, but I was also on vacation with my family.
 As in July I am running a course in Germany, I had to update my Test Automation using Perl slides.
@@ -11,7 +11,7 @@ In the end I published less Perl Maven videos than I expected.
 
 Anyway.
 
-=abstract end
+
 
 <h2>Perl Maven Pro</h2>
 

@@ -2,13 +2,13 @@
 =timestamp 1547802906
 =tags Perl, CPAN
 
-=abstract start
+
 
 Once in a while I check the ranking of various Perl-related web sites using Alexa.
 Today, January 18, 2019, I checked <a href="https://cpan.org">cpan.org</a> and I was surprised to see that it is still
 in a rather good place: 165,690.
 
-=abstract end
+
 
 See the current status at: <a href="https://www.alexa.com/siteinfo/cpan.org">Alexa for cpan.org</a>
 

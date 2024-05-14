@@ -2,7 +2,7 @@
 =timestamp 1701933829
 =tags Rust, Instagram, marketing
 
-=abstract start
+
 
 I am not a regular [Instagram](https://www.instagram.com/) user, but somtimes I open it and try to figure out how it works.
 
@@ -15,7 +15,7 @@ As having a popular Instagram account about Rust might fit will with my [plans w
 
 So welcome to the [Rust Maven on Instagram](https://www.instagram.com/rust_maven/).
 
-=abstract end
+
 
 I already had an account called Code Maven with a few followers, but only two posts. I renamed the account to [Rust Maven](https://www.instagram.com/rust_maven/),
 removed the old posts and published a few images of code. I mentioned it in the [Rust Maven newsletter](https://rust.code-maven.com/subscribe) and posted about it

@@ -2,7 +2,7 @@
 =timestamp 1485529265
 =tags Chess, translation, Wikipedia
 
-=abstract start
+
 
 My father was born almost 100 years ago, on 19 March 1917.
 
@@ -11,7 +11,7 @@ I miss him a lot.
 Unfortunately I cannot tell him how much I love him, but, with your help,
 I can help more people read about his life and his accomplishments as a Chess player.
 
-=abstract end
+
 
 <img src="/img/laszlo_szabo_1966_375px.jpeg" title="László Szabó">
 

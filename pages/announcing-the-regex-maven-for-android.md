@@ -2,7 +2,7 @@
 =timestamp 1353878156
 =tags Perl, promotion, regex, Android
 
-=abstract start
+
 
 I am currently attending a <a href="http://mobileweb.ynonperek.com/">course learning Mobile Application development using web technologies</a>.
 We look at HTML5, CSS3, JavaScript, and how to put all these together to create an application
@@ -13,7 +13,7 @@ As a project in the course each one of us had to come up with an idea, implement
 
 I started to build the Regex Maven project and uploaded the first pre-alpha version.
 
-=abstract end
+
 
 <h2>What is Regex Maven?</h2>
 

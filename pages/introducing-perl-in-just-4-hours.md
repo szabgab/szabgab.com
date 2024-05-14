@@ -2,7 +2,7 @@
 =timestamp 1332679636
 =tags Perl
 
-=abstract start
+
 
 I was recently asked to give a 4 hour long presentation introducing Perl.
 
@@ -19,7 +19,7 @@ can Perl be useful and/or to see what they might learn from Perl.
 I need your help in improving this offer.
 What do you think should be covered in this?
 
-=abstract end
+
 
 <h2>The plan</h2>
 

@@ -2,7 +2,7 @@
 =timestamp 1704353039
 =tags blogs, Rust
 
-=abstract start
+
 
 Recently I added the total number of articles to the [archive of Rust Maven](https://rust.code-maven.com/archive) and so today I noticed that I've just published the
 100th article on the [Rust Maven](https://rust.code-maven.com/) site.
@@ -10,7 +10,7 @@ Recently I added the total number of articles to the [archive of Rust Maven](htt
 OK, it is a tiny cheating as I can see the list also includes the [about page](https://rust.code-maven.com/about) and the page to
 [subscribe to the Rust Maven newsletter](https://rust.code-maven.com/subscribe).
 
-=abstract end
+
 
 The first post on the Rust Maven site is dated 2023-08-27, slightly more than 4 months ago.
 

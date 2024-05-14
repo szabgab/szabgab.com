@@ -2,7 +2,7 @@
 =timestamp 1348733884
 =tags Perl, Perl 6
 
-=abstract start
+
 
 Do you know <a href="http://railsrumble.com">Rails Rumble</a> or <a href=" http://nodeknockout.com/">Node Knockout</a>?
 
@@ -13,7 +13,7 @@ It's time time that we, in the Perl community will have our own competition!
 
 Let me announce the <a href="http://perlmaven.com/">Perl Maven Competition</a>
 
-=abstract end
+
 
 The idea is, that you put together small teams - up to 4 people in each team.
 During a virtual weekend in December 2012, we get together - virtually, that is -

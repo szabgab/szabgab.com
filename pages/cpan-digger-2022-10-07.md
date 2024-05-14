@@ -2,11 +2,11 @@
 =timestamp 1666425895
 =tags blogs
 
-=abstract start
+
 
 <a href="https://cpan-digger.perlmaven.com/">CPAN::Digger</a>
 
-=abstract end
+
 
 Statistics
 

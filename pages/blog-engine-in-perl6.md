@@ -2,7 +2,7 @@
 =timestamp 1493611359
 =tags Perl, Perl 6, blog
 
-=abstract start
+
 
 In order for Perl 6 to succeed, it need books and it needs applications to be written in it.
 
@@ -14,7 +14,7 @@ So I am wondering if there is enough interest in the community that warrants the
 to build a blog engine in Perl 6, write a book describing the proces, and maybe even to create
 a video series.
 
-=abstract end
+
 
 The way I could find this out is to run a crowdsourcing campaign and to see if I can
 raise enough money to spend the necessary time on the project.

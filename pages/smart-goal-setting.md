@@ -2,7 +2,7 @@
 =timestamp 1601361946
 =tags SMART
 
-=abstract start
+
 
 <ul>
 <li>Specific</li>
@@ -12,7 +12,7 @@
 <li>Time-Related</li>
 </ul>
 
-=abstract end
+
 
 <a href="https://blog.hubspot.com/marketing/smart-goal-examples">Hubspot</a> 5 Dos and Don'ts When Making a SMART Goal.
 

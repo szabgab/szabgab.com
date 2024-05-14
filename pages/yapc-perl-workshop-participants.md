@@ -2,7 +2,7 @@
 =timestamp 1435167569
 =tags Perl, YAPC, Workshop
 
-=abstract start
+
 
 I went over the web-site of some of the recent Perl workshops and most of the Perl Conferences (YAPCs)
 looking for the number of participant and the number of talks on each event.
@@ -10,7 +10,7 @@ looking for the number of participant and the number of talks on each event.
 I managed to collect the data from most of YAPCs in Europe and North America,
 but unfortunately I could not find the respective information in the YAPC::Asia sites.
 
-=abstract end
+
 
 d-X  means how many days before the event. Where we don't have such indication that means
 the numbers were take <b>after</b> the event. I've included those numbers so future organizers

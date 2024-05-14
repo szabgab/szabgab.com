@@ -2,7 +2,7 @@
 =timestamp 1632998356
 =tags asynchronous
 
-=abstract start
+
 
 Just as the world started to work from home, I wrote this message on "Tue, 24 Mar 2020 13:24:45 +0000" to the team I was working with at one of my clients.
 I only changed a few place to make the text more generic without the specific names of the people.
@@ -13,7 +13,7 @@ A year and a half later the team was dissolved. Most of the members of that team
 Since then I also did a lot of pair-programming which is in its essence a synchronous way of working and I'll need to combine that into these thoughts, but nevertheless,
 I think being able to maintain asynchronous communication can be very valuable to the organization.
 
-=abstract end
+
 
 Hi all,
 

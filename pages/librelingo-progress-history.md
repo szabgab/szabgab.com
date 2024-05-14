@@ -2,11 +2,11 @@
 =timestamp 1642270328
 =tags LibreLingo
 
-=abstract start
+
 
 Though a better programmer could have probably done a much better job, much faster, but I think I made a reasonable progress today.
 
-=abstract end
+
 
 In the morning I was complaining about the <a href="/yak-shaving-for-ladino.html">Yak shaving while learning Ladino</a> and then
 but then I got to the conclusion that I need to be able to <a href="/measuring-progress-with-ladino.html">measure my progress</a>.

@@ -2,14 +2,14 @@
 =timestamp 1344945520
 =tags Perl, community
 
-=abstract start
+
 
 At the end of April 2012 I collected some data on the number of members of
 the <a href="/facebook-vs-google-plus-for-perl-projects.html">Google+ and Facebook pages of Perl projects</a>.
 
 I left out LinkedIN but as Gautam Dey also mentioned, it would be interesting to see the numbers there too.
 
-=abstract end
+
 
 <table>
 <tr><td>Project/Site</td><td>LinkedIN</td></tr>

@@ -2,7 +2,7 @@
 =timestamp 1593574371
 =tags marketing, sales
 
-=abstract start
+
 
 If you don't know what they are, just search for the term **sales funnel** or **marketing funnel**.
 
@@ -15,7 +15,7 @@ They are basically interchangeable terms for the idea that
                 fewer will
                    buy
 
-=abstract end
+
 
 You see that looks like a triangle, but it is actually a funnel.
 

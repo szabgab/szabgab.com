@@ -2,7 +2,7 @@
 =timestamp 1345024718
 =tags Perl, community
 
-=abstract start
+
 
 Sometimes people ask me: <b>How many people are in the Perl community?</b>
 
@@ -12,7 +12,7 @@ or <b>Who is in the Perl community?</b>.
 If this is in a <a href="/training.html">Perl training class</a>, especially in a beginner
 level training class, I cannot do that. I need to come up with a number and 42 does not work well.
 
-=abstract end
+
 
 <h2>The Onion</h2>
 

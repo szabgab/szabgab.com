@@ -2,13 +2,13 @@
 =timestamp 1628850069
 =tags CI, testing, Docker, Kubernetes, cloud
 
-=abstract start
+
 
 I have a client that has a great in-house application that was written by a very talented programmer.
 
 Unfortunately he has already left the company.
 
-=abstract end
+
 
 
 The project uses kubernetes and as of now cannot be used without kubernetes and outside of a specific cloud system as it also relies on the file storage of that specific cloud system.

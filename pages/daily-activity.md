@@ -2,7 +2,7 @@
 =timestamp 1610445029
 =tags blog, Perl, Python, LinkedIn, Facebook
 
-=abstract start
+
 
 The majority of my supporters on <a href="https://www.patreon.com/szabgab">Patreon</a>, are in the lowest tier and I feel that I rarely publish content on Patreon
 that is public. So they hardly get any notifications from me.
@@ -11,7 +11,7 @@ It might seem to them that I don't do much these days, so I wrote them this mess
 
 Almost daily I record videos of <a href="https://code-maven.teachable.com/">my courses</a> and also publish them to the people in the higher tiers, on Patreon.
 
-=abstract end
+
 
 In addition almost daily I post code snippets with explanations on several social channels in two (programming) language: <b>Perl</b> and <b>Python</b>.
 

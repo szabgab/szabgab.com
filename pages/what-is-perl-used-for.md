@@ -2,14 +2,14 @@
 =timestamp 1252842613
 =tags Perl, web, testing, CM, configuration management, bioinformatics, games
 
-=abstract start
+
 
 Recently I was asked <b>What is Perl used for?</b>. I typed 
 in the question in Google but I did not get a satisfactory answer. 
 So I decided to spend some time wring up a list of fields and some example
 application just to end up pointing to 3 much better lists.
 
-=abstract end
+
 
 
 <h2>Web site and web application development</h2>

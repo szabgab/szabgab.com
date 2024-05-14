@@ -2,11 +2,11 @@
 =timestamp 1360330106
 =tags Perl
 
-=abstract start
+
 
 People are concerned. Is there a future for Perl?
 
-=abstract end
+
 
 I started to write this post back in August 2012, right after PRS and YAPC::EU, but then ... you know, I got distracted.
 Due to the recent discussions I just felt it might be a good time to clean up what I have, add my new thoughts and

@@ -2,14 +2,14 @@
 =timestamp 1253307428
 =tags Perl, promotion
 
-=abstract start
+
 
 The <a href="http://pcas.szabgab.com/">Perl Community AdServer</a> is almost
 2 years old. It is serving many thousands of one-line messages a day from
 the Perl community via the websites of the community. I am looking for more
 promotional messages and more places to display these messages.
 
-=abstract end
+
 
 It is a simple Adserver. Members of the various Perl Monger groups from
 around the world and participants of the various Perl projects

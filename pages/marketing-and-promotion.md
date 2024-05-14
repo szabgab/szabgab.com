@@ -2,7 +2,7 @@
 =timestamp 1579344921
 =tags Marketing
 
-=abstract start
+
 
 I am far from being a marketing expert, but I think many people confuse "marketing" with "promotion".
 
@@ -10,7 +10,7 @@ In this post I'll try to clarify my understanding of the subjects. I make this p
 
 On the other hand if it confuses you then, well, what did you really expect?
 
-=abstract end
+
 
 <h2>The 2020 vision of Dave Cross</h2>
 

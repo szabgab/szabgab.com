@@ -2,7 +2,7 @@
 =timestamp 1598425243
 =tags business, work
 
-=abstract start
+
 
 I had a number of long-term contracts during the 20 years I have been self-employed.
 
@@ -11,7 +11,7 @@ None of them really started as a long-term contract but I stayed at the client f
 The work was usually in the areas of DevOps, Test Automation, setting up CI systems.
 I worked on many small in-house web applications. Many batch-jobs.
 
-=abstract end
+
 
 <h2>Advantages</h2>
 

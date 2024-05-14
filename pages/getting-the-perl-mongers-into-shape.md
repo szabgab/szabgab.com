@@ -2,14 +2,14 @@
 =timestamp 1254982764
 =tags Perl, Perl ecosystem, Perl Mongers, Perl community
 
-=abstract start
+
 
 The <a href="http://www.pm.org/">Perl Mongers</a>, as we call the mostly location
 specific Perl user groups is one of the key binding tools of the 
 <a href="/blog/tags/Perl community">Perl community</a>
 and that of the larger <a href="/blog/tags/Perl ecosystem">Perl ecosystem</a>.
 
-=abstract end
+
 
 According to the Perl Mongers web site there are several hundred groups spread 
 on all the continents but if you try to actually visit the web sites of 

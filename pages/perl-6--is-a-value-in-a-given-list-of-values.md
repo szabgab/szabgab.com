@@ -3,14 +3,14 @@
 =tags Perl 6, Perl, newsletter, junctions
 =redirect http://perl6maven.com/perl6-is-a-value-in-a-given-list-of-values
 
-=abstract start
+
 
 The third entry of the <a href="/perl6-tricks-and-treats">Perl 6 Tricks and Treats</a>
 newsletter. Here you can read about how to find out if a given value is
 among some values similar to the IN operator in SQL or what you might thing
 about sets.
 
-=abstract end
+
 
 <hr>
 This entry was first sent out as part of the 

@@ -2,12 +2,12 @@
 =timestamp 1610355037
 =tags Perl, courses
 
-=abstract start
+
 
 In the last few days I have been working on a new Perl course. It is called <a href="https://code-maven.teachable.com/p/parallel-processing-in-perl">Parallel processing in Perl</a>
 and it is being sold on Teachable now.
 
-=abstract end
+
 
 I prepared several examples showing speed improvement when using <b>fork</b> in Perl. Rented a server at <a href="https://code-maven.com/digitalocean">Digital Ocean</a>
 so I can show what happens if you have 32 cores. It was interesting. I was a bit nerveous while recording it as that server is rather expensive. About $640 / month.

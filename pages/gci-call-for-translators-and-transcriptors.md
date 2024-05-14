@@ -2,7 +2,7 @@
 =timestamp 1322059005
 =tags Perl, GCI, Google, translation, transcription, screencast, Moose, Padre
 
-=abstract start
+
 
 The GCI - Google Code-In - has started 2 days ago.
 <a href="http://www.perlfoundation.org/">The Perl Foundation</a> participates
@@ -13,7 +13,7 @@ The dead-line for the first round was extended to 27 November 2011.
 In the 2 days since it started, I think I saw what is missing.
 I'd like to ask for your help.
 
-=abstract end
+
 
 <h2>Translations</h2>
 

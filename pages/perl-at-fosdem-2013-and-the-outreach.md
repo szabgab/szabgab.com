@@ -2,7 +2,7 @@
 =timestamp 1359366112
 =tags Perl, FOSDEM, outreach
 
-=abstract start
+
 
 As you can read on the post of
 <a href="https://nxadm.wordpress.com/2013/01/28/perlfosdem2012_wewill_be_there/">Claudio Ramirez (aka El-Che)</a>
@@ -10,7 +10,7 @@ and <a href="http://wendyga.wordpress.com/2013/01/27/15/">Wendy G.A. van Dijk (a
 be a <a href="https://fosdem.org/2013/schedule/track/perl/">Perl dev-room at FOSDEM 2013</a> that takes place on 2-3
 February 2013 in Brussels, Belgium.
 
-=abstract end
+
 
 It's awesome as this was a last-minute chance to fill a dev-room that was canceled by some other group.
 Within just 2-3 days, these two people managed to get the word out and bring in 14 speakers with 14 talks and they even

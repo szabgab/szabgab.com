@@ -3,7 +3,7 @@
 =tags Perl
 =indexes .., flip-flop, range
 
-=abstract start
+
 
 There are lots of software and devices that generate log files in which
 each record of data spreads multiple lines. If the file is too big to fit into
@@ -11,7 +11,7 @@ memory - and log files can be huge - then we have no choice but read the file
 line-by-line, recognize the records manually and process each record after we
 collected all the lines belonging to this record.
 
-=abstract end
+
 
 <h2>A log file with multi-line records</h2>
 

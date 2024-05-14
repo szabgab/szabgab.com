@@ -2,12 +2,12 @@
 =timestamp 1247571588
 =tags Perl, Perl 6, files, newsletter
 
-=abstract start
+
 
 As part of the <a href="/perl6-tricks-and-treats">Perl 6 Tricks and Treats</a>
 newsletter we are dealing with reading and writing files.
 
-=abstract end
+
 
 <hr>
 This entry was first sent out as part of the 

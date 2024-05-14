@@ -2,14 +2,14 @@
 =timestamp 1324311087
 =tags Perl, TODO
 
-=abstract start
+
 
 I have lots of things to TODO in the coming weeks which always makes me less productive.
 I need to somehow prioritize my tasks.
 
 Or at least list them.
 
-=abstract end
+
 
 <h2>Perl Maven video courses</h2>
 

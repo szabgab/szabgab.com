@@ -2,7 +2,7 @@
 =timestamp 1518606727
 =tags retrospective
 
-=abstract start
+
 
 Restrospectives are a key tool in Agile practices. They enable your team to see what went well, what went bad.
 What could be strengthened and what should be avoided. Personal retrospectives can help you look back, evaluate
@@ -11,7 +11,7 @@ your past year or so and then plan for the next one.
 <a href="https://www.thekua.com/">Patrick Kua</a> has <a href="https://twitter.com/patkua">tweeted</a> a few links that are worth checking out.
 I have collected them here for our convenience. Added some of my thoughts and some additional links.
 
-=abstract end
+
 
 <a href="https://greatist.com/live/reflect-on-your-year">How to Reflect on Your Year in an Actually Useful Way</a>
 Amy Eisinger suggests took on the bright side of life. Either do a Month-by-Month Review or a Life Area Review. You might also create a table. Each column is an area

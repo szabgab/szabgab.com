@@ -2,7 +2,7 @@
 =timestamp 1596704049
 =tags business, work
 
-=abstract start
+
 
 After I graduated with a Bachelor degree in Computer Science in 1993 I worked full-time at various hi-tech companies till 1998.
 After that I had a failed start-up experiment and returned to work as an employee for a few more months before that
@@ -10,7 +10,7 @@ company was closed and I became full-time self-employed.
 
 This is part of my series about <a href="/business-models.html">Business Models and Income Streams</a>.
 
-=abstract end
+
 
 <h2>Fill time employment</h2>
 

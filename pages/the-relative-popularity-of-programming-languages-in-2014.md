@@ -2,14 +2,14 @@
 =timestamp 1421265318
 =tags PHP, Perl, Python, Ruby, JavaScript, Dart, Alexa
 
-=abstract start
+
 
 I am mostly interested in the Dynamic and Open Source languages so there is no Java and C# and Objective-C in this comparison.
 There are two tools I've used. Google Trends and Alexa.
 
 Last year I had a <a href="/the-popularity-of-perl-in-2013.html">similar report</a>.
 
-=abstract end
+
 
 <h2>Google Trends</h2>
 

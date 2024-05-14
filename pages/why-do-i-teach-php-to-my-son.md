@@ -2,13 +2,13 @@
 =timestamp 1253517244
 =tags Perl, PHP, Hebrew, training, learning, children, web, tutorial
 
-=abstract start
+
 
 I know Perl way better than I know PHP and I think in many aspects 
 it is a better language but still I found it easier to get my 11 year old
 son learn PHP than to learn Perl.
 
-=abstract end
+
 
 He learned some HTML a year ago in a summer-camp, then I taught him
 some CSS - the little I know - and a little Javascript, but he was not

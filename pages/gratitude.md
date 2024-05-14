@@ -2,11 +2,11 @@
 =timestamp 1627048345
 =tags blogs
 
-=abstract start
+
 
 I just read this article: <a href="https://greatergood.berkeley.edu/article/item/is_gratitude_good_for_your_health">Is Gratitude Good for Your Health?</a>
 
-=abstract end
+
 
 Is gratitude good for health or are healthy people more grateful?
 

@@ -2,14 +2,14 @@
 =timestamp 1609568192
 =tags LinkedIn, Perl
 
-=abstract start
+
 
 Today the number of followers of the <a href="https://www.linkedin.com/showcase/perl-maven/">Perl Maven LinkedIn page</a> surpassed the
 number of followers of the <a href="https://www.linkedin.com/feed/hashtag/?keywords=perl">#perl</a> hashtag.
 
 Given the rather low number of followers is not a huge accomplishment, but it it is still something to mention and celebrate.
 
-=abstract end
+
 
 In the beginning of July I <a href="/linkedin-pages.html">created several technology-specific LinkedIn pages</a> including one called
 <a href="https://www.linkedin.com/showcase/perl-maven/">Perl Maven</a>.

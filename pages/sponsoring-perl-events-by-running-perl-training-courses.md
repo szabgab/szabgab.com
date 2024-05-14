@@ -2,13 +2,13 @@
 =timestamp 1392777091
 =tags Perl, YAPC, training, sponsorship
 
-=abstract start
+
 
 I just went over the <a href="http://perlweekly.com/events.html">events listed on the Perl Weekly site</a>
 to see which one is mentioning the Perl Weekly as media partner, and which one should I still ask...
 What I noticed is that most of the events are looking for sponsors.
 
-=abstract end
+
 
 Unfortunately I can't offer monetary sponsorship <b>out of my pocket</b>, but I can offer
 <b>my time</b> and <b>my work</b>.

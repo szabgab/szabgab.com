@@ -2,7 +2,7 @@
 =timestamp 1592571537
 =tags YouTube
 
-=abstract start
+
 
 The last time I wrote about it was back on 28 July 2016 - almost 4 years ago when
 I celebrated <a href="/youtube-channel-at-200000-views.html">200,000 view on my YouTube channel</a>
@@ -11,7 +11,7 @@ Then for 4 years I have not done almost anything with the channel.
 About half a year ago I recorded and uploaded a bunch of videos in Hebrew, but only recently, about 2 months ago
 in the middle of being home-bound due to the Corona virus did I start to pay a bit more attention.
 
-=abstract end
+
 
 <h2>YouTube and languages</h2>
 

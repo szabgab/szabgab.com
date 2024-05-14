@@ -2,12 +2,12 @@
 =timestamp 1347543016
 =tags Perl, conferences
 
-=abstract start
+
 
 ConFoo is one of the most important developer-oriented conferences in North-America.
 It has a wide range of topics, but as of now, Perl is not included yet.
 
-=abstract end
+
 
 It would be awesome if some of the local Perl Mongers
 (e.g. from <a href="http://montreal.pm.org/">Montréal</a>,

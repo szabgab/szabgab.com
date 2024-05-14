@@ -2,7 +2,7 @@
 =timestamp 1369141276
 =tags Perl, Python, PHP, Ruby, HTML5
 
-=abstract start
+
 
 Once in a while someone looks up some numbers regarding Perl and other languages, sees a downward graph, rings the
 warning bells, and then others start saying why is that not important, and there are more modules on CPAN anyway...
@@ -18,7 +18,7 @@ So I looked at the <a
 href="http://www.google.com/trends/explore#q=perl%2C%20php%2C%20python%20-monty%2C%20ruby%20-pokemon%2C%20html5&cmpt=q">Google
 Trends</a> for the above 5 terms and tried to understand what I see there.
 
-=abstract end
+
 
 <h2>The decline of programming languages?</h2>
 

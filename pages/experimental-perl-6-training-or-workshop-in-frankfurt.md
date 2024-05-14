@@ -2,12 +2,12 @@
 =timestamp 1235024629
 =tags Perl 6, Perl, Frankfurt, Germany
 
-=abstract start
+
 
 Details about the Perl 6 training I give in Frankfurt, Germany
 on 28th February 2009.
 
-=abstract end
+
 
 There is less than a week till the 
 <a href="http://www.perl-workshop.de/en/2009/index.html">German Perl Workshop</a>

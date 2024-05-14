@@ -2,13 +2,13 @@
 =timestamp 1613465810
 =tags DevOps
 
-=abstract start
+
 
 I am not surprised, but a bit sad that many people describe <b>DevOps</b> as the person responsible to make a piece of software run after the developers have developed it.
 
 That's the description of <b>Operations</b>, and even then I'd say "<b>old school operation</b>".
 
-=abstract end
+
 
 DevOps is the idea that developers and operations people can work together in a single team
 and that developers are also responsible for the running of the software (if it is a service).

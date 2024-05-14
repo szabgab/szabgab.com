@@ -3,12 +3,12 @@
 =tags Perl, Perl 6, regex, newsletter
 =redirect http://perl6maven.com/perl6-regexes
 
-=abstract start
+
 
 Making the first steps learning regular expressions in Perl 6
 in the <a href="/perl6-tricks-and-treats">Perl 6 Tricks and Treats</a> newsletter.
 
-=abstract end
+
 
 
 <h2>Welcome back to the Perl 6 Tricks and Treats</h2>

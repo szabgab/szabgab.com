@@ -2,7 +2,7 @@
 =timestamp 1325157237
 =tags Perl, marketing, Perl Weekly
 
-=abstract start
+
 
 In the <a href="https://perlweekly.com/archive/22.html">latest issue</a> of the <a href="https://perlweekly.com/">Perl Weekly</a>
 I mentioned I'll need to find new ways to promote the Perl Weekly. I am not sure if because of that but
@@ -11,7 +11,7 @@ I mentioned I'll need to find new ways to promote the Perl Weekly. I am not sure
 two one-liners to the Moscow Perl Mongers and <a href="http://kiev.pm.org/">Kiev Perl Mongers</a>
 resulting in about <b>50 new subscribers</b>.
 
-=abstract end
+
 
 I think we, in the Perl community, though maybe this is the same in general among programmers and IT personnel,
 we greatly underestimate the power of recommendation and referral. Maybe its only me, but I think we dislike

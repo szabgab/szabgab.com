@@ -2,13 +2,13 @@
 =timestamp 1700549906
 =tags Rust, plans
 
-=abstract start
+
 
 I have been investing more and more in Rust in the recent months. It might be time to formulate a plan. A more well defined plan.
 
 Or at least collect my thoughts on the topic.
 
-=abstract end
+
 
 ## Content
 

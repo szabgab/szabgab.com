@@ -2,13 +2,13 @@
 =timestamp 1420545991
 =tags JavaScript, Alexa
 
-=abstract start
+
 
 In January 2014 I've published an article about the <a href="/the-popularity-of-perl-in-2013.html">popularity of Perl in 2013</a>.
 This time I've created a number of separate pages for dynamic programming languages.
 This page covers sites that have JavaScript as their primary focus.
 
-=abstract end
+
 
 As I don't have access to the logs of these sites, the second best approach is to look at the <a href="http://www.alexa.com/">Alexa</a> ranking of the sites.
 While it is far from being perfect, it seems to have a strong <a href="/meaning-of-alexa-rankings.html">correllation to what Google Analytics reports</a>

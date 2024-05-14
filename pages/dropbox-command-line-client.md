@@ -2,7 +2,7 @@
 =timestamp 1628405514
 =tags Dropbox, Go, Open Source, CLI
 
-=abstract start
+
 
 I am trying to clean up stuff I saved ages ago on some external disks.
 Part of them are old files that we don't need now, but I would like to ensure they will be around even if the external disks get destroyed.
@@ -11,7 +11,7 @@ So I wanted to upload the content to our Dropbox.
 On the other hand I also don't want to full rely on Dropbox. I would like to be able to create a back of everything I have in Dropbox
 to some external disks and put them in a safe.
 
-=abstract end
+
 
 If I had a disk in my computer big-enough to hold this data then I could just use <b>rsync</b> from the internal disk to the external disk.
 But I don't have. Actually my internal SSD is quite big. I have a 512 Gb internal disk and I also have 512Gb micro-SSD  plugged in to my computer.

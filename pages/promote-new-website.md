@@ -2,14 +2,14 @@
 =timestamp 1507034706
 =tags Marketing
 
-=abstract start
+
 
 There are plenty of blogs and other sources on how to promote a new content-heavy web site
 and how to get visitors, yet there are people who ask me. Maybe because I had success once.
 
 So let me list a few thoughts:
 
-=abstract end
+
 
 <ul>
 <li>Set up a web site on a domain that describes the subject, start writing articles.</li>

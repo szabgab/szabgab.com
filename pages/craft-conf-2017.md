@@ -2,14 +2,14 @@
 =timestamp 1495166350
 =tags Conference, Hiking
 
-=abstract start
+
 
 This was my first <a href="https://craft-conf.com/">Craft Conference</a>, but if the position of the stars will let me, I plan to attend next year as well.
 
 I've attended plenty of great talks. Met a lot of new and very interesting people. Had plenty of food. (Too much, if you ask my wife.)
 And had a nice hike at the end. With more cakes.
 
-=abstract end
+
 
 
 <h2>Day 0</h2>

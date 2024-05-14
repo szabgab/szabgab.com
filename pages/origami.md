@@ -2,7 +2,7 @@
 =timestamp 1628403239
 =tags hobby
 
-=abstract start
+
 
 The doctor told me I should do something else and not sit in front of the computer all the time.
 
@@ -13,7 +13,7 @@ outside too much.
 
 So I though I try to pick-up Origami.
 
-=abstract end
+
 
 Of course where can you learn Origami - from YouTube videos and web site like these:
 

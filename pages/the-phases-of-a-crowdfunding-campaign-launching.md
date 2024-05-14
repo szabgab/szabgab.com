@@ -2,14 +2,14 @@
 =timestamp 1495606650
 =tags Perl, crowdfunding
 
-=abstract start
+
 
 I am running a <a href="http://perl6maven.com/book">crowdfunding campaign</a> to finance the writing of my book:
 <a href="https://leanpub.com/bailador">Web Application Development in Perl 6</a>
 
 In this article I'll try to follow what's going on in the campaign and in my mind.
 
-=abstract end
+
 
 <b>Before launching the campaign</b> I spent about two month agonizing over the question whether I
 should do it or not. Will there be enough people interested or is this just a waste of my time an energy.

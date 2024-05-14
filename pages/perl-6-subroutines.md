@@ -3,12 +3,12 @@
 =tags Perl 6, Perl, Rakudo, newsletter, subroutines
 =redirect http://perl6maven.com/perl6-subroutines
 
-=abstract start
+
 
 In this part of the <a href="/perl6-tricks-and-treats">Perl 6 Tricks and Treats</a>
 newsletter we will look at how subroutines can be defined in Perl 6.
 
-=abstract end
+
 
 <hr>
 This entry was first sent out as part of the 

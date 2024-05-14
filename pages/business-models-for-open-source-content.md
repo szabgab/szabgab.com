@@ -2,7 +2,7 @@
 =timestamp 1421504645
 =tags Open Source, Business, Alexa
 
-=abstract start
+
 
 There are lot of blogs out there explaining <b>how to make money with your blog</b> or talking about
 <b>content marketing</b>, but now that I am trying to turn the <a href="http://perlmaven.com/">Perl Maven</a> site
@@ -11,7 +11,7 @@ at a few actual sites and try to analyze how do they make money.
 
 In this article I am trying to collect some of the cases I covered.
 
-=abstract end
+
 
 For each site I also looked up the <a href="http://alexa.com/">Alexa</a> ranking. It can give some indication
 about the relative popularity of those sites and you can also compare those

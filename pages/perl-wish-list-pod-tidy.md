@@ -2,12 +2,12 @@
 =timestamp 1448342552
 =tags Perl, CPAN
 
-=abstract start
+
 
 I have a page one <a href="http://perlmaven.com/contributing-to-open-source-perl-ecosystem">Contributing to the Open Source Perl Ecosystem</a>,
 but I still don't know where could I post my wish list of bug fixes that would find people with time and the drive to fix bugs.
 
-=abstract end
+
 
 I've just bumped into a <a href="https://rt.cpan.org/Public/Bug/Display.html?id=51281">bug</a> in <a href="https://metacpan.org/pod/Pod::Tidy">Pod::Tidy</a>.
 The fix is also included in the bug report, but the module has not seen a new release from 6 years and the author did not have any activity on CPAN for

@@ -2,7 +2,7 @@
 =timestamp 1343306300
 =tags Perl, e-book, advanced
 
-=abstract start
+
 
 I am always afraid releasing something new.
 
@@ -14,7 +14,7 @@ I can always find ways to improve it.
 
 So I go with a different strategy. I sell my e-books with lifetime free upgrade.
 
-=abstract end
+
 
 As I was writing the syllabus, I went over the chapters and actually it is not bad.
 

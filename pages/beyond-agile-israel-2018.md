@@ -3,7 +3,7 @@
 =tags Conference, Hiking, Israel
 =skip all
 
-=abstract start
+
 
 The <a href="https://www.beyondagileisrael.com/">Beyond Agile Israel</a> conference will take place on 8th February 2018,
 with several additional events in the 2 weeks preceeding the coference.
@@ -14,7 +14,7 @@ can provide to build relationships and start cooperations.
 Hence I organizing a one-day trip to the Dead Sea that includes a hike and maybe even some floating in the Dead Sea,
 though the water tempreature might not allow that.
 
-=abstract end
+
 
 (If you are wondering, check out similar tours that I've organized at other <a href="/events.html">tech-events</a>.)
 

@@ -2,13 +2,13 @@
 =timestamp 1443703089
 =tags Perl, YAPC, Spain
 
-=abstract start
+
 
 After skipping two years, finally I managed to come to YAPC::EU again. This time in Granada.
 
 TL;DR; It was great. Thank you!
 
-=abstract end
+
 
 <h2>Madrid</h2>
 

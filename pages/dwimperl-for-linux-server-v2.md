@@ -2,7 +2,7 @@
 =timestamp 1331665326
 =tags Perl, DWIM Perl, Linux
 
-=abstract start
+
 
 I have been waiting with this too much. Let's put an end to it. 
 
@@ -10,7 +10,7 @@ Or maybe a beginning.
 
 Let me announce the first public release of DWIM Perl for Linux server.
 
-=abstract end
+
 
 <h2>DWIM Perl for Linux server</h2>
 

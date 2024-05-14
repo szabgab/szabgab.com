@@ -2,7 +2,7 @@
 =timestamp 1593856760
 =tags blogs, yak shaving, golang, SEO
 
-=abstract start
+
 
 This is not the first time I <a href="/yak-shaving.html">shave a yak</a> and probably not the last.
 
@@ -12,7 +12,7 @@ The Wiktionary definition of Yak shaving is
 
 So let's see my real-world example and why I think it is actually quite useful.
 
-=abstract end
+
 
 <h2>Improve the SEO of my sites</h2>
 

@@ -2,7 +2,7 @@
 =timestamp 1601289607
 =tags TED
 
-=abstract start
+
 
 <ul>
 <li>Belonging</li>
@@ -12,7 +12,7 @@
 </ul>
 
 
-=abstract end
+
 
 <div style="max-width:854px"><div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://embed.ted.com/talks/emily_esfahani_smith_there_s_more_to_life_than_being_happy" width="854" height="480" style="position:absolute;left:0;top:0;width:100%;height:100%" frameborder="0" scrolling="no" allowfullscreen></iframe></div></div>
 

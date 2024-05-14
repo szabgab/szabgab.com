@@ -2,13 +2,13 @@
 =timestamp 1669099305
 =tags blogs
 
-=abstract start
+
 
 I have been creating content for many years now. One of the big questions is always how to make my content reach more people.
 
 I mean I believe that my content is valuable and that for some people this is the right way to learn the stuff that I teach.
 
-=abstract end
+
 
 For example when I look at the videos of the <a href="https://code-maven.com/programming-bootcamp-for-scientists">Programming Bootcamp</a>.
 I think the material is really good. The feedback I usually get from my students in my live classes is really positive.

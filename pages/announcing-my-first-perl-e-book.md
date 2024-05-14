@@ -2,7 +2,7 @@
 =timestamp 1328895281
 =tags Perl
 
-=abstract start
+
 
 I am always afraid releasing something new.
 
@@ -12,7 +12,7 @@ I always feel it is not ready yet but I can't wait till it is.
 
 So I have to go with a different strategy.
 
-=abstract end
+
 
 I know it is not ready yet. So anyone who buys now, will also get
 all future updates. Free of charge.

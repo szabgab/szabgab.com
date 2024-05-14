@@ -2,13 +2,13 @@
 =timestamp 1373641694
 =tags Perl
 
-=abstract start
+
 
 This was the same to many people before they organized one.
 
 So step up and organize a local event!
 
-=abstract end
+
 
 Start with a <a href="http://pm.org/">Perl Monger</a> meeting.
 

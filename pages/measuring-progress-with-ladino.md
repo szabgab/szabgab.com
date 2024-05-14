@@ -2,13 +2,13 @@
 =timestamp 1642241689
 =tags Ladino, languages, feedback
 
-=abstract start
+
 
 I published my thoughts on the <a href="/yak-shaving-for-ladino.html">projects for Learning Ladino</a> but I was still not satisfied with content.
 
 I think my main issue is that I don't see my progress.
 
-=abstract end
+
 
 I know learning a (human) language takes a long time - months to be able to start speaking and then years to reach a level where you don't
 feel totally embarrassed by the mistakes you make. Above 50 it is probably a lot harder than when someone is young and I also don't think

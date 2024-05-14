@@ -2,12 +2,12 @@
 =timestamp 1596035067
 =tags Patreon, Indiegogo
 
-=abstract start
+
 
 This is the page to thank the people who financially [support](/support) my work via
 [Github Sponsors](https://github.com/sponsors/szabgab/), [Patreon](https://www.patreon.com/szabgab), or some other means.
 
-=abstract end
+
 
 ## What do people say?
 

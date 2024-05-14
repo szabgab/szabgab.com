@@ -2,11 +2,11 @@
 =timestamp 1593321199
 =tags bookmarks
 
-=abstract start
+
 
 Just a bunch of links to random pages I wanted to keep.
 
-=abstract end
+
 
 <ul>
 <li><a href="https://www.linuxjournal.com/">Linux Journal</a></li>

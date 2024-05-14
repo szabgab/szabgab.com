@@ -2,7 +2,7 @@
 =timestamp 1374956002
 =tags Perl, Google
 
-=abstract start
+
 
 I am sure you've noticed that when you search on Google, it will show little pictures
 next to <b>some</b> of the saearch results. If you are like the majority of people¸ than
@@ -12,7 +12,7 @@ chance that you click on them.
 If you write articles, and you'd like to have more people to read them, in just a few
 steps you could get Google to do this for you.
 
-=abstract end
+
 
 You need to set up a <a href="https://plus.google.com/">Google+</a> account and connect
 your blog to it. Google has all the

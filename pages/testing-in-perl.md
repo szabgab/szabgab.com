@@ -2,11 +2,11 @@
 =timestamp 1611042092
 =tags Perl, courses
 
-=abstract start
+
 
 I was busy during the week-end and recorded quite a few episodes of the new version of my old <a href="https://courses.code-maven.com/p/testing-in-perl">Testing in Perl course</a>.
 
-=abstract end
+
 
 I ran this course a few weeks ago via Zoom as a client wanted to train their employees so I had to update it.
 

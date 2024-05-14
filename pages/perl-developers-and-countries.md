@@ -3,7 +3,7 @@
 =tags Perl
 =format new
 
-=abstract start
+
 
 If you ever wondered in which places are Perl developers more active, here is a little piece of the information slice.
 
@@ -19,7 +19,7 @@ only 1.60% in India.
 
 Let's see the pies:
 
-=abstract end
+
 
 <script type="text/javascript" src="https://www.google.com/jsapi"></script>
 <script type="text/javascript">

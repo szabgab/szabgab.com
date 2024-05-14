@@ -2,12 +2,12 @@
 =timestamp 1629095961
 =tags blogs
 
-=abstract start
+
 
 There are days when I manage to do a lot of things and I feel really well and then there are day when I feel a total lack of achievements.
 One of the reasons I started this <a href="/daily-task.html">Daily task</a> was to make sure every day I put something on the table.
 
-=abstract end
+
 
 Well, so far this did not give me the real satisfaction I was hoping for. As you can see in the <a href="/blog.html">archive</a>
 I did not post every day, and some of the posts were, I think, really only interesting to me.

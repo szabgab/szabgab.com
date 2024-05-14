@@ -2,7 +2,7 @@
 =timestamp 1373968606
 =tags Perl, SEO
 
-=abstract start
+
 
 It is funny that some Perl programmers have been very angry with as they felt I was using the evil practice
 of SEO (Search Engine Optimization), while other were scolding me for not writing <b>Perl programming</b>
@@ -10,7 +10,7 @@ on every page I write and thus depriving the Perl community from a higher rankin
 
 But what SEO is really and how can a Perl programmer implement it?
 
-=abstract end
+
 
 A while ago I saw this:
 

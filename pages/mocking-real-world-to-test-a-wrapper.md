@@ -2,14 +2,14 @@
 =timestamp 1232529172
 =tags newsletter, testing, mocking, wrappers
 
-=abstract start
+
 
 As part of <a href="/test-automation-tips">Test Automation Tips</a>
 I am discussing how to test command line tools that might make
 changes in the filesystem or some other entity that should not
 be changed during testing.
 
-=abstract end
+
 
 <hr>
 This entry was first sent out as part of the 

@@ -2,11 +2,11 @@
 =timestamp 1650439450
 =tags spell-checker, hunspell
 
-=abstract start
+
 
 There are quite few Open Source and I guess a few closed source systems with spell-checking capabilities.
 
-=abstract end
+
 
 
 For example <a href="https://www.mozilla.org/en-US/firefox/new/">Mozilla Firefox</a> when you are in an input box or a textarea on a web page you can right-click the mouse

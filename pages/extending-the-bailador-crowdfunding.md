@@ -2,11 +2,11 @@
 =timestamp 1498112841
 =tags Crowdfunding, Bailador, Perl
 
-=abstract start
+
 
 I have been contemplating the idea for quite some time, but finally I've decided to extend the Bailador crowdfunding campaign by another month.
 
-=abstract end
+
 
 Partially because I think as long as the campaign runs I'll have more interest and energy promoting Bailador and the book itself. So this gives me another month doing so. (And Indiegogo allows a one-time extenstion up to 60 days total campaign length.)
 

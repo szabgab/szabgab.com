@@ -2,7 +2,7 @@
 =timestamp 1373388291
 =tags Perl
 
-=abstract start
+
 
 Well, you can't really make sure, but you can increase the chances.
 
@@ -12,7 +12,7 @@ but then you need to keep them coming back.
 
 How can you do that?
 
-=abstract end
+
 
 First of all, you need to provide them content that is really relevant to them. Without such content
 nothing will help.

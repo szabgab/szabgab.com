@@ -2,7 +2,7 @@
 =timestamp 1605001623
 =tags testing, QA, CI, Perl, Python
 
-=abstract start
+
 
 Antiyoy is a very simple game in which I know how to win. Sometimes it takes a few experiments, but I know how to beat the game and doing so makes me feel good.
 
@@ -12,7 +12,7 @@ Probably something to do with <a href="https://en.wikipedia.org/wiki/Dopamine">D
 
 That's why I have spent, or more correctly, wasted an embarrassingly high number of hours on this game. 
 
-=abstract end
+
 
 <h2>Time to change!</h2>
 

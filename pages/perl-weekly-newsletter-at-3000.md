@@ -2,14 +2,14 @@
 =timestamp 1334309213
 =tags Perl Weekly, Perl
 
-=abstract start
+
 
 It is time for celebration.
 
 Yesterday the <a href="http://perlweekly.com/">Perl Weekly newsletter</a>
 reached 3000 subscribers!
 
-=abstract end
+
 
 
 In addition, there are 430 RSS subscribers,

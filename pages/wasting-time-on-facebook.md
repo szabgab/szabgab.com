@@ -2,7 +2,7 @@
 =timestamp 1627463428
 =tags Facebook
 
-=abstract start
+
 
 In the past few weeks I've noticed that way too many times I visit Facebook and waste a lot of time there.
 
@@ -16,7 +16,7 @@ When I wait for a build or test process to finish.
 
 ...
 
-=abstract end
+
 
 I went back to my old solution and edited the <b>/etc/hosts</b> file on my Linux box
 adding the following two lines:

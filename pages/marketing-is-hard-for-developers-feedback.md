@@ -2,11 +2,11 @@
 =timestamp 1593759123
 =tags marketing, promotion, branding, developers, feedback, compiler, tests, CI
 
-=abstract start
+
 
 In a nutshell: We programmers are spoiled with fast feedback loops while marketing, promotion, branding need a lot more time to bring us results.
 
-=abstract end
+
 
 First of all many people in the tech community talk about "marketing" while the are primarily talk about promotion
 or branding. (See also <a href="/marketing-and-promotion.html">marketing vs. promotion</a>.)

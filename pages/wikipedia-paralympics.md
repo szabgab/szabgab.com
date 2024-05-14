@@ -2,13 +2,13 @@
 =timestamp 1628739739
 =tags Wikipedia, Paralympics
 
-=abstract start
+
 
 I have talked about this a lot, but I don't see any posts about this.
 
 I wish more people contributed to Wikipedia.
 
-=abstract end
+
 
 <h2>Missing translations</h2>
 

@@ -2,7 +2,7 @@
 =timestamp 1547113670
 =tags Conference, Hiking, Hungary
 
-=abstract start
+
 
 If you like nature, nice views, and would like to get away from the city after you've enjoyed the
 <a href="https://craft-conf.com/">Craft Conference</a>, then you are invited to this cave visit and
@@ -12,7 +12,7 @@ Date: May 11, 2019. from 10:00 till about 14:00-15:00.
 
 Assuming the weather permits.
 
-=abstract end
+
 
 <h2>Past hikes</h2>
 

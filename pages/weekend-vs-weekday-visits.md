@@ -2,7 +2,7 @@
 =timestamp 1423571889
 =tags Perl
 
-=abstract start
+
 
 I was always fascinated by the huge difference between the number of visits the <a href="http://perlmaven.com/">Perl Maven</a> site gets
 on a weekday and a weekend day. On a regular weekday there are about 3 times more visits than on a regular week-end day.
@@ -10,7 +10,7 @@ on a weekday and a weekend day. On a regular weekday there are about 3 times mor
 So today I compared those number provided by Google analytics for a number of Perl-related sites:
 
 
-=abstract end
+
 
 
                        Weekday      Weekend    Ratio

@@ -2,13 +2,13 @@
 =timestamp 1336039467
 =tags Perl
 
-=abstract start
+
 
 After a long period of yak shaving, yesterday I decided to go for the short-cut
 and set up a minimal system for the <a href="http://perlmaven.com/">Perl Maven</a>
 web site.
 
-=abstract end
+
 
 In a nutshell, the idea is that I'll start putting all the Perl 5 related post on the
 <a href="http://perlmaven.com/">Perl 5 Maven</a> site and keep the community

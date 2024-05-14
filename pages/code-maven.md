@@ -2,7 +2,7 @@
 =timestamp 1422793893
 =tags Code Maven, Perl
 
-=abstract start
+
 
 For a long time I wanted to extend the <a href="http://perlmaven.com/">Perl Maven</a> site to include articles
 about other subject as well, but I think publishing articles about Python, Ruby or even JavaScirpt on a site called
@@ -13,7 +13,7 @@ this.
 
 Hence a few days ago I started to post on the <a href="http://code-maven.com/">Code Maven</a> site.
 
-=abstract end
+
 
 As you might see the two sites look quite similar, because I use the same back-end for both of them
 and I have not invested in some branded UI yet. That will come too. For now I wanted to get a feeling

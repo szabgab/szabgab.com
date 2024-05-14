@@ -2,11 +2,11 @@
 =timestamp 1620315511
 =tags peek
 
-=abstract start
+
 
 A while ago I found <a href="https://github.com/phw/peek"><b>peek</b></a> a tool to capture the screen in Linux and turn the recording into a gif. It is simple and very nice.
 
-=abstract end
+
 
 Two recordings I made:
 

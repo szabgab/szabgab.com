@@ -2,7 +2,7 @@
 =timestamp 1594117942
 =tags marketing, Perl, TPF, news
 
-=abstract start
+
 
 During the recent <a href="https://perlconference.us/tpc-2020-cloud/">Conference in the Cloud 2020</a> there was
 a session titled <a href="https://www.youtube.com/watch?v=T290Jr_ECms">Improving the perception of Perl and Raku - Marketing</a>.
@@ -13,7 +13,7 @@ in the marketing effort of <a href="https://www.perlfoundation.org/">The Perl Fo
 Surprisingly every time it was not an "official approach".
 
 
-=abstract end
+
 
 In itself that's strange, but I don't know what does that mean?
 

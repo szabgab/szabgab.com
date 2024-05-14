@@ -2,11 +2,11 @@
 =timestamp 1638711513
 =tags language, ILR, CERF
 
-=abstract start
+
 
 Language proficiency can be divided into 4 main skills and for each skill there can be several levels.
 
-=abstract end
+
 
 ## Skills
 

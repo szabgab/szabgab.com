@@ -2,13 +2,13 @@
 =timestamp 1448485630
 =tags Perl
 
-=abstract start
+
 
 <b>Make easy things easy and hard things possible</b> was the motto of Perl from the beginning and indeed it made a lot
 of things much easer back when it was released in 1987. Even in the 90's it had it. That's one of the reasons it was so successful.
 Since then things changed and a lot of things that were hard back then are now expected to be easy.
 
-=abstract end
+
 
 IMHO, if someone wants an <a href="http://perl.org/">old language to stay relevant</a>
 or a <a href="http://perl6.org/">new language to succeed</a>, among these general purpose languages

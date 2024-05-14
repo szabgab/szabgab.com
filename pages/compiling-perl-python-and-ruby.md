@@ -2,7 +2,7 @@
 =timestamp 1374177131
 =tags Perl, Python, Ruby
 
-=abstract start
+
 
 If I remember correctly I heard people from various downstream Linux distributions complain that perl is too big.
 I know that they have already started to split the standard distribution of perl into pieces. For example
@@ -15,7 +15,7 @@ So I set out to check how much disk space do the standard distributions of the 3
 
 At least on a Linux box.
 
-=abstract end
+
 
 <h2>Perl</h2>
 

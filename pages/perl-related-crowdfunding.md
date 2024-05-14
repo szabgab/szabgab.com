@@ -2,13 +2,13 @@
 =timestamp 1490428934
 =tags Perl, fundraising, crowdfunding
 
-=abstract start
+
 
 Fundraising or crowdfunding is not easy. Here are all the Perl-realted crowdfunding campaigns so if you plan whan you can have a gut feeling what to expect.
 
 Most recent first.
 
-=abstract end
+
 
 <hr>
 <h2><a href="https://www.indiegogo.com/projects/ebook-programming-the-raspberry-pi-with-perl/">eBook: Programming the Raspberry Pi with Perl</a></h2>

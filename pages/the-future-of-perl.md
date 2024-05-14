@@ -2,14 +2,14 @@
 =timestamp 1393627260
 =tags Perl, Python
 
-=abstract start
+
 
 I just watched the excellent keynote of <a href="http://jesstess.com/">Jessica McKellar</a> 
 at Kiwi PyCon 2013 titled
 <a href="http://www.youtube.com/watch?v=d1a4Jbjc-vU">The Future of Python - A Choose Your Own Adventure</a>
 It is 35 min long.
 
-=abstract end
+
 
 The key points were:
 

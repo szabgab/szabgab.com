@@ -2,13 +2,13 @@
 =timestamp 1245063912
 =tags newsletter, testing, PHP,PHPUnit
 
-=abstract start
+
 
 I am returning to the irregular postings of the <a href="/test-automation-tips">Test Automation Tips</a>.
 In this entry you can ready about simple introduction to the PHPUnit 
 testing framework that is used, not surprisingly, to unit test PHP applications.
 
-=abstract end
+
 
 <hr>
 This entry was first sent out as part of the 

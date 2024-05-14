@@ -2,13 +2,13 @@
 =timestamp 1594990980
 =tags LinkedIn
 
-=abstract start
+
 
 Now that I have a bunch of <a href="/linkedin-pages.html">LinkedIn Pages</a> in various topics I was wondering
 how many people can be found when searching for they keywords of my pages and how many of my contacts
 show up for the various searches.
 
-=abstract end
+
 
 I have 3,896 connections on <a href="https://www.linkedin.com/in/szabgab/">LinkedIn</a>.
 Inviting all of them would take a lot of time and would not make much sense. It is better

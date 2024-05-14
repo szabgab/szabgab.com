@@ -2,11 +2,11 @@
 =timestamp 1613996116
 =tags Perl
 
-=abstract start
+
 
 Why has the team and the code not evolved? Is it because the earlier management did not encourage them to learn from the Perl community and bring in better practices?
 
-=abstract end
+
 
 In many cases I see companies that hope the Perl code base will just keep working, but as technology changes that code-base will
 also need to change so you will eventually have to invest the time and energy to help the team improve their practices and the code-base.

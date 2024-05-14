@@ -3,13 +3,13 @@
 =tags Perl 6, Perl, newsletter, for, zip
 =redirect http://perl6maven.com/perl6-looping-over-a-list-of-values-one-at-a-time-two-at-a-time-and-more
 
-=abstract start
+
 
 The fourth entry of the <a href="/perl6-tricks-and-treats">Perl 6 Tricks and Treats</a>
 newsletter. We look at looping over lists, arrays, hashes. We look at how to
 go over a list of values in pairs and how to go over two lists in parallel.
 
-=abstract end
+
 
 <hr>
 This entry was first sent out as part of the 

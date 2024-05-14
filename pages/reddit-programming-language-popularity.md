@@ -2,11 +2,11 @@
 =timestamp 1701941237
 =tags Reddit, popularity, Rust, Python, JavaScript
 
-=abstract start
+
 
 As a quick measure of programming language popularity, let's see how many people are in some of the [Reddit](https://www.reddit.com/) communities!
 
-=abstract end
+
 
 
 | no. | Language | members |

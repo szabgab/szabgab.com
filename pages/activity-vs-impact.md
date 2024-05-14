@@ -2,7 +2,7 @@
 =timestamp 1597640480
 =tags activity, impact, Patreon
 
-=abstract start
+
 
 Ideally I would like to create a positive impact on the life of my readers.
 
@@ -18,7 +18,7 @@ How many people felt empowered after reading my posts.
 
 How many people found a better paying job in a nicer environment due to the content I create or curate?
 
-=abstract end
+
 
 <h2>Impact</h2>
 

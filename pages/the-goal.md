@@ -2,7 +2,7 @@
 =timestamp 1592643924
 =tags blogs
 
-=abstract start
+
 
 Yesterday I wrote a bit about going <a href="/back-to-youtube.html">back to YouTube</a>, and I have plenty more
 subjects to write about these days, but maybe the most important is to describe the goal of the investment in YouTube,
@@ -13,7 +13,7 @@ it is time to change and make my content creation economically sustainable.
 
 In other words, I would like to reach a point where the majority of my income comes from my online activities.
 
-=abstract end
+
 
 I still plan to do some consulting work and I definitely plan to do more training, but I would like to improve the relation
 between my online free activity and my income.

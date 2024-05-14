@@ -2,7 +2,7 @@
 =timestamp 1627144619
 =tags blogs
 
-=abstract start
+
 
 Uber offered a really great opportunity to meet interesting people otherwise I'd probably never meet.
 I recall a few years ago while we were in the USA with my family we used Uber for several rides and every
@@ -11,7 +11,7 @@ time our driver was a very interesting personality. With each one of them we had
 Today I had a similar experience in Hungary. The my driver had a totally regular taxi
 she also had an ambulance jacket on her seat.
 
-=abstract end
+
 
 As a COVID pre-caution I was sitting at the back and wearing a mask (even though it is currently not required in Hungary)
 and asked her about her story.

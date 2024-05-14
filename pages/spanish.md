@@ -2,14 +2,14 @@
 =timestamp 1543986122
 =tags Spanish
 
-=abstract start
+
 
 I have been learning Spanish for a few weeks now and during that time I've collected a few resources that I found useful.
 Some of them are already good for me as a begginner, the other are mostly for when I start to know more.
 
 Some I have not tried myself but might be useful for you.
 
-=abstract end
+
 
 <a href="https://www.duolingo.com/">Duolingo</a> is a web site and a mobile app with which you can learn many different
 languages including Spanish. These days I commute to work. About 40 min by train twice a day. It could be a lot of

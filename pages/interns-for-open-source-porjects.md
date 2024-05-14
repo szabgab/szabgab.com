@@ -2,11 +2,11 @@
 =timestamp 1669045843
 =tags blogs
 
-=abstract start
+
 
 I am just thinking aloud, it is probably just a stupid idea.
 
-=abstract end
+
 
 You might have already seen that I am trying to get more and more open source projects to start using CI and write more tests.
 

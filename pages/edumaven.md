@@ -2,14 +2,14 @@
 =timestamp 1393379016
 =tags Perl, Python, Ruby, Dart, JavaScript, Vim, MongoDB
 
-=abstract start
+
 
 Don't worry, I'll keep writing for the <a href="http://perlmaven.com/">Perl Maven</a> site,
 but I've also started to build a new site where I am going to publish
 material for other <a href="https://code-maven.com/slides/">programming languages and technologies</a>.
 (edumaven.com was later merged into code-maven.com)
 
-=abstract end
+
 
 I don't think I'll write lengthy articles there. At least not now.
 Instead of that I am going to publish the slides of my exisitng courses,

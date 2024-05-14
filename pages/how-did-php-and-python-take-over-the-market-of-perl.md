@@ -2,14 +2,14 @@
 =timestamp 1394644203
 =tags Perl, Python, PHP
 
-=abstract start
+
 
 Once in a while someone comes up with a Perl is .... post, and there are always people who point out
 why their measurement is flawed and how everything is perfect. Yet there are people 
 with <a href="http://www.modernperlbooks.com/mt/2014/02/the-mid-career-crisis-of-the-perl-programmer.html">mid-career crisis</a>
 and then others who tell me this was a wake-up call for them and they start learning a more marketable language.
 
-=abstract end
+
 
 I had part of the following post in a draft for ages now, there is no particular reason to publish it now, but who knows, maybe
 some people will agree with me.

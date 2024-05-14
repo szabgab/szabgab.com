@@ -2,11 +2,11 @@
 =timestamp 1522137697
 =tags LinkedIN
 
-=abstract start
+
 
 Two unsolicited advice for LinkedIn users:
 
-=abstract end
+
 
 <h2>Beautify your LinkedIn profile link</h2>
 

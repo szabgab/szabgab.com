@@ -2,14 +2,14 @@
 =timestamp 1492803906
 =tags Perl, Python, Ruby, PHP
 
-=abstract start
+
 
 There are many ways to compare the popularity of programming languages.
 None of them is perfect.
 
 Let's look at one of those imperfect comparisions: <a href="http://stackoverflow.com/tags">Tags on StackOverflow</a>
 
-=abstract end
+
 
 That page shows the number of questions asked marked with the specific tags.
 

@@ -2,7 +2,7 @@
 =timestamp 123
 =tags blogs
 
-=abstract start
+
 
 I have been learning Rust for more than a month. I already managed to upload a crate called [rustatic](https://crates.io/crates/rustatic) a small tool I use to show the static web pages created by some of my projects. I also made nice progress on the [Rust Digger](https://rust-digger.code-maven.com/) and my [Rust slides](https://code-maven.com/slides/rust/).
 
@@ -12,7 +12,7 @@ This process has its ups and downs and today I started to wonder again if invest
 
 I looked at a number of resources.
 
-=abstract end
+
 
 ## TIOBE
 

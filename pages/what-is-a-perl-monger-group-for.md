@@ -2,7 +2,7 @@
 =timestamp 1330206044
 =tags Perl, Perl Mongers
 
-=abstract start
+
 
 Recently Pradeep Pant asked for
 <a href="http://pradeeppant.com/2012/02/20/delhi-pm-perl-monger-user-group-need-suggestions/">help in reactivating Delhi.pm</a>.
@@ -17,7 +17,7 @@ getting ideas to the question: <b>How to (re)organize a Perl Monger group?</b>.
 
 Let's try it.
 
-=abstract end
+
 
 <h2>What do you, a Perl user, really want?</h2>
 

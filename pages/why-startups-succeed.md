@@ -2,14 +2,14 @@
 =timestamp 1627891609
 =tags startups, TED
 
-=abstract start
+
 
 I just watched this TED presentation <a href="https://www.ted.com/talks/bill_gross_the_single_biggest_reason_why_start_ups_succeed">The single biggest reason why startups succeed</a>
 by <a href="https://en.wikipedia.org/wiki/Bill_T._Gross">Bill Gross</a>, founder of <a href="https://www.idealab.com/">Idealab</a>.
 
 There are more of his talks linked from Idealab.
 
-=abstract end
+
 
 His finding in a nutshell:
 

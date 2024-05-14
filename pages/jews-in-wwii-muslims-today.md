@@ -2,7 +2,7 @@
 =timestamp 1485591068
 =tags Politics
 
-=abstract start
+
 
 I am quite tired of people comparing the treatment of Muslims and Muslim refugees to
 the Jews in the 30s and 40s last century.
@@ -10,7 +10,7 @@ the Jews in the 30s and 40s last century.
 The majority of Muslims, and especially the majority of the refugees just want to live a normal life
 the same way the Jews wanted, but comparison is incorrect and dangerous.
 
-=abstract end
+
 
 Here is a Tweet I saw recently.
 

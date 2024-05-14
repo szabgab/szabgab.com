@@ -2,7 +2,7 @@
 =timestamp 1384774374
 =tags Perl, Google
 
-=abstract start
+
 
 When you search on Google, some hits will have a little avatar next to them.
 Google does that for pages where the author of the page has provided
@@ -10,7 +10,7 @@ Google does that for pages where the author of the page has provided
 
 Now we can have this with all our modules listed on <a href="http://metacpan.org/">Meta CPAN</a>.
 
-=abstract end
+
 
 The theory is that having a face next to to a link on Google, will make friendlier
 and thus will generate more clicks. Especially if the picture belongs to someone

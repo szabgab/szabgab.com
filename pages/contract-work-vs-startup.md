@@ -2,14 +2,14 @@
 =timestamp 1468994766
 =tags Business
 
-=abstract start
+
 
 How do you finance your start-up or your business?
 
 How do you switch from consulting or contract work where generally you sell your time,
 to a business where you build a product or an on-lines service and make money off that?
 
-=abstract end
+
 
 I have been lucky recently that I had a lot of contract work.
 This means I get some immediate income, but it also occupies me. Almost fully.

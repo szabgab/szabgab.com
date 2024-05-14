@@ -2,13 +2,13 @@
 =timestamp 1408272958
 =tags politics
 
-=abstract start
+
 
 In the recent month I spent way too much time of Facebook/Google+/Twitter mostly trying to fend-off anti-Israeli
 posts. In this recent Twitter exchange it was very clear how someone while saying intellectually sound sentences
 can quickly blame Israel.
 
-=abstract end
+
 
 
 Me: Do you actually care about the Palestinian children in Gaza? Here is something you can do to help them: <a href="http://takeapenglobal.com">http://takeapenglobal.com</a>

@@ -2,7 +2,7 @@
 =timestamp 1355995322
 =tags Perl, Python, Tcl
 
-=abstract start
+
 
 For more than 10 years I focused mostly on Perl Training. I taught a few classes using Subversion.
 In the early days I ran a course teaching Unix for power users, and even a PHP course, but soon I thought it would be
@@ -13,7 +13,7 @@ and currently I am preparing a Tcl course.
 
 What? Python? Tcl?
 
-=abstract end
+
 
 Perl is considered old-school by many people, in a recent article, celebrating (?) the 25th birthday of Perl,
 Bradley M. Kuhn  even compared <a href="http://ebb.org/bkuhn/blog/2012/12/18/perl-cobol.html">Perl to COBOL</a>.

@@ -2,13 +2,13 @@
 =timestamp 1335641312
 =tags Perl, Facebook, Google Plus
 
-=abstract start
+
 
 I guess the two dead-lines I have next week caused me to go in full procrastination mode
 and search for Perl based projects on Facebook and Google Plus. There is a similar,
 but newer listing for <a href="/perl-developers-and-linkedin.html">Perl developers on LinkedIN</a>.
 
-=abstract end
+
 
 <table>
 <tr><td>Project/Site</td><td>Facebook</td><td>Google Plus</td></tr>

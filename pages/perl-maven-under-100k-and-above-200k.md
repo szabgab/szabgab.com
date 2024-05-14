@@ -2,7 +2,7 @@
 =timestamp 1418503452
 =tags Perl, Alexa
 
-=abstract start
+
 
 Sounds contradicting?
 
@@ -12,7 +12,7 @@ A few days ago Google Analytics reported that the <a href="http://perlmaven.com/
 go over the 200,000 visits/month limit, and two days ago Alexa stared to place the site within the
 100,000 most frequently visited sites.
 
-=abstract end
+
 
 I know both of these number are fluctuating a lot, but they are still milestones.
 Two years ago I could not imagine so many vistors to my site.

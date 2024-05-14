@@ -2,7 +2,7 @@
 =timestamp 1555653319
 =tags Meetup
 
-=abstract start
+
 
 <a href="https://www.meetup.com/">Meetup</a> can have any format and content, but we are focusing on <b>Technical events</b>.
 
@@ -10,7 +10,7 @@ In this article I'll discuss some ways to use Meetups to help the recruitment. I
 and cons of each.
 
 
-=abstract end
+
 
 The main goal is to spread the name of your company among the potential employees:
 

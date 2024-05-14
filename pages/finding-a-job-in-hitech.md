@@ -2,14 +2,14 @@
 =timestamp 1487857965
 =tags Jobs
 
-=abstract start
+
 
 I was not really expecting this, but several people who came to the
 <a href="/open-source-evening-in-modiin.html">Open Source Evening</a> did so
 because they are trying to enter the hi-tech market or trying to find a better job
 in a slightly different field.
 
-=abstract end
+
 
 The problem they face is that it is hard to learn on your own and you
 cannot gain much experience if you are unemployed or if you work in a

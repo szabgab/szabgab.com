@@ -2,11 +2,11 @@
 =timestamp 1431267410
 =tags Perl, Code Maven
 
-=abstract start
+
 
 This is the second part of my <a href="/slow-personal-progress.html">slow personal progress</a>.
 
-=abstract end
+
 
 All the time while I was writing the Perl Maven site I had the question of <b>income</b>.
 

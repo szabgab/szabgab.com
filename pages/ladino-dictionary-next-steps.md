@@ -2,7 +2,7 @@
 =timestamp 1649519980
 =tags Ladino
 
-=abstract start
+
 
 Based on some of my earlier work and a 3000-line Excel file from the <a href="https://ladinokomunita.groups.io/">Ladino community</a>
 I have build an online <a href="https://diksionaryo.szabgab.com/">Ladino dictionary</a> with translations to English
@@ -10,7 +10,7 @@ and partial translations to Spanish, Turkish, French, Portuguese, and Hebrew.
 
 Now I am wondering what should be the next steps.
 
-=abstract end
+
 
 <h2>TODO</h2>
 

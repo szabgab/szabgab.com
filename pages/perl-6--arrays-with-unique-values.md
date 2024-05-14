@@ -13,12 +13,12 @@ Specifially there is an article how to handle
 <hr>
 
 
-=abstract start
+
 The first entry of the <a href="/perl6-tricks-and-treats">Perl 6 Tricks and Treats</a>
 newsletter. Here you can read about how to get rid of duplicate values
 in an array.
 
-=abstract end
+
 
 <hr>
 This entry was first sent out as part of the 

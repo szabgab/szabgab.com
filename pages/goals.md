@@ -2,13 +2,13 @@
 =timestamp 1523006121
 =tags goals
 
-=abstract start
+
 
 Here you can find a bunch of links to set goals that were <a href="https://twitter.com/patkua">tweeted</a> by <a href="https://www.thekua.com/">Patrick Kua</a> and collected by yours truly.
 
 I hope some of these will help you set your goals.
 
-=abstract end
+
 
 
 <a href="http://www.georgeambler.com/5-proven-principles-of-effective-goal-setting/">5 Proven Principles of Effective Goal Setting</a>

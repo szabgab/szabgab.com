@@ -2,7 +2,7 @@
 =timestamp 1498027091
 =tags Crowdfunding, Perl, Bailador
 
-=abstract start
+
 
 Finally I had some time to work on <a href="https://leanpub.com/bailador">the Bailador book</a> and made the following changes:
 

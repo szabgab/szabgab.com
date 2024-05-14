@@ -2,13 +2,13 @@
 =timestamp 1448031348
 =tags Gratipay, money, Perl
 
-=abstract start
+
 
 Several people commented on my article about <a href="/how-to-make-money-with-a-blog">making money with a blog</a>
 both on the page and privately. One of the suggestions was to enable or further encourage micropayments for people who would like to support
 the work I have been doing.
 
-=abstract end
+
 
 <a href="https://gratipay.com/">Gratipay</a> (that was once called Gittip) allows projects to accept ongoing (weekly) donations and divide the money
 among the team. I run two "teams" there the <a href="https://gratipay.com/perl-maven/">perl-maven</a> team and the <a href="https://gratipay.com/perlweekly/">perlweekly</a>

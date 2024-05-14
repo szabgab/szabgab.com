@@ -2,12 +2,12 @@
 =timestamp 1359900272
 =tags Perl, e-book, advanced
 
-=abstract start
+
 
 I know it has been a while, I have all kinds of excuse for that, but finally it is here.
 I have released the new edition of the Advanced Perl Maven e-book.
 
-=abstract end
+
 
 The new edition has several more slides about Moose. A new article about references. The other articles have also been
 refreshed. There is also a new index at the end of the PDF file. Altogether the book grew from 134 to 171 pages.

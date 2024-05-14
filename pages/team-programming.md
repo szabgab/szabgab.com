@@ -2,7 +2,7 @@
 =timestamp 1619334847
 =tags blogs
 
-=abstract start
+
 
 A few weeks ago I started to experiment with <a href="/open-coding-session.html">Open coding sessions</a> in which I'd work on some open source code
 while I share my screen for everyone to see. Later that became a <a href="https://martinfowler.com/articles/on-pair-programming.html">pair programming</a>
@@ -13,7 +13,7 @@ or to <a href="https://perlmaven.com/exploring-bdd-in-perl-5">understand BDD and
 I like these and I've <a href="https://code-maven.com/live">scheduled a few more</a>. These are pair programming sessions with guests, but I wonder if they should
 be-could be expanded to involve more people working together.
 
-=abstract end
+
 
 In my recent <a href="/report-2021-03.html">self report</a> I mentioned doing more <a href="https://en.wikipedia.org/wiki/Pair_programming">pair programming</a> and
 more <a href="https://en.wikipedia.org/wiki/Team_programming">team programming</a>, but I have not explained what I mean by the latter.

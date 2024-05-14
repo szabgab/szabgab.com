@@ -2,7 +2,7 @@
 =timestamp 1637223516
 =tags Israel, politics, Jews
 
-=abstract start
+
 
 For 2000 years the Jews were blamed, using "ample evidence", for killing Jesus, poisoning wells, killing Christians children for their blood, spreading the plague, etc.
 
@@ -10,7 +10,7 @@ All turned out to be false.
 
 Now the Jewish state is blamed, again with "ample evidence" as before, for apartheid, ethnic cleansing, stealing land etc.
 
-=abstract end
+
 
 What are the odds that finally, after so many false claims, these are actually true?
 

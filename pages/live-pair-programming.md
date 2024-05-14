@@ -2,7 +2,7 @@
 =timestamp 1618308463
 =tags blogs
 
-=abstract start
+
 
 In the recent weeks I ran a number of <a href="https://code-maven.com/live">live pair programming sessions</a> working on Open Source projects.
 
@@ -13,7 +13,7 @@ Questions were raised why would this be interesting to anyone.
 
 Let me collect my thoughts on why are these sessions valuable and why you might be also interested participating.
 
-=abstract end
+
 
 So far my experience in pair programming is mostly with Perl-related projects, but I try to diversify.
 I already had one with <a href="https://he.code-maven.com/front-end-testing-of-react">React</a> (in Hebrew) and I have one scheduled with

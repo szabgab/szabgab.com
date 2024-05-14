@@ -2,14 +2,14 @@
 =timestamp 1341583653
 =tags Perl, tutorial
 
-=abstract start
+
 
 In the last couple of days I was quite busy but if you are following my blog you have not seen anything happening.
 
 I set up the new <a href="http://perl6maven.com/">Perl 6 Maven</a> site and the almost new
 <a href="http://perlmaven.com/">Perl 5 Maven</a> site.
 
-=abstract end
+
 
 Started to move over the Perl 6 related material to the <a href="http://perl6maven.com/">Perl 6 Maven</a>
 site and not surprisingly the Perl 5 related materials to the <a href="http://perlmaven.com/">Perl 5 Maven</a>.

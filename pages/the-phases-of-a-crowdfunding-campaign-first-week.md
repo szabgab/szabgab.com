@@ -2,7 +2,7 @@
 =timestamp 1495962383
 =tags Perl, Bailador, crowdfunding
 
-=abstract start
+
 
 A week has passed since I launched the <a href="http://perl6maven.com/book">crowdfunding campaign</a> for
 the <a href="https://leanpub.com/bailador">Bailador book</a>. I did not know what to expect so I am not sure
@@ -11,7 +11,7 @@ more than 9% of the goal.
 
 I'd love to have the backing of 1,000 people. That would show that there is substantial interest in this subject.
 
-=abstract end
+
 
 Earlier I wrote about the <a href="/the-phases-of-a-crowdfunding-campaign-launching.html">launching of the campaign</a>
 and the first few days after it.

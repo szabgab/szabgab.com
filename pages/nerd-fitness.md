@@ -2,7 +2,7 @@
 =timestamp 1374502515
 =tags Perl, fitness, IBM, business
 
-=abstract start
+
 
 In the last couple of weeks I found out how to listen to podcasts while driving or
 while my doing my regular walk-around-the-block thing.
@@ -14,7 +14,7 @@ an interview with <a href="https://twitter.com/SteveKamb">Steve Kamb</a>.
 
 He runs a web site called <a href="http://www.nerdfitness.com/">Nerd Fitness</a>.
 
-=abstract end
+
 
 Some of you know that for a while I used to run as an exercise (and I recall I hated it when I was a kid),
 but in the last year or so I stopped running and started walking. I like to monitor it using

@@ -2,14 +2,14 @@
 =timestamp 1614246786
 =tags Perl, legacy
 
-=abstract start
+
 
 There are many companies out there with enourmous Perl code-bases that saw their origins in the early 2000s and even before that.
 These are the huge legacy code-bases that of handle millions and billions of dollars, but no-one really maintains them.
 
 What can you do with them?
 
-=abstract end
+
 
 <h2>Keep the old legacy</h2>
 

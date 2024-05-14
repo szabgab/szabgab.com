@@ -2,12 +2,12 @@
 =timestamp 1236605318
 =tags Padre, Parrot, TPF, grants
 
-=abstract start
+
 
 Read my excuses why I am not going to implement the 
 Padre and Parrot integration within the TPF grant.
 
-=abstract end
+
 
 
 Three months ago I got a grant from <a href="http://www.perlfoundation.org/">The Perl Foundation</a>

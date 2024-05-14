@@ -2,7 +2,7 @@
 =timestamp 1571109901
 =tags Ladino, Spanish
 
-=abstract start
+
 
 I've been <a href="/spanish.html">learning Spanish</a> for a year now.
 
@@ -12,7 +12,7 @@ A natural next step might be to also learn Ladino, the language spoken by Jews o
 
 This is a (small) collection of resources.
 
-=abstract end
+
 
 
 <ul>

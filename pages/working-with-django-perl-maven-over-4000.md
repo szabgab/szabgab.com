@@ -2,12 +2,12 @@
 =timestamp 1383775965
 =tags Perl, Django, Python
 
-=abstract start
+
 
 While recently most of my paying work has been with Python, the
 Perl Maven site keeps growing.
 
-=abstract end
+
 
 In October I ran a 3-day long <a href="http://python.org/">Python</a> course,
 and a client kept me busy writing an application in <a href="http://djangoproject.com/">Django</a>.

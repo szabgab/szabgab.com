@@ -2,7 +2,7 @@
 =timestamp 1563620836
 =tags Meetup
 
-=abstract start
+
 
 As many other <a href="https://www.meetup.com/">Meetup</a> organizers I am also frustrated by the low attendance / registration ratio.
 
@@ -12,7 +12,7 @@ Earlier I had an event where 180 registered and 60 showed up.
 
 Many times when I attend Meetups I see that only 20-30% of the people who registered actually show up.
 
-=abstract end
+
 
 It is especially problematic if the venue has a small space or if you need to make some kind of a commitment to the venue.
 For example if you go to a restaurant, 10 people register and your  make a reservation for 10 people then having only 3 can be a real problem.

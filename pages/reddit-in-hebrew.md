@@ -2,13 +2,13 @@
 =timestamp 1668940094
 =tags Reddit
 
-=abstract start
+
 
 I was wondering if there is Hebrew content on <a href="https://www.reddit.com/">Reddit</a>.
 
 A few I found:
 
-=abstract end
+
 
 <ul>
 <li><a href="https://www.reddit.com/r/bestdealsisrael/">Best Deals In Israel</a> 45</li>

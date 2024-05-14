@@ -2,7 +2,7 @@
 =timestamp 1251862435
 =tags Perl, beginners, newbies
 
-=abstract start
+
 
 One of the best ways to learn a programming language is to 
 practice. People new to Perl can either make up a new project 
@@ -10,7 +10,7 @@ for themselves or can get involved in an existing open
 source project. So which projects would you recommend for 
 newbies? How can they get involved?
 
-=abstract end
+
 
 I heard a lot about the <a href="http://www.dreamwidth.org/">DreamWidth</a>
 development community to be very beginner friendly so I joined them

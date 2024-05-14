@@ -2,12 +2,12 @@
 =timestamp 1235863222
 =tags Perl 6, Perl, training, Oslo, Norway
 
-=abstract start
+
 
 Details about the free one-day Perl 6 training I am giving in Oslo, Norway
 on 18th April 2009.
 
-=abstract end
+
 
 The <a href="http://www.perlworkshop.no/npw2009/">Nordic Perl Workshop</a>
 that will take place between 16-17 April 2009 will include two major 

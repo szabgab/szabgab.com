@@ -2,7 +2,7 @@
 =timestamp 1638737396
 =tags Ladino
 
-=abstract start
+
 
 Today I participated in an online panel called **Jewish Language Project: Ladino Today** a panel discussion
 of some of the central figures in the Academic world of Ladino. It was very fascinating and touched a lot of
@@ -12,7 +12,7 @@ I am not in the academy. My interest for learning Ladino is to learn more about 
 and to be able to speak with people. I probably don't see many aspects of the questions, so let me just
 write down what I think could help others like me.
 
-=abstract end
+
 
 Many of the Ladino-related web sites look like they were build 20-25 years ago. Many seem to be unmaintained.
 I think it would be important to improve the look and the functionality of the web sites.

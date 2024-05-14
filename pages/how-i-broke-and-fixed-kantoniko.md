@@ -2,13 +2,13 @@
 =timestamp 1694506464
 =tags bash, CI, error
 
-=abstract start
+
 
 A couple of days ago I broke [Kantoniko](https://kantoniko.com/), one of the static web sites I maintain.
 
 How did it happen? - You might ask.
 
-=abstract end
+
 
 It was the collaboration of two issues.
 

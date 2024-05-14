@@ -2,12 +2,12 @@
 =timestamp 1392903332
 =tags Perl, Dart, Israel 
 
-=abstract start
+
 
 At the next meeting of the <a href="http://perl.org.il/">Israeli Perl Mongers</a> (on February 26, 2014)
 I am going to give my first ever presentation about the new <a href="https://www.dartlang.org/">Dart Programming language</a>.
 
-=abstract end
+
 
 <img src="/img/dart-logo-wordmark.png" width="360" height="95" alt="Dart logo" />
 

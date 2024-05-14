@@ -2,11 +2,11 @@
 =timestamp 1659676192
 =tags blogs
 
-=abstract start
+
 
 There are a number of platforms where I have a changing level of activies. You are invited to follow them all!
 
-=abstract end
+
 
 <ul>
 <li><a href="/youtube.html">YouTube</a> - I have 4 YouTube channels in 4 different (human) languages.</li>

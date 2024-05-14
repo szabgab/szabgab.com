@@ -2,13 +2,13 @@
 =timestamp 1420670576
 =tags PHP, Alexa
 
-=abstract start
+
 
 In January 2014 I've published an article about the <a href="/the-popularity-of-perl-in-2013.html">popularity of Perl in 2013</a>.
 In that article I've included a number of PHP sites as well.  <a href="/the-popularity-of-perl-in-2014.html">This year</a>
 I've moved the PHP part to this article.
 
-=abstract end
+
 
 As I don't have access to the logs of these sites, the second best approach is to look at the <a href="http://www.alexa.com/">Alexa</a> ranking of the sites.
 While it is far from being perfect it seems to have a strong correllation to what Google Analytics report.

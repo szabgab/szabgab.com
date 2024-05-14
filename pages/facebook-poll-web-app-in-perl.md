@@ -2,7 +2,7 @@
 =timestamp 1598946544
 =tags Facebook, poll, Perl
 
-=abstract start
+
 
 On August 21, 2020 I posted a poll in the two Perl-related groups on Facebook.
 
@@ -11,7 +11,7 @@ and in the  <a href="https://www.facebook.com/groups/perlcommunity/permalink/799
 
 There were not many votes, but the results surprised me:
 
-=abstract end
+
 
 <h2>Question</h2>
 

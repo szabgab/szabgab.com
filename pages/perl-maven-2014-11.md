@@ -2,14 +2,14 @@
 =timestamp 1417546933
 =tags Perl, Perl Maven
 
-=abstract start
+
 
 In November I continued to write lots of Perl Maven articles. 17 in number. The visitor count was slightly down
 even though most of the days it was higher than in the previous month.
 
 Both the number of registrations to the free newsletter and the number of paying subscribers grew quite nicely.
 
-=abstract end
+
 
 
 <h2>Perl Maven Pro</h2>

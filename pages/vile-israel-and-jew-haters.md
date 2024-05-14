@@ -2,12 +2,12 @@
 =timestamp 1628171808
 =tags Israel
 
-=abstract start
+
 
 Here is Yoseph Haddad posting about <a href="https://twitter.com/YosephHaddad/status/1422536851957637122">Iran and the EU</a>
 the responses are just full of hatred towards Israel and Jews. Nothing to do with the specific post.
 
-=abstract end
+
 
 <a href="https://twitter.com/YosephHaddad/">Yoseph Haddad</a> is a well known advocate for Israel
 and critic of the anti-Israeli voices, but the particular Tweet had nothing to do with either Israel or Jews.

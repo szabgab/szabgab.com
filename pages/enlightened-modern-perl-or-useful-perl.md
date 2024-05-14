@@ -2,7 +2,7 @@
 =timestamp 1344608230
 =tags Perl
 
-=abstract start
+
 
 When showing <a href="http://perlmaven.com/">examples in Perl</a> I have a huge problem.
 
@@ -11,7 +11,7 @@ That's what the so called <b>Modern Perl</b> or <b>Enlightened Perl</b> movement
 
 On the other hand I'd like to be useful to people working in the real world.
 
-=abstract end
+
 
 In the last week I got two requests for help.
 One had to <a href="http://perlmaven.com/how-to-calculate-balance-of-bank-accounts-in-csv-file-using-perl">parse a CSV file</a> without using CPAN,

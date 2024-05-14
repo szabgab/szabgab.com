@@ -2,7 +2,7 @@
 =timestamp 1414920754
 =tags Perl, Perl Maven
 
-=abstract start
+
 
 After a month of school, in October Rosh HaShana arrived and with it lot of vacation days.
 This, of course had an impact on my productivity.  So it was a bit surprising to see that I managed to
@@ -12,7 +12,7 @@ It was the second busiest month since I launched the the <a href="http://perlmav
 Maybe it is less surprising as many of the articles and screencasts were already created at the end of
 <a href="/perl-maven-september-2014.html">September</a>.
 
-=abstract end
+
 
 <h2>Perl Maven Pro</h2>
 

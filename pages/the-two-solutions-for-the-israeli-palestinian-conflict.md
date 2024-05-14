@@ -2,11 +2,11 @@
 =timestamp 1641463393
 =tags Israel
 
-=abstract start
+
 
 There are basically two ways the so-called Palestinian-Israeli conflict can end.
 
-=abstract end
+
 
 <ol>
 <li>Either the Arabs succeed in killing many Jews and expelling the rest from the area that is currently called Israel, Gaza, and West-bank (that is also called Judea and Samaria).</li>

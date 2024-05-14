@@ -2,7 +2,7 @@
 =timestamp 1491138767
 =tags CPAN, MetaCPAN
 
-=abstract start
+
 
 A while ago I expressed my hopes that people would <a href="http://blogs.perl.org/users/gabor_szabo/2017/03/google-juice.html">indicating Google</a>
 that the prefferred source of <a href="https://metacpan.org/">Perl Module documentation</a> is MetaCPAN,
@@ -10,7 +10,7 @@ and then compared the <a href="/search-cpan-org-vs-metacpan.html">stats MetaCPAN
 
 I've also saved some numbers regarding the source of visitors to search.cpan.org
 
-=abstract end
+
 
 The first column is for 1 year between Mar 17 2016 and Mar 17 2017.
 

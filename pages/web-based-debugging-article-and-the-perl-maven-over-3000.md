@@ -2,7 +2,7 @@
 =timestamp 1380955060
 =tags Perl
 
-=abstract start
+
 
 As I was looking through <a href="https://metacpan.org/">MetaCPAN</a> for modules using the
 DB debugger back-end I noticed <a href="https://metacpan.org/module/Devel::hdb">Devel::hdb</a>.
@@ -10,7 +10,7 @@ DB debugger back-end I noticed <a href="https://metacpan.org/module/Devel::hdb">
 It is an awesome project, providing a
 <a href="http://perlmaven.com/debugging-perl-with-hdb">web-based debugger front-end for Perl</a>.
 
-=abstract end
+
 
 I wrote an <a href="http://perlmaven.com/debugging-perl-with-hdb">article</a> but I thought
 it deserves more publicity than the average Perl Maven article that reaches "only" the 

@@ -2,7 +2,7 @@
 =timestamp 1454758232
 =tags Perl, JavaScript
 
-=abstract start
+
 
 I have been struggling with what I am doing for quite some time.
 
@@ -13,7 +13,7 @@ is shrinking. While you can't see from <a href="http://szabgab.com/2015.html">th
 
 But I still love to explain stuff about Perl.
 
-=abstract end
+
 
 For almost 2 month I have not published any articles for the Perl Maven Pro users.
 Mostly because I was way too busy at my clients.

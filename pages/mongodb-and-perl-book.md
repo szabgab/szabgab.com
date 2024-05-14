@@ -2,7 +2,7 @@
 =timestamp 1385451508
 =tags Perl, MongoDB, book
 
-=abstract start
+
 
 <a href="http://www.mongodb.org/">MongoDB</a> is probably the most popular open-source NoSQL database,
 but there is no book on how to use it with the Perl Programming language.
@@ -12,7 +12,7 @@ It makes development so much easier than a traditional SQL database.
 
 So I started to write a book on using MongoDB with Perl.
 
-=abstract end
+
 
 The book will be available in electronic format via the
 <a href="http://perlmaven.com/">Perl Maven</a> site

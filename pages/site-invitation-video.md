@@ -2,14 +2,14 @@
 =timestamp 1595660501
 =tags YouTube, subscribers
 
-=abstract start
+
 
 On June 4th, 2020, that is almost 2 months ago I recorded a short video explaning a bit about the <a href="https://code-maven.com/">Code-Maven website</a>
 and inviting the viewers to follow the <a href="https://code-maven.com/youtube">YouTube</a> channel.
 
 I dit the same for the <a href="https://perlmaven.com/">Perl Maven site</a> with a video published on May 13, 2020.
 
-=abstract end
+
 
 The <a href="https://www.youtube.com/watch?v=ICPPLV_FQso">Code-Maven video</a> got
 2,800 views, 13% watched the whole 2 minutes, the average view dureation was 0:31, 26.7% of the viewers watch that much.

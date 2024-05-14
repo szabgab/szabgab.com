@@ -2,7 +2,7 @@
 =timestamp 1406623155
 =tags Perl
 
-=abstract start
+
 
 I just had this encounter:
 
@@ -11,7 +11,7 @@ I just had this encounter:
 
 WTF, it worked yesterday?
 
-=abstract end
+
 
 Please. Put quotes around the values you print in error messages and warnings. This message would have been so much clearer:
 

@@ -2,7 +2,7 @@
 =timestamp 1595924234
 =tags LinkedIn
 
-=abstract start
+
 
 Besides my <a href="https://www.linkedin.com/in/szabgab/">personal profile</a> I have a number of pages on LinkedIn.
 Some of them are (human) language specific.
@@ -11,7 +11,7 @@ Others are topic specific and they are all in English.
 
 Feel free to follow as many or as few as you feel right.
 
-=abstract end
+
 
 
 <h2>By Language</h2>

@@ -2,7 +2,7 @@
 =timestamp 1396738453
 =tags CPAN, MetaCPAN, StackOverflow
 
-=abstract start
+
 
 If you look at StackOverflow, you might notice that many links lead to version-specific pages
 on search.cpan.org. Some of them are already broken, others will be broken soon, once the module author
@@ -10,7 +10,7 @@ decides to remove that version from CPAN.
 
 This is quite unfortunate, but it is easy to fix. After all the pages on Stack Overflow are editable.
 
-=abstract end
+
 
 I've fixed about 50-60 pages in the last couple of days, but there are still about 1,000 with such issues.
 With a little help, all of those could be fixed within a few days.

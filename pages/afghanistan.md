@@ -2,11 +2,11 @@
 =timestamp 1629099819
 =tags Afghanistan, politics
 
-=abstract start
+
 
 The horrible news coming out from Afghanistan the Taliban taking over after the Americans have left the country.
 
-=abstract end
+
 
 
 My total lack of capability to do anything about it.

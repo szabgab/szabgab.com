@@ -2,7 +2,7 @@
 =timestamp 1348586350
 =tags Perl, testing e-book
 
-=abstract start
+
 
 For many years I believed that testing, and writing automated test
 is one of the fields where Perl can shine.
@@ -17,7 +17,7 @@ automated test. Not only for applications written in Perl, but for any applicati
 The <b>Test Automation using Perl</b> e-book aims to help people learn
 <b>how to write unit tests</b> for their Perl modules and <b>how to use Perl to test anything</b>,
 
-=abstract end
+
 
 If I was a good sales person, I'd have made lots of noise and get
 you all really enthusiastic about the upcoming e-book.

@@ -2,7 +2,7 @@
 =timestamp 1340566521
 =tags Perl
 
-=abstract start
+
 
 It is strange but it is true. At least for me. Restarting is hard.
 
@@ -10,7 +10,7 @@ For a while I have been writing 3-4 times a week, but in recent months I
 got so busy with work at clients, with traveling and with various other
 stuff, that I did not have the peace of mind to post articles.
 
-=abstract end
+
 
 I launched the <a href="http://perlmaven.com/">Perl Maven</a> site with the
 <a href="http://perlmaven.com/perl-maven-cookbook">Perl Maven cookbook</a>, 

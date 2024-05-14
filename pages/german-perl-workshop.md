@@ -2,11 +2,11 @@
 =timestamp 1236029065
 =tags German, Deutsch, Perl, Perl 5, Workshop, blog
 
-=abstract start
+
 
 Reporting on the <a href="http://www.perl-workshop.de/en/2009/index.html">11th German Perl Workshop</a>.
 
-=abstract end
+
 
 The <a href="http://www.perl-workshop.de/en/2009/index.html">11th German Perl Workshop</a> 
 is over and I have not written anything about it.

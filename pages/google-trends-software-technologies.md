@@ -2,7 +2,7 @@
 =timestamp 1387028622
 =tags Perl, Python, Ruby
 
-=abstract start
+
 
 <a href="http://www.google.com/trends/">Google Trends</a> has a ranking of
 <a href="http://www.google.com/trends/topcharts#vm=chart&cid=programming_languages&geo=US&date=201310">Software technologies</a>. 
@@ -11,7 +11,7 @@ It is a monthly report that shows the top 10 in most previous months,
 but in the last few reports there are 20 entries.
 Perl is number 19.
 
-=abstract end
+
 
 The numbers for the <United States for October 2013:
 

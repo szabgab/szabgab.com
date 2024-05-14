@@ -2,7 +2,7 @@
 =timestamp 1334521170
 =tags Perl, Perl Weekly
 
-=abstract start
+
 
 Two days ago I wrote that the <a href="/perl-weekly-newsletter-at-3000.html">Perl Weekly reached 3000 subscribers</a>.
 The article was posted to <a href="http://news.ycombinator.com/item?id=3840406">Hacker News</a> and to 
@@ -10,7 +10,7 @@ The article was posted to <a href="http://news.ycombinator.com/item?id=3840406">
 
 I give some details on the numbers as I know you might be interested in this stuff.
 
-=abstract end
+
 
 The posting brought 1900 visitors to my site: approx. 1150 directly from Hacker News, 110 from t.com
 (which is the URL shortening service of Twitter), 85 from reddit, (this seems to be surprisingly low)

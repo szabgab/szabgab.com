@@ -2,13 +2,13 @@
 =timestamp 1524156558
 =tags leadership
 
-=abstract start
+
 
 Here you can find a bunch of links about leadership that were <a href="https://twitter.com/patkua">tweeted</a> by <a href="https://www.thekua.com/">Patrick Kua</a> and collected by yours truly.
 
 I hope some of these will help you.
 
-=abstract end
+
 
 
 <a href="https://www.middlemarketcenter.org/expert-perspectives/leadership-and-strategy-planning-balancing-time-among-priorities">LEADERSHIP AND STRATEGY PLANNING: BALANCING TIME AMONG PRIORITIES</a>

@@ -2,7 +2,7 @@
 =timestamp 1518767024
 =tags Perl, Alexa
 
-=abstract start
+
 
 More than 2 year ago I've published an article called <a href="http://szabgab.com/the-popularity-of-perl-in-2015.html">The Popularity of Perl in 2015</a>
 
@@ -10,7 +10,7 @@ It contained a list of sites with their Alexa ranking and a few sites with infor
 
 This is an updated version of that report for February 2018.
 
-=abstract end
+
 
 <h2>The Popularity of Perl</h2>
 

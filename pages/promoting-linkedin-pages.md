@@ -2,11 +2,11 @@
 =timestamp 1595910717
 =tags LinkedIn, marketing
 
-=abstract start
+
 
 For my new adventure with the <a href="/linkedin-pages.html">LinkedIn Pages</a> I have several ways to increase the number of followers.
 
-=abstract end
+
 
 <ul>
 <li>I can pay money to LinkedIn to promote the page. I don't plan to do this in the near future. Partially as I see sponsored post for pages with very few followers. I don't see that the number increases for them.</li>

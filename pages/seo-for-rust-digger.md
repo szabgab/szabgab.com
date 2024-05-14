@@ -2,13 +2,13 @@
 =timestamp 1695045636
 =tags Rust
 
-=abstract start
+
 
 I have been working on the [Rust Digger](https://rust-digger.code-maven.com/) project for some time now and apparently if you type in **Rust Digger** [in my favorite search engine](https://duckduckgo.com/?t=ffab&q=rust+digger), or even if you [search on Google](https://www.google.com/search?q=rust+digger) it is not the top hit. It is not even listed.
 
 I have to do something about this.
 
-=abstract end
+
 
 I think the obvious will be to add [Google Analytics](https://analytics.google.com/analytics/), create a **sitemap.xml**, and add it to the [Google search console](https://search.google.com/search-console).
 

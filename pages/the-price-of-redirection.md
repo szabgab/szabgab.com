@@ -2,7 +2,7 @@
 =timestamp 1368021552
 =tags Perl, Google+, Reddit, Twitter, Social proof, Perl Maven
 
-=abstract start
+
 
 10 days ago I was wondering if I should <a href="/to-merge-or-not-to-merge">merge</a> the 3 Perl
 Maven sites. The recommendation by everyone was to merge the perl5maven.com site into the <a
@@ -10,7 +10,7 @@ href="http://perlmaven.com/">perlmaven.com</a> site. As I had the same feeling t
 
 It went quite smooth, but there was a price!
 
-=abstract end
+
 
 The number of visitors went down from 2,200/day to 1,500 on May 6. It slightly recovered to 1,800 on May 7,
 but it does not look very good today either.

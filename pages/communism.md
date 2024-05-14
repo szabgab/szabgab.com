@@ -2,14 +2,14 @@
 =timestamp 1627969236
 =tags communism
 
-=abstract start
+
 
 Once in a while I encounter people, primarily on social media, but sometimes even in person, who say that they are communist
 and talk about the communist ideals and how they think we should all embrace communism.
 
 One common aspect of all of these people that none of them have ever lived in a "communist" country.
 
-=abstract end
+
 
 I'd say the idea of communism is great in theory, however in practice none of the implementation have worked
 and almost none of them were good for the people.

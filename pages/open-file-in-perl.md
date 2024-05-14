@@ -3,7 +3,7 @@
 =tags Perl, open, file, OOP
 =indexes File::Open, fopen, File::Open::OOP, oopen
 
-=abstract start
+
 
 After explaining how to <a href="/modern-perl-tutorial-part-05--writing-to-files.html">open a file for writing</a> and how to 
 <a href="/perl-open-and-read-from-files.html">read from a file in Perl</a> I got a lot of comments that
@@ -11,7 +11,7 @@ I should teach more "modern ways" for handling files. People pointed to [dist://
 can certainly be intersting but I found [dist://File::Open] by Lukas Mai to be nice and simple.
 I even extended it and created [dist://File::Open::OOP].
 
-=abstract end
+
 
 There are various ways to read from text a file in Perl. We have already seen
 how to do it with the tools available in the language itself. Now we are going to

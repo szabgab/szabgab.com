@@ -2,12 +2,12 @@
 =timestamp 1606463134
 =tags money
 
-=abstract start
+
 
 I few days ago I read an article on dev.to on <a href="https://dev.to/dailydevtips1/how-to-make-money-with-your-content-1c7i">how to monetize web content</a>.
 As I understand it is based a standard called <a href="https://webmonetization.org/">Webmonetization</a>.
 
-=abstract end
+
 
 I asked both in <a href="https://www.reddit.com/r/perl/comments/jvpgme/funds_for_tpf_by_the_readers_of_metacpan_using/">Reddit /r/perl</a> and
 <a href="https://www.facebook.com/groups/perlprogrammers/permalink/3761901847175909/">Perl programmers Facebook group</a> what the folks think

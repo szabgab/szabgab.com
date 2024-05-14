@@ -2,12 +2,12 @@
 =timestamp 1421593454
 =tags LinkedIN
 
-=abstract start
+
 
 <a href="https://www.linkedin.com/">LinkedIN</a> has been around for quite some time, and I have been recommending
 it from quite the beginning. I have told why I use it to many people personally, but apparently never wrote it down.
 
-=abstract end
+
 
 When I recommend it in my training classes there are still many people who don't use it and who don't understand
 why would they need it. Then others come to my aid and "explain": "LinkedIN is the Facebook for job finding".

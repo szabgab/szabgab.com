@@ -2,14 +2,14 @@
 =timestamp 1610360380
 =tags courses, Perl, Python, Go
 
-=abstract start
+
 
 I keep not knowing what courses should I record that people would actually buy. I have plenty of slides I prepared for my class-room course.
 I used them several times, so I know the material fairly well. It will still take a lot of effort to record them, but it seems natural
 I could record them and then sell them either via my <a href="https://leanpub.com/u/szabgab">Leanpub</a> account or via my
 <a href="https://code-maven.teachable.com/">Teachable school</a> or even on my own <a href="https://code-maven.com/">Code Maven site</a>.
 
-=abstract end
+
 
 The first one I recorded and published was the <b>Python programming bootcamp</b>. It is a huge course that I teach several times a year.
 Originally I recorded it so I can use it instead of a zoom-only training course.

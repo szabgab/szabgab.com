@@ -2,11 +2,11 @@
 =timestamp 1256905701
 =tags Perl, CPAN, upgrade
 
-=abstract start
+
 
 While I am really happy that perl moves forward, things get fixed or deprecated and later removed but I know several companies that are still using 5.6.x and even older versions of perl. The gap is widening for many companies and I am not sure what to think about it.
 
-=abstract end
+
 
 Recently I asked on the mailing list of <a href="http://perl.org.il/">Israel.pm</a>:
 <a href="http://mail.perl.org.il/pipermail/perl/2009-October/010646.html">Why are you (or your company) still using an older version of Perl?</a>

@@ -2,14 +2,14 @@
 =timestamp 1613545403
 =tags DevOps, Agile, Testing
 
-=abstract start
+
 
 As a <b>CTO</b> or <b>VP R&amp;D</b> of <b>software development</b> probably one of the best investment in your teams is to teach them the
 <b>joy</b> and the <b>value</b> in writing automated tests for themselves.
 
 Yes, I think it can provide both!
 
-=abstract end
+
 
 Not only unit-tests, but also integration and maybe even acceptance tests.
 

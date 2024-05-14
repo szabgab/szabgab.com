@@ -2,12 +2,12 @@
 =timestamp 1449021123
 =tags money, SEO
 
-=abstract start
+
 
 There are many people who will try to help you <a href="/how-to-make-money-with-a-blog.html">make money online</a>. I have been following some of them.
 They all provide a lot of great free advice and all of them also provide courses if you really want to spend money.
 
-=abstract end
+
 
 Even if you don't plan on spending any money, I'd recommend you follow at least some of them. They have some good advice, but maybe more important
 than the great advice, they can keep you rolling when you feel it does not work.

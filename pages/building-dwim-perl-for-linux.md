@@ -2,7 +2,7 @@
 =timestamp 1349578416
 =tags Perl, DWIM Perl, Linux
 
-=abstract start
+
 
 The idea behind the <a href="http://dwimperl.szabgab.com/">DWIM Perl distribution</a> is to provide
 an easy way to start using Perl to build applications.
@@ -15,7 +15,7 @@ built on top of Strawberry Perl, but the experimental version of
 
 Let's see how can we build a much better distribution of Perl for Linux?
 
-=abstract end
+
 
 <h2>Dependencies</h2>
 

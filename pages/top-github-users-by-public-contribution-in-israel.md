@@ -2,11 +2,11 @@
 =timestamp 1689443137
 =tags GitHub, git
 
-=abstract start
+
 
 A couple of days ago I saw a page called [Top GitHub Users By Public Contributions in Israel](https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/israel.md).
 
-=abstract end
+
 
 I was quite surprised that I was number 2 on the list.
 

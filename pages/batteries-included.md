@@ -2,13 +2,13 @@
 =timestamp 1497691155
 =tags Perl, PHP, Python, Ruby
 
-=abstract start
+
 
 In business, and especially in real estate it is said that the most important thing is <b>Location, Location, Location</b>.
 
 As the popularity of JavaScript shows this is also true in programming languages though I think the biggest impact on the popularity of a programming language is how easy it is to get things done in it which is directly impacted by the <b>batteries included</b>.
 
-=abstract end
+
 
 <h2>The rise of Perl</h2>
 

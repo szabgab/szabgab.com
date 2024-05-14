@@ -2,11 +2,11 @@
 =timestamp 1431090589
 =tags Perl, Code Maven
 
-=abstract start
+
 
 I am still surprised how powerful <b>inertia</b> really is in personal development. Or whatever this is.
 
-=abstract end
+
 
 <h2>Separating Perl Maven</h2>
 

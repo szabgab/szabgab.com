@@ -2,11 +2,11 @@
 =timestamp 1648405617
 =tags Ladino
 
-=abstract start
+
 
 There are bunch of Open Source projects that try to provide automatic text translation among several languages.
 
-=abstract end
+
 
 
 One of the interesting ones is <a href="https://libretranslate.com/">Libre Translate</a> (<a href="https://github.com/LibreTranslate/LibreTranslate">GitHub</a>)

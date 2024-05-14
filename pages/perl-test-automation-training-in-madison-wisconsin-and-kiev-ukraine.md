@@ -2,7 +2,7 @@
 =timestamp 1333358218
 =tags Perl, testing, course
 
-=abstract start
+
 
 I have two public Test Automation Training courses scheduled:
 
@@ -17,7 +17,7 @@ The second one is
 <a href="http://yapcna.org/">YAPC::NA</a>.
 You can register on the web site.
 
-=abstract end
+
 
 
 The 2-days class will include both lectures and hands on exercises.

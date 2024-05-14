@@ -2,7 +2,7 @@
 =timestamp 1451656028
 =tags Perl, Alexa
 
-=abstract start
+
 
 A year ago I've published an article called <a href="http://szabgab.com/the-popularity-of-perl-in-2014.html">The Popularity of Perl in 2014</a>
 
@@ -18,7 +18,7 @@ Highlights:
 <li>perl6.org moved up the 9th place</li> 
 </ul>
 
-=abstract end
+
 
 <h2>The Popularity of Perl</h2>
 

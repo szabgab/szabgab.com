@@ -2,7 +2,7 @@
 =timestamp 1412108060
 =tags Perl, Perl Maven
 
-=abstract start
+
 
 With September the new school-year has started which gave me more time to write articles and to record screencasts.
 This extra free time (to work :), show in much better productivitiy. Albeit I am still frustrated on days when
@@ -10,7 +10,7 @@ I feel I did not make enough progress.
 
 As I can see I published 18 new Perl Maven posts and managed to some other stuff.
 
-=abstract end
+
 
 <h2>Perl Maven Pro</h2>
 

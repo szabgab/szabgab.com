@@ -2,7 +2,7 @@
 =timestamp 1520633614
 =tags new year
 
-=abstract start
+
 
 New Year's resolutions sometimes include <a href="/retrospectives.html">retrospectives</a>, some kind of a reflection on past achievement, but primarily they are focus on what one wish to achieve in the coming year.
 
@@ -12,7 +12,7 @@ Here you can find a bunch of links to New Year's Resolutions that were <a href="
 
 I hope some of these will help you set your goals.
 
-=abstract end
+
 
 <a href="https://www.cnbc.com/2018/01/03/branson-shares-the-secret-to-sticking-to-your-new-years-resolutions.html">Billionaire Richard Branson: Here's the secret to sticking to your New Year’s resolutions</a>
 

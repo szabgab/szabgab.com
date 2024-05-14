@@ -2,7 +2,7 @@
 =timestamp 1360109336
 =tags Perl, CPAN, license, repository
 
-=abstract start
+
 
 About a month ago I checked how many recent CPAN uploads had <a
 href="http://blogs.perl.org/users/gabor_szabo/2012/12/174-of-cpan-uploads-have-no-license-in-the-meta-files.html">license
@@ -12,7 +12,7 @@ to public version control systems</a> holding the source of those modules.
 
 Today I checked it again.
 
-=abstract end
+
 
 The numbers are quite similar.
 

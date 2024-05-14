@@ -2,7 +2,7 @@
 =timestamp 1394070813
 =tags OSDC, Modiin, Perl, Python, Ruby, Dart, MongoDB, NoSQL
 
-=abstract start
+
 
 I was dragging my feet for a long time with this, but since the <a href="http://modiinhub.com/">Modiin HUB</a> has opened
 its gates I have no more excuses.
@@ -12,7 +12,7 @@ and let me start to organize regular meetings in the Modiin HUB.
 
 So I am happy to announce the <a href="http://osdc.org.il/">Modiin branch of the Open Source Developers Club</a>.
 
-=abstract end
+
 
 The name originally came from <a href="http://osdc.com.au/">Autralia</a> where they mostly organize annual conference.
 Even in Israel we had such a conference <a href="http://osdc.org.il/2006/">back in 2006</a>, but organizing a conference is

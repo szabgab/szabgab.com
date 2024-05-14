@@ -3,7 +3,7 @@
 =tags newsletter, testing, web, Perl, Perl 5
 =indexes HTTP::Server::Simple, HTTP::Server::Simple::CGI, testing
 
-=abstract start
+
 
 In this posting I take break from the testing PHP session as 
 I had some urgent work to do on a web application I have 
@@ -15,7 +15,7 @@ server written in Perl to test a web application.
 I am also busy writing the 
 <a href="/perl6-tricks-and-treats">Perl 6 Tricks and Treats</a>
 
-=abstract end
+
 
 <hr>
 This entry was first sent out as part of the 

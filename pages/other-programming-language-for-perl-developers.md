@@ -2,7 +2,7 @@
 =timestamp 1609767966
 =tags Perl, LinkedIn, poll
 
-=abstract start
+
 
 Even though there are a lot more Python or JavaScript developers around the world than people who use Perl these days, still
 the largest number of my LinkedIn contacts are people who mention Perl on their profile.
@@ -12,7 +12,7 @@ It has it's own bias, but see the number of <a href="/linkedin-contacts-by-progr
 
 So I was interested what they want to read about. I thought "Perl" being obvious, I wanted to know what other programming language they might be interested in?
 
-=abstract end
+
 
 During the end of December 2020 I ran a <a href="https://www.linkedin.com/feed/update/urn:li:activity:6745235798469169152">poll on LinkedIn</a>
 on the <a href="https://www.linkedin.com/showcase/perl-maven/">Perl Maven</a>  page asking people <b>What programming language would you like to learn now?</b>

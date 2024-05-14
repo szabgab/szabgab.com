@@ -2,7 +2,7 @@
 =timestamp 1516290875
 =tags Conference, Hiking, Hungary
 
-=abstract start
+
 
 After Craft Conf 2017 a couple of us went on a hike in the hills of Budapest. You can see our <a href="/hiking-after-craft-2017.html">plan</a> and <a href="/craft-conf-2017.html">results</a>.
 
@@ -16,7 +16,7 @@ Date: Saturday  May 12, 2018. from 10:00 till about 14:00.
 
 Assuming the weather permits.
 
-=abstract end
+
 
 <h2>Arriving</h2>
 

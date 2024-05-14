@@ -2,11 +2,11 @@
 =timestamp 1628314948
 =tags walking, hiking
 
-=abstract start
+
 
 I just got an e-mail from <a href="https://runkeeper.com/">Runkeeper</a> that I tracked more than 5,000 km with them.
 
-=abstract end
+
 
 As you might know from my <a href="/reports.html">monthly reports</a> I have been walking quite a lot recently and using
 Runkeeper to track my walks. A couple of years ago I was also biking and as I recall there were a few occasions when

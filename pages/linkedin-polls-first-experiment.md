@@ -2,14 +2,14 @@
 =timestamp 1595657288
 =tags LinkedIn, polls
 
-=abstract start
+
 
 <a href="https://www.linkedin.com/">LinkedIn</a> recently added the possibility to run polls. Immediately everyone around me started to create polls,
 but I don't like that type of "gold rush" so I waited.
 
 A few days ago finally I got the idea to try it for the first time.
 
-=abstract end
+
 
 A ran a poll in the <a href="https://www.linkedin.com/groups/3726537/">DevOps professionals</a> group that has 26,656 members.
 

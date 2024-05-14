@@ -2,11 +2,11 @@
 =timestamp 1459496587
 =tags Perl
 
-=abstract start
+
 
 a few days ago I've received an e-mail from an obfuscated e-mail address. It was strange, but nice.
 
-=abstract end
+
 
 <pre>
 Subject: thanks (NOT spam)

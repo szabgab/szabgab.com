@@ -2,12 +2,12 @@
 =timestamp 1654585476
 =tags blogs
 
-=abstract start
+
 
 Recently I started to create online meetings for Ladino-speaking community called <a href="https://echar-lashon.szabgab.com/">Echar Lashon</a>.
 The idea is to create an online space where people can meet and speak in <a href="/ladino.html">Ladino</a>.
 
-=abstract end
+
 
 I imagine it to be similar to a "club" or to a "party" and I am trying to figure out how this could work both socially and technologically.
 Maybe there are already systems that can be easily used for this, I am just not aware of them, maybe we'll need to cobble together something.

@@ -2,14 +2,14 @@
 =timestamp 1704358711
 =tags blogs, meetings, Rust, meet-os
 
-=abstract start
+
 
 It is not the first time I was thinking about creating a platform for organizing meetings, but this time I have a plan and started to work on it.
 
 After many weeks of "research", that is, learning more Rust and writing [almost 100 articles about Rust](/rust-maven-100), and then after 2 days of
 actual coding (and doing more research), yesterday I finally published the first version of [Meet-OS](https://meet-os.com/).
 
-=abstract end
+
 
 The fun part was that I wanted it to be included in the January 03 edition of [This week in Rust](https://this-week-in-rust.org/), so I had to have a working
 web site yesterday afternoon.

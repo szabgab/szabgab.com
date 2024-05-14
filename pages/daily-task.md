@@ -2,7 +2,7 @@
 =timestamp 1627713486
 =tags blogs
 
-=abstract start
+
 
 A week ago, on July 23 I start a "daily task". The idea came from reading the
 article about <a href="/gratitude.html">gratitude</a>, but I was not sure if I want
@@ -10,7 +10,7 @@ to restrict it to those topic.
 
 Now, after a week I see I had 5 posts in the first 7 days, 2 on the same day.
 
-=abstract end
+
 
 Originally I thought I'll write about subjects where I feel gratitude. I even prepared
 a small private list of thing I can write about, but I was not sure I would want to

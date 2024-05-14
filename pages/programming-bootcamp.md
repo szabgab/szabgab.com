@@ -2,7 +2,7 @@
 =timestamp 1607000135
 =tags course
 
-=abstract start
+
 
 I've recorded the <a href="https://code-maven.com/programming-boootcamp-for-scientists">Programming Bootcamp for Scientists</a> video course
 in September-October and used it as the material for a course. Finally I found a home for it where it will be easy to sell it
@@ -10,7 +10,7 @@ as a stand-alone course.
 
 It is on Leanpub now: at <a href="https://leanpub.com/c/bootcamp">Programming Bootcamp</a>.
 
-=abstract end
+
 
 As a start I've enabled 13 out of the 42 videos, that's about 30% and I am giving a deep discount for the early birds.
 Within a few days I am going to update the material and enable all of the videos and then the price will also be the

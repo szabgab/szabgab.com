@@ -2,14 +2,14 @@
 =timestamp 1478853151
 =tags Podcasts, Open Source, Conferences, videos
 
-=abstract start
+
 
 A few days ago I wrote about my new projects <a href="/podcasts-and-conferences.html">collecting data about conferences and podcasts</a>.
 Since then I made some progress, but I need to make some further plans.
 
 Just thinking aloud.
 
-=abstract end
+
 
 The problem is big, though it does not seem to be very sophisticated.
 

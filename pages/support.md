@@ -2,13 +2,13 @@
 =timestamp 1659676092
 =tags blogs
 
-=abstract start
+
 
 There are many people who ask me how could they (financially) support the work I do and share freely with the public.
 
 Let me list a number of ways:
 
-=abstract end
+
 
 * [GitHub Sponsors](https://github.com/sponsors/szabgab/) allows for both monthly and one-time support.
 * [Patreon](https://www.patreon.com/szabgab) is excellent for a monthly or annual support, but you could also "subscribe and then immediately cancel the next payment" for a one-time support.

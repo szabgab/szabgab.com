@@ -3,13 +3,13 @@
 =tags newsletter, Perl 6, Perl, scalar, array, hash
 =redirect http://perl6maven.com/perl6-scalar-array-and-hash-interpolation
 
-=abstract start
+
 
 The second entry of the <a href="/perl6-tricks-and-treats">Perl 6 Tricks and Treats</a>
 newsletter (the first was <a href="/perl-6--arrays-with-unique-values.html">Perl 6: Arrays with unique values</a>) in which you'll see
 how to interpolate variables and expressions in a string.
 
-=abstract end
+
 
 <hr>
 This entry was first sent out as part of the 

@@ -2,7 +2,7 @@
 =timestamp 1624172873
 =tags blogs
 
-=abstract start
+
 
 How close are you to solving a real-world problem?
 
@@ -10,7 +10,7 @@ How far are you from the natural problem that needs to be solved?
 
 Recently I have been thinking about my work and how close (or how far) it is from helping to solve real problems?
 
-=abstract end
+
 
 Are you creating a solution to a natural problem or to a problem created by the previous "solution"?
 

@@ -2,13 +2,13 @@
 =timestamp 1642236092
 =tags Ladino
 
-=abstract start
+
 
 You probably know what <a href="/yak-shaving.html">Yak shaving is</a>. It is a cycle of <a href="/recursive-development-that-leads-nowhere.html">recursive work</a>.
 
 I got sort-of sucked into it now as I am learning Ladino and I need to find a way out.
 
-=abstract end
+
 
 <h2>Speaking and listening</h2>
 

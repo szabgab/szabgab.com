@@ -2,12 +2,12 @@
 =timestamp 1627715569
 =tags desk
 
-=abstract start
+
 
 In my usual setup I use a notebook with a 13" screen and an external monitor that is 24". Up till today the external
 monitor was placed above my notebook and I used the notebook for presentations. I am trying to change that.
 
-=abstract end
+
 
 I tried to hook up a second external monitor, but so far my computer failed to recognize it.
 

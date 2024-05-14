@@ -2,7 +2,7 @@
 =timestamp 1611652329
 =tags courses, business
 
-=abstract start
+
 
 For quite some time I thought the main problem of my online business is that I have nothing to sell.
 I had the "Perl Maven Pro" and "Code Maven Pro", but for a long time I hardly added any new content to it.
@@ -11,7 +11,7 @@ So when people told me how could I attract more visitors to my site using social
 reject those ideas. More visitors to my site would not help if I have nothing to sell them.
 
 
-=abstract end
+
 
 Finally in the last few months I started to make progress recording a Python course then a Perl course and some
 courses. I already have <a href="https://courses.code-maven.com/">10 courses</a>. Some of those are finished

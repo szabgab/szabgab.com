@@ -2,14 +2,14 @@
 =timestamp 1236753971
 =tags newsletter, testing, PHP, SimpleTest
 
-=abstract start
+
 
 This is the first article of a series of articles where I am looking
 at various <a href="/php.html">PHP tools</a> for test automation. How they integrate (or not)
 with other test automation systems. In this article I provide an 
 introduction to <a href="http://simpletest.org/">SimpleTest</a>
 
-=abstract end
+
 
 <hr>
 This entry was first sent out as part of the 

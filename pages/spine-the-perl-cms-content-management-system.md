@@ -2,12 +2,12 @@
 =timestamp 1236495095
 =tags CMS, Perl, Perl 5, open source
 
-=abstract start
+
 
 An unrequested criticism of 
 <a href="http://spine.sourceforge.net/">Spine, the Perl CMS</a>. Written with goo intentions.
 
-=abstract end
+
 
 After I saw <a href="http://use.perl.org/~Beatnik/journal/38605">Hendrik Van Belleghem</a> 
 mentioning the <a href="http://www.techworld.com.au/article/278847/open_source_identity_spine_cms_creator_hendrik_van_belleghem">

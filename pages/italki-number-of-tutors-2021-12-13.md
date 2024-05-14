@@ -2,7 +2,7 @@
 =timestamp 1639382500
 =tags italki
 
-=abstract start
+
 
 I used <a href="https://www.italki.com/i/EFbbfc?hl=en_us">italki</a> a lot to find native Spanish speaker to practice the language.
 Along the way I found a lot of interesting people.
@@ -10,7 +10,7 @@ Along the way I found a lot of interesting people.
 Recently I got interested in <a href="/ladino.html">Ladino</a>, but there are no Ladino tutors on italki. So I was wonder how many tutors
 are for other languages. Here is a partial table:
 
-=abstract end
+
 
 <table>
 <tr><th>Language           </th><th> Tutors  </th></tr>

@@ -2,14 +2,14 @@
 =timestamp 1374732445
 =tags Perl, Alexa
 
-=abstract start
+
 
 While there are more and more web site with very little traffic, the number of medium-sized sites is growing rapidly.
 
 Two years ago there were about 40-60,000 web sites with more than 100,000 monthly visits.
 Today there 150,000 such web sites.
 
-=abstract end
+
 
 Peteris Krumins has been blogging for <a href="http://www.catonmat.net/blog/six-years-of-blogging/">six years now</a>
 and he is kind enough to share some data with us every year. According to the Google Analytics based graph on
