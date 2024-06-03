@@ -29,7 +29,9 @@ So what are my plans with the workshops? At first I thought I'll exclusively off
 with that language, but then I changed my mind and decided to start experimenting with workshops in the 3 programming languages
 I know the best.
 
-* **Perl** - I think it has the smallest community of the 3 groups and unfortunately it is steadily declining in its popularity:
+### Perl
+
+I think it has the smallest community of the 3 groups and unfortunately it is steadily declining in its popularity:
 I had hardly any request for Perl courses in the past 5 years.
 Despite that I still run the [Perl Weekly newsletter](https://perlweekly.com/) with more that 4,000 subscribers. There is also
 the [Perl Community on Facebook](https://www.facebook.com/groups/perlcommunity) with 1,6000 member and I also have the
@@ -43,7 +45,9 @@ I will probably run a workshop on the use of one-liners and regexes that can be 
 for that the primary audience will be people who are not familiar with Perl.
 
 
-* **Rust** - I think there are a lot more people writing in Rust than in Perl and I am sure there are a lot more who would like to learn Rust
+### Rust
+
+I think there are a lot more people writing in Rust than in Perl and I am sure there are a lot more who would like to learn Rust
 that those who would like to learn Perl. I also think that Rust will gain a lot in popularity.
 
 As for my capability to promote the workshops:
@@ -55,7 +59,9 @@ I event posted on [Reddit](https://www.reddit.com/r/rust/) and while it did not 
 So I guess I can post about the workshops once in a while.
 
 
-* **Python** - It has by far the biggest community in the world. (at least among these 3 languages). So it might have the biggest potential
+### Python
+
+It has by far the biggest community in the world. (at least among these 3 languages). So it might have the biggest potential
 to attract participants. Unfortunately I don't really have a way to promote the events to a community. I have access to the PyWeb community
 in Israel (3,333 members) which is a good start. However, I have not participated in any Python group. Neither on Facebook nor on LinkedIn. (The two platforms I am  using)
 I can ask the editors of [Python Weekly](https://www.pythonweekly.com/) and [PyCoders](https://pycoders.com/) (with 103,000 subscribers),
