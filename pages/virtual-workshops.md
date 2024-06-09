@@ -34,7 +34,7 @@ I know the best.
 I think it has the smallest community of the 3 groups and unfortunately it is steadily declining in its popularity:
 I had hardly any request for Perl courses in the past 5 years.
 Despite that I still run the [Perl Weekly newsletter](https://perlweekly.com/) with more that 4,000 subscribers. There is also
-the [Perl Community on Facebook](https://www.facebook.com/groups/perlcommunity) with 1,6000 member and I also have the
+the [Perl Community on Facebook](https://www.facebook.com/groups/perlcommunity) with 1,600 members and I also have the
 [Perl Maven page on LinkedIn](https://www.linkedin.com/showcase/perl-maven/) with 849 followers. So there is some interest and I have a way
 to promote the events to potential participants.
 
@@ -105,8 +105,8 @@ there are 100 registered attendees and 30 actually show up.
 Even that might be too high an expectation given these are the summer months on the northern hemisphere where most of the potential attendees live.
 
 
-When I started this 12 days ago the [Code Mavens](https://www.meetup.com/code-mavens/) group had 2,681 members. Now there are 2,787.
-106 increase in the number of members.
+When I started this 12 days ago (on 2024.05.21) the [Code Mavens](https://www.meetup.com/code-mavens/) group had 2,681 members. Now (on 2024.06.03)
+there are 2,787. An increase of 106 in the number of members.
 I was hoping to get 25 new people each event and given 8 events a month that would average 200 new members a month.
 I really have no idea if this is a reasonable growth. I guess I'll see a few months from now after I ran a few of the events.
 If I have to set a goal with a time as the "business people" expect then I should set it to gain 600 new members till the end of August.
