@@ -30,6 +30,7 @@ Feel free to follow as many or as few as you feel right.
 <li><a href="https://www.linkedin.com/showcase/code-maven-python/">Python</a></li>
 <li><a href="https://www.linkedin.com/showcase/code-maven-golang/">Golang</a></li>
 <li><a href="https://www.linkedin.com/showcase/perl-maven/">Perl</a></li>
+<li><a href="https://www.linkedin.com/showcase/rust-maven/">Rust</a></li>
 </ul>
 
 
