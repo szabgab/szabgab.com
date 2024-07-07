@@ -1,4 +1,4 @@
-=head1 Progress bar 2024.07.07 (Meetup groups)
+=head1 Progress bar 2024.07.07
 =timestamp 1720332252
 =tags Meetup
 
@@ -34,5 +34,33 @@ Number of members in the [PyWeb-IL](https://www.meetup.com/pyweb-il/)
 | ---------- | ------- |
 | 2024.05.21 | 3,332   |
 | 2024.07.07 | 3,385   |
+
+
+## English YouTube channel
+
+| Date       | folloers |
+| ---------- | -------- |
+| 2024.07.07 |  3,228   |
+
+
+
+## Hebrew YouTube channel
+
+| Date       | folloers |
+| ---------- | -------- |
+| 2024.07.07 |  538     |
+
+
+## Spanish YouTube channel
+
+| Date       | folloers |
+| ---------- | -------- |
+| 2024.07.07 |   19     |
+
+### Hungarian YouTube channel
+
+| Date       | folloers |
+| ---------- | -------- |
+| 2024.07.07 |   15     |
 
 
