@@ -338,6 +338,7 @@ Helping the organizers.
 * <a href="https://www.met.no/">Norwegian Meteorological Inst</a> - training.
 * [Orange (Partner Ltd.)](https://www.partner.co.il/)
 * <a href="https://www.orpak.com/">Orpak</a>
+* [Palo Alto Networks](https://www.paloaltonetworks.com/) - Rust training.
 * <a href="https://www.perfecto.io/">Perfecto Mobile</a> Linux training.
 * <a href="https://www.qualcomm.com/">Qualcomm</a> - Perl training, Python training.
 * <a href="https://www.radware.com/">Radware</a> - Perl training.
