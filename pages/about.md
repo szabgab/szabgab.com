@@ -4,6 +4,16 @@
 
 ## About me
 
+These days I primarily focus on providing training. The main subjects are
+
+* Rust programming
+* Python programming
+* Git, GitHub/GitLab
+* Test Automation and Continuous Integration (CI)
+* Docker
+
+## More about me
+
 I help people, teams, and organizations improve their engineering practices, increase the speed of development, reduce the risk of bugs.
 Introducing and improving (Test) Automation, Continuous Integration, Extreme Programming, and DevOps practices.
 
@@ -23,26 +33,24 @@ Sometimes my work includes building internal web sites.
 
 I also love explaining things and provide class-room [training](/training) to my clients.
 
-The languages I usually deal with are Python, Perl, Bash, Groovy, and JavaScript, though many of the services I provide are language independent.
+The languages I usually deal with are Rust, Python, Perl, Bash, Groovy, and JavaScript, though many of the services I provide are language independent.
 
 [Contact me](/contact) if you are interested.
 
 I am the author of several books published on Leanpub:
-[Collaborative Development using Git and GitHub](https://leanpub.com/collab-dev-git/),
-[Bailador: Web Application Development in Perl 6](https://leanpub.com/bailador/), and
-[Single Page Application with Perl Dancer](https://leanpub.com/dancer-spa/).
+For example [Collaborative Development using Git and GitHub](https://leanpub.com/collab-dev-git/) and [Single Page Application with Perl Dancer](https://leanpub.com/dancer-spa/).
 
 
-<h2 id="presentations">Presentations</h2>
+## Presentations
 
 Frequently giving presentations and organizing workshop at meetings and conference.
 The <a href="https://www.meetup.com/Code-Mavens/">Code Maven</a> group serves as platform for that.
 
 Some of my public presentations were recorded:
 
-* <b>YAPC::Europe::2008 in Copenhagen, Denmark.</b> <a href="https://www.youtube.com/watch?v=peFrEWzq8pA">Padre the Perl IDE</a>
-* <b>YAPC::Europe::2010 in Pisa, Italy.</b> <a href="https://www.youtube.com/watch?v=riszqF4AmMM">About Perl Staff going at non Perl event</a>
-* <b>YAPC::Europe::2011 in Riga, Latvia</b> <a href="https://www.youtube.com/watch?v=PRmmTVEZefA">Writing Plugins for Padre, the Perl IDE</a>
+* <b>YAPC::Europe::2008 in Copenhagen, Denmark.</b> [Padre the Perl IDE](https://www.youtube.com/watch?v=peFrEWzq8pA).
+* <b>YAPC::Europe::2010 in Pisa, Italy.</b> [About Perl Staff going at non Perl event](https://www.youtube.com/watch?v=riszqF4AmMM)
+* <b>YAPC::Europe::2011 in Riga, Latvia</b> [Writing Plugins for Padre, the Perl IDE](https://www.youtube.com/watch?v=PRmmTVEZefA)
 * <b>YAPC::Europe::2012 in Frankfurt, Germany.</b> <a href="https://www.youtube.com/watch?v=gIsc39vU22w">Refactoring Perl Code</a> with a short introduction of <a href="https://scratch.mit.edu/">Scratch</a> at the beginning.
 * <b>YAPC::NA::2016 in Orlando, Florida, USA</b> <a href="https://www.youtube.com/watch?v=oAkasBMJJ18">Getting started with modern web development in Perl</a>.
 * At <a href="https://il.pycon.org/2016/"><b>PyCon Israel 2016</b></a> I had a talk titled <a href="https://il.pycon.org/2016/about/speakers.html#dcf2e8dcc2c5e21e">Fight or Flight? - dealing with real world applications in Python</a>.  The video of <a href="https://pyvideo.org/pycon-israel-2016/fight-or-flight-dealing-with-real-world-applications-in-python.html">Fight or Flight? - dealing with real world applications in Python</a> is also available.
@@ -56,10 +64,10 @@ Some of my public presentations were recorded:
 
 I have 4 YouTube Channels in 4 different languages. I primarily upload videos in English and Hebrew, but I have been experimenting with Spanish as well.
 
-* <a href="https://code-maven.com/youtube">English</a>
-* <a href="https://he.code-maven.com/youtube">Hebrew</a>
-* <a href="https://es.code-maven.com/youtube">Spanish</a>
-* <a href="https://hu.code-maven.com/youtube">Hungarian</a>
+* [English](https://code-maven.com/youtube)
+* [Hebrew](https://he.code-maven.com/youtube)
+* [Spanish](https://es.code-maven.com/youtube)
+* [Hungarian](https://hu.code-maven.com/youtube)
 
 ## Web sites
 
@@ -177,7 +185,7 @@ due to lack of interest.
 <br>
 In addition I created <a href="http://padre.perlide.org/">Padre, the Perl IDE</a>.
 
-<h2>Social activity</h2>
+## Social activity
 
 I restarted the <a href="http://www.perl.org.il/">Israel Perl Mongers</a> and created
 a lively environment for local Perl enthusiastic in Israel. With the invaluable help of
@@ -203,17 +211,17 @@ from <a href="https://www.hamakor.org.il/">HaMakor</a>, the Israeli non-profit f
 Mostly for my community work, in 2008, I received the
 <a href="http://whitecamel.org/">White Camel Award</a>.
 
-<h2>Other Projects</h2>
+## Other Projects
 
-<ul>
-<li><a href="https://tech-talks.code-maven.com/">Tech Talks for Technical Leaders</a></li>
-</ul>
+* <a href="https://tech-talks.code-maven.com/">Tech Talks for Technical Leaders</a>
 
-<h2>Blog</h2>
+## Blog
 
 Even before it was called a blog I used to write in the <b>use Perl journal</b>
 and later in <a href="http://blogs.perl.org/users/gabor_szabo/">blogs.perl.org</a>.
-Nowadays I mostly write on the <a href="https://code-maven.com/">Code Maven</a> and the <a href="https://perlmaven.com/">Perl Maven</a> sites.
+Nowadays I mostly write on the [Rust Maven](https://rust.code-maven.com/), [Python Maven](https://python.code-maven.com/), and the <a href="https://perlmaven.com/">Perl Maven</a> sites
+and on the <a href="https://code-maven.com/">Code Maven</a>.
+
 
 <!--
 <h2>Newsletter</h2>
@@ -224,12 +232,11 @@ and the other called and <a href="perl6">Perl 6 Tricks and Treats</a>.
 </p>
 -->
 
-<h2>Relationships</h2>
+## Relationships
 
-You can see my personal profile on <a href="http://www.linkedin.com/in/szabgab">LinkedIn</a>
-and on <a href="https://www.xing.com/profile/Gabor_Szabo7">Xing</a>.
+You can see my personal profile on [LinkedIn](https://www.linkedin.com/in/szabgab) and on [Xing](https://www.xing.com/profile/Gabor_Szabo7).
 
-<h2>Other Profiles</h2>
+## Other Profiles
 
 <p><a href="https://twitter.com/szabgab">Twitter</a></p>
 <p><a href="http://news.ycombinator.com/user?id=szabgab">YCombinator</a></p>
@@ -246,11 +253,11 @@ and on <a href="https://www.xing.com/profile/Gabor_Szabo7">Xing</a>.
 <p><a href="http://identi.ca/szabgab">Identi.ca</a></p>
 
 
-<h2>Other</h2>
+## Other
 
 My favorite places in <a href="/budapest">Budapest</a> and some links related to <a href="/israel">Israel</a>.
 
-<h2>Others about me</h2>
+## Others about me
 
 It's nice to see what other people write about me or if they take pictures of me, here are a few I found.
 
@@ -303,56 +310,59 @@ Helping the organizers.
 
 ## Some of my clients during the years
 
-* Actelis
-* <a href="https://en.wikipedia.org/wiki/Aladdin_Knowledge_Systems">Aladdin Knowledge Systems</a>
-* <a href="https://en.wikipedia.org/wiki/Amdocs">Amdocs</a> - Perl training
+* [Actelis](https://actelis.com/) - Subversion installation and training.
+* [Aladdin Knowledge Systems](https://en.wikipedia.org/wiki/Aladdin_Knowledge_Systems). - Perl development.
+* [Amdocs](https://www.amdocs.com/) - [Amdocs](https://en.wikipedia.org/wiki/Amdocs) - Perl training in Israel, Cyprus, Czech Republic.
 * Apply Tech - Perl development, Python development.
-* <a href="https://www.assaabloy.com/">Assa Abloy</a> (Rav Bariach) - Git training
-* <a href="https://www.bezeqint.net/">Bezeq International</a> - Primarily Perl and Python training courses with some mentoring.
-* <a href="http://tlabs.bgu.ac.il/">BGU/Deutsche Telekom (Israel)</a> - Git training.
+* [Assa Abloy](https://www.assaabloy.com/) (aka. Rav Bariach) - Git training.
+* [Bezeq International](https://www.bezeqint.net/) - Primarily Perl and Python training courses with some mentoring.
+* [Ben Gurion University/Deutsche Telekom (Israel)](https://tlabs.bgu.ac.il/) - Git training.
 * Breach - Perl training.
 * Brodmann17 - Setting up agentless CI system. Handling various small devices.
 * Cellex - Perl development.
-* <a href="https://en.wikipedia.org/wiki/CEVA,_Inc.">CEVA DSP</a> - Perl Training.
-* <a href="https://en.wikipedia.org/wiki/Cisco_Systems">Cisco</a> - Perl development, Perl Training.
-* <a href="https://en.wikipedia.org/wiki/Check_Point">Checkpoint</a> - Test Automation development using Perl.
-* Deutsche Telekom (Germany) - Test Automation using Perl training
-* DNV Norway - Perl and Test Automation training.
-* <a href="http://www.evogene.com/">Evogene</a> - Setting up COntinuous Integration for the Perl-based web application of the company and introducing test writing and better Perl development practices. Implementing an in-house web application using Angular as front-end. Perl training.
-* <a href="http://www.exlibrisgroup.com/">ExLibris</a> - Perl training.
-* <a href="https://www.forescout.com/">Forescout</a> - Development of tools for Test automation in Perl.
-* <a href="https://www.harmonicinc.com/">Harmonic systems</a> - Perl training
-* <a href="https://www.hazera.com/">Hazera</a> - Python and JavaScript development, refactoring, Dockerization, deployment.
-* <a href="https://icarbonx.co.il/">iCarbonX</a> - Setting up CI system using Jenkins, introducing unit-testing for Python based application.
-* <a href="https://www.inomize.com/">Inomize</a> - Perl training.
+* [CEVA DSP](https://en.wikipedia.org/wiki/CEVA,_Inc.) - Perl Training.
+* [Cisco](https://www.cisco.com/) - [Cisco](https://en.wikipedia.org/wiki/Cisco_Systems) - Perl development, Perl Training.
+* [Checkpoint](https://www.checkpoint.com/) - [Checkpoint](https://en.wikipedia.org/wiki/Check_Point) - Test Automation development using Perl training and development.
+* [Deutsche Telekom (Germany)](https://www.telekom.com/) - Test Automation using Perl training.
+* [DNV Norway](https://www.dnv.com/) - Perl and Test Automation training.
+* [Evogene](https://www.evogene.com/) - Setting up Continuous Integration (CI) for the Perl-based web application of the company. Introducing test writing and better Perl development practices. Implementing an in-house web application using Angular as front-end. Perl training. Python training.
+* [ExLibris](http://www.exlibrisgroup.com/) - Perl training.
+* [Forescout](https://www.forescout.com/) - Development of tools for Test automation in Perl.
+* [Harmonic systems](https://www.harmonicinc.com/) - Perl training.
+* [Hazera](https://www.hazera.com/) - Python and JavaScript development, refactoring, Dockerization, deployment.
+* [iCarbonX](https://icarbonx.co.il/) - Setting up CI system using Jenkins, introducing unit-testing for Python based application.
+* [Inomize](https://www.inomize.com/) - Perl training.
 * [Intel](https://www.intel.com/)
-* Iskoot (later <a href="https://www.qualcomm.com/">Qualcomm</a>) - Perl development, introducing unit-tests, test automation.
-* <a href="https://www.jovial.org/">Jovial</a>
-* <a href="https://www.kla-tencor.com/">KLA Tencor</a> Python training</a>
-* <a href="https://www.limagrain.com/">Limagrain</a> - Python and JavaScript development, refactoring, Dockerization, deployment.
-* LSI - Perl training.
-* <a href="https://en.wikipedia.org/wiki/Mercury_Interactive">Mercury Interactive</a> - 2002.03-2003.09 - Maintenance and improvement of internally written, Perl based Configuration Management System.  Help in Automating several tasks in system administration.
-* <a href="https://www.migdal.co.il/">Migdal Insurance</a> - Perl development.
-* <a href="https://en.wikipedia.org/wiki/MyThings">MyThings</a> - Subversion training.
-* <a href="https://en.wikipedia.org/wiki/Cisco_Videoscape">NDS</a> (later <a href="https://www.cisco.com/">Cisco</a>) - Perl training, Python training.
-* <a href="https://www.met.no/">Norwegian Meteorological Inst</a> - training.
+* Iskoot (bought by <a href="https://www.qualcomm.com/">Qualcomm</a>) - Perl development, introducing unit-tests, test automation.
+* [Jovial](https://www.jovial.org/) - Perl development.
+* [KLA Tencor](https://www.kla-tencor.com/) Python training.
+* [Limagrain (France)](https://www.limagrain.com/) - Python and JavaScript development, refactoring, Dockerization, deployment.
+* [LSI](https://en.wikipedia.org/wiki/LSI_Corporation) (bought by [Broadcom](https://www.broadcom.com/) - Perl training.
+* [Mercury Interactive](https://en.wikipedia.org/wiki/Mercury_Interactive) - 2002.03-2003.09 - Maintenance and improvement of internally written, Perl based Configuration Management System.  Help in Automating several tasks in system administration.
+* [Migdal Insurance](https://www.migdal.co.il/) - Perl development.
+* [MyThings](https://en.wikipedia.org/wiki/MyThings) - Subversion training.
+* [NDS](https://en.wikipedia.org/wiki/Cisco_Videoscape) (later <a href="https://www.cisco.com/">Cisco</a>) - Perl training, Python training.
+* [Norwegian Meteorological Inst](https://www.met.no/) - training.
 * [Orange (Partner Ltd.)](https://www.partner.co.il/)
-* <a href="https://www.orpak.com/">Orpak</a>
+* [Orpak](https://www.orpak.com/)
 * [Palo Alto Networks](https://www.paloaltonetworks.com/) - Rust training.
-* <a href="https://www.perfecto.io/">Perfecto Mobile</a> Linux training.
-* <a href="https://www.qualcomm.com/">Qualcomm</a> - Perl training, Python training.
-* <a href="https://www.radware.com/">Radware</a> - Perl training.
-* <a href="https://www.sandvine.com/">Sandvine</a> - Perl training.
-* <a href="https://www.sap.com/">SAP</a>
-* <a href="https://www.screenovate.com/">Screenovate</a> - Test Automation system.
-* SeaBridge Networks - A Siemens company
-* Sheer Networks (bought by <a href="https://www.cisco.com/">Cisco</a>)
-* <a href="https://en.wikipedia.org/wiki/Superfish">Superfish</a>
-* <a href="https://www.superfly.com/">Superfly</a>
-* <a href="https://twiggle.com/">Twiggle</a> - DevOps
-* <a href="https://www.verint.com/">Verint</a> - Subversion and Python training
-* <a href="https://www.weizmann.ac.il/">Weizmann Institute of Science</a> - Perl and Python development, Python courses primarily for Biology and Physics students and staff.
-* <a href="https://en.wikipedia.org/wiki/Zoran_Corporation">Zoran</a> - Perl training.
+* [Perfecto Mobile](https://www.perfecto.io/) Linux training.
+* [Qualcomm](https://www.qualcomm.com/) - Perl training, Python training.
+* [Radware](https://www.radware.com/) - Perl training.
+* [Sandvine](https://www.sandvine.com/) - Perl training.
+* [SAP](https://www.sap.com/) - Development service.
+* [Screenovate](https://www.screenovate.com/) - Test Automation system.
+* SeaBridge Networks - A Siemens company.
+* Sheer Networks (bought by [Cisco](https://www.cisco.com/)</a> - Perl development.
+* [Superfish](https://en.wikipedia.org/wiki/Superfish)
+* [Superfly](https://www.superfly.com/) - Python testing training.
+* [Twiggle](https://twiggle.com/) - DevOps.
+* [Verint](https://www.verint.com/) - Subversion and Python training.
+* [Weizmann Institute of Science](https://www.weizmann.ac.il/) - Perl and Python development, Python courses primarily for Biology and Physics students and staff.
+* [Zoran](https://en.wikipedia.org/wiki/Zoran_Corporation) - Perl training.
+
+
+## An old photo
 
 <img src="/img/gabor2_612x612.jpg" width="450" height="450" border="0" />
 
