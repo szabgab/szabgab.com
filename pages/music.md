@@ -16,15 +16,6 @@ I like to listen to song at <a href="http://www.thesixtyone.com/?referred_by_use
 <a href="http://www.thesixtyone.com/s/awAvrAC167S/">The Rescues</a><br>
 <a href="http://www.thesixtyone.com/posted/?goto_song_id=STI6begLThr#/ANJmusic/">Anj Granieri</a><br>
 
-<style>
-#music tr {
-padding-top: 10px;
-}
-#music td {
-width: 33%;
-}
-</style>
-
 | Site                                                          | Wikipedia                                                                | YouTube                                                                                              |
 | ------------------------------------------------------------- | ------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------- |
 | [Gabor Szabo, the Jazz Guitarist](http://www.gaborszabo.com/) | [Gabor Szabo, jazz guitarist](https://en.wikipedia.org/wiki/Gabor_Szabo) | [Gabor Szabo](https://www.youtube.com/results?search_query=gabor+szabo)                              |
@@ -52,40 +43,33 @@ width: 33%;
 | | | <a href="https://www.youtube.com/results?search_query=Marillion">Marillion</a> |
 
 
-<ul>
-<li>Sherry Dyanne</li>
-<li>Billy Joel</li>
-<li>Cat Stevens</li>
-<li>KFT</li>
-<li>Mike Oldfield</li>
-<li><a href="http://www.deeppurple.com/">Deep Purple</a>  <a href="https://en.wikipedia.org/wiki/Deep_Purple">Deep Purple</a></li>
-<li><a href="http://www.leonardcohen.com/">Leonard Cohen</a> and <a href="https://en.wikipedia.org/wiki/Leonard_Cohen">Leonard Cohen</a></li>
-</ul>
+* Sherry Dyanne
+* Billy Joel
+* Cat Stevens
+* KFT
+* Mike Oldfield
+* <a href="http://www.deeppurple.com/">Deep Purple</a>  <a href="https://en.wikipedia.org/wiki/Deep_Purple">Deep Purple</a>
+* <a href="http://www.leonardcohen.com/">Leonard Cohen</a> and <a href="https://en.wikipedia.org/wiki/Leonard_Cohen">Leonard Cohen</a>
 
-<ul>
-<li>Spyro Gyra: Point Of View</li>
-<li>Spyro Gyra: Love and other obsessions</li>
-<li>Spyro Gyra: Breakout</li>
-</ul>
+Spyro Gyra: Point Of View
+Spyro Gyra: Love and other obsessions
+Spyro Gyra: Breakout
 
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Hindi_Zahra">Hindi Zahra</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Oum_(singer)">Oum</a> <a href="https://www.youtube.com/channel/UC4yF1_obp9DcRB9ZuNQrbfQ">Oum official YouTube</a></li>
-</ul>
+* <a href="https://en.wikipedia.org/wiki/Hindi_Zahra">Hindi Zahra</a>
+* <a href="https://en.wikipedia.org/wiki/Oum_(singer)">Oum</a> <a href="https://www.youtube.com/channel/UC4yF1_obp9DcRB9ZuNQrbfQ">Oum official YouTube</a>
 
 
-<h3>A few songs I bumped into recently</h3>
-<ul>
-<li><a href="https://www.youtube.com/watch?v=Ra3Igp-Zr6Y">Stivell, Tri Yann, Dan Ar Braz, Servat, Armens: Tri Martolod</a></li>
-<li><a href="https://www.youtube.com/watch?v=tPTVjCb_17o">les filles des forges</a></li>
-<li><a href="https://www.youtube.com/watch?v=9zX9Y-rxSJA">Corsaire - Le chant des corsaires</a></li>
-<li><a href="https://www.youtube.com/watch?v=Gg9RC9sBaS0">Le combat de la Danaé / The Battle of Quebec (chansons anciennes de Nouvelle France)</a></li>
-<li><a href="https://www.youtube.com/watch?v=6upg-pJQnVU">Les Charbonniers de L'Enfer - Le vent nous portera</a></li>
-<li><a href="https://www.youtube.com/watch?v=LTjVlbyVTkA">Les Jour d'la Semaine, par Les Charbonniers de l'enfer</a></li>
-<li><a href="https://www.youtube.com/watch?v=Fq4-6heqpPA">Charbonnier de Lenfer - La Pointe du Jour</a></li>
-<li><a href="https://www.youtube.com/watch?v=xuMwisT_5PU">Le Vent du Nord - Au Bord de la Fontaine</a></li>
-<li><a href="https://galanttuperdstontemps.ca/">Galant Tu Perds Ton Temps</a>: <a href="https://www.youtube.com/watch?v=wewtFYS-d84&list=RDEMFcvN-kf0VDs3hUScPATHNg">Marie Picard</a></li>
-</ul>
+### A few songs I bumped into recently
+
+* <a href="https://www.youtube.com/watch?v=Ra3Igp-Zr6Y">Stivell, Tri Yann, Dan Ar Braz, Servat, Armens: Tri Martolod</a>
+* <a href="https://www.youtube.com/watch?v=tPTVjCb_17o">les filles des forges</a>
+* <a href="https://www.youtube.com/watch?v=9zX9Y-rxSJA">Corsaire - Le chant des corsaires</a>
+* <a href="https://www.youtube.com/watch?v=Gg9RC9sBaS0">Le combat de la Danaé / The Battle of Quebec (chansons anciennes de Nouvelle France)</a>
+* <a href="https://www.youtube.com/watch?v=6upg-pJQnVU">Les Charbonniers de L'Enfer - Le vent nous portera</a>
+* <a href="https://www.youtube.com/watch?v=LTjVlbyVTkA">Les Jour d'la Semaine, par Les Charbonniers de l'enfer</a>
+* <a href="https://www.youtube.com/watch?v=Fq4-6heqpPA">Charbonnier de Lenfer - La Pointe du Jour</a>
+* <a href="https://www.youtube.com/watch?v=xuMwisT_5PU">Le Vent du Nord - Au Bord de la Fontaine</a>
+* <a href="https://galanttuperdstontemps.ca/">Galant Tu Perds Ton Temps</a>: <a href="https://www.youtube.com/watch?v=wewtFYS-d84&list=RDEMFcvN-kf0VDs3hUScPATHNg">Marie Picard</a>
 
 ### Hungarian
 * Presser Gábor: Kis történetek.
@@ -229,81 +213,77 @@ width: 33%;
 * V'Moto-Rock:  Gyertyák
 * Voga-Turnovszky Duo - Egy fejjel kisebb vagyok
 
-<h2>LPs English</h2>
-<ul>
-<li>ABBA: The Album</li>
-<li>Annie - the musical</li>
-<li>Matt Bianco</li>
-<li>Blondie: Autoamerican</li>
-<li>Blood Sweat &amp; Tears: Greatest Hits</li>
-<li>Brasilian Combo: Brasilia Carnaval, Rythmo Tropical</li>
-<li>Cats (the musical)</li>
-<li>Deep Purple: <a href="https://www.youtube.com/watch?v=DPDWK7Jd9s0">The Royal Philharmonic Orchestra</a></li>
-<li>Deep Purple: Fireball</li>
-<li>Deep Purple: Machine Head</li>
-<li>Deep Purple: in Rock</li>
-<li>Deep Purple: Come taste the band</li>
-<li>Deep Purple: made in Japan</li>
-<li>Deep Purple: Burn</li>
-<li>Deep Purple: Made in Europe</li>
-<li>Fats Domino: (Rock'n'Roll Forever)</li>
-<li>Eruption: Leave a light</li>
-<li><a href="https://en.wikipedia.org/wiki/The_Everly_Brothers">Everlys</a>: Walk Right Back With the Everlys 20 Golden Hits</li>
-<li>Ian Gillan: Futur shock</li>
-<li>The Godfather (the movie)</li>
-<li>Godspell</li>
-<li>Golden Earring: no promises..no debts</li>
-<li>Debbie Harry: KooKoo</li>
-<li>KISS: Double Platinum</li>
-<li>KISS: Dynasty</li>
-<li>KISS: Dressed to Kill</li>
-<li>KISS: Unmasked</li>
-<li><a href="https://en.wikipedia.org/wiki/Jon_Lord">Jon Lord</a>: <a href="https://www.youtube.com/watch?v=rkMI-R8Ka0c">Sarabande</a></li>
-<li>Manfred Mann: The Best of ~</li>
-<li><a href="https://en.wikipedia.org/wiki/Manfred_Mann%27s_Earth_Band">Manfred Mann's Earth Band</a>: Somewhere in Afrika</li>
-<li><a href="http://www.manfredmann.co.uk/">Manfred Mann's Earth Band</a>: Solar Fire</li>
-<li>Manfred Mann's Earth Band: Watch</li>
-<li>Manfred Mann's Earth Band: Chance</li>
-<li>Bob Marley &amp; The Wailers: Uprising</li>
-<li>Bob Marley &amp; The Wailers: Natty Dread</li>
-<li>Bob Marley &amp; The Wailers: Exodus</li>
-<li>Mike Oldfield: Boxed</li>
-<li>Pink Floyd: A nice Pair (The Piper at The Gates of Dawn; A Saucerful of Secrets)</li>
-<li>Saga: In transit</li>
-<li>Santana: Abraxas</li>
-<li>Rhoda Scott 1</li>
-<li>Status Quo: Whatever You Want</li>
-<li>Barbara Streisand: a Glove Story (The Main Event)</li>
-<li>Rod Stewart: Tonight I'm Yours</li>
-<li>Gabor Szabo: Live with Charles LLoyd (with Spellbinder)</li>
-<li>Vangelis: Beaubourg</li>
-<li>Vangelis: Spiral</li>
-<li>Vangelis: Opera Sauvage</li>
-<li>Whitesnake: Live in the heart of the city</li>
-<li>Whitesnake: Come an'get it</li>
-<li>Whitesnake: Love Hunter</li>
-</ul>
+## LPs English
 
-<h2>SPs</h2>
-<ul>
-<li>ABBA</li>
-<li>BoneyM</li>
-<li>Vincze Viktória: Öreg néne őzikéje - Mindenki szép</li>
-<li>KFT Hazel O'Connor: <a href="https://www.youtube.com/watch?v=O_jDOK2dH3M">Stranger in a Strange Land</a> - The Night Before The Dawn</li>
-<li>Do-Re-Mi (Songs from the "Sound of Music")</li>
-<li>Voga-Turnovszky-Boros: Sztárok 45-ön</li>
-<li><a href="https://www.youtube.com/watch?v=6eS8jRQJpwc">Sibila - Račji Ples *1982*</a></li>
-<li>Guy Mitchell: Singing the Blues, Crazy with Love</li>
-<li>Banner Man and Congratulations</li>
-<li><a href="https://en.wikipedia.org/wiki/Middle_of_the_Road_(band)">Middle Of The Road</a>: <a href="https://www.youtube.com/watch?v=hsT4GUs0kFM"> - Chirpy Chirpy Cheep Cheep (1971)</a> and <a href="https://www.youtube.com/watch?v=LW1hgvpuimI"></li>
-<li></li>
-</ul>
+* ABBA: The Album
+* Annie - the musical
+* Matt Bianco
+* Blondie: Autoamerican
+* Blood Sweat &amp; Tears: Greatest Hits
+* Brasilian Combo: Brasilia Carnaval, Rythmo Tropical
+* Cats (the musical)
+* Deep Purple: <a href="https://www.youtube.com/watch?v=DPDWK7Jd9s0">The Royal Philharmonic Orchestra</a>
+* Deep Purple: Fireball
+* Deep Purple: Machine Head
+* Deep Purple: in Rock
+* Deep Purple: Come taste the band
+* Deep Purple: made in Japan
+* Deep Purple: Burn
+* Deep Purple: Made in Europe
+* Fats Domino: (Rock'n'Roll Forever)
+* Eruption: Leave a light
+* <a href="https://en.wikipedia.org/wiki/The_Everly_Brothers">Everlys</a>: Walk Right Back With the Everlys 20 Golden Hits
+* Ian Gillan: Futur shock
+* The Godfather (the movie)
+* Godspell
+* Golden Earring: no promises..no debts
+* Debbie Harry: KooKoo
+* KISS: Double Platinum
+* KISS: Dynasty
+* KISS: Dressed to Kill
+* KISS: Unmasked
+* <a href="https://en.wikipedia.org/wiki/Jon_Lord">Jon Lord</a>: <a href="https://www.youtube.com/watch?v=rkMI-R8Ka0c">Sarabande</a>
+* Manfred Mann: The Best of ~
+* <a href="https://en.wikipedia.org/wiki/Manfred_Mann%27s_Earth_Band">Manfred Mann's Earth Band</a>: Somewhere in Afrika
+* <a href="http://www.manfredmann.co.uk/">Manfred Mann's Earth Band</a>: Solar Fire
+* Manfred Mann's Earth Band: Watch
+* Manfred Mann's Earth Band: Chance
+* Bob Marley &amp; The Wailers: Uprising
+* Bob Marley &amp; The Wailers: Natty Dread
+* Bob Marley &amp; The Wailers: Exodus
+* Mike Oldfield: Boxed
+* Pink Floyd: A nice Pair (The Piper at The Gates of Dawn; A Saucerful of Secrets)
+* Saga: In transit
+* Santana: Abraxas
+* Rhoda Scott 1
+* Status Quo: Whatever You Want
+* Barbara Streisand: a Glove Story (The Main Event)
+* Rod Stewart: Tonight I'm Yours
+* Gabor Szabo: Live with Charles LLoyd (with Spellbinder)
+* Vangelis: Beaubourg
+* Vangelis: Spiral
+* Vangelis: Opera Sauvage
+* Whitesnake: Live in the heart of the city
+* Whitesnake: Come an'get it
+* Whitesnake: Love Hunter
 
-<h2>Other</h2>
-<ul>
-<li><a href="https://www.youtube.com/watch?v=qI_h49D1xo8">Ali Farka Touré - The River - Full Album</a></li>
-<li><a href="https://www.youtube.com/watch?v=oD3lOFpb0is">Noora Noor</a></li>
-</ul>
+## SPs
+
+* ABBA
+* BoneyM
+* Vincze Viktória: Öreg néne őzikéje - Mindenki szép
+* KFT Hazel O'Connor: <a href="https://www.youtube.com/watch?v=O_jDOK2dH3M">Stranger in a Strange Land</a> - The Night Before The Dawn
+* Do-Re-Mi (Songs from the "Sound of Music")
+* Voga-Turnovszky-Boros: Sztárok 45-ön
+* <a href="https://www.youtube.com/watch?v=6eS8jRQJpwc">Sibila - Račji Ples *1982*</a>
+* Guy Mitchell: Singing the Blues, Crazy with Love
+* Banner Man and Congratulations
+* <a href="https://en.wikipedia.org/wiki/Middle_of_the_Road_(band)">Middle Of The Road</a>: <a href="https://www.youtube.com/watch?v=hsT4GUs0kFM"> - Chirpy Chirpy Cheep Cheep (1971)</a> and <a href="https://www.youtube.com/watch?v=LW1hgvpuimI">??</a>
+
+## Other
+
+* <a href="https://www.youtube.com/watch?v=qI_h49D1xo8">Ali Farka Touré - The River - Full Album</a>
+* <a href="https://www.youtube.com/watch?v=oD3lOFpb0is">Noora Noor</a>
 
 
 * Benkő Dániel: Ezer év gitáron ????
