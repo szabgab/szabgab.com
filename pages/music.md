@@ -10,10 +10,10 @@ I like the music of [Gabor Szabo, the Jazz Guitarist](https://en.wikipedia.org/w
 
 ### Hungarian
 
-* Playa Bea
+* [Playa Bea](https://palyabea.hu/)
     * Egyszáll Ének - 2009 - Megmondók
-* Budapest Bár
-* Anna and the Barbies - Ánem - Márti dala
+* [Budapest Bár](https://budapestbar.hu/) - [Budapest Bár](https://www.youtube.com/user/budapestbar)
+* [Anna and the Barbies](https://www.youtube.com/user/annaandthebarbies) - Ánem - Márti dala
 
 ### Ladino - Sephardic music
 
@@ -39,11 +39,11 @@ I like the music of [Gabor Szabo, the Jazz Guitarist](https://en.wikipedia.org/w
 | Avishai Cohen                                                 |                                                                          | <a href="https://www.youtube.com/results?search_query=Avishai+Cohen">Avishai Cohen</a> |
 | Sade                                                          | [Sade](https://en.wikipedia.org/wiki/Sade_%28singer%29)                  | <a href="https://www.youtube.com/results?search_query=Sade">Sade</a> |
 | [Gregory Porter](https://www.gregoryporter.com/)              |                                                                          | <a href="https://www.youtube.com/results?search_query=Gregory+Porter">Gregory Porter</a> |
-| Nestor Torres                                                 | [Nestor Torres](https://en.wikipedia.org/wiki/N%C3%A9stor_Torres)        | <a href="https://www.youtube.com/results?search_query=Nestor+Torres">Nestor Torres</a> |
+| [Nestor Torres](https://nestortorres.com/)                    | [Nestor Torres](https://en.wikipedia.org/wiki/N%C3%A9stor_Torres)        | <a href="https://www.youtube.com/results?search_query=Nestor+Torres">Nestor Torres</a> |
 |                                                               | [Wu Bai and China Blue](https://en.wikipedia.org/wiki/Wu_Bai)            | <a href="https://www.youtube.com/results?search_query=Wu+Bai+and+China+Blue">Wu Bai and China Blue</a> |
-| Jan Garbarek                                                  | [Jan Garbarek](https://en.wikipedia.org/wiki/Jan_Garbarek)               | <a href="https://www.youtube.com/results?search_query=jan+garbarek">Jan Garbarek</a> |
-| Saga                                                          | [Saga](https://en.wikipedia.org/wiki/Saga_%28band%29)                    | <a href="https://www.youtube.com/results?search_query=Saga">Saga</a> |
-| Diana Krall                                                   | [Diana Krall](https://en.wikipedia.org/wiki/Diana_Krall)                 | <a href="https://www.youtube.com/results?search_query=Diana+Krall">Diana Krall</a> |
+| [Jan Garbarek](https://www.garbarek.com/)                     | [Jan Garbarek](https://en.wikipedia.org/wiki/Jan_Garbarek)               | <a href="https://www.youtube.com/results?search_query=jan+garbarek">Jan Garbarek</a> |
+| [Saga](https://sagagen.com/)                                  | [Saga](https://en.wikipedia.org/wiki/Saga_%28band%29)                    | <a href="https://www.youtube.com/results?search_query=Saga">Saga</a> |
+| [Diana Krall](https://www.dianakrall.com/)                    | [Diana Krall](https://en.wikipedia.org/wiki/Diana_Krall)                 | <a href="https://www.youtube.com/results?search_query=Diana+Krall">Diana Krall</a> |
 | [Celtic Woman](https://celticwoman.com/)                      |                                                                          | <a href="https://www.youtube.com/results?search_query=celtic+woman">Celtic Woman</a> |
 | Napoleon Boulevard                                            | [Napoleon Boulevard](https://hu.wikipedia.org/wiki/Napoleon_Boulevard)   | <a href="https://www.youtube.com/results?search_query=Napoleon+Boulevard">Napoleon Boulevard</a> |
 | [Meytal Cohen](https://meytalcohen.com/)                      |                                                                          | <a href="https://www.youtube.com/results?search_query=Meytal+Cohen">Meytal Cohen</a> |
