@@ -2,19 +2,19 @@
 =timestamp 1153282987
 =skip all
 
-<h2>Music NOT by me</h2>
+## Music NOT by me
 
-<p>I like the music of <a href="http://www.gaborszabo.com/">Gabor Szabo, the Jazz Guitarist</a>, but I am <b>NOT</b> related to him.</p>
+I like the music of [Gabor Szabo, the Jazz Guitarist](http://www.gaborszabo.com/), but I am **NOT** related to him.
 
-<h2>Some Music I like</h2>
-<p>
-I like to listen to song at <a href="http://www.thesixtyone.com/?referred_by_username=szabgab">The SixtyOne</a>. I recommend you subscribe too.<br>
+## Some Music I like
+
+I like to listen to song at <a href="http://www.thesixtyone.com/?referred_by_username=szabgab">The SixtyOne</a>. I recommend you subscribe too.
+
 <a href="http://www.thesixtyone.com/s/AgH9TAwQxvv/">Bruises</a> by
 <a href="http://en.wikipedia.org/wiki/Chairlift_%28band%29">Chairlift</a><br>
 <a href="http://www.thesixtyone.com/#/artist/RachelPlatten/songs/">Rachel Platten</a><br>
 <a href="http://www.thesixtyone.com/s/awAvrAC167S/">The Rescues</a><br>
 <a href="http://www.thesixtyone.com/posted/?goto_song_id=STI6begLThr#/ANJmusic/">Anj Granieri</a><br>
-</p>
 
 <style>
 #music tr {
@@ -25,37 +25,33 @@ width: 33%;
 }
 </style>
 
-<table id="music">
-<tr><th>Site</th><th>Wikipedia</th><th>YouTube</th></tr>
-<tr><td><a href="http://www.gaborszabo.com/">Gabor Szabo, the Jazz Guitarist</a></td><td><a href="https://en.wikipedia.org/wiki/Gabor_Szabo">Gabor Szabo, jazz guitarist</a></td><td><a href="https://www.youtube.com/results?search_query=gabor+szabo">Gabor Szabo</a></td></tr>
-<tr><td></td><td><a href="https://en.wikipedia.org/wiki/Emeli_Sand%C3%A9">Emeli Sandé</a></td><td><a href="https://www.youtube.com/results?search_query=Emeli+Sand%C3%A9">Emeli Sandé</a></td></tr>
-<tr><td></td><td></td><td><a href="https://www.youtube.com/watch?v=4VfeP3roN7A">Jeff Beck - Rock n Roll Party Honoring Les Paul</a></td></tr>
-<tr><td></td><td></td><td><a href="https://www.youtube.com/watch?v=TFiTRbxX_2I">The Corrs</a></td></tr>
-<tr><td></td><td><a href="https://en.wikipedia.org/wiki/Candy_Dulfer">Candy Dulfer</a></td><td><a href="https://www.youtube.com/watch?v=0YrJvZB2dzg">Candy Dulfer Live In Leverkusen Jazztage2009Full Show</a>
-</td></tr>
-<tr><td><a href="http://www.jossstone.com/">Joss Stone</a></td><td></td><td>
-<a href="https://www.youtube.com/results?search_query=Joss+Stone">Joss Stone</a></td></tr>
-<tr><td><a href="http://spyrogyra.com/">Spyro Gyra</a></td><td></td><td><a href="https://www.youtube.com/results?search_query=Spyro+Gyra">Spyro Gyra</a></td></tr>
-<tr><td></td><td></td><td><a href="https://www.youtube.com/results?search_query=Avishai+Cohen">Avishai Cohen</a></td></tr>
-<tr><td></td><td><a href="https://en.wikipedia.org/wiki/Sade_%28singer%29">Sade</a></td><td><a href="https://www.youtube.com/results?search_query=Sade">Sade</a></td></tr>
-<tr><td><a href="http://www.gregoryporter.com/">Gregory Porter</a></td><td></td><td><a href="https://www.youtube.com/results?search_query=Gregory+Porter">Gregory Porter</a></td></tr>
-<tr><td></td><td><a href="https://en.wikipedia.org/wiki/N%C3%A9stor_Torres">Nestor Torres</a></td><td><a href="https://www.youtube.com/results?search_query=Nestor+Torres">Nestor Torres</a></td></tr>
-<tr><td></td><td><a href="https://en.wikipedia.org/wiki/Wu_Bai">Wu Bai and China Blue</a></td><td><a href="https://www.youtube.com/results?search_query=Wu+Bai+and+China+Blue">Wu Bai and China Blue</a></td></tr>
-<tr><td></td><td><a href="https://en.wikipedia.org/wiki/Jan_Garbarek">Jan Garbarek</a></td><td><a href="https://www.youtube.com/results?search_query=jan+garbarek">Jan Garbarek</a></td></tr>
-<tr><td></td><td><a href="https://en.wikipedia.org/wiki/Saga_%28band%29">Saga</a></td><td><a href="https://www.youtube.com/results?search_query=Saga">Saga</a></td></tr>
-<tr><td></td><td><a href="https://en.wikipedia.org/wiki/Diana_Krall">Diana Krall</a></td><td><a href="https://www.youtube.com/results?search_query=Diana+Krall">Diana Krall</a></td></tr>
-<tr><td><a href="http://celticwoman.com/">Celtic Woman</a></td><td></td><td><a href="https://www.youtube.com/results?search_query=celtic+woman">Celtic Woman</a></td></tr>
-<tr><td><a href="http://www.napoleonboulevard.hu/">Napoleon Boulevard</a></td><td><a href="https://hu.wikipedia.org/wiki/Napoleon_Boulevard">Napoleon Boulevard</a></td><td><a href="https://www.youtube.com/results?search_query=Napoleon+Boulevard">Napoleon Boulevard</a></td></tr>
-<tr><td><a href="http://meytalcohen.com/">Meytal Cohen</a></td><td></td><td><a href="https://www.youtube.com/results?search_query=Meytal+Cohen">Meytal Cohen</a></td></tr>
-<tr><td><a href="http://cdeb.com/">Chris de Burgh</a></td><td></td><td><a href="https://www.youtube.com/results?search_query=Chris+de+Burgh">Chris de Burgh</a></td></tr>
-<tr><td><a href="http://www.yasminlevy.net/">Yasmin Levy</a></td><td><a href="https://en.wikipedia.org/wiki/Yasmin_Levy">Yasmin Levy</a></td><td><a href="https://www.youtube.com/results?search_query=Yasmin+Levy">Yasmin Levy on YouTube</a></td></tr>
-<tr><td></td><td></td><td><a href="https://www.youtube.com/results?search_query=paul+simon">Paul Simon</a> (Graceland)</td></tr>
-<tr><td></td><td></td><td><a href="https://www.youtube.com/results?search_query=jethro+tull">Jethro Tull</a></td></tr>
-<tr><td></td><td></td><td><a href="https://www.youtube.com/results?search_query=Marillion">Marillion</a></td></tr>
-</table>
-<!--
-<tr><td></td><td></td><td><a href=""></a></td></tr>
--->
+| Site                                                          | Wikipedia                                                                | YouTube                                                                                              |
+| ------------------------------------------------------------- | ------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------- |
+| [Gabor Szabo, the Jazz Guitarist](http://www.gaborszabo.com/) | [Gabor Szabo, jazz guitarist](https://en.wikipedia.org/wiki/Gabor_Szabo) | [Gabor Szabo](https://www.youtube.com/results?search_query=gabor+szabo)                              |
+|                                                               | [Emeli Sandé](https://en.wikipedia.org/wiki/Emeli_Sand%C3%A9)            | [Emeli Sandé](https://www.youtube.com/results?search_query=Emeli+Sand%C3%A9)                         |
+|                                                               |                                                                          | [Jeff Beck - Rock n Roll Party Honoring Les Paul](https://www.youtube.com/watch?v=4VfeP3roN7A")      |
+|                                                               |                                                                          | [The Corrs](https://www.youtube.com/watch?v=TFiTRbxX_2I)                                             |
+|                                                               | [Candy Dulfer](https://en.wikipedia.org/wiki/Candy_Dulfer)               | [Candy Dulfer Live In Leverkusen Jazztage2009Full Show](https://www.youtube.com/watch?v=0YrJvZB2dzg) |
+| <a href="http://www.jossstone.com/">Joss Stone</a>            |                                                                          | <a href="https://www.youtube.com/results?search_query=Joss+Stone">Joss Stone</a> |
+| <a href="http://spyrogyra.com/">Spyro Gyra</a>                |                                                                          | <a href="https://www.youtube.com/results?search_query=Spyro+Gyra">Spyro Gyra</a> |
+|                                                               |                                                                          | <a href="https://www.youtube.com/results?search_query=Avishai+Cohen">Avishai Cohen</a> |
+|                                                               | <a href="https://en.wikipedia.org/wiki/Sade_%28singer%29">Sade</a>       |  <a href="https://www.youtube.com/results?search_query=Sade">Sade</a> |
+| <a href="http://www.gregoryporter.com/">Gregory Porter</a>    |                                                                          | <a href="https://www.youtube.com/results?search_query=Gregory+Porter">Gregory Porter</a> |
+|                                                               | <a href="https://en.wikipedia.org/wiki/N%C3%A9stor_Torres">Nestor Torres</a> | <a href="https://www.youtube.com/results?search_query=Nestor+Torres">Nestor Torres</a> |
+|                                                               | <a href="https://en.wikipedia.org/wiki/Wu_Bai">Wu Bai and China Blue</a>     | <a href="https://www.youtube.com/results?search_query=Wu+Bai+and+China+Blue">Wu Bai and China Blue</a> |
+|                                                               | <a href="https://en.wikipedia.org/wiki/Jan_Garbarek">Jan Garbarek</a>    | <a href="https://www.youtube.com/results?search_query=jan+garbarek">Jan Garbarek</a> |
+|                                                               | <a href="https://en.wikipedia.org/wiki/Saga_%28band%29">Saga</a>         | <a href="https://www.youtube.com/results?search_query=Saga">Saga</a> |
+|                                                               | <a href="https://en.wikipedia.org/wiki/Diana_Krall">Diana Krall</a>      | <a href="https://www.youtube.com/results?search_query=Diana+Krall">Diana Krall</a> |
+| <a href="http://celticwoman.com/">Celtic Woman</a> |  | <a href="https://www.youtube.com/results?search_query=celtic+woman">Celtic Woman</a> |
+| <a href="http://www.napoleonboulevard.hu/">Napoleon Boulevard</a> | <a href="https://hu.wikipedia.org/wiki/Napoleon_Boulevard">Napoleon Boulevard</a> | <a href="https://www.youtube.com/results?search_query=Napoleon+Boulevard">Napoleon Boulevard</a> |
+| <a href="http://meytalcohen.com/">Meytal Cohen</a>  | | <a href="https://www.youtube.com/results?search_query=Meytal+Cohen">Meytal Cohen</a> |
+| <a href="http://cdeb.com/">Chris de Burgh</a>       | | <a href="https://www.youtube.com/results?search_query=Chris+de+Burgh">Chris de Burgh</a> |
+| <a href="http://www.yasminlevy.net/">Yasmin Levy</a>| <a href="https://en.wikipedia.org/wiki/Yasmin_Levy">Yasmin Levy</a> | <a href="https://www.youtube.com/results?search_query=Yasmin+Levy">Yasmin Levy on YouTube</a> |
+| | | <a href="https://www.youtube.com/results?search_query=paul+simon">Paul Simon</a> (Graceland) |
+| | | <a href="https://www.youtube.com/results?search_query=jethro+tull">Jethro Tull</a> |
+| | | <a href="https://www.youtube.com/results?search_query=Marillion">Marillion</a> |
+
+
 <ul>
 <li>Sherry Dyanne</li>
 <li>Billy Joel</li>
@@ -111,132 +107,127 @@ width: 33%;
 
 * Las Compras Del Rabino / Alcacik Duvar Üstü - Aman Aman - Musica I Cants Sefardis - 2007
 
-<h3>Hebrew</h3>
-<ul>
-<li>Gary Eckstein, Moshe Levi: Fata Morgana</li>
-<li>Achinoam Nini, Gil Dor: Live</li>
-<li>Shlomo Artzi: Moon (Yareach)</li>
-<li>Gali Atari: The Next Day</li>
-<li>Arik Einstein Shem Tov Levi: Time Out</li>
-<li>Arik Einstein Shalom Chanoch: Plastiline</li>
-<li>Arik Einstein and Miki Gabrielov: A Home loving man</li>
-<li>Sharon Lifshitz: Cinema</li>
-<li>The High Windows</li>
-<li>David Broza: Big Secrets</li>
-<li>Nurit Galron: HaMakom HaHu</li>
-<li>Gazoz: The 20 hits</li>
-</ul>
+### Hebrew
 
-<ul>
-<li>The Lord of the Rings - The Fellowship of the Ring</li>
-<li>John McLaughlin, Al-DiMeola, Paco DeLucia: Passion  Grace and Fire</li>
-<li>Charlie Haden, Jan Garbarek, Egberto Gimonti: Folk Songs</li>
-<li>Gerry Mulligan - Stan Getz: Getz Meets Mulligan in Hi Fi</li>
-<li>Dés László-Balázs Elemér Quartet és a Voces4 Ensemble: Contemporary Gregorian</li>
-<li>Shelter: The Best of contemporary Singer ~ Songwriters</li>
-<li>Vangelis: Earth</li>
-<li>Vangelis: L'Apocalypse Des Anumaux</li>
-<li>Jean Michel Jarre: The Best Of</li>
-<li>From One Charlie</li>
-<li>Jose Jose: mujeriego</li>
-<li>Duke Ellington: The Jazz Collection Edition</li>
-<li>Hungaria: Rock and Roll selection</li>
-<li>Másik János - Menyhárt Jenő: MJMJ</li>
-<li>Képzelt Riport Egy Amerikai Pop-Fesztiválról</li>
-<li>Napoleon Boulevard: Best of 1985-1989</li>
-<li>Napoleon Boulevard: NB</li>
-<li>Katona Klári: Titkaim</li>
-<li>Katona Klári: Most</li>
-<li>LGT: A Locomotiv GT. összes kislemeze</li>
-<li>Tátrai Band: Kisértés</li>
-<li>Pege Aladár: Hungarian Jazz Workshop</li>
-<li>Pege Aladár: The Virtuoso Double Bass of Aladár Pege</li>
-<li>Yehudit Ravitz: Not easy to wait</li>
-<li>Yehuda Poliker: For Your Blue Eyes</li>
-<li>David Broza: Broza</li>
-<li>Ariel Zilber: Smoke Screen</li>
-<li>Arkadi Duchin - Vladimir Vissotsky: Want to be and will be</li>
-<li>Friends of Natasha: Radio Bla Bla - 1 and 2;  Shinuim BeHergelei HaTzricha</li>
-<li><a href="http://www.gidigov.co.il/">Gidi Gov</a>: Flat to rent; Manners-Live; Not a Day Left; Simlat HaShabat <a href="https://en.wikipedia.org/wiki/Gidi_Gov">Gidi Gov</a></li>
-<li>HaGashash HaHiver: Cupping therapy - (Kosot Ruach)</li>
-<li><a href="https://en.wikipedia.org/wiki/Matti_Caspi">Matti Caspi</a>: You are my Woman</li>
-<li>Suyan Caspi</li>
-<li>Shlomo Artzi: The Two 1 and 2</li>
-<li>The Natural Gathering: Waiting for Samson</li>
-<li>Tuvia Tzafir: Party in the woods with Tuvia grandpa</li>
-<li>Various Artists: 100 first songs - 1 and 2; </li>
-<li>Various Artists: How songs born</li>
-</ul>
+* Gary Eckstein, Moshe Levi: Fata Morgana
+* Achinoam Nini, Gil Dor: Live
+* Shlomo Artzi: Moon (Yareach)
+* Gali Atari: The Next Day
+* Arik Einstein Shem Tov Levi: Time Out
+* Arik Einstein Shalom Chanoch: Plastiline
+* Arik Einstein and Miki Gabrielov: A Home loving man
+* Sharon Lifshitz: Cinema
+* The High Windows
+* David Broza: Big Secrets
+* Nurit Galron: HaMakom HaHu
+* Gazoz: The 20 hits
 
-<h3>Classical music</h3>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Eine_kleine_Nachtmusik">Mozart: Eine kleine Nachtmusik</a></li>
-<li>Mozart: Symphony Nr 38 "Prague"</li>
-<li>Mozart: Flute and Calrinet Concert</li>
-<li>Mozart: Requiem</li>
-<li><a href="https://en.wikipedia.org/wiki/George_Frideric_Handel">Handel</a></li>
-<li>Beethoven: Eroica</li>
-<li>Liszt</li>
-<li>Mahler: Le Titan</li>
-<li>Smetana: Moldau</li>
-<li>Johann Strauss II</li>
-<li>Schubert: Rosamunde</li>
-<li>Vivaldi</li>
-<li>Prokofiev: Peter and the Wolf</li>
-</ul>
+* The Lord of the Rings - The Fellowship of the Ring
+* John McLaughlin, Al-DiMeola, Paco DeLucia: Passion  Grace and Fire
+* Charlie Haden, Jan Garbarek, Egberto Gimonti: Folk Songs
+* Gerry Mulligan - Stan Getz: Getz Meets Mulligan in Hi Fi
+* Dés László-Balázs Elemér Quartet és a Voces4 Ensemble: Contemporary Gregorian
+* Shelter: The Best of contemporary Singer ~ Songwriters
+* Vangelis: Earth
+* Vangelis: L'Apocalypse Des Anumaux
+* Jean Michel Jarre: The Best Of
+* From One Charlie
+* Jose Jose: mujeriego
+* Duke Ellington: The Jazz Collection Edition
+* Hungaria: Rock and Roll selection
+* Másik János - Menyhárt Jenő: MJMJ
+* Képzelt Riport Egy Amerikai Pop-Fesztiválról
+* Napoleon Boulevard: Best of 1985-1989
+* Napoleon Boulevard: NB
+* Katona Klári: Titkaim
+* Katona Klári: Most
+* LGT: A Locomotiv GT. összes kislemeze
+* Tátrai Band: Kisértés
+* Pege Aladár: Hungarian Jazz Workshop
+* Pege Aladár: The Virtuoso Double Bass of Aladár Pege
+* Yehudit Ravitz: Not easy to wait
+* Yehuda Poliker: For Your Blue Eyes
+* David Broza: Broza
+* Ariel Zilber: Smoke Screen
+* Arkadi Duchin - Vladimir Vissotsky: Want to be and will be
+* Friends of Natasha: Radio Bla Bla - 1 and 2;  Shinuim BeHergelei HaTzricha
+* <a href="http://www.gidigov.co.il/">Gidi Gov</a>: Flat to rent; Manners-Live; Not a Day Left; Simlat HaShabat <a href="https://en.wikipedia.org/wiki/Gidi_Gov">Gidi Gov</a>
+* HaGashash HaHiver: Cupping therapy - (Kosot Ruach)
+* <a href="https://en.wikipedia.org/wiki/Matti_Caspi">Matti Caspi</a>: You are my Woman
+* Suyan Caspi
+* Shlomo Artzi: The Two 1 and 2
+* The Natural Gathering: Waiting for Samson
+* Tuvia Tzafir: Party in the woods with Tuvia grandpa
+* Various Artists: 100 first songs - 1 and 2;
+* Various Artists: How songs born
+
+### Classical music
+
+* <a href="https://en.wikipedia.org/wiki/Eine_kleine_Nachtmusik">Mozart: Eine kleine Nachtmusik</a>
+* Mozart: Symphony Nr 38 "Prague"
+* Mozart: Flute and Calrinet Concert
+* Mozart: Requiem
+* <a href="https://en.wikipedia.org/wiki/George_Frideric_Handel">Handel</a>
+* Beethoven: Eroica
+* Liszt
+* Mahler: Le Titan
+* Smetana: Moldau
+* Johann Strauss II
+* Schubert: Rosamunde
+* Vivaldi
+* Prokofiev: Peter and the Wolf
 
 
-<h2>LPs - Hungarian</h2>
-<ul>
-<li>Benkő Dániel: Renaissance POP, Bakfark Consort</li>
-<li>Bikini: Hova lett</li>
-<li>Bikini: Ezt nem tudom másképp mondani</li>
-<li>Bikini: XX. századi híradó</li>
-<li>Add nekem azt a régi hitem (Dinnyés József, Voga-Turnovszky, Boros Lajos, etc.)</li>
-<li>Benkő Dániel: Renaissance</li>
-<li>Best of Bach - Balázs Ferenc, ifj Herrer Pál, Lippényi Gábor</li>
-<li>Dinnyés Jószef 1985. VII. 23</li>
-<li>East: Az Áldozat (Szodoma) Balettzene - The Victim (Sodom)</li>
-<li>Edda Művek: Edda Művek</li>
-<li>Első Emelet</li>
-<li>Express: Ezüst Express</li>
-<li>Hobo Blues Band: Vadászat</li>
-<li>Hobo Blues Band: Esztrád</li>
-<li>Hofi Géza: Hofisszeusz</li>
-<li>Hofi Géza: Elvtársi és Úri Szabó</li>
-<li>Hofi Géza: Akácos út</li>
-<li>Hungaria: Rock'n'Roll Party</li>
-<li>Hungaria: Hotel Mentol</li>
-<li>Kacsóh Pongráz: János vitéz</li>
-<li>Kaláka: A pelikán</li>
-<li>Karthago: Karthago</li>
-<li>Kati es a kerek perec: A szerpentin</li>
-<li>KFT: Bál az operában</li>
-<li>KFT: Ég és föld</li>
-<li>Kovács Kati- LGT: Közel a naphoz</li>
-<li>Locomotive GT: Ellenfél Nélkül</li>
-<li>Muszty - Dobay: Titkos út</li>
-<li>Neoton Familia: Csak a Zene</l>
-<li>Neoton Familia: Marathon</li>
-<li>Neoton Familia: Sunflower</li>
-<li>Népek meséi</li>
-<li>Omega: X - Az Arc</li>
-<li>Omega: 8 - Csillagok útján</li>
-<li>P. Mobil: Honfoglalás</li>
-<li>Piroska és a frakas (6 mese a gyermekeknek)</li>
-<li>Prognózis - Előjelek</li>
-<li>Sebestyén Márta - Szörényi Levente - Jeles napok - Karácsonyi Magyar Népdalok</li>
-<li>Solaris: Marsbéli krónikák</li>
-<li>Szeressük egymást gyerekek</li>
-<li>Szikora Róbert: Így jácctok ti</li>
-<li>Szörényi Levente, Bródy János: István a Király</li>
-<li>Szörényi Levente, Bródy János: Kőműves Kelemen</li>
-<li>Szűcs Judit: Ilyen ma egy lány</li>
-<li>Sztárcsinálók - Rockopera</li>
-<li>Vitai Ildikó: Mesebeli Madár</li>
-<li>V'Moto-Rock:  Gyertyák</li>
-<li>Voga-Turnovszky Duo - Egy fejjel kisebb vagyok</li>
-</ul>
+## LPs - Hungarian
+
+* Benkő Dániel: Renaissance POP, Bakfark Consort
+* Bikini: Hova lett
+* Bikini: Ezt nem tudom másképp mondani
+* Bikini: XX. századi híradó
+* Add nekem azt a régi hitem (Dinnyés József, Voga-Turnovszky, Boros Lajos, etc.)
+* Benkő Dániel: Renaissance
+* Best of Bach - Balázs Ferenc, ifj Herrer Pál, Lippényi Gábor
+* Dinnyés Jószef 1985. VII. 23
+* East: Az Áldozat (Szodoma) Balettzene - The Victim (Sodom)
+* Edda Művek: Edda Művek
+* Első Emelet
+* Express: Ezüst Express
+* Hobo Blues Band: Vadászat
+* Hobo Blues Band: Esztrád
+* Hofi Géza: Hofisszeusz
+* Hofi Géza: Elvtársi és Úri Szabó
+* Hofi Géza: Akácos út
+* Hungaria: Rock'n'Roll Party
+* Hungaria: Hotel Mentol
+* Kacsóh Pongráz: János vitéz
+* Kaláka: A pelikán
+* Karthago: Karthago
+* Kati es a kerek perec: A szerpentin
+* KFT: Bál az operában
+* KFT: Ég és föld
+* Kovács Kati- LGT: Közel a naphoz
+* Locomotive GT: Ellenfél Nélkül
+* Muszty - Dobay: Titkos út
+* Neoton Familia: Csak a Zene</l>
+* Neoton Familia: Marathon
+* Neoton Familia: Sunflower
+* Népek meséi
+* Omega: X - Az Arc
+* Omega: 8 - Csillagok útján
+* P. Mobil: Honfoglalás
+* Piroska és a frakas (6 mese a gyermekeknek)
+* Prognózis - Előjelek
+* Sebestyén Márta - Szörényi Levente - Jeles napok - Karácsonyi Magyar Népdalok
+* Solaris: Marsbéli krónikák
+* Szeressük egymást gyerekek
+* Szikora Róbert: Így jácctok ti
+* Szörényi Levente, Bródy János: István a Király
+* Szörényi Levente, Bródy János: Kőműves Kelemen
+* Szűcs Judit: Ilyen ma egy lány
+* Sztárcsinálók - Rockopera
+* Vitai Ildikó: Mesebeli Madár
+* V'Moto-Rock:  Gyertyák
+* Voga-Turnovszky Duo - Egy fejjel kisebb vagyok
 
 <h2>LPs English</h2>
 <ul>
@@ -315,59 +306,47 @@ width: 33%;
 </ul>
 
 
-<ul>
-<li>Benkő Dániel: Ezer év gitáron ????</li>
-<li>Manfred Mann's Earth Band:  * Blinded by the light</li>
-<li>Kaláka</li>
-<li>Nálatok Laknak-e állatok</li>
-<li>Hobo Blues Band</li>
-<li>Tábortűz mellett</li>
-<li>ELP - Brain Salad Surgery</li>
-<li>ELP - In Concert Canada</li>
-<li>Simon and Garfunkel Bridge over Troubled Water</li>
-<li>Luis Armstrong</li>
-<li>Nina Simon</li>
-<li>Jean- Michel Jarre: China concert</li>
-<li>Sade: Promise</li>
-<li>Joan Baez Any Day Now</li>
-<li>Queen: The Game</li>
-<li>George Benson</li>
-<li>Dubliners: Collection</li>
-<li>Latinovics Zoltan: Ady, Jozsef Attila</li>
-<li>Cat Stevens: Buddha and the chocolate box</li>
-<li>ELO: Xanadu</li>
-<li>Jethro Tull: Heavy Horses</li>
-<li>Dire Straits:</li>
-<li>Suzanne Vega: Solitude standing</li>
-<li>Keith Jarrett: Personal Mountains</li>
-<li>Lou Reed: Berlin 1973</li>
-<li>Paul Anka</li>
-</ul>
+* Benkő Dániel: Ezer év gitáron ????
+* Manfred Mann's Earth Band:  * Blinded by the light
+* Kaláka
+* Nálatok Laknak-e állatok
+* Hobo Blues Band
+* Tábortűz mellett
+* ELP - Brain Salad Surgery
+* ELP - In Concert Canada
+* Simon and Garfunkel Bridge over Troubled Water
+* Luis Armstrong
+* Nina Simon
+* Jean- Michel Jarre: China concert
+* Sade: Promise
+* Joan Baez Any Day Now
+* Queen: The Game
+* George Benson
+* Dubliners: Collection
+* Latinovics Zoltan: Ady, Jozsef Attila
+* Cat Stevens: Buddha and the chocolate box
+* ELO: Xanadu
+* Jethro Tull: Heavy Horses
+* Dire Straits:
+* Suzanne Vega: Solitude standing
+* Keith Jarrett: Personal Mountains
+* Lou Reed: Berlin 1973
+* Paul Anka
 
 
-<h2>Some classical Music I like</h2>
+## Some classical Music I like
 
-<ul>
-<li>Bizet – Carmen: Les Toreadors</li>
-<li>Beethoven 9th Symphony - Ode to Joy</li>
-<li>Gaelynn Lea</li>
-</ul>
+* Bizet – Carmen: Les Toreadors
+* Beethoven 9th Symphony - Ode to Joy
+* Gaelynn Lea
 
-<ul>
-<li><a href="https://www.youtube.com/watch?v=SiWDFjo_eu4">Melissa Flutes</a></li>
-<li><a href="https://www.youtube.com/watch?v=2D-y2kJU0lg">music</a></li>
-<li><a href="https://www.youtube.com/watch?v=fyiEJaf-IzE">Jason Isbell and the 400 Unit - If We Were Vampires</a></li>
-</ul>
+* <a href="https://www.youtube.com/watch?v=SiWDFjo_eu4">Melissa Flutes</a>
+* <a href="https://www.youtube.com/watch?v=2D-y2kJU0lg">music</a>
+* <a href="https://www.youtube.com/watch?v=fyiEJaf-IzE">Jason Isbell and the 400 Unit - If We Were Vampires</a>
 
-<li><a href="https://www.youtube.com/watch?v=ccsUjRhpo_U">Cafe Quijano - La lola</a></li>
-<li><a href="https://www.youtube.com/watch?v=FjAe4BTegho">Alexander Acha - Te amo</a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
+* <a href="https://www.youtube.com/watch?v=ccsUjRhpo_U">Cafe Quijano - La lola</a>
+* <a href="https://www.youtube.com/watch?v=FjAe4BTegho">Alexander Acha - Te amo</a>
 
-<h2>YouTube Music</h2>
-<ul>
-<li><a href="https://music.youtube.com/channel/UCxwLkfMCfx2uSKO9w4iRfDQ">2 Cellos</a></li>
-</ul>
+## YouTube Music
+
+* <a href="https://music.youtube.com/channel/UCxwLkfMCfx2uSKO9w4iRfDQ">2 Cellos</a>
