@@ -4,52 +4,62 @@
 
 ## Music NOT by me
 
-I like the music of [Gabor Szabo, the Jazz Guitarist](http://www.gaborszabo.com/), but I am **NOT** related to him.
+I like the music of [Gabor Szabo, the Jazz Guitarist](https://en.wikipedia.org/wiki/Gabor_Szabo), but I am **NOT** related to him.
 
 ## Some Music I like
 
-I like to listen to song at <a href="http://www.thesixtyone.com/?referred_by_username=szabgab">The SixtyOne</a>. I recommend you subscribe too.
+### Hungarian
 
-<a href="http://www.thesixtyone.com/s/AgH9TAwQxvv/">Bruises</a> by
-<a href="http://en.wikipedia.org/wiki/Chairlift_%28band%29">Chairlift</a><br>
-<a href="http://www.thesixtyone.com/#/artist/RachelPlatten/songs/">Rachel Platten</a><br>
-<a href="http://www.thesixtyone.com/s/awAvrAC167S/">The Rescues</a><br>
-<a href="http://www.thesixtyone.com/posted/?goto_song_id=STI6begLThr#/ANJmusic/">Anj Granieri</a><br>
+* Playa Bea
+    * Egyszáll Ének - 2009 - Megmondók
+* Budapest Bár
+* Anna and the Barbies - Ánem - Márti dala
+
+### Ladino - Sephardic music
+
+* Las Compras Del Rabino / Alcacik Duvar Üstü - Aman Aman - Musica I Cants Sefardis - 2007
+
+
+## Older entries to be reaarranged
+
+* Bruises by <a href="http://en.wikipedia.org/wiki/Chairlift_%28band%29">Chairlift</a>
+* [Rachel Platten](https://www.rachelplatten.com/)
+* [The Rescues](http://www.therescues.com/)
+* Anj Granieri
 
 | Site                                                          | Wikipedia                                                                | YouTube                                                                                              |
 | ------------------------------------------------------------- | ------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------- |
-| [Gabor Szabo, the Jazz Guitarist](http://www.gaborszabo.com/) | [Gabor Szabo, jazz guitarist](https://en.wikipedia.org/wiki/Gabor_Szabo) | [Gabor Szabo](https://www.youtube.com/results?search_query=gabor+szabo)                              |
-|                                                               | [Emeli Sandé](https://en.wikipedia.org/wiki/Emeli_Sand%C3%A9)            | [Emeli Sandé](https://www.youtube.com/results?search_query=Emeli+Sand%C3%A9)                         |
+| Gabor Szabo, jazz guitarist                                   | [Gabor Szabo, jazz guitarist](https://en.wikipedia.org/wiki/Gabor_Szabo) | [Gabor Szabo](https://www.youtube.com/results?search_query=gabor+szabo)                              |
+| Emeli Sandé                                                   | [Emeli Sandé](https://en.wikipedia.org/wiki/Emeli_Sand%C3%A9)            | [Emeli Sandé](https://www.youtube.com/results?search_query=Emeli+Sand%C3%A9)                         |
 |                                                               |                                                                          | [Jeff Beck - Rock n Roll Party Honoring Les Paul](https://www.youtube.com/watch?v=4VfeP3roN7A")      |
-|                                                               |                                                                          | [The Corrs](https://www.youtube.com/watch?v=TFiTRbxX_2I)                                             |
-|                                                               | [Candy Dulfer](https://en.wikipedia.org/wiki/Candy_Dulfer)               | [Candy Dulfer Live In Leverkusen Jazztage2009Full Show](https://www.youtube.com/watch?v=0YrJvZB2dzg) |
-| <a href="http://www.jossstone.com/">Joss Stone</a>            |                                                                          | <a href="https://www.youtube.com/results?search_query=Joss+Stone">Joss Stone</a> |
-| <a href="http://spyrogyra.com/">Spyro Gyra</a>                |                                                                          | <a href="https://www.youtube.com/results?search_query=Spyro+Gyra">Spyro Gyra</a> |
-|                                                               |                                                                          | <a href="https://www.youtube.com/results?search_query=Avishai+Cohen">Avishai Cohen</a> |
-|                                                               | <a href="https://en.wikipedia.org/wiki/Sade_%28singer%29">Sade</a>       |  <a href="https://www.youtube.com/results?search_query=Sade">Sade</a> |
-| <a href="http://www.gregoryporter.com/">Gregory Porter</a>    |                                                                          | <a href="https://www.youtube.com/results?search_query=Gregory+Porter">Gregory Porter</a> |
-|                                                               | <a href="https://en.wikipedia.org/wiki/N%C3%A9stor_Torres">Nestor Torres</a> | <a href="https://www.youtube.com/results?search_query=Nestor+Torres">Nestor Torres</a> |
-|                                                               | <a href="https://en.wikipedia.org/wiki/Wu_Bai">Wu Bai and China Blue</a>     | <a href="https://www.youtube.com/results?search_query=Wu+Bai+and+China+Blue">Wu Bai and China Blue</a> |
-|                                                               | <a href="https://en.wikipedia.org/wiki/Jan_Garbarek">Jan Garbarek</a>    | <a href="https://www.youtube.com/results?search_query=jan+garbarek">Jan Garbarek</a> |
-|                                                               | <a href="https://en.wikipedia.org/wiki/Saga_%28band%29">Saga</a>         | <a href="https://www.youtube.com/results?search_query=Saga">Saga</a> |
-|                                                               | <a href="https://en.wikipedia.org/wiki/Diana_Krall">Diana Krall</a>      | <a href="https://www.youtube.com/results?search_query=Diana+Krall">Diana Krall</a> |
-| <a href="http://celticwoman.com/">Celtic Woman</a> |  | <a href="https://www.youtube.com/results?search_query=celtic+woman">Celtic Woman</a> |
-| <a href="http://www.napoleonboulevard.hu/">Napoleon Boulevard</a> | <a href="https://hu.wikipedia.org/wiki/Napoleon_Boulevard">Napoleon Boulevard</a> | <a href="https://www.youtube.com/results?search_query=Napoleon+Boulevard">Napoleon Boulevard</a> |
-| <a href="http://meytalcohen.com/">Meytal Cohen</a>  | | <a href="https://www.youtube.com/results?search_query=Meytal+Cohen">Meytal Cohen</a> |
-| <a href="http://cdeb.com/">Chris de Burgh</a>       | | <a href="https://www.youtube.com/results?search_query=Chris+de+Burgh">Chris de Burgh</a> |
-| <a href="http://www.yasminlevy.net/">Yasmin Levy</a>| <a href="https://en.wikipedia.org/wiki/Yasmin_Levy">Yasmin Levy</a> | <a href="https://www.youtube.com/results?search_query=Yasmin+Levy">Yasmin Levy on YouTube</a> |
-| | | <a href="https://www.youtube.com/results?search_query=paul+simon">Paul Simon</a> (Graceland) |
-| | | <a href="https://www.youtube.com/results?search_query=jethro+tull">Jethro Tull</a> |
-| | | <a href="https://www.youtube.com/results?search_query=Marillion">Marillion</a> |
-
-
-* Sherry Dyanne
-* Billy Joel
-* Cat Stevens
-* KFT
-* Mike Oldfield
-* <a href="http://www.deeppurple.com/">Deep Purple</a>  <a href="https://en.wikipedia.org/wiki/Deep_Purple">Deep Purple</a>
-* <a href="http://www.leonardcohen.com/">Leonard Cohen</a> and <a href="https://en.wikipedia.org/wiki/Leonard_Cohen">Leonard Cohen</a>
+| The Corrs                                                     |                                                                          | [The Corrs](https://www.youtube.com/watch?v=TFiTRbxX_2I)                                             |
+| Candy Dulfer                                                  | [Candy Dulfer](https://en.wikipedia.org/wiki/Candy_Dulfer)               | [Candy Dulfer Live In Leverkusen Jazztage2009Full Show](https://www.youtube.com/watch?v=0YrJvZB2dzg) |
+| [Joss Stone](https://www.jossstone.com/)                      |                                                                          | <a href="https://www.youtube.com/results?search_query=Joss+Stone">Joss Stone</a> |
+| [Spyro Gyra](https://spyrogyra.com/)                          |                                                                          | <a href="https://www.youtube.com/results?search_query=Spyro+Gyra">Spyro Gyra</a> |
+| Avishai Cohen                                                 |                                                                          | <a href="https://www.youtube.com/results?search_query=Avishai+Cohen">Avishai Cohen</a> |
+| Sade                                                          | [Sade](https://en.wikipedia.org/wiki/Sade_%28singer%29)                  | <a href="https://www.youtube.com/results?search_query=Sade">Sade</a> |
+| [Gregory Porter](https://www.gregoryporter.com/)              |                                                                          | <a href="https://www.youtube.com/results?search_query=Gregory+Porter">Gregory Porter</a> |
+| Nestor Torres                                                 | [Nestor Torres](https://en.wikipedia.org/wiki/N%C3%A9stor_Torres)        | <a href="https://www.youtube.com/results?search_query=Nestor+Torres">Nestor Torres</a> |
+|                                                               | [Wu Bai and China Blue](https://en.wikipedia.org/wiki/Wu_Bai)            | <a href="https://www.youtube.com/results?search_query=Wu+Bai+and+China+Blue">Wu Bai and China Blue</a> |
+| Jan Garbarek                                                  | [Jan Garbarek](https://en.wikipedia.org/wiki/Jan_Garbarek)               | <a href="https://www.youtube.com/results?search_query=jan+garbarek">Jan Garbarek</a> |
+| Saga                                                          | [Saga](https://en.wikipedia.org/wiki/Saga_%28band%29)                    | <a href="https://www.youtube.com/results?search_query=Saga">Saga</a> |
+| Diana Krall                                                   | [Diana Krall](https://en.wikipedia.org/wiki/Diana_Krall)                 | <a href="https://www.youtube.com/results?search_query=Diana+Krall">Diana Krall</a> |
+| [Celtic Woman](https://celticwoman.com/)                      |                                                                          | <a href="https://www.youtube.com/results?search_query=celtic+woman">Celtic Woman</a> |
+| Napoleon Boulevard                                            | [Napoleon Boulevard](https://hu.wikipedia.org/wiki/Napoleon_Boulevard)   | <a href="https://www.youtube.com/results?search_query=Napoleon+Boulevard">Napoleon Boulevard</a> |
+| [Meytal Cohen](https://meytalcohen.com/)                      |                                                                          | <a href="https://www.youtube.com/results?search_query=Meytal+Cohen">Meytal Cohen</a> |
+| [Chris de Burgh](https://cdeb.com/)                           |                                                                          | <a href="https://www.youtube.com/results?search_query=Chris+de+Burgh">Chris de Burgh</a> |
+| [Yasmin Levy](https://www.yasminlevy.net/)                    | [Yasmin Levy](https://en.wikipedia.org/wiki/Yasmin_Levy)                 | <a href="https://www.youtube.com/results?search_query=Yasmin+Levy">Yasmin Levy on YouTube</a> |
+|                                                               |                                                                          | <a href="https://www.youtube.com/results?search_query=paul+simon">Paul Simon</a> (Graceland) |
+| Jethro Tull                                                   |                                                                          | <a href="https://www.youtube.com/results?search_query=jethro+tull">Jethro Tull</a> |
+| Marillion                                                     |                                                                          | <a href="https://www.youtube.com/results?search_query=Marillion">Marillion</a> |
+| Sherry Dyanne | | |
+| Billy Joel    | | |
+| Cat Stevens   | | |
+| KFT           | | |
+| Mike Oldfield | | |
+| [Deep Purple](https://www.deeppurple.com/)     |  <a href="https://en.wikipedia.org/wiki/Deep_Purple">Deep Purple</a> | |
+| [Leonard Cohen](https://www.leonardcohen.com/) |  <a href="https://en.wikipedia.org/wiki/Leonard_Cohen">Leonard Cohen</a> | |
+| 2 Cellos                                                      |                                                                          |  <a href="https://music.youtube.com/channel/UCxwLkfMCfx2uSKO9w4iRfDQ">2 Cellos</a> |
 
 Spyro Gyra: Point Of View
 Spyro Gyra: Love and other obsessions
@@ -72,6 +82,7 @@ Spyro Gyra: Breakout
 * <a href="https://galanttuperdstontemps.ca/">Galant Tu Perds Ton Temps</a>: <a href="https://www.youtube.com/watch?v=wewtFYS-d84&list=RDEMFcvN-kf0VDs3hUScPATHNg">Marie Picard</a>
 
 ### Hungarian
+
 * Presser Gábor: Kis történetek.
 * Presser Gábor: Csak Dalok.
 * [Dés László](https://hu.wikipedia.org/wiki/D%C3%A9s_L%C3%A1szl%C3%B3): Running Time.
@@ -81,15 +92,6 @@ Spyro Gyra: Breakout
 * [Robert Mandel](http://robertmandel.at/):  [Electrotary](https://www.youtube.com/watch?v=2qGZnQRh8DM&list=PL7i72rLxWZi-pz1eFs8mmCs0dsLtsbs6Z) [Mandel Róbert](https://hu.wikipedia.org/wiki/Mandel_R%C3%B3bert)
 * Dresch-Quartett-Folyondar
 * Trio-Sendhal-Live
-
-* Playa Bea
-    * Egyszáll Ének - 2009 - Megmondók
-* Budapest Bár
-* Anna and the Barbies - Ánem - Márti dala
-
-### Ladino - Sephardic music
-
-* Las Compras Del Rabino / Alcacik Duvar Üstü - Aman Aman - Musica I Cants Sefardis - 2007
 
 ### Hebrew
 
@@ -105,6 +107,8 @@ Spyro Gyra: Breakout
 * David Broza: Big Secrets
 * Nurit Galron: HaMakom HaHu
 * Gazoz: The 20 hits
+
+### Other
 
 * The Lord of the Rings - The Fellowship of the Ring
 * John McLaughlin, Al-DiMeola, Paco DeLucia: Passion  Grace and Fire
@@ -327,6 +331,3 @@ Spyro Gyra: Breakout
 * <a href="https://www.youtube.com/watch?v=ccsUjRhpo_U">Cafe Quijano - La lola</a>
 * <a href="https://www.youtube.com/watch?v=FjAe4BTegho">Alexander Acha - Te amo</a>
 
-## YouTube Music
-
-* <a href="https://music.youtube.com/channel/UCxwLkfMCfx2uSKO9w4iRfDQ">2 Cellos</a>
