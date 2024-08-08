@@ -187,11 +187,13 @@ In addition I created <a href="http://padre.perlide.org/">Padre, the Perl IDE</a
 
 ## Social activity
 
-I restarted the <a href="http://www.perl.org.il/">Israel Perl Mongers</a> and created
-a lively environment for local Perl enthusiastic in Israel. With the invaluable help of
-other Mongers I have organized several Perl and <a href="http://osdc.org.il/">Open Source</a>
-conferences in Israel. The community now has monthly
-meetings both in Tel Aviv and in Jerusalem and a busy mailing list.
+I am the organizer of the [Python community in Israel](https://python.org.il/) and that of the [Rust community in Israel](https://rust.org.il/).
+
+
+I used to organize the <a href="https://perl.org.il/">Perl Mongers in Israel</a> and created a lively environment for local Perl enthusiastic in Israel.
+With the invaluable help of other Mongers I have organized several Perl and Open Source Developer Conferences (OSDC)
+in Israel.
+The community used to have monthly meetings both in Tel Aviv and in Jerusalem and a busy mailing list.
 
 While the Hungarian Perl Mongers had a mailing list for some time already I have registered
 the <b>perl.org.hu</b> domain so we'll have a constant place to
@@ -210,6 +212,70 @@ from <a href="https://www.hamakor.org.il/">HaMakor</a>, the Israeli non-profit f
 
 Mostly for my community work, in 2008, I received the
 <a href="http://whitecamel.org/">White Camel Award</a>.
+
+## Websites
+
+* [szabgab.com](https://szabgab.com/)
+
+* [Code-Maven](https://code-maven.com/)
+* [Rust Maven](https://rust.code-maven.com/)
+* [Python Maven](https://python.code-maven.com/)
+* [C Maven](https://c.code-maven.com/)
+* [CPP Maven](https://cpp.code-maven.com/)
+* [Perl Maven](https://perlmaven.com/)
+
+
+* [Slides](https://slides.code-maven.com/) also the [Rust slides](https://rust.code-maven.com/slides/rust/)
+
+* [Kantoniko](https://kantoniko.com/)
+
+* [Ruby digger](https://ruby-digger.code-maven.com/)
+* [Rust digger](https://rust-digger.code-maven.com/)
+* [PyDigger](https://pydigger.com/)
+* [CPAN Digger](https://cpan-digger.perlmaven.com/)
+
+
+* [Perl Weekly](https://perlweekly.com/)
+
+* [Hostlocal](https://hostlocal.com/)
+* [PTI](http://pti.co.il/)
+
+* [Workshops / live presentations](https://workshops.code-maven.com/)
+
+* [Meet-OS](https://meet-os.com/) - project under development.
+
+* [Rust ebooks](https://rust-ebooks.code-maven.com/)
+
+* [DevOps Workshops in Israel](https://devops-workshops.code-maven.com/) - old.
+* [Remote Events](https://events.code-maven.com/) (For now only remote Rust events)
+* [Forem](https://forem.code-maven.com/)
+
+
+* [Banner Builder](https://banner-builder.code-maven.com/) Rust project.
+* [Geni](https://geni.code-maven.com/) Rust project.
+* [Rustatic](https://rustatic.code-maven.com/) Rust project.
+* [site checker](https://site-checker.code-maven.com/) Rust project.
+* [SSG - Static Site Generator](https://ssg.code-maven.com/) Rust project.
+
+* [GitHub pages for Code-Maven](https://github.code-maven.com/) old.
+* [Hash](https://hash.code-maven.com/) unused blog on Hashnode.
+* [news collector](https://news-collector.code-maven.com/)
+* [Rust news](https://rust-news.code-maven.com/)
+* [OSDC](https://osdc.code-maven.com/) Open Source Development Course & Community
+* [Annotatd tech talks](https://tech-talks.code-maven.com/)
+* [Weekly code maven](https://weekly.code-maven.com/) unused.
+
+* [Code and Talk](https://codeandtalk.com/) old, unmaintained Python project.
+
+
+* [Rust in Israel](https://rust.org.il/)
+* [Python in Israel](https://python.org.il/)
+* [Perl in Israel](https://perl.org.il/)
+
+
+* [Israel](https://israel.szabgab.com/)
+* [Izrael](https://izrael.szabgab.com/) in Hungarian
+
 
 ## Other Projects
 
