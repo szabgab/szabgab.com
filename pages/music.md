@@ -102,6 +102,15 @@ width: 33%;
 * Dresch-Quartett-Folyondar
 * Trio-Sendhal-Live
 
+* Playa Bea
+    * Egyszáll Ének - 2009 - Megmondók
+* Budapest Bár
+* Anna and the Barbies - Ánem - Márti dala
+
+### Ladino - Sephardic music
+
+* Las Compras Del Rabino / Alcacik Duvar Üstü - Aman Aman - Musica I Cants Sefardis - 2007
+
 <h3>Hebrew</h3>
 <ul>
 <li>Gary Eckstein, Moshe Levi: Fata Morgana</li>
