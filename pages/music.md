@@ -91,18 +91,16 @@ width: 33%;
 <li><a href="https://galanttuperdstontemps.ca/">Galant Tu Perds Ton Temps</a>: <a href="https://www.youtube.com/watch?v=wewtFYS-d84&list=RDEMFcvN-kf0VDs3hUScPATHNg">Marie Picard</a></li>
 </ul>
 
-<h3>Hungarian</h3>
-<ul>
-<li>Presser Gábor: Kis történetek</li>
-<li>Presser Gábor: Csak Dalok</li>
-<li><a href="https://hu.wikipedia.org/wiki/D%C3%A9s_L%C3%A1szl%C3%B3">Dés László</a>: Running Time</li>
-<li>Dés László: Valahol Europaban</li>
-<li><a href="https://hu.wikipedia.org/wiki/Katona_Kl%C3%A1ri">Katona Klári</a>: <a href="https://www.youtube.com/playlist?list=PL0jQLOe8DdTPFxUSy0Ie21AG6ZJ4XB3g7">Lárika</a></li>
-<li><a href="http://aftercrying.hu/">After Crying</a> <a href="https://en.wikipedia.org/wiki/After_Crying">After Crying</a> de Profundis</li>
-<li><a href="http://robertmandel.at/">Robert Mandel</a>:  <a href="https://www.youtube.com/watch?v=2qGZnQRh8DM&list=PL7i72rLxWZi-pz1eFs8mmCs0dsLtsbs6Z">Electrotary</a> <a href="https://hu.wikipedia.org/wiki/Mandel_R%C3%B3bert">Mandel Róbert</a></li>
-<li>Dresch-Quartett-Folyondar</li>
-<li>Trio-Sendhal-Live</li>
-</ul>
+### Hungarian
+* Presser Gábor: Kis történetek.
+* Presser Gábor: Csak Dalok.
+* [Dés László](https://hu.wikipedia.org/wiki/D%C3%A9s_L%C3%A1szl%C3%B3): Running Time.
+* Dés László: Valahol Europaban.
+* [Katona Klári](https://hu.wikipedia.org/wiki/Katona_Kl%C3%A1ri): [Lárika](https://www.youtube.com/playlist?list=PL0jQLOe8DdTPFxUSy0Ie21AG6ZJ4XB3g7).
+* [After Crying](http://aftercrying.hu/) [After Crying](https://en.wikipedia.org/wiki/After_Crying) de Profundis.
+* [Robert Mandel](http://robertmandel.at/):  [Electrotary](https://www.youtube.com/watch?v=2qGZnQRh8DM&list=PL7i72rLxWZi-pz1eFs8mmCs0dsLtsbs6Z) [Mandel Róbert](https://hu.wikipedia.org/wiki/Mandel_R%C3%B3bert)
+* Dresch-Quartett-Folyondar
+* Trio-Sendhal-Live
 
 <h3>Hebrew</h3>
 <ul>
