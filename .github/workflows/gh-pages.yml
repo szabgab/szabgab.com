@@ -32,17 +32,17 @@ jobs:
           #
           #
       - name: clone
-        run: git clone https://bitbucket.org/szabgab/hostlocal.com.git
+        run: git clone --depth 1 https://bitbucket.org/szabgab/hostlocal.com.git
 
 
       - name: Setup Pages
         uses: actions/configure-pages@v4
 
-      - name: Set up perl
-        uses: shogo82148/actions-setup-perl@v1
-        with:
-            perl-version: 5.36
-            distribution: 'default'
+        #- name: Set up perl
+        #  uses: shogo82148/actions-setup-perl@v1
+        #  with:
+        #      perl-version: 5.36
+        #      distribution: 'default'
 
       - name: Install extra libraries
         run: |
@@ -56,7 +56,6 @@ jobs:
 
       - name: Show Perl Version
         run: |
-          /usr/bin/perl -v
           perl -v
 
           #      - name: Install Modules
@@ -75,7 +74,7 @@ jobs:
         env:
           SZABGAB_DEV: log
         run: |
-          /usr/bin/perl generate.pl
+          perl generate.pl
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
