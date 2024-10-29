@@ -7,6 +7,8 @@ use Cwd qw(cwd);
 use Data::Dumper qw(Dumper);
 use POSIX qw(strftime);
 
+use Parallel::ForkManager;
+
 use Sz::App;
 
 main();
@@ -92,19 +94,22 @@ sub generate_pages {
         die "Duplicate path '$path'" if $seen{$path}++;
     }
 
-    my $pid = fork();
-    die "Could not fork" if not defined $pid;
-    my $half = int(@pathes / 2);
-    if ($pid) {
-        say "parent";
-        generate_several_pages($root, $outdir,  [@pathes[0..$half]]);
-        my $finished = wait;
-        say "Finished $finished";
-    } else {
-        say "child";
-        generate_several_pages($root, $outdir, [@pathes[$half+1..scalar @pathes]]);
-    }
+    my $forks = 4;
+    my $total = scalar @pathes;
+    my $size = int (@pathes / $forks);
+    my @limits = map {[($_-1) * $size, $_ * $size-1]} 1..$forks-1;
+    push @limits, [$limits[-1][1]+1, $total];
+    say "total: $total\b" . "\n" . Dumper \@limits;
 
+    my $pm = Parallel::ForkManager->new($forks);
+
+    foreach my $range (@limits) {
+        my ($start, $end) = @$range;
+        my $pid = $pm->start and next;
+        generate_several_pages($root, $outdir,  [@pathes[$start..$end]]);
+        $pm->finish();
+    }
+    $pm->wait_all_children;
 }
 
 sub generate_several_pages {

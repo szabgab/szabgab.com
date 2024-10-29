@@ -47,12 +47,13 @@ jobs:
       - name: Install extra libraries
         run: |
           sudo apt install -y \
-                         libhtml-template-perl      \
-                         libxml-rss-perl            \
-                         libscalar-list-utils-perl  \
-                         libtext-multimarkdown-perl \
-                         libpath-tiny-perl          \
-                         libyaml-perl
+                         libhtml-template-perl         \
+                         libxml-rss-perl               \
+                         libscalar-list-utils-perl     \
+                         libtext-multimarkdown-perl    \
+                         libpath-tiny-perl             \
+                         libyaml-perl                  \
+                         libparallel-forkmanager-perl
 
       - name: Show Perl Version
         run: |
