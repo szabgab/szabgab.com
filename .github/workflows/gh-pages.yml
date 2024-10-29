@@ -46,14 +46,17 @@ jobs:
 
       - name: Install extra libraries
         run: |
-          sudo apt install -y libxml-rss-perl \
-                         libhtml-template-perl \
+          sudo apt install -y \
+                         libhtml-template-perl      \
+                         libxml-rss-perl            \
+                         libscalar-list-utils-perl  \
                          libtext-multimarkdown-perl \
-                         libpath-tiny-perl \
+                         libpath-tiny-perl          \
                          libyaml-perl
 
       - name: Show Perl Version
         run: |
+          /usr/bin/perl -v
           perl -v
 
           #      - name: Install Modules
@@ -72,7 +75,7 @@ jobs:
         env:
           SZABGAB_DEV: log
         run: |
-          perl generate.pl
+          /usr/bin/perl generate.pl
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
