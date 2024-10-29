@@ -92,12 +92,24 @@ sub generate_pages {
         die "Duplicate path '$path'" if $seen{$path}++;
     }
 
-    generate_several_pages($root, $outdir, \@pathes);
+    my $pid = fork();
+    die "Could not fork" if not defined $pid;
+    my $half = int(@pathes / 2);
+    if ($pid) {
+        say "parent";
+        generate_several_pages($root, $outdir,  [@pathes[0..$half]]);
+        my $finished = wait;
+        say "Finished $finished";
+    } else {
+        say "child";
+        generate_several_pages($root, $outdir, [@pathes[$half+1..scalar @pathes]]);
+    }
 
 }
 
 sub generate_several_pages {
     my ($root, $outdir, $pathes) = @_;
+    say "generate these pages: " . Dumper $pathes;
 
     for my $path (@$pathes) {
         say $path;
