@@ -47,7 +47,7 @@ A selected list of all my [corporate training](/training) courses.
 In addition to the fixed-content courses many clients prefer to have a course customized for the specific needs of the organization. If you'd like to discuss how any of
 these course could be customized or even extended to your specific needs, get in contact with me:
 
-<a class="button is-primary" href="https://calendly.com/szabgab/training">Schedule a call</a>
+<a class="button is-primary" href="/contact">Contact me</a>
 
 ## Higher Education
 
@@ -123,4 +123,4 @@ I provide training courses in English, Hebrew, and Hungarian.
 
 Would you like me to train the developers or the qa engineers in your company? Let's talk about it! Send me an e-mail to [gabor@szabgab.com](mailto:gabor@szabgab.com) to schedule a call or to get more information via e-mail.
 
-<a class="button is-primary" href="https://calendly.com/szabgab/training">Schedule a call</a>
+<a class="button is-primary" href="/contact">Contact me</a>

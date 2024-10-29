@@ -60,7 +60,7 @@ Training classes can be given in-house in your company or online via Zoom or oth
 
 For more details please contact me via email [gabor@szabgab.com](mailto:gabor@szabgab.com) to schedule a call.
 
-<a class="button is-primary" href="https://calendly.com/szabgab/training">Schedule a call</a>
+<a class="button is-primary" href="/contact">Contact me</a>
 
 <!--
 ## Previous international training classes

@@ -32,5 +32,5 @@ I taught this course several times as an open enrollment course and also at the 
 
 If you are interested to discuss which course and which format will be good for your institution, let's discuss it either via email at [gabor@szabgab.com](mailto:gabor@szabgab.com) or schedule a call:
 
-<a class="button is-primary" href="https://calendly.com/szabgab/training">Schedule a call</a>
+<a class="button is-primary" href="/contact">Contact me</a>
 
