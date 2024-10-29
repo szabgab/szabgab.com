@@ -10,6 +10,6 @@
 <p>Twitter: <a href="https://twitter.com/szabgab">@szabgab</a></p>
 -->
 <p>Mobile phone: +972-54-4624648 (WhatsApp, Telegram, Viber)</p>
-<p>When in Hungary: +36-50-1386558</p>
+<p>When in Europe: +36-50-1386558</p>
 
 
