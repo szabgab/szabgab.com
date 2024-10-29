@@ -34,6 +34,7 @@ My courses contain a lot of hands-on exercises and a lot of interaction with eac
 
 A selected list of all my [corporate training](/training) courses.
 
+* [Rust](/courses/rust)
 * Python for non-technical people
 * Python for data scientist
 * [Web application development using Python Flask](/courses/flask)

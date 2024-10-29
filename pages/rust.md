@@ -2,6 +2,10 @@
 =timestamp 1699906693
 =tags slides, videos, articles, crates, projects
 
+## Rust course
+
+[Rust](/courses/rust)
+
 ## My Open Source Rust projects
 
 * [Rust Digger](https://rust-digger.code-maven.com/) collecting and analyzing information about Rust Crates.
