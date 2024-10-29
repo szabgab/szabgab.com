@@ -7,7 +7,7 @@ use Cwd qw(cwd);
 use Data::Dumper qw(Dumper);
 use POSIX qw(strftime);
 
-use Parallel::ForkManager;
+use MCE::Map;
 
 use Sz::App;
 
@@ -94,39 +94,16 @@ sub generate_pages {
         die "Duplicate path '$path'" if $seen{$path}++;
     }
 
-    my $forks = 4;
-    my $total = scalar @pathes;
-    my $size = int (@pathes / $forks);
-    my @limits = map {[($_-1) * $size, $_ * $size-1]} 1..$forks-1;
-    push @limits, [$limits[-1][1]+1, $total];
-    say "total: $total\b" . "\n" . Dumper \@limits;
-
-    my $pm = Parallel::ForkManager->new($forks);
-
-    foreach my $range (@limits) {
-        my ($start, $end) = @$range;
-        my $pid = $pm->start and next;
-        generate_several_pages($root, $outdir,  [@pathes[$start..$end]]);
-        $pm->finish();
-    }
-    $pm->wait_all_children;
-}
-
-sub generate_several_pages {
-    my ($root, $outdir, $pathes) = @_;
-    say "generate these pages: " . Dumper $pathes;
-
-    for my $path (@$pathes) {
+    my @results = mce_map {
+        my $path = $_;
         say $path;
         if ($path eq "index") {
             generate_page($root, "/", "$outdir/$path.html");
         } else {
             generate_page($root, "/$path", "$outdir/$path.html");
         }
-    }
+    } @pathes
 }
-
-
 
 sub courses {
     my ($root, $outdir) = @_;

@@ -53,7 +53,7 @@ jobs:
                          libtext-multimarkdown-perl    \
                          libpath-tiny-perl             \
                          libyaml-perl                  \
-                         libparallel-forkmanager-perl
+                         libmce-perl
 
       - name: Show Perl Version
         run: |
