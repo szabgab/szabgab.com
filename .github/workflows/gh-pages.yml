@@ -44,6 +44,14 @@ jobs:
             perl-version: 5.36
             distribution: 'default'
 
+      - name: Install extra libraries
+        run: |
+          apt install -y libxml-rss-perl \
+                         libhtml-template-perl \
+                         libtext-multimarkdown-perl \
+                         libpath-tiny-perl \
+                         libyaml-perl
+
       - name: Show Perl Version
         run: |
           perl -v
@@ -53,11 +61,12 @@ jobs:
           cpanm -v
           cpanm --installdeps --with-develop --notest .
 
-      - name: Run tests
-        run: |
-          perl Makefile.PL
-          make
-          make test
+          # We don't have any tests any more
+          #      - name: Run tests
+          #        run: |
+          #          perl Makefile.PL
+          #          make
+          #          make test
 
       - name: Generate pages
         env:
