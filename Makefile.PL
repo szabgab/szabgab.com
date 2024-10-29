@@ -19,10 +19,10 @@ WriteMakefile(
         'Path::Tiny'            => 0,
         'YAML::XS'              => 0,
 
-        'Test::More'       => '0.47',
-        'Test::Exception'  => 0,
-        'Test::Deep'       => 0,
-        'Test::NoWarnings' => 0,
+        #        'Test::More'       => '0.47',
+        #        'Test::Exception'  => 0,
+        #        'Test::Deep'       => 0,
+        #        'Test::NoWarnings' => 0,
     }
 );
 
