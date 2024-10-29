@@ -28,7 +28,7 @@ My courses contain a lot of hands-on exercises and a lot of interaction with eac
 </div>
 
 
-<a class="button is-primary" href="https://calendly.com/szabgab/training">Schedule a call</a>
+<a class="button is-primary" href="/contact">Contact me</a>
 
 ## Corporate training
 
