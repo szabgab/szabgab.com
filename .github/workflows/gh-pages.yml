@@ -56,10 +56,10 @@ jobs:
         run: |
           perl -v
 
-      - name: Install Modules
-        run: |
-          cpanm -v
-          cpanm --installdeps --with-develop --notest .
+          #      - name: Install Modules
+          #        run: |
+          #          cpanm -v
+          #          cpanm --installdeps --with-develop --notest .
 
           # We don't have any tests any more
           #      - name: Run tests
