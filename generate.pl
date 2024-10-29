@@ -81,17 +81,25 @@ sub generate_pages {
         say 1;
         $ENV{SZABGAB_DEV} = "log";
     }
-    my %seen;
     print Dumper \@files;
     my @bad_files = grep { $_ !~ /^([\w.-]+)\.md$/ } @files;
     die "Invalid file extension" . Dumper \@bad_files if @bad_files;
 
     my @pathes = map { $_ =~ /^([\w.-]+)\.md$/; $1 } @files;
+
+    my %seen;
     for my $path (@pathes) {
         die "Duplicate path '$path'" if $seen{$path}++;
     }
 
-    for my $path (@pathes) {
+    generate_several_pages($root, $outdir, \@pathes);
+
+}
+
+sub generate_several_pages {
+    my ($root, $outdir, $pathes) = @_;
+
+    for my $path (@$pathes) {
         say $path;
         if ($path eq "index") {
             generate_page($root, "/", "$outdir/$path.html");
