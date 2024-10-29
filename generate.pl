@@ -74,7 +74,7 @@ sub generate_pages {
     my ($root, $outdir) = @_;
 
     opendir my $dh, "pages";
-    my @files = readdir $dh;
+    my @files = grep {$_ ne "." and $_ ne ".." }readdir $dh;
 
     if (@ARGV) {
         @files = map { substr $_, 6 } @ARGV;
@@ -83,19 +83,20 @@ sub generate_pages {
     }
     my %seen;
     print Dumper \@files;
-    for my $file (@files) {
-        next if $file eq "." or $file eq "..";
-        if ($file =~ /^([\w.-]+)\.(md|tmpl)$/) {
-            my $path = $1;
-            die "Duplicate path '$path'" if $seen{$path}++;
-            say $path;
-            if ($path eq "index") {
-                generate_page($root, "/", "$outdir/$path.html");
-            } else {
-                generate_page($root, "/$path", "$outdir/$path.html");
-            }
+    my @bad_files = grep { $_ !~ /^([\w.-]+)\.md$/ } @files;
+    die "Invalid file extension" . Dumper \@bad_files if @bad_files;
+
+    my @pathes = map { $_ =~ /^([\w.-]+)\.md$/; $1 } @files;
+    for my $path (@pathes) {
+        die "Duplicate path '$path'" if $seen{$path}++;
+    }
+
+    for my $path (@pathes) {
+        say $path;
+        if ($path eq "index") {
+            generate_page($root, "/", "$outdir/$path.html");
         } else {
-            die "invalid file extension: '$file'";
+            generate_page($root, "/$path", "$outdir/$path.html");
         }
     }
 }
