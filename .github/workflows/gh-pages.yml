@@ -46,7 +46,7 @@ jobs:
 
       - name: Install extra libraries
         run: |
-          apt install -y libxml-rss-perl \
+          sudo apt install -y libxml-rss-perl \
                          libhtml-template-perl \
                          libtext-multimarkdown-perl \
                          libpath-tiny-perl \
