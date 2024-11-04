@@ -1,4 +1,4 @@
-=head1 Rust Israel 2024.07.07
+=head1 Rust Israel 2024.07.07 🦀
 =timestamp 1720349702
 =tags Rust, Israel
 

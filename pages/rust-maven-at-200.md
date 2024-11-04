@@ -1,4 +1,4 @@
-=head1 Rust Maven at 200 articles
+=head1 Rust Maven at 200 articles 🦀
 =timestamp 1714548744
 =tags Rust
 
