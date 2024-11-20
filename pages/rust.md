@@ -2,9 +2,11 @@
 =timestamp 1699906693
 =tags slides, videos, articles, crates, projects
 
-## Rust course
+## Rust courses
 
-[Rust](/courses/rust)
+* [Rust](/courses/rust)
+* [Web development with Rust Rocket](/courses/rust-rocket)
+
 
 ## My Open Source Rust projects
 

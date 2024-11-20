@@ -9,16 +9,32 @@ I can provide training classes in English, Hebrew, and Hungarian.
 
 The following training classes are currently available for on-site training:
 
+### Python
+
 * [Python Beginner](/courses/python-programming)
 * [Python Advanced](/courses/advanced-python)
 * [Python Test Automation](/courses/testing-python)
-* [Linux on the command line](/courses/linux-for-power-users)
+
+### Rust
+
+* [Rust](/courses/rust)
+* [Web development with Rust Rocket](/courses/rust-rocket)
+
+### Perl
+
+* [Testing Perl code for Perl developers](/courses/testing-perl)
+
+### Git and GitHub
+
 * [Git for beginners](/courses/git)
 * [Git adavanced](/courses/advanced-git)
 * [GitHub](/courses/github)
 * [GitHub Actions for programmers](/courses/github-actions-for-programmers)
+
+### Other
+
+* [Linux on the command line](/courses/linux-for-power-users)
 * [Docker](/courses/docker)
-* [Testing Perl code for Perl developers](/courses/testing-perl)
 
 ## Previous clients
 
