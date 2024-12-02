@@ -2,9 +2,9 @@
 =timestamp 1733141758
 =tags rust, Linux, Microsoft
 
-People often ask me why did I start to learn hashtag#Rust? 🦀
+People often ask me why did I start to learn Rust? 🦀
 
-After all I have been using and teaching hashtag#Python for many years and hashtag#Python is probably the most popular language. 🐍
+After all I have been using and teaching Python for many years and Python is probably the most popular language. 🐍
 
 I read a lot of good things about the technical aspects of Rust, but there are many other languages with excellent features. Different, but excellent features.
 
@@ -12,9 +12,9 @@ I am personally interested both the technical capabilities of the language and i
 
 If you are interested in the technical aspect, I can discuss that in another post, but for now let me tell you about the 2 main, non-technical data points.
 
-One is that some of the biggest tech companies support the development of the language and specifically that hashtag#Microsoft has started to use it in a lot of areas.
+One is that some of the biggest tech companies support the development of the language and specifically that Microsoft has started to use it in a lot of areas.
 
-The other one was that Linus Torvalds has approved hashtag#Rust to be a language to be used in the hashtag#Linux kernel. This is the only language besides hashtag#C (not to be confused with C# 😀 ) that has been approved.
+The other one was that Linus Torvalds has approved Rust to be a language to be used in the Linux kernel. This is the only language besides C (not to be confused with C# 😀 ) that has been approved.
 
 So two very different ecosystems decided that Rust is good for their purposes. I bet it will be good for many other companies as well.
 
