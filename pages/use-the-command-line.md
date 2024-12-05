@@ -22,3 +22,4 @@ but most of the tools don't have that feature.
 
 With a command line tool you just press the "Up-arrow" a few time till you reach the earlier executed command, you can then edit the command and open the other file.
 
+![](/img/command-line-history.png)
