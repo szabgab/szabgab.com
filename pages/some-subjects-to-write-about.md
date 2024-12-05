@@ -1,5 +1,5 @@
 =head1 Some subjects to write about
-=timestamp 1733410662
+=timestamp 1733065559
 =tags TODO
 
 This is mostly just a note to myself.
@@ -28,6 +28,11 @@ I started to write about [improving the development process](/improving-the-deve
 * Personalized deployment.
 * Clean code.
 
+* Move from Python 2 to Python 3
+* Introduce Rust replacing some part of the system to make the code faster and more secure.
+
 
 I guess there are tons of topics I can write about that are related to what I do, what I teach.
 
+What I should probably remember in my posts is to always somehow connect it to the services I offer.
+Helping to improve the development process, learn Python, learn Rust. Move over from other languages to these languages.
