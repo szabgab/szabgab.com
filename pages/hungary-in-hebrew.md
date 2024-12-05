@@ -1,4 +1,4 @@
-=head1 Hungary in Hebrew
+=head1 Hungary in Hebrew - הונגריה
 =timestamp 1709309925
 =tags food, Hebrew
 
