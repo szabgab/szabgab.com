@@ -6,7 +6,8 @@ It is fun to prepare a presentation, but if you can give the same, or more-or-le
 
 You can also improve the presentation between the events.
 
-I am now the organizer of two programming language-groups in Israel, one focusing on [Python](https://python.org.il/) and one focusing on [Rust](https://rust.org.il/).
+I am now the organizer of two programming language-groups in Israel, one focusing on [Python](https://python.org.il/) and one focusing on [Rust](https://rust.org.il/) and an international
+group that runs online presentation about [Python, Rust, and Perl in English](https://live.code-maven.com/).
 
 I am trying to offer the speakers 3 opportunities to give (more or less) the same presentation.
 
