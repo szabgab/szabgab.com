@@ -18,7 +18,7 @@ Here we define a variable to be a string and then promptly assign an integer to 
 
 Python will be happy with this code.
 
-So then what is the value of these type-annotations? Why bother and how did this happen.
+So then what is the value of these type-annotations? Why bother and how did this happen?
 
 The thing is that Python still disregards these type annotations, but there are external tools that can make use of them. One of them,  called mypy will check that
 the code actually abides by the rules the programmers added.
