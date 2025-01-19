@@ -190,7 +190,8 @@ sub show_course {
 
     push @content, q{<h2 class="title is-3">Let's talk</h2>};
     push @content, q{<p>If you would like to bring this course to your organization, let's talk about it! You can reach me via email at <a href="mailto:gabor@szabgab.com">gabor@szabgab.com</a> or you can go ahead and schedule a chat:</p>};
-    push @content, q{<p><a class="button is-primary" href="https://calendly.com/szabgab/training">Schedule a call</a></p>};
+    #push @content, q{<p><a class="button is-primary" href="https://calendly.com/szabgab/training">Schedule a call</a></p>};
+    push @content, q{<p><a class="button is-primary" href="/contact">Contact me</a></p>};
 
     return $self->generate_html(\@content);
 }
