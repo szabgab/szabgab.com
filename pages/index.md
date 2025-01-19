@@ -37,7 +37,7 @@ A selected list of all my [corporate training](/training) courses.
 * [Rust Programming](/courses/rust)
 * [Web development with Rust Rocket](/courses/rust-rocket)
 * Python for non-technical people
-* Python for data scientist
+* [Analyzing data with Python using NumPy and Pandas](/courses/analysing-data-with-python-using-numpy-and-pandas)
 * [Web application development using Python Flask](/courses/flask)
 * [Testing Python code for backend Python developers](/courses/testing-python)
 * [Docker](/courses/docker)

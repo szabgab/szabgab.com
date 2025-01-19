@@ -14,6 +14,7 @@ The following training classes are currently available for on-site training:
 * [Python Beginner](/courses/python-programming)
 * [Python Advanced](/courses/advanced-python)
 * [Python Test Automation](/courses/testing-python)
+* [Analyzing data with Python using NumPy and Pandas](/courses/analysing-data-with-python-using-numpy-and-pandas)
 
 ### Rust
 
