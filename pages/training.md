@@ -35,7 +35,7 @@ The following training classes are currently available for on-site training:
 * [Git adavanced](/courses/advanced-git).
 * [GitHub](/courses/github).
 * [GitHub Actions for programmers](/courses/github-actions-for-programmers).
-* [Making changes to data files via GitHub - for non-technical people.](/course/github-for-non-technical-people).
+* [Making changes to data files via GitHub - for non-technical people.](/courses/github-for-non-technical-people).
 
 ### Docker
 
