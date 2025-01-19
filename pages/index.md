@@ -37,18 +37,9 @@ Main topics of my [corporate training](/training) courses.
 * [Python](/training#python) (beginner, advanced, testing, data analysis, web development)
 * [Rust](/training#rust) (beginner, web development)
 * [Perl](/training#perl) (beginner, testing, web development)
-
-
-* [Rust Programming](/courses/rust)
-* [Web development with Rust Rocket](/courses/rust-rocket)
-* Python for non-technical people
-* [Analyzing data with Python using NumPy and Pandas](/courses/analysing-data-with-python-using-numpy-and-pandas)
-* [Web application development using Python Flask](/courses/flask)
-* [Testing Python code for backend Python developers](/courses/testing-python)
-* [Docker](/courses/docker)
-* [GitHub Actions for programmers](/courses/github-actions-for-programmers)
-* Making changes to data file via GitHub - for non-technical people.
-* [Testing Perl code for Perl developers](/courses/testing-perl)
+* [Git and GitHub](/training#gitandgithub)
+* [Docker](/training#docker)
+* [Linux](/training#linux)
 
 In addition to the fixed-content courses many clients prefer to have a course customized for the specific needs of the organization. If you'd like to discuss how any of
 these course could be customized or even extended to your specific needs, get in contact with me:

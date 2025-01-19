@@ -13,9 +13,11 @@ The following training classes are currently available for on-site training:
 
 * [Python Beginner](/courses/python-programming).
 * [Python Advanced](/courses/advanced-python).
-* [Python Test Automation](/courses/testing-python).
+* [Testing Python code for backend Python developers](/courses/testing-python)
 * [Analyzing data with Python using NumPy and Pandas](/courses/analysing-data-with-python-using-numpy-and-pandas).
-* [Python Flask](/courses/flask) - Web application development.
+* [Web application development using Python Flask](/courses/flask).
+
+<!-- * Python for non-technical people -->
 
 ### Rust
 
@@ -33,11 +35,15 @@ The following training classes are currently available for on-site training:
 * [Git adavanced](/courses/advanced-git).
 * [GitHub](/courses/github).
 * [GitHub Actions for programmers](/courses/github-actions-for-programmers).
+* [Making changes to data files via GitHub - for non-technical people.](/course/github-for-non-technical-people).
 
-### Other
+### Docker
+
+* [Docker](/courses/docker).
+
+### Linux
 
 * [Linux on the command line](/courses/linux-for-power-users).
-* [Docker](/courses/docker).
 
 ## Previous clients
 
@@ -62,6 +68,8 @@ Some of the corporation where I have taught courses
 * KLA Tencor
 
 * NDS
+
+* Palo Alto Networks
 
 * Qualcomm
 
