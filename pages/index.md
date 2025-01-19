@@ -32,7 +32,12 @@ My courses contain a lot of hands-on exercises and a lot of interaction with eac
 
 ## Corporate training
 
-A selected list of all my [corporate training](/training) courses.
+Main topics of my [corporate training](/training) courses.
+
+* [Python](/training#python) (beginner, advanced, testing, data analysis, web development)
+* [Rust](/training#rust) (beginner, web development)
+* [Perl](/training#perl) (beginner, testing, web development)
+
 
 * [Rust Programming](/courses/rust)
 * [Web development with Rust Rocket](/courses/rust-rocket)
