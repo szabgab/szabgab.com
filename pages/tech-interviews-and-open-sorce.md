@@ -19,4 +19,5 @@ If your company has Open Source projects relevant to this candidate then you can
 Even if your company has not published any Open Source project or if you don't have any meaningful issue there, you certainly use a lot of open source tools and libraries. Either directly or indirectly. Those tools and libraries have tons of open issues. You could pick an issue in one of those project. You could even leave to the candidate to pick a project and pick some issues to fix.  Then you could evaluate the job they have done.
 
 
+Have you tried giving assignments in Open Source projects as part of your interview process? How did it go?
 
