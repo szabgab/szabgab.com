@@ -47,7 +47,19 @@ Maybe my expectations were and are too high. Maybe it is only me, who is very im
 * Meetup: Code-Mavens: 3,518 members.
 * Meetup: PyWeb-IL     3,865 members.
 * Meetup: Rust-TLV:    1,136 members.
+
 * LinkedIn:            5,041 followers 4,385 connections
+
+* LinkedIn Python Maven 1,025
+* LinkedIn Perl Maven     847
+* LinkedIn Hebrew         777
+* LinkedIn English        556
+* LinkedIn DevOps Maven   400
+* LinkedIn Golang Maven   217
+* LinkedIn Spanish        161
+* LinkedIn Hungarian       14
+* LinkedIn Rust Maven       1
+
 * YouTube: English:    3,454   3,373 views and 190.8 hours in 28 days
 * YouTube: Hebrew:       687   2,050 views and  84.0 hours in 28 days
 * YouTube: Spanish:       19
