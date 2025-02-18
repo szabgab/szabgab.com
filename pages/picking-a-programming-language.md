@@ -1,0 +1,30 @@
+=head1 What are the considerations when you pick a programming language for a new project?
+=timestamp 1739854380
+=tags programming, languages
+
+A few if my thoughts:
+
+
+* Is it adequate for the task at hand? e.g. is its runtime fast enough for the job?,  Does it have a garbage collector that might stop the process? once in a while? How easy it is to use parallel programming? Async? Threads?
+
+* Is the hardware and OS we are using supported by the language and its ecosystem?
+* How secure is the language? e.g. Does the language protect me from memory issues? How easy/difficult is to avoid crashes (uncaught exceptions, panics)?
+
+* How is the tooling of the languages? IDE support? Linters? Debugger support? Packaging and installation of 3rd party libraries.
+* Is there a central location for 3rd party open source libraries? How is the licensing of these libraries? What is the level of quality of the 3rd party libraries?
+
+
+* How fast can people develop in the language?
+
+
+* Are there already projects in the company written in this language? Do we have in-house expertise?
+* Do team members already know the language?
+* How long will it take to train them to be able to start implementing the system?
+* Are there local trainers and consultants available to help with the language?
+
+
+* Is there a local community around the language?
+* Are there enough developers locally who already know the language? How easy will it be to recruit new employees?
+
+
+What do you think?
