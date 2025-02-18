@@ -2,7 +2,7 @@
 =timestamp 1739854380
 =tags programming, languages
 
-A few if my thoughts:
+Some of my thoughts:
 
 
 * Is it adequate for the task at hand? e.g. is its runtime fast enough for the job?,  Does it have a garbage collector that might stop the process? once in a while? How easy it is to use parallel programming? Async? Threads?
