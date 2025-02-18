@@ -8,11 +8,33 @@ The goal is to reach a lot more people with the events and the videos to make pe
 
 The more immediate goal is to help more people enjoy the valuable content we create.
 
+We would like to promote the events in the following
+
+## What to promote?
+
 * Meetup groups:
-    * [PyWeb-IL](https://www.meetup.com/pyweb-il/)
-    * [Rust-TLV](https://www.meetup.com/rust-tlv/)
+    * [PyWeb-IL](https://www.meetup.com/pyweb-il/) - events and videos in Hebrew.
+    * [Rust-TLV](https://www.meetup.com/rust-tlv/) - events and videos in Hebrew.
+    * [Code-Mavens](https://www.meetup.com/code-mavens/) - events and videos in English.
+
+We would like to have more people register to the events (and of course that more people will actually join the events)
+and more people register to the groups.
+
+Later the recordings in the Hebew events in the
+
+* [Hebrew YouTube channel](https://www.youtube.com/@code-maven-in-hebrew)
+
+We would like to increase the number of views, the number of followers, and the total hours watched.
+
+
+## Where and how to promote?
+
+* Meetup groups:
+    * In the [PyWeb-IL](https://www.meetup.com/pyweb-il/) and in the [Rust-TLV](https://www.meetup.com/rust-tlv/) groups:
     * Write title with Hebrew text.
     * Create nice banners with Hebrew text or make it obvious in some other way that the event is in Hebrew.
+    * Besides the announcement of the events, we can also send out reminders in email. This we usually do in English, but we could use Hebrew as well.
+
 * [Hebrew YouTube channel](https://www.youtube.com/@code-maven-in-hebrew)
     * Thumbnails (make them nicer and obvious that they are in Hebrew)
     * Titles in Hebrew (as well?)
