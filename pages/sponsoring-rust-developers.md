@@ -6,7 +6,7 @@ One of the "findings" of my [previous question](https://www.reddit.com/r/rust/co
 
 If you would like to use Rust you can hope that those gaps will be closed in time or you can do something about it. If you have the time and expertise you can get involved in the needed projects, but there is a much easier and less time-consuming way. You and/or your company can sponsor the development efforts.
 
-Allocating 10-20 USD / month by an individual or 1000-2000 USD  month by a small company does not sound like a huge investment and many such sponsors can make a huge difference.
+Allocating 10-20 USD / month by an individual or 1000-2000 USD  month by a small company does not sound like a big investment and many such sponsors can make a huge difference.
 
 One can either sponsor [The Rust Foundation](https://rustfoundation.org/) or the individual developers or projects. The latter can be done via [GitHub sponsors](https://github.com/sponsors/).
 
