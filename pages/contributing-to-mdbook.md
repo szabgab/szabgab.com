@@ -1,4 +1,4 @@
-=head1 Contributing to mdBook
+=head1 Contributing to the Open Source mdBook project
 =timestamp 1740934417
 =tags mdBook, Open Source
 
