@@ -9,7 +9,7 @@ There are several aspects
 * Runtime speed is similar to C/C++.
 * Memory efficient.
 * Memory safe - it avoids most of the memory-related bugs we encounter in C/C++ code.
-* Extensive and expressive type-system. (e.g. mappint of external APIs)
+* Extensive and expressive type-system. (e.g. mapping of external APIs)
 * Very strict compiler - fixing bugs during compilation.
 * Compiler has Very good error messages.
 * Integrated package manager, build system, linter etc. [Cargo](https://doc.rust-lang.org/cargo/)
@@ -63,7 +63,7 @@ The learning curve of Rust might be steeper than for other languages, but Rust w
 
 ## Crates (Libraries)
 
-* [Rayon](https://docs.rs/rayon/latest/rayon/)
+* [Rayon](https://docs.rs/rayon/latest/rayon/) a data-parallelism library.
 * [Tokio](https://tokio.rs/) to build reliable network applications.
 * [Axum](https://docs.rs/axum/latest/axum/), [Rocket](https://rocket.rs/) - Web frameworks
 * [Ratatui](https://ratatui.rs/) - A Rust crate for cooking up Terminal User Interfaces
