@@ -85,6 +85,8 @@ Each entrance is valid for 2 hours. No need to register for the court.
 
 * [Frans Otten Stadion](https://www.youtube.com/c/FransOttenStadion/videos) - a lot of squash games among people who arn't ranked among the first 10 in the world.
 
+* [change squash racket grip](https://www.youtube.com/results?search_query=change+squash+racket+grip)
+
 ## Phrases
 
 * racket - מחבט
