@@ -15,4 +15,4 @@ I believe it can be useful to anyone who is interested to use mdbook and some of
 
 It can be also nice for the authors of the various mdbook plugins to see who is using their plugins and how?
 
-So, please check out the [Public mdBooks](https://mdbooks.code-maven.com/) and if you know about any other mdbook which is not listed yet, please, comment here, open an issue or a pull-request on our [repository](https://github.com/szabgab/public-mdbooks/).
+So, please check out the [Public mdBooks](https://mdbooks.code-maven.com/) and if you know about any other mdbook which is not listed yet, please, comment here, open an issue or a pull-request on the [repository](https://github.com/szabgab/public-mdbooks/).
