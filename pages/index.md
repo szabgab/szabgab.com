@@ -1,4 +1,4 @@
-=head1 Gábor Szabó - Teaching Rust, Python, Git, and Docker
+=head1 Gábor Szabó - Helping companies with Rust, Python, Perl, Git, and Docker
 =timestamp 1689316177
 =description Gabor Szabo is helping people to improve their technical skills to make it easier for them to get the job done.
 =tags blogs
@@ -27,6 +27,16 @@ My courses contain a lot of hands-on exercises and a lot of interaction with eac
   </article>
 </div>
 
+<a class="button is-primary" href="/contact">Contact me</a>
+
+## Migration to Python or Rust
+
+Migrating a project from one programming language to another is not an easy task. It takes time and during that time the original implementation also needs maintenance.
+Making it a moving target.
+
+One needs to train the developers in the new language, help with the implementation, help avoiding pitfalls of the new language that are different from the pitfalls in the old one.
+
+In some cases the clients ask only for training, in other cases they the involve require involvement from the planning phase, throught the implementation and even beyond, supporting the project.
 
 <a class="button is-primary" href="/contact">Contact me</a>
 
