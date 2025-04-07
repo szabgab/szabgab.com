@@ -10,7 +10,7 @@ I got a lot of private responses. I am publishing here a collection of the thoug
 1. The shrinking size of the community leads to lack of maintenance of critical libraries and lack of support from core teams.
 1. Lack of official APIs and SDKs developed and distributed by vendors.
 1. The growing amount of time and money the company needs to invest in the development and maintenance of libraries that are available in some other languages but not on CPAN.
-1. It harder to convince people to learn Perl because of the lack of coolness of the languages and the lack of jobs in Perl meaning it is a less marketable knowledge.
+1. It is harder to convince people to learn Perl because of the lack of coolness of the language and the lack of jobs in Perl meaning it is a less marketable knowledge than some other languages.
 
 
 ## Why do companies stay with Perl?
