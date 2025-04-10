@@ -8,7 +8,7 @@
 * [Web development with Rust Rocket](/courses/rust-rocket)
 
 
-## My Open Source Rust projects
+## Open Source Rust projects
 
 * [Rust Digger](https://rust-digger.code-maven.com/) collecting and analyzing information about Rust Crates.
 * [Rust Maven SSG](https://ssg.code-maven.com/) The Static Site Generator (SSG) used by the the Rust Maven web site.
@@ -18,6 +18,12 @@
 * [My Crates](https://crates.io/users/szabgab)
 * [Rust ebooks](https://rust-ebooks.code-maven.com/) ebooks that can be freely dowwnloaded and read on Kindle.
 
+## Open Source contributions
+
+* Some contribution to the [mdbook](https://github.com/rust-lang/mdBook/) project, including a [book about mdbooks](https://mdbook.code-maven.com/) and a collection of [public mdbooks](https://mdbooks.code-maven.com/).
+* Working on the [axum by examples](https://axum.code-maven.com/) while contributing some tests and text to axum.
+* Lots of small contributions (e.g. improving `Cargo.toml` files for crates, `book.toml` files for public mdbooks).
+* [warp by Example](https://warp.code-maven.com/) book.
 
 ## Articles and Videos about Rust
 
