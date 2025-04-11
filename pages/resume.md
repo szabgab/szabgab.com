@@ -32,7 +32,7 @@
 
 * **Some of the services provided by Gabor**
   * Introducing Unit~, Integration~, and Acceptance testing.
-  * Introcuding best practices for Version Control Systems.
+  * Introducing best practices for Version Control Systems.
   * Developing and introducing test automation frameworks.
   * Setting up Continuous Integration using Jenkins, Travis-CI, Bamboo, Bitbucket Pipelines, or a set of in-house tools.
   * Setting up Continuous Delivery and Continuous Deployment.
@@ -43,12 +43,12 @@
 
 * **Some of the Contract Works I've Done**
   * Refactoring a web-based system with machine learning backend written in Python. Increasing test coverage from 0 to 70%, Extensive CI on GitLab, moving to Azure from AWS.
-  * Moving several systems from Amazon AWS to Google GCP. Creating a labeling system for entities in GCP for a cost reporting system. Helping to reduce cloud expenses. Resizing Elasticseach clusters.  Convertiung a build and testing system from TeamCity to Jenkins using a mix of Groovy, Bash, and Python.  Building a Python Flask based reporting system for data in PostgreSQL, Elasticsearch, and Solr systems.
-  * Implementing and in-house agent-less CI system for a company that uss various small boards (eg. Firefly, Artik, and some Android based devices). Building a CI and release system.
+  * Moving several systems from Amazon AWS to Google GCP. Creating a labeling system for entities in GCP for a cost reporting system. Helping to reduce cloud expenses. Resizing Elasticsearch clusters.  Converting a build and testing system from TeamCity to Jenkins using a mix of Groovy, Bash, and Python.  Building a Python Flask based reporting system for data in PostgreSQL, Elasticsearch, and Solr systems.
+  * Implementing and in-house agent-less CI system for a company that uses various small boards (eg. Firefly, Artik, and some Android based devices). Building a CI and release system.
   * Implementing the API of 3rd party services in order to make it easier to test an application using that API. To test how to application behaves when the 3rd party application fails. When it response slower than expected.  When it returns "out of quota" errors. etc.
   * Installing Jenkins as in-house Continuous Integration system. Introducing unit-testing in Python.
   * An in-house web-application to provide tools for the engineers to compare images. I used the Perl Dancer framework while the data was kept in PostgreSQL. The front-end was using Bootstrap and JQuery.
-  * An application aggregating data about mobile applications from the Apple Appstore, Google Play, and various vendors that provide information about those applications. The data was provided in various formats, including CSV, XML, and JSON based feeds and APIs.  The collected data was stored in a MySQL database and served via our own JSON based API and using JavaScript snippets.  When I arrived and initial version of the application worked collecting data from one source and using CGI to serve the data.  I've converted it to PSGI and created the system that was able to accommodate data from various sources in various formats. I used Perl Moo for OOP. Later we converted the application to Python and Django.
+  * An application aggregating data about mobile applications from the Apple App-store, Google Play, and various vendors that provide information about those applications. The data was provided in various formats, including CSV, XML, and JSON based feeds and APIs.  The collected data was stored in a MySQL database and served via our own JSON based API and using JavaScript snippets.  When I arrived and initial version of the application worked collecting data from one source and using CGI to serve the data.  I've converted it to PSGI and created the system that was able to accommodate data from various sources in various formats. I used Perl Moo for OOP. Later we converted the application to Python and Django.
   * An application to be used on Amazon Mechanical Turk. This was JavaScript based using JSON files for data storage without any additional back-end.
   * An in-house application generating Excel reports from data in a PostgreSQL database to provide Business Intelligence. This project was built using Perl.
   * A workflow management application to control the whole workflow of an in-house image processing and analysis system. This was implemented in Perl handling a number of data formats (CSV, XML), connecting to web-based APIs via HTTP and to a PostgreSQL database.
@@ -159,7 +159,7 @@
 * **Conference organization, presentations**
   * The Rust community Israel - [rust.org.il](https://rust.org.il/).
   * The Python community Israel - [python.org.il](https://python.org.il/).
-  * Live online events in Englih - [live.code-maven.com](https://live.code-maven.com/).
+  * Live online events in English - [live.code-maven.com](https://live.code-maven.com/).
   * Talks, presentations at several Israeli and international conferences such as YAPC in Europe and in the USA, German Perl Workshop, Nordic Perl Workshop, Belgian Perl Workshop, LinuxTag Berlin, FOSDEM [fosdem.org](https://fosdem.org/), GoLinux (Israel), [August Penguin (Israel)](https://en.wikipedia.org/wiki/August_Penguin)), PyCon (Israel) ([pycon.org.il](https://pycon.org.il/).
   * Leader of the Israeli Perl Mongers (Users Group) [perl.org.il](https://perl.org.il/).
   * Organizer at the Rehovot Perl Mongers (Users Group) (closed).
