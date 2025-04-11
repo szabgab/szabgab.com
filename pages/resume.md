@@ -16,16 +16,19 @@
 
 ### 2018-present: **Guest Lecturer at Weizmann Institute of Science**
 
+* **Teaching Python to Master's and Phd. students.**
 * Before I started to teach students in 2018 I taught several courses to the researchers and the internal system team.
-* Every semester there is 1, sometimes 2 sessions of the "Programming Bootcamp for Scientists" course.
-* At first if was a 5-days long 8 hours a day intensive session before the semester.
+* Every semester there is a *Python for Beginners* course.
+* At first if was a 5-days long 8 hours a day intensive course before the semester called *Programming Bootcamp for Scientists*.
 * During COVID I recorded the whole content of the [Programming Bootcamp for Scientists](https://code-maven.com/programming-bootcamp-for-scientists)
 * Since then the course is back in the class-room. This time 5 half-days before the semester and 5 half-days in the first 5 weeks of the semester.
 
-### 1998-present
+### 1998-present: **Independent Trainer, Consultant, Developer**
 
-**Independent Trainer, Consultant, Developer**
-
+* **Main programming languages**
+  * Rust
+  * Python
+  * Perl
 
 * **Some of the services provided by Gabor**
   * Introducing Unit~, Integration~, and Acceptance testing.
@@ -39,6 +42,7 @@
   * Handling cloud infrastructure (Google, Amazon, Linode, Digital Ocean).
 
 * **Some of the Contract Works I've Done**
+  * Refactoring a web-based system with machine learning backend written in Python. Increasing test coverage from 0 to 70%, Extensive CI on GitLab, moving to Azure from AWS.
   * Moving several systems from Amazon AWS to Google GCP. Creating a labeling system for entities in GCP for a cost reporting system. Helping to reduce cloud expenses. Resizing Elasticseach clusters.  Convertiung a build and testing system from TeamCity to Jenkins using a mix of Groovy, Bash, and Python.  Building a Python Flask based reporting system for data in PostgreSQL, Elasticsearch, and Solr systems.
   * Implementing and in-house agent-less CI system for a company that uss various small boards (eg. Firefly, Artik, and some Android based devices). Building a CI and release system.
   * Implementing the API of 3rd party services in order to make it easier to test an application using that API. To test how to application behaves when the 3rd party application fails. When it response slower than expected.  When it returns "out of quota" errors. etc.
@@ -92,11 +96,13 @@
   * ExLibris
   * Forescout
   * Harmonic systems
+  * Hazera Seeds (part of the Limagrain Group)
   * iCarbonX
   * Inomize
   * Intel
   * Iskoot (later Qualcomm)
   * Jovial
+  * KLA (Tencor, Orbotech)
   * LSI
   * Mercury Interactive
   * Migdal Insurance
@@ -105,6 +111,7 @@
   * Norwegian Meteorological Inst
   * Orange (Partner Ltd.)
   * Orpak
+  * Palo Alto Networks
   * Perfecto Mobile
   * Qualcomm
   * Radware
