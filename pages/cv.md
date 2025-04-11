@@ -129,10 +129,13 @@ Helping companies to move forward in their projects by providing training, consu
 
 * **Books**
   * Published several books on [Leanpub](https://leanpub.com/u/szabgab)
-  * Web sites
-    * [code-maven.com](https://code-maven.com/) a blog about DevOps, Automation, Jenkins, Flask, Jinja (Python), Handlebars, AngularJS, (JavaScript), NodeJS and other technologies.
-    * [perlmaven.com](https://perlmaven.com/) the largest Perl-related blog with 10,000 visitors a day.
-    * [perlweekly.com](https://perlweekly.com/) a curated weekly newsletter providing Perl-related news.
+* **Web sites**
+    * [Code Maven](https://code-maven.com/) articles about DevOps, Automation, Jenkins, Flask, Jinja (Python), Handlebars, AngularJS, (JavaScript), NodeJS and other technologies.
+    * [Rust Maven](https://rust.code-maven.com/) articles about Rust.
+    * [Python Maven](https://python.code-maven.com/) articles about Python.
+    * [Perl Maven](https://perlmaven.com/) the largest Perl-related blog with 10,000 visitors a day.
+    * [Perl Weekly Newsletter](https://perlweekly.com/) a curated weekly newsletter providing Perl-related news.
+    * [Slides](https://slides.code-maven.com/) - course materials.
     <!--
     [szabgab.com](https://szabgab.com/) personal blog.
     [blogs.perl.org/users/gabor_szabo/](https://blogs.perl.org/users/gabor_szabo/) Perl blog on a shared blogging platform.
@@ -141,34 +144,34 @@ Helping companies to move forward in their projects by providing training, consu
 
 * **Open source projects, code contributions**
   * My GitHub account [szabgab](https://github.com/szabgab) contains quite a few projects.
-  * Rust Digger [rust-digger.code-maven.com](https://rust-digger.code-maven.com/) - collecting and analyzing data about Rust crates. Written in Rust.
-  * PyDigger [pydigger.com](https://pydigger.com/)  - collecting and analyzing Python packages. It is written using Python Flask.
-  * Ruby Digger [ruby-digger.code-maven.com](https://ruby-digger.code-maven.com/) - collecting and analyzing data about Rust gems.
-  * CPAN Digger [cpan-digger.perlmaven.com](https://cpan-digger.perlmaven.com/) - collecting and analyzing data about Perl modules.
-  * Padre, the Perl IDE. [padre.perlide.org](https://padre.perlide.org/). An IDE written in Perl 5 with special features for developing Perl 5 and Perl 6 scripts and applications. Initiating and leading the project. Attracting more than 50 contributors. (2008-discontinued).
+  * [Rust Digger](https://rust-digger.code-maven.com/) - collecting and analyzing data about Rust crates. Written in Rust.
+  * [PyDigger](https://pydigger.com/)  - collecting and analyzing Python packages. It is written using Python Flask.
+  * [Ruby Digger](https://ruby-digger.code-maven.com/) - collecting and analyzing data about Rust gems.
+  * [CPAN Digger](https://cpan-digger.perlmaven.com/) - collecting and analyzing data about Perl modules.
+  * [Padre, the Perl IDE](https://padre.perlide.org/). An IDE written in Perl with special features for developing Perl and Raku scripts and applications. Initiating and leading the project. Attracting more than 50 contributors. (2008-dormant).
   * tracert.com, a web site that provides lots of resources for network administrators. (currently not working).
   * DWIM Perl.com - a Perl distribution to make it easy for people to get started using Perl on Windows and to make it easy to deploy Perl-based application on Linux servers (discontinued).
   * Developer and maintainer of the Perl Community AdServer ( pcas.szabgab.com ) (2007- closed).
   * Developer and maintainer of the CPAN::Forum ( cpanforum.com ) (2004-2014 closed).
-  * Several Perl modules on CPAN, the Comprehensive Perl Archive Network. [metacpan.org/author/SZABGAB](https://metacpan.org/author/SZABGAB) (2001-).
-  * Participation in several open source projects including [metacpan.org](https://metacpan.org/about/contributors). Mostly writing unit tests and refactoring code.
+  * Several Perl modules on CPAN, the Comprehensive Perl Archive Network. [SZABGAB](https://metacpan.org/author/SZABGAB) (2001-).
+  * Participation in several open source projects including [MetaCPAN](https://metacpan.org/about/contributors). Mostly writing unit tests and refactoring code.
   * A JavaScript (actually JQuery) based interface to the JSON API provided by MetaCPAN. (cpan.perlmaven.com closed)
 
 * **Conference organization, presentations**
-  * The Rust community Israel - [rust.org.il](https://rust.org.il/).
-  * The Python community Israel - [python.org.il](https://python.org.il/).
-  * Live online events in English - [live.code-maven.com](https://live.code-maven.com/).
-  * Talks, presentations at several Israeli and international conferences such as YAPC in Europe and in the USA, German Perl Workshop, Nordic Perl Workshop, Belgian Perl Workshop, LinuxTag Berlin, FOSDEM [fosdem.org](https://fosdem.org/), GoLinux (Israel), [August Penguin (Israel)](https://en.wikipedia.org/wiki/August_Penguin)), PyCon (Israel) ([pycon.org.il](https://pycon.org.il/).
-  * Leader of the Israeli Perl Mongers (Users Group) [perl.org.il](https://perl.org.il/).
+  * [The Rust community Israel](https://rust.org.il/). (Rust-TLV Meetup group, LinkedIn group, WhatsApp group)
+  * [The Python community Israel](https://python.org.il/). (PyWeb-IL Meetup group, PyConIL).
+  * [Live online events in English](https://live.code-maven.com/). (Code-Mavens Meetup group).
+  * Talks, presentations at several Israeli and international conferences such as YAPC in Europe and in the USA, German Perl Workshop, Nordic Perl Workshop, Belgian Perl Workshop, LinuxTag Berlin, [FOSDEM](https://fosdem.org/), GoLinux (Israel), [August Penguin (Israel)](https://en.wikipedia.org/wiki/August_Penguin)), [PyCon Israel](https://pycon.org.il/).
+  * The [Israeli Perl Mongers](https://perl.org.il/) (Perl Users Group).
   * Organizer at the Rehovot Perl Mongers (Users Group) (closed).
-  * Organizing 4 Perl Conferences in Israel [perl.org.il/YAPC/](https://perl.org.il/YAPC/).
-  * Organizing the Open Source Developer Conference in Israel osdc.org.il/ (closed).
+  * Organizing 4 Perl Conferences in Israel [YAPC Israel](https://perl.org.il/YAPC/).
+  * Organizing the Open Source Developer Conference in Israel.
   * Help organizing Perl conferences in Hungary
   * Participating on lots of mailing lists and IRC channels
 
 * **Awards**
-  * White Camel Award [whitecamel.org](https://whitecamel.org/) for contributing to the international Perl community (2008).
-  * HaMakor [hamakor.org.il](https://hamakor.org.il/) prize for contributing to the Israeli Open Source and Free software community (2009).
+  * [White Camel Award](https://whitecamel.org/) for contributing to the international Perl community (2008).
+  * [HaMakor](https://hamakor.org.il/) prize for contributing to the Israeli Open Source and Free software community (2009).
 
 * **Personal projects (closed source)**
   * Traceroute and Speed-Meter Gateway system for monitoring performance of web sites and helping resolve technical problems on the Internet. In the best times there were more than 50 measurement points installed worldwide. (1998- Not available anymore)
@@ -205,7 +208,7 @@ Helping companies to move forward in their projects by providing training, consu
   * **Automatization (build and bug tracking system):** Implemented some major improvements to automate the time consuming tasks of the distributed build system and to improve the working environment of the engineers. Improved the common bug tracking system (DDTS now ClearCase) and the common version control system (PVCS) used by the company.
 
 ### 1993-1994
-  * Project at the R&amp;D center of Digital in Jerusalem, writing scripts in C--
+  * Project at the R&D center of Digital in Jerusalem, writing scripts in C--
 
 ### 1991-1992
   * Translations from Hebrew for the Hungarian Television.
