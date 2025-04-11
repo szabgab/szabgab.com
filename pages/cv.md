@@ -207,10 +207,10 @@ Helping companies to move forward in their projects by providing training, consu
   * The administrated local network was composed of several Intranet servers and more than 50 PCs each of them configured for three operating systems. Installation of Intranet.
   * **Automatization (build and bug tracking system):** Implemented some major improvements to automate the time consuming tasks of the distributed build system and to improve the working environment of the engineers. Improved the common bug tracking system (DDTS now ClearCase) and the common version control system (PVCS) used by the company.
 
-### 1993-1994
+### 1993-1994 - **Automated QA** at DEC
   * Project at the R&D center of Digital in Jerusalem, writing scripts in C--
 
-### 1991-1992
+### 1991-1992 - **Translations** for the Hungarian Television
   * Translations from Hebrew for the Hungarian Television.
 
 ## Education
