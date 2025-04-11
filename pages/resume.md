@@ -14,9 +14,7 @@
 
 ## Work Experience
 
-### 2018-present
-
-**Guest Lecturer at Weizmann Institute of Science**
+### 2018-present: **Guest Lecturer at Weizmann Institute of Science**
 
 * Before I started to teach students in 2018 I taught several courses to the researchers and the internal system team.
 * Every semester there is 1, sometimes 2 sessions of the "Programming Bootcamp for Scientists" course.
@@ -26,7 +24,7 @@
 
 ### 1998-present
 
-**Independent Trainer, Consultan, Developer**
+**Independent Trainer, Consultant, Developer**
 
 
 * **Some of the services provided by Gabor**
@@ -122,3 +120,99 @@
   * Zoran
 
 
+### 1998-present: Personal Projects and Involvement in the Open Source Community
+
+* **Books**
+  * Published several books on [Leanpub](https://leanpub.com/u/szabgab)
+  * Web sites
+    * [code-maven.com](https://code-maven.com/) a blog about DevOps, Automation, Jenkins, Flask, Jinja (Python), Handlebars, AngularJS, (JavaScript), NodeJS and other technologies.
+    * [perlmaven.com](https://perlmaven.com/) the largest Perl-related blog with 10,000 visitors a day.
+    * [perlweekly.com](https://perlweekly.com/) a curated weekly newsletter providing Perl-related news.
+    <!--
+    [szabgab.com](https://szabgab.com/) personal blog.
+    [blogs.perl.org/users/gabor_szabo/](https://blogs.perl.org/users/gabor_szabo/) Perl blog on a shared blogging platform.
+    [on DEV.to](https://dev.to/szabgab/)
+    -->
+
+* **Open source projects, code contributions**
+  * My GitHub account [github.com/szabgab](https://github.com/szabgab) contains quite a few projects.
+  * Rust Digger [rust-digger.code-maven.com](https://rust-digger.code-maven.com/) - collecting and analyzing data about Rust crates. Written in Rust.
+  * PyDigger [pydigger.com](https://pydigger.com/)  - collecting and analyzing Python packages. It is written using Python Flask.
+  * Ruby Digger [https://ruby-digger.code-maven.com/](https://ruby-digger.code-maven.com/) - collecting and analyzing data about Rust gems.
+  * CPAN Digger [cpan-digger.perlmaven.com](https://cpan-digger.perlmaven.com/) - collecting and analyzing data about Perl modules.
+  * Padre, the Perl IDE. [padre.perlide.org](https://padre.perlide.org/). An IDE written in Perl 5 with special features for developing Perl 5 and Perl 6 scripts and applications. Initiating and leading the project. Attracting more than 50 contributors. (2008-discontinued).
+  * tracert.com, a web site that provides lots of resources for network administrators. (currently not working).
+  * DWIM Perl.com - a Perl distribution to make it easy for people to get started using Perl on Windows and to make it easy to deploy Perl-based application on Linux servers (discontinued).
+  * Developer and maintainer of the Perl Community AdServer ( pcas.szabgab.com ) (2007- closed).
+  * Developer and maintainer of the CPAN::Forum ( cpanforum.com ) (2004-2014 closed).
+  * Several Perl modules on CPAN, the Comprehensive Perl Archive Network. [metacpan.org/author/SZABGAB](https://metacpan.org/author/SZABGAB) (2001-).
+  * Participation in several open source projects including [metacpan.org](https://metacpan.org/about/contributors). Mostly writing unit tests and refactoring code.
+  * A JavaScript (actually JQuery) based interface to the JSON API provided by MetaCPAN. (cpan.perlmaven.com closed)
+
+* **Conference organization, presentations**
+  * The Rust community Israel - [rust.org.il](https://rust.org.il/).
+  * The Python community Israel - [python.org.il](https://python.org.il/).
+  * Live online events in Englih - [live.code-maven.com](https://live.code-maven.com/).
+  * Talks, presentations at several Israeli and international conferences such as YAPC in Europe and in the USA, German Perl Workshop, Nordic Perl Workshop, Belgian Perl Workshop, LinuxTag Berlin, FOSDEM [fosdem.org](https://fosdem.org/), GoLinux (Israel), [August Penguin (Israel)](https://en.wikipedia.org/wiki/August_Penguin)), PyCon (Israel) ([pycon.org.il](https://pycon.org.il/).
+  * Leader of the Israeli Perl Mongers (Users Group) [perl.org.il](https://perl.org.il/).
+  * Organizer at the Rehovot Perl Mongers (Users Group) (closed).
+  * Organizing 4 Perl Conferences in Israel [perl.org.il/YAPC/](https://perl.org.il/YAPC/).
+  * Organizing the Open Source Developer Conference in Israel osdc.org.il/ (closed).
+  * Help organizing Perl conferences in Hungary
+  * Participating on lots of mailing lists and IRC channels
+
+* **Awards**
+  * [White Camel Award](https://www.perl.org/advocacy/white_camel/) for contributing to the international Perl community (2008).
+  * HaMakor [https://hamakor.org.il/](https://hamakor.org.il/) prize for contributing to the Israeli Open Source and Free software community (2009).
+
+* **Personal projects (closed source)**
+  * Traceroute and Speed-Meter Gateway system for monitoring performance of web sites and helping resolve technical problems on the Internet. In the best times there were more than 50 measurement points installed worldwide. (1998- Not available anymore)
+  * Development of a distributed database of Internet Service Providers called EUISP with 6 mirrored sites of the site in 6 countries: USA, Australia, Spain, Finland, Hungary and Israel. (1998- Not available anymore).
+  * Hypolit, an automated, multi-server, add-based free web hosting site. (1998- Not available anymore)
+
+### 5-9/2000 - **Infrastructure Manager** at Goldnames
+  * Setup and administration of the internal infrastructure of the company's computer systems with 60 Win2000 clients, 2 NT 4.0, 10 Linux and a SUN server. Rebuilding the Intranet and improving security.
+  * Setup and monitoring 3 versions of the website at various complexity levels: small and static; multilingual with 7 languages on a dedicated server; two-tire system with Linux web and application server (JSP with Jakarta) and Oracle database on SUN/Solaris.
+  * Development and maintenance of a system to hold 35.000 domain names and related websites, increasing the daily hit rate by 50% within one week.
+  * Development of various tools for fast website development including and editor for the 35.000 domain names. This provided the company's business team with the capacity to independently make rapid changes to the splash pages.
+  * Providing various statistics on the performance of the companies different websites.
+  * Introducing automatization in several parts of the development.
+  * Training employees and teaching web programming languages (HTML, CGI, Perl, PHP).
+
+### 1997-1998 - **Application and Integration Engineer** at Phasecom Ltd. (later Vyyo)
+  * Evaluating third party technology in order to include them in the networking side of the product.
+  * Writing Application Notes for the different systems.
+  * Training the Marketing and the Support team of those implementations. Working with switches, routers, VPN Data Encryption (RedCreek, VPNet) and Quality Of Service (Packeteer, BandWiz, Allot) devices. Accounting information, SNMP managers.
+  * Designing and developing an asynchronous, telco return system for Phasecoms' cable modem system.
+
+### 1996-1997 - **System engineer** at AgentSoft
+  * Design, setup and maintenance of the companies computer infrastructure from scratch.
+  * Installation Microsoft Windows NT (WinNT 4.0) domain based network with Win95 clients. Adding UNIX and Macintosh to the system for portability testing.
+  * Evaluating and setup of version control system and bug tracking system.
+
+### 1994-1996 - **Developer and System administrator** at Netmanage in Jerusalem
+  * **Development:** Worked on hypertext (SGML) creation, compilation and viewing system. Wrote part of a compiler to translate between two markup languages.
+  * Worked on the development of a file mirroring software based on FTP written in C++, part of the Chameleon suite.
+  * Created several internally used interactive Web-pages using shell scripts and Perl. (used C, Object Oriented LISP, AWK, VB)
+  * **System administration:** Lead the transition from a badly designed Novell network to a Microsoft Windows NT domain cross-connected with other offices worldwide.
+  * The administrated local network was composed of several Intranet servers and more than 50 PCs each of them configured for three operating systems. Installation of Intranet.
+  * **Automatization (build and bug tracking system):** Implemented some major improvements to automate the time consuming tasks of the distributed build system and to improve the working environment of the engineers. Improved the common bug tracking system (DDTS now ClearCase) and the common version control system (PVCS) used by the company.
+
+### 1993-1994
+  * Project at the R&amp;D center of Digital in Jerusalem, writing scripts in C--
+
+### 1991-1992
+  * Translations from Hebrew for the Hungarian Television.
+
+## Education
+
+### 1997 - MBA in Finance and Information Systems (IS) at The Hebrew University of Jerusalem.
+
+### 1993 - BSc. in Computer Sciences and Business Administration at The Hebrew University of Jerusalem.
+
+## Languages
+
+* Hungarian (mother tongue)
+* Hebrew (fluent)
+* English (very good)
+* Spanish (intermediate)
