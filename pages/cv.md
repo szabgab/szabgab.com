@@ -12,11 +12,11 @@
 * Web site: [szabgab.com](https://szabgab.com/)
 * LinkedIN: [linkedin.com/in/szabgab](https://www.linkedin.com/in/szabgab)
 
-## Overview
+## Summary
 
 Helping companies to move forward in their projects by providing training, consulting, and contract development work primarily in Rust, Python, and Perl.
 
-## Work Experience
+## Experience
 
 ### 2018-present: **Guest Lecturer at Weizmann Institute of Science**
 
@@ -169,7 +169,7 @@ Helping companies to move forward in their projects by providing training, consu
   * Help organizing Perl conferences in Hungary
   * Participating on lots of mailing lists and IRC channels
 
-* **Awards**
+* **Honors and Awards**
   * [White Camel Award](https://whitecamel.org/) for contributing to the international Perl community (2008).
   * [HaMakor](https://hamakor.org.il/) prize for contributing to the Israeli Open Source and Free software community (2009).
 
