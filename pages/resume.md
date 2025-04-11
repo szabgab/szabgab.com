@@ -6,11 +6,15 @@
 
 * Name: Gábor Szabó
 * Birthplace: Budapest, Hungary
-* Address: Modiin, Israel
+* Address: Modiin-Maccabim-Reut, Israel
 * Phone: +972-(0)54-4624648
 * E-mail: szabgab@gmail.com
-* LinkedIN: https://www.linkedin.com/in/szabgab
+* Web site: [szabgab.com](https://szabgab.com/)
+* LinkedIN: [linkedin.com/in/szabgab](https://www.linkedin.com/in/szabgab)
 
+## Overview
+
+Helping companies to move forward in their projects by providing training, consulting, and contract development work primarily in Rust, Python, and Perl.
 
 ## Work Experience
 
@@ -24,11 +28,6 @@
 * Since then the course is back in the class-room. This time 5 half-days before the semester and 5 half-days in the first 5 weeks of the semester.
 
 ### 1998-present: **Independent Trainer, Consultant, Developer**
-
-* **Main programming languages**
-  * Rust
-  * Python
-  * Perl
 
 * **Some of the services provided by Gabor**
   * Introducing Unit~, Integration~, and Acceptance testing.
@@ -126,7 +125,6 @@
   * Weizmann Institute of Science
   * Zoran
 
-
 ### 1998-present: Personal Projects and Involvement in the Open Source Community
 
 * **Books**
@@ -142,10 +140,10 @@
     -->
 
 * **Open source projects, code contributions**
-  * My GitHub account [github.com/szabgab](https://github.com/szabgab) contains quite a few projects.
+  * My GitHub account [szabgab](https://github.com/szabgab) contains quite a few projects.
   * Rust Digger [rust-digger.code-maven.com](https://rust-digger.code-maven.com/) - collecting and analyzing data about Rust crates. Written in Rust.
   * PyDigger [pydigger.com](https://pydigger.com/)  - collecting and analyzing Python packages. It is written using Python Flask.
-  * Ruby Digger [https://ruby-digger.code-maven.com/](https://ruby-digger.code-maven.com/) - collecting and analyzing data about Rust gems.
+  * Ruby Digger [ruby-digger.code-maven.com](https://ruby-digger.code-maven.com/) - collecting and analyzing data about Rust gems.
   * CPAN Digger [cpan-digger.perlmaven.com](https://cpan-digger.perlmaven.com/) - collecting and analyzing data about Perl modules.
   * Padre, the Perl IDE. [padre.perlide.org](https://padre.perlide.org/). An IDE written in Perl 5 with special features for developing Perl 5 and Perl 6 scripts and applications. Initiating and leading the project. Attracting more than 50 contributors. (2008-discontinued).
   * tracert.com, a web site that provides lots of resources for network administrators. (currently not working).
@@ -169,15 +167,15 @@
   * Participating on lots of mailing lists and IRC channels
 
 * **Awards**
-  * [White Camel Award](https://www.perl.org/advocacy/white_camel/) for contributing to the international Perl community (2008).
-  * HaMakor [https://hamakor.org.il/](https://hamakor.org.il/) prize for contributing to the Israeli Open Source and Free software community (2009).
+  * White Camel Award [whitecamel.org](https://whitecamel.org/) for contributing to the international Perl community (2008).
+  * HaMakor [hamakor.org.il](https://hamakor.org.il/) prize for contributing to the Israeli Open Source and Free software community (2009).
 
 * **Personal projects (closed source)**
   * Traceroute and Speed-Meter Gateway system for monitoring performance of web sites and helping resolve technical problems on the Internet. In the best times there were more than 50 measurement points installed worldwide. (1998- Not available anymore)
   * Development of a distributed database of Internet Service Providers called EUISP with 6 mirrored sites of the site in 6 countries: USA, Australia, Spain, Finland, Hungary and Israel. (1998- Not available anymore).
   * Hypolit, an automated, multi-server, add-based free web hosting site. (1998- Not available anymore)
 
-### 5-9/2000 - **Infrastructure Manager** at Goldnames
+### 2000-2000 - **Infrastructure Manager** at Goldnames
   * Setup and administration of the internal infrastructure of the company's computer systems with 60 Win2000 clients, 2 NT 4.0, 10 Linux and a SUN server. Rebuilding the Intranet and improving security.
   * Setup and monitoring 3 versions of the website at various complexity levels: small and static; multilingual with 7 languages on a dedicated server; two-tire system with Linux web and application server (JSP with Jakarta) and Oracle database on SUN/Solaris.
   * Development and maintenance of a system to hold 35.000 domain names and related websites, increasing the daily hit rate by 50% within one week.
@@ -185,8 +183,9 @@
   * Providing various statistics on the performance of the companies different websites.
   * Introducing automatization in several parts of the development.
   * Training employees and teaching web programming languages (HTML, CGI, Perl, PHP).
+  * It lasted only between May and September 2000 when the company closed.
 
-### 1997-1998 - **Application and Integration Engineer** at Phasecom Ltd. (later Vyyo)
+### 1997-1998 - **Application and Integration Engineer** at Phasecom Ltd. (renamed to Vyyo)
   * Evaluating third party technology in order to include them in the networking side of the product.
   * Writing Application Notes for the different systems.
   * Training the Marketing and the Support team of those implementations. Working with switches, routers, VPN Data Encryption (RedCreek, VPNet) and Quality Of Service (Packeteer, BandWiz, Allot) devices. Accounting information, SNMP managers.
@@ -213,9 +212,9 @@
 
 ## Education
 
-### 1997 - MBA in Finance and Information Systems (IS) at The Hebrew University of Jerusalem.
+### 1993-1997 - MBA in Finance and Information Systems (IS) at The Hebrew University of Jerusalem.
 
-### 1993 - BSc. in Computer Sciences and Business Administration at The Hebrew University of Jerusalem.
+### 1990-1993 - BSc. in Computer Sciences and Business Administration at The Hebrew University of Jerusalem.
 
 ## Languages
 
