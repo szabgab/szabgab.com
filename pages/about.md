@@ -86,51 +86,27 @@ If you'd like to get a more [CV](/cv)-like document.
 
 ## Some of the contract works I've done
 
-<ul>
-<li>Working with a 5-person QA team in a 1000-person company and helping them move from manual testing and from "writing scripts"
-to a more robust way of developing their code for automated software testing.
-Introducing Git. Introducing Python. Unit-testing the Python code. Logging. Exception handling. CI - COntinuous Integration system. (Jenkins)
-ELK stack for monitoring the system. Scripted maintenance of our servers. Deployment locally and to the Amazon Cloud.
-</li>
-<li>Moving several systems from Amazon AWS to Google GCP. Creating a labeling system for entities in GCP for a
-cost reporting system. Helping to reduce cloud expenses. Resizing Elasticseach clusters.
-Converting a build and testing system from TeamCity to Jenkins using a mix of Groovy, Bash, and Python.
-Building a Python Flask based reporting system for data in PostgreSQL, Elasticsearch, and Solr systems.
-</li>
-<li>Implementing and in-house agent-less CI system for a company that uses various small boards
-(eg. Firefly, Artik, and some Android based devices). Building a CI and release system.</li>
-<li>Implementing the API of 3rd party services in order to make it easier to test an application using that API.
-To test how to application behaves when the 3rd party application fails. When it response slower than expected.
-When it returns "out of quota" errors. etc.</li>
-<li>Installing Jenkins as in-house Continuous Integration system. Introducing unit-testing in Python.</li>
-<li>An in-house web-application to provide tools for the engineers to compare images.
-I used <a href="http://perldancer.org/">Perl Dancer</a> while the data was kept in PostgreSQL. The front-end was using
-Bootstrap and JQuery.</li>
-<li>An application aggregating data about mobile applications from the Apple Appstore, Google Play,
-and various vendors that provide information about those applications. The data was provided
-in various formats, including CSV, XML, and JSON based feeds and APIs.
-The collected data was stored in a MySQL database and served via our own API and via JSON.
-When I arrived and initial version of the application worked collecting data from one source
-and using CGI to serve the data.  I've converted it to PSGI and created the system that was
-able to accommodate data from various sources in various formats. I used <a href="http://perlmaven.com/moo">Moo</a> for OOP.</li>
-<li>An application to be used on <a href="https://www.mturk.com/">Mechanical Turk</a>. This was JavaScript based using JSON
-files for data storage without any additional back-end.</li>
-<li>An in-house application generating Excel reports from data in a PostgreSQL database to provide Business Intelligence.</li>
-<li>A workflow management application to control the whole workflow of an in-house image processing and analysis system.</li>
-<li>Refactored a code-base used for in-house test-automation that when I arrived had about 4,000,000 lines of code.</li>
-<li>Lots of log and database analysis code to provide data for Munin-based monitoring system.</li>
-</ul>
+* Working with a 5-person QA team in a 1000-person company and helping them move from manual testing and from "writing scripts" to a more robust way of developing their code for automated software testing.  Introducing Git. Introducing Python. Unit-testing the Python code. Logging. Exception handling. CI - COntinuous Integration system. (Jenkins) ELK stack for monitoring the system. Scripted maintenance of our servers. Deployment locally and to the Amazon Cloud.
+* Moving several systems from Amazon AWS to Google GCP. Creating a labeling system for entities in GCP for a cost reporting system. Helping to reduce cloud expenses. Resizing Elasticseach clusters.  Converting a build and testing system from TeamCity to Jenkins using a mix of Groovy, Bash, and Python.  Building a Python Flask based reporting system for data in PostgreSQL, Elasticsearch, and Solr systems.
+* Implementing and in-house agent-less CI system for a company that uses various small boards (eg. Firefly, Artik, and some Android based devices). Building a CI and release system.
+* Implementing the API of 3rd party services in order to make it easier to test an application using that API.  To test how to application behaves when the 3rd party application fails. When it response slower than expected.  When it returns "out of quota" errors. etc.
+* Installing Jenkins as in-house Continuous Integration system. Introducing unit-testing in Python.
+* An in-house web-application to provide tools for the engineers to compare images.  I used [Perl Dancer](https://perldancer.org/) while the data was kept in PostgreSQL. The front-end was using Bootstrap and JQuery.
+* An application aggregating data about mobile applications from the Apple Appstore, Google Play, and various vendors that provide information about those applications. The data was provided in various formats, including CSV, XML, and JSON based feeds and APIs.  The collected data was stored in a MySQL database and served via our own API and via JSON.  When I arrived and initial version of the application worked collecting data from one source and using CGI to serve the data.  I've converted it to PSGI and created the system that was able to accommodate data from various sources in various formats. I used [Moo](https://perlmaven.com/moo) for OOP.
+* An application to be used on [Mechanical Turk](https://www.mturk.com/). This was JavaScript based using JSON files for data storage without any additional back-end.
+* An in-house application generating Excel reports from data in a PostgreSQL database to provide Business Intelligence.
+* A workflow management application to control the whole workflow of an in-house image processing and analysis system.
+* Refactored a code-base used for in-house test-automation that when I arrived had about 4,000,000 lines of code.
+* Lots of log and database analysis code to provide data for Munin-based monitoring system.
 
 <img src="/img/gabor-2022-10-08-with-glasses-612x612.jpg" width="450" height="450" border="0" />
 
-<h2>A few words about myself</h2>
+## A few words about myself
 
-I was born in 1967 in Budapest, Hungary. After successfully graduating from
-<a href="http://www.fazekas.hu/">Fazekas</a>, one of the most competitive high-schools in the
-country, I thought I can learn everything. Even Theoretical Mathematics.
+I was born in 1967 in Budapest, Hungary. After successfully graduating from [Fazekas](https://fazekas.hu/), one of the most competitive high-schools in the country, I thought I can learn everything. Even Theoretical Mathematics.
 
-During high-school I got my first programmable calculator
-a <a href="https://en.wikipedia.org/wiki/Casio_FX-702P">Casio FX-702P</a>.
+During high-school I got my first programmable calculator a [Casio FX-702P](https://en.wikipedia.org/wiki/Casio_FX-702P).
+
 <img src="/img/Casio_FX-702P_Programmable_Calculator.png">
 
 I also had access to <a href="https://hu.wikipedia.org/wiki/HT%E2%80%931080Z">HT-1080Z</a> computers in the
@@ -168,15 +144,14 @@ I also teach Python.
 
 I am providing these classes both in Israel and overseas.
 
-<h2>Open Source Development</h2>
+## Open Source Development
 
-I have been writing Perl since 1995 and teaching it since 2000.
-I've started the <a href="http://padre.perlide.org/">Padre, the Perl IDE</a> (2008.06-2014.10),
-I am the maintainer of a number of <a href="/training">modules on CPAN</a>,
-and I have <a href="https://metacpan.org/about/contributors">contributed</a> to the <a href="https://metacpan.org/">MetaCPAN</a>.
-My <a href="https://github.com/szabgab">GitHub</a> account contains quite a few other projects as well.
+I have been writing Perl since 1995 and teaching it since 2000. I've started the [Padre, the Perl IDE](https://padre.perlide.org/) (2008.06-2014.10),
+I am the maintainer of a number of [modules on CPAN](https://metacpan.org/author/SZABGAB),
+and I have [contributed](https://metacpan.org/about/contributors) to the [MetaCPAN](https://metacpan.org/).
+My [GitHub](https://github.com/szabgab) account contains quite a few other projects as well.
 
-My <a href="https://gitlab.com/szabgab">GitLab</a> and <a href="https://bitbucket.org/szabgab/">Bitbucket</a> accounts are a lot less active.
+My [GitLab](https://gitlab.com/szabgab) and [Bitbucket](https://bitbucket.org/szabgab/) accounts are a lot less active.
 
 
 Throughout the years I have contributed to several Perl modules on
@@ -293,12 +268,12 @@ and on the <a href="https://code-maven.com/">Code Maven</a>.
 
 
 <!--
-<h2>Newsletter</h2>
-<p>
+## Newsletter
+
 On a regular basis I am sending out two newsletters.
 One called <a href="/test-automation-tips">Test Automation Tips</a>
 and the other called and <a href="perl6">Perl 6 Tricks and Treats</a>.
-</p>
+
 -->
 
 ## Relationships
@@ -307,20 +282,20 @@ You can see my personal profile on [LinkedIn](https://www.linkedin.com/in/szabga
 
 ## Other Profiles
 
-<p><a href="https://twitter.com/szabgab">Twitter</a></p>
-<p><a href="http://news.ycombinator.com/user?id=szabgab">YCombinator</a></p>
-<p><a href="https://www.reddit.com/user/szabgab/">Reddit</a></p>
-<p><a href="http://stackoverflow.com/users/11827/szabgab">Stack Overflow</a></p>
-<p><a href="http://superuser.com/users/87767/szabgab">Superuser</a></p>
-<p><a href="http://serverfault.com/users/85821/szabgab">Serverfault</a></p>
-<p><a href="http://perlmonks.org/?node_id=415035">PerlMonks</a></p>
-<p><a href="http://disqus.com/szabgab/">DisqUS</a></p>
-<p><a href="http://coderwall.com/szabgab">Coderwall</a></p>
-<p><a href="http://www.ohloh.net/accounts/szabgab">Ohloh</a></p>
-<p><a href="http://vimeo.com/szabgab">Vimeo</a></p>
-<p><a href="http://www.plurk.com/szabgab">Plurk</a></p>
-<p><a href="http://identi.ca/szabgab">Identi.ca</a></p>
-
+* [Twitter](https://twitter.com/szabgab)
+* [YCombinator](http://news.ycombinator.com/user?id=szabgab)
+* [Reddit](https://www.reddit.com/user/szabgab/)
+* [Stack Overflow](http://stackoverflow.com/users/11827/szabgab)
+* [Superuser](http://superuser.com/users/87767/szabgab)
+* [Serverfault](http://serverfault.com/users/85821/szabgab)
+* [PerlMonks](http://perlmonks.org/?node_id=415035)
+* [DisqUS](http://disqus.com/szabgab/)
+* [Coderwall](http://coderwall.com/szabgab)
+* [Ohloh](http://www.ohloh.net/accounts/szabgab)
+* [Vimeo](http://vimeo.com/szabgab)
+* [Plurk](http://www.plurk.com/szabgab)
+* [Identi.ca](http://identi.ca/szabgab)
+* [DEV.to](https://dev.to/szabgab/)
 
 ## Other
 
