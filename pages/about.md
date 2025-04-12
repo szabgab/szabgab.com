@@ -4,13 +4,15 @@
 
 ## About me
 
-These days I primarily focus on providing training. The main subjects are
+These days I primarily focus on providing consulting and training in the following subjects:
 
 * Rust programming
 * Python programming
 * Git, GitHub/GitLab
 * Test Automation and Continuous Integration (CI)
 * Docker
+
+and contract development in **Rust**, **Python**, and **Perl.
 
 ## More about me
 
@@ -19,14 +21,14 @@ Introducing and improving (Test) Automation, Continuous Integration, Extreme Pro
 
 The service is always tailored to the specific needs, but it usually includes some of the following:
 
-* Help moving to a more flexible <b>Version Control</b> system, or improved use of the current system. (GitHub, GitLab, Bitbucket)
-* Introduction to <b>test automation</b> including unit, integration, acceptance, and regression test. Mocking, if needed.
+* Help moving to a more flexible **Version Control** system, or improved use of the current system. (GitHub, GitLab, Bitbucket)
+* Introduction to **test automation** including unit, integration, acceptance, and regression test. Mocking, if needed.
 * Improve development, QA, and operations processes and how they interact.
-* Setting up <b>Continuous Integration (CI)</b> (Jenkins or GitHub Actions, GitLab pipelines, etc.)
-* Setting up <b>Continuous Deployment (CD)</b>
-* Help with <b>refactoring</b> code.
-* Introduce the use of <b>(Docker) containers</b>.
-* Introduce the use of <b>cloud</b>-based systems. (AWS, GCP, Azure, Digital Ocean, Linode)
+* Setting up **Continuous Integration (CI)** (Jenkins or GitHub Actions, GitLab pipelines, etc.)
+* Setting up **Continuous Deployment (CD)**
+* Help with **refactoring** code.
+* Introduce the use of **(Docker) containers**.
+* Introduce the use of **cloud**-based systems. (AWS, GCP, Azure, Digital Ocean, Linode)
 * Training and coaching people.
 
 Sometimes my work includes building internal web sites.
@@ -40,46 +42,47 @@ The languages I usually deal with are Rust, Python, Perl, Bash, Groovy, and Java
 I am the author of several books published on Leanpub:
 For example [Collaborative Development using Git and GitHub](https://leanpub.com/collab-dev-git/) and [Single Page Application with Perl Dancer](https://leanpub.com/dancer-spa/).
 
-
-## Presentations
-
-Frequently giving presentations and organizing workshop at meetings and conference.
-The <a href="https://www.meetup.com/Code-Mavens/">Code Maven</a> group serves as platform for that.
-
-Some of my public presentations were recorded:
-
-* <b>YAPC::Europe::2008 in Copenhagen, Denmark.</b> [Padre the Perl IDE](https://www.youtube.com/watch?v=peFrEWzq8pA).
-* <b>YAPC::Europe::2010 in Pisa, Italy.</b> [About Perl Staff going at non Perl event](https://www.youtube.com/watch?v=riszqF4AmMM)
-* <b>YAPC::Europe::2011 in Riga, Latvia</b> [Writing Plugins for Padre, the Perl IDE](https://www.youtube.com/watch?v=PRmmTVEZefA)
-* <b>YAPC::Europe::2012 in Frankfurt, Germany.</b> <a href="https://www.youtube.com/watch?v=gIsc39vU22w">Refactoring Perl Code</a> with a short introduction of <a href="https://scratch.mit.edu/">Scratch</a> at the beginning.
-* <b>YAPC::NA::2016 in Orlando, Florida, USA</b> <a href="https://www.youtube.com/watch?v=oAkasBMJJ18">Getting started with modern web development in Perl</a>.
-* At <a href="https://il.pycon.org/2016/"><b>PyCon Israel 2016</b></a> I had a talk titled <a href="https://il.pycon.org/2016/about/speakers.html#dcf2e8dcc2c5e21e">Fight or Flight? - dealing with real world applications in Python</a>.  The video of <a href="https://pyvideo.org/pycon-israel-2016/fight-or-flight-dealing-with-real-world-applications-in-python.html">Fight or Flight? - dealing with real world applications in Python</a> is also available.
-* At <a href="https://il.pycon.org/2017/"><b>PyCon Israel 2017</b></a> I talked about <a href="https://il.pycon.org/wwwpyconIL/agenda/173%20">Testing with PyTest</a>. The video of <a href="https://pyvideo.org/pycon-israel-2017/testing-with-pytest.html">Testing with PyTest</a>.
-* At <a href="https://il.pycon.org/2019/"><b>PyCon Israel 2019</b></a> I talked about <a href="https://www.youtube.com/watch?v=QddQcqa19zo">Fixtures and Test Doubles in Pytest</a>
-
-
-* 2023.09 Rust Meetup in Hebrew: <a href="https://www.youtube.com/watch?v=HRhAkSdvGx4">What I learned from learning Rust</a>.
-
 ## YouTube Channels
 
-I have 4 YouTube Channels in 4 different languages. I primarily upload videos in English and Hebrew, but I have been experimenting with Spanish as well.
+I have 4 YouTube Channels in 4 different languages. I primarily upload videos in English and Hebrew, but I have been experimenting with Spanish, and Hungarian as well.
 
 * [English](https://code-maven.com/youtube)
 * [Hebrew](https://he.code-maven.com/youtube)
 * [Spanish](https://es.code-maven.com/youtube)
 * [Hungarian](https://hu.code-maven.com/youtube)
 
+## Presentations
+
+Frequently giving presentations and organizing workshop at meetings and conference.
+The [Code Maven](https://www.meetup.com/Code-Mavens/) group serves as platform for that.
+
+Some of my public presentations were recorded:
+
+* **YAPC::Europe::2008 in Copenhagen, Denmark.** [Padre the Perl IDE](https://www.youtube.com/watch?v=peFrEWzq8pA).
+* **YAPC::Europe::2010 in Pisa, Italy.** [About Perl Staff going at non Perl event](https://www.youtube.com/watch?v=riszqF4AmMM)
+* **YAPC::Europe::2011 in Riga, Latvia** [Writing Plugins for Padre, the Perl IDE](https://www.youtube.com/watch?v=PRmmTVEZefA)
+* **YAPC::Europe::2012 in Frankfurt, Germany.** [Refactoring Perl Code](https://www.youtube.com/watch?v=gIsc39vU22w) with a short introduction of [Scratch](https://scratch.mit.edu/) at the beginning.
+* **YAPC::NA::2016 in Orlando, Florida, USA** [Getting started with modern web development in Perl](https://www.youtube.com/watch?v=oAkasBMJJ18).
+* At [**PyCon Israel 2016**](https://il.pycon.org/2016/) I had a talk titled [Fight or Flight? - dealing with real world applications in Python](https://il.pycon.org/2016/about/speakers.html#dcf2e8dcc2c5e21e).  The video of [Fight or Flight? - dealing with real world applications in Python](https://pyvideo.org/pycon-israel-2016/fight-or-flight-dealing-with-real-world-applications-in-python.html) is also available.
+* At [**PyCon Israel 2017**](https://il.pycon.org/2017/) I talked about [Testing with PyTest](https://il.pycon.org/wwwpyconIL/agenda/173%20). The video of [Testing with PyTest](https://pyvideo.org/pycon-israel-2017/testing-with-pytest.html).
+* At [**PyCon Israel 2019**](https://il.pycon.org/2019/) I talked about [Fixtures and Test Doubles in Pytest](https://www.youtube.com/watch?v=QddQcqa19zo).
+
+
+* 2023.09 Rust Meetup in Hebrew: [What I learned from learning Rust](https://www.youtube.com/watch?v=HRhAkSdvGx4).
+
 ## Web sites
 
-I have been running the <a href="http://perlweekly.com/">Perl Weekly newsletter</a> since August 2011,
-and the <a href="http://perlmaven.com/">Perl Maven</a> site since June 2012.
-The <a href="http://code-maven.com/">Code Maven</a> site was launched in 2015 and the
-<a href="http://pydigger.com/">PyDigger</a> site in 2016. There is also the <a href="https://codeandtalk.com/">Code And Talk</a>
-site where we collect information about tech conferences.
+I have been running the [Perl Weekly newsletter](https://perlweekly.com/) since August 2011,
+and the [Perl Maven](https://perlmaven.com/) site since June 2012.
+The [Code Maven](https://code-maven.com/)> site was launched in 2015 and then several topics were split out to
+separate sites. For example the [Python Maven](https://python.code-maven.com/), the [Rust Maven](https://rust.code-maven.com/),
+and the [Git Maven](https://git.code-maven.com/).
 
-## CV
+Ther is also the [PyDigger](https://pydigger.com/) site since 2016 and the [Rust Digger](https://rust-digger.code-maven.com/) since 2023.
 
-If you'd like to get a more [CV](/cv.html)-like document.
+## CV - Resume
+
+If you'd like to get a more [CV](/cv)-like document.
 
 ## Some of the contract works I've done
 
@@ -196,7 +199,7 @@ in Israel.
 The community used to have monthly meetings both in Tel Aviv and in Jerusalem and a busy mailing list.
 
 While the Hungarian Perl Mongers had a mailing list for some time already I have registered
-the <b>perl.org.hu</b> domain so we'll have a constant place to
+the **perl.org.hu** domain so we'll have a constant place to
 go when looking for Perl related information. Donated the hardware to run the web site and the
 mailing list and even organized with the great help of some other people two Perl Workshops in
 Budapest.
@@ -283,7 +286,7 @@ Mostly for my community work, in 2008, I received the
 
 ## Blog
 
-Even before it was called a blog I used to write in the <b>use Perl journal</b>
+Even before it was called a blog I used to write in the **use Perl journal**
 and later in <a href="http://blogs.perl.org/users/gabor_szabo/">blogs.perl.org</a>.
 Nowadays I mostly write on the [Rust Maven](https://rust.code-maven.com/), [Python Maven](https://python.code-maven.com/), and the <a href="https://perlmaven.com/">Perl Maven</a> sites
 and on the <a href="https://code-maven.com/">Code Maven</a>.
