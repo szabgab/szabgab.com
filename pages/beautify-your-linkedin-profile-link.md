@@ -25,7 +25,7 @@ If you have multiple profiles you can [merge them](https://www.linkedin.com/help
 
 Posted on 2025.05.11, Sunday.
 
-It find it somewhat strange that the profile address of many people on #LinkedIn is still the same as LinkedIn generated for them including some random number.
+I find it somewhat strange that the profile address of many people on #LinkedIn is still the same as LinkedIn generated for them including some random number.
 
 
 OTOH I can understand that as it took me a while to figure out how to change it and there are a lots of other features on LinkedIn I have not used yet.
