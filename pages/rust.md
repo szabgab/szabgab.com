@@ -32,11 +32,12 @@
 
 ## Community
 
-* I am one of the organizers of the [Rust community in Israel](https://rust.org.il/).
+* I am one of the organizers of the [Rust community in Israel](https://rust.org.il/) and specifically the [Rust-TLV](https://www.meetup.com/rust-tlv/) Meetup group.
 * I organize online events with presentations about Rust in English. See the [Rust Maven live](https://rust.code-maven.com/live) page.
 
 ## Podcast
 
 * [Rust Digger with Gabor Szabo](https://rustacean-station.org/episode/gabor-szabo/) on The Rustacean Station Podcast
+* [Rust at Work](https://rust.code-maven.com/rust-at-work) podcast series.
 
 
