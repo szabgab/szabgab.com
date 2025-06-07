@@ -2,9 +2,8 @@
 =timestamp 1595924234
 =tags LinkedIn
 
+Besides my [personal profile on LinkedIn](https://www.linkedin.com/in/szabgab/) I have a number of pages.
 
-
-Besides my <a href="https://www.linkedin.com/in/szabgab/">personal profile</a> I have a number of pages on LinkedIn.
 Some of them are (human) language specific.
 
 Others are topic specific and they are all in English.
@@ -12,26 +11,20 @@ Others are topic specific and they are all in English.
 Feel free to follow as many or as few as you feel right.
 
 
+## By (human) Language
+
+* [English](https://www.linkedin.com/company/code-maven-world/) for the general public with generic content.
+* [Hebrew](https://www.linkedin.com/company/code-maven-israel/) primarily for events in Hebrew and/or in Israel.
+* [Spanish](https://www.linkedin.com/showcase/code-maven-spanish/about/) - Just playing  with my little Spanish knowledge.
+* [Hungarian](https://www.linkedin.com/company/code-maven-magyar/about/) - it is my mother tongue, but I hardly publish anything.
+
+## By topic
+
+* [DevOps](https://www.linkedin.com/showcase/code-maven-devops/) (Git, Docker, Linux, Kubernetes, Jenkins, CI, CD, Test Automation)
+* [Python](https://www.linkedin.com/showcase/code-maven-python/)
+* [Golang](https://www.linkedin.com/showcase/code-maven-golang/)
+* [Perl](https://www.linkedin.com/showcase/perl-maven/)
+* [Rust](https://www.linkedin.com/showcase/rust-maven/)
 
 
-<h2>By Language</h2>
-
-<ul>
-<li><a href="https://code-maven.com/linkedin">English</a> for the general public with generic content.</li>
-<li><a href="https://he.code-maven.com/linkedin">Hebrew</a> primarily for events in Hebrew and/or in Israel.</li>
-<li><a href="https://es.code-maven.com/linkedin">Spanish</a> - Just playing  with my little Spanish knowledge.</li>
-<li><a href="https://hu.code-maven.com/linkedin">Hungarian</a> - it is my mother tongue, but I hardly publish anything.</li>
-</ul>
-
-<h2>By topic</h2>
-
-<ul>
-<li><a href="https://www.linkedin.com/showcase/code-maven-devops/">DevOps</a> (Git, Docker, Linux, Kubernetes, Jenkins, CI, CD, Test Automation)</li>
-<li><a href="https://www.linkedin.com/showcase/code-maven-python/">Python</a></li>
-<li><a href="https://www.linkedin.com/showcase/code-maven-golang/">Golang</a></li>
-<li><a href="https://www.linkedin.com/showcase/perl-maven/">Perl</a></li>
-<li><a href="https://www.linkedin.com/showcase/rust-maven/">Rust</a></li>
-</ul>
-
-
-The old content of this pages was moved to explain <a href="/why-is-linkedin-useful.html">why is LinkedIn useful to me</a>.
+The old content of this pages was moved to explain [why is LinkedIn useful to me](/why-is-linkedin-useful).

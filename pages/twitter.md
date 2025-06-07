@@ -1,13 +1,11 @@
-=head1 Twitter
+=head1 Twitter / X
 =timestamp 1596177337
 =tags blogs
 
 The Twitter accounts I use.
 
-<ul>
-<li><a href="https://twitter.com/szabgab">@szabgab</a> - mixed use</li>
-<li><a href="https://twitter.com/perlweekly">@perlweekly</a> - Perl Weekly</li>
-<li><a href="https://twitter.com/perlmaven">@perlmaven</a> - Perl Maven</li>
-<li><a href="https://twitter.com/code__maven">@code__maven</a> - Code Maven</li>
-<li><a href="https://twitter.com/kantonikos">@kantonikos</a> Ladino</li>
-</ul>
+* [@szabgab](https://x.com/szabgab) - mixed use
+* [@perlweekly](https://x.com/perlweekly) - Perl Weekly
+* [@perlmaven](https://x.com/perlmaven) - Perl Maven
+* [@rustmaven](https://x.com/rustmaven) - Rust Maven
+* [@kantonikos](https://x.com/kantonikos) Ladino
