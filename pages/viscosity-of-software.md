@@ -13,14 +13,16 @@ The feeling is more like walking in a pool neck-deep in the water.
 
 By the time your project matures the feeling gets worse and now it feels as if you were stuck in the mud. You can hardly move and you fear that you might drown.
 
+----
 
 You can avoid this process when you start the project by consistently improving your code-base. It might feel like extra work, but in reality it is just an investment in the future so you will be able to maintain velocity.
 
 
 If your project is already in the deep water or in the mud, you can still reverse the problem. It will be harder, but it will make your life better and you will be able to generate more value to your company faster.
 
-
 I am sure you already know, the key-words are automated test, continuous integration, continuous delivery and refactoring.
+
+----
 
 Good luck, and let me know if you need help!
 
