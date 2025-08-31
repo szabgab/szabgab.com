@@ -24,5 +24,6 @@
 
 * I am one of the organizers of the [Python community in Israel](https://python.org.il/) and specifically the [PyWeb-IL](https://www.meetup.com/pyweb-il//) Meetup group.
 * I organize online events with presentations about Python in English. See the [Python Maven live](https://python.code-maven.com/live) page.
+* I help organizing [PyConIL](https://pycon.org.il/) the annual Python conference in Israel.
 
 
