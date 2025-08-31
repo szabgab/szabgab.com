@@ -5,11 +5,8 @@
 
 ## Perl courses
 
-* [Fundamentals of Perl](/fundamentals-of-perl)
-* [Advanced Perl](/advanced-perl)
-* [Using Perl in QA departments](/perl-in-test-automation)
-
 * [Beginner Perl programming](/courses/perl).
+* [Advanced Perl](/advanced-perl)
 * [Testing Perl code for Perl developers](/courses/testing-perl).
 
 ## Articles and Videos about Perl

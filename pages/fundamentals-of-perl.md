@@ -16,25 +16,26 @@ version will be available soon.
 
 ## Syllabus
 
-History, how to install Perl, how to run scripts
-Basic I/O
-Scalar values and variables (numbers and strings)
-Control flow
-Lists and arrays (context)
-Hash (associative arrays)
-Regular expressions, pattern matching
-Functions, subroutines
-Accessing files
-Interaction with the file system
-Error handling
-Processes and Signals
-Using references
-Using modules
-Using OOP style
-Installing modules on UNIX/Linux and on Windows systems
-Using CGI to write simple Web applications
-Using LWP to write web scraping programs
+* History, how to install Perl, how to run scripts
+* Basic I/O
+* Scalar values and variables (numbers and strings)
+* Control flow
+* Lists and arrays (context)
+* Hash (associative arrays)
+* Regular expressions, pattern matching
+* Functions, subroutines
+* Accessing files
+* Interaction with the file system
+* Error handling
+* Processes and Signals
+* Using references
+* Using modules
+* Using OOP style
+* Installing modules on UNIX/Linux and on Windows systems
+* Using CGI to write simple Web applications
+* Using LWP to write web scraping programs
 
-[Fundamentals of Perl](/talks/fundamentals_of_perl/)
+## See
 
+* [Beginner Perl programming](/courses/perl).
 
