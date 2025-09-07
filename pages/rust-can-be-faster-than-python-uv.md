@@ -2,7 +2,7 @@
 =timestamp 1742793632
 =tags Rust, Python, speed
 
-![uv is faster](img/uv-is-faster.jpeg)
+![uv is faster](/img/uv-is-faster.jpeg)
 
 While preparing one of my presentation for the **Rust** meeting today I thought I should find some indications of where **Rust** might be a good choice.
 
