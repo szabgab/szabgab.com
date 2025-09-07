@@ -15,10 +15,10 @@ Some links I'll probably mention in conversations.
     * [Hackeriot](https://www.hackeriot.org/)
 
 * [Python in Israel](https://python.org.il/)
-    * Communities in WhatsApp, Telegram, Facebook, etc.
+    * [Python Communities](https://python.org.il/en/) in Meetup, WhatsApp, Telegram, Facebook, etc.
     * Telegram: [Announcements only for meetings, conferences, webinars](https://t.me/PythonInIsrael)
     * WhatsApp: [Announcements only for meetings, conferences, webinars](https://chat.whatsapp.com/DdcVTh3fVa95AKfv9PHLOI)
-    * [Python Jobs](https://www.linkedin.com/company/python-jobs-in-israel/)
+    * [Python Jobs on LinkedIn](https://www.linkedin.com/company/python-jobs-in-israel/)
 
 * [Rust in Israel](https://rust.org.il/)
 
