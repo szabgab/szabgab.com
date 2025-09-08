@@ -20,5 +20,6 @@ Some links I'll probably mention in conversations.
     * WhatsApp: [Announcements only for meetings, conferences, webinars](https://chat.whatsapp.com/DdcVTh3fVa95AKfv9PHLOI)
     * [Python Jobs on LinkedIn](https://www.linkedin.com/company/python-jobs-in-israel/)
 
+* [OSDC](https://osdc.code-maven.com/)
 * [Rust in Israel](https://rust.org.il/)
 
