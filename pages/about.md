@@ -99,7 +99,7 @@ If you'd like to get a more [CV](/cv)-like document.
 * Refactored a code-base used for in-house test-automation that when I arrived had about 4,000,000 lines of code.
 * Lots of log and database analysis code to provide data for Munin-based monitoring system.
 
-<img src="/img/gabor-2022-10-08-with-glasses-612x612.jpg" width="450" height="450" border="0" />
+<img src="/img/gabor-2022-10-08-with-glasses-612x612_correct.jpg" width="450" height="450" border="0" />
 
 ## A few words about myself
 
