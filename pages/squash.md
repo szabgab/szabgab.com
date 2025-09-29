@@ -76,6 +76,7 @@ Each entrance is valid for 2 hours. No need to register for the court.
     * for all levels to practice [solo on court](https://www.youtube.com/playlist?list=PLSlfdwgI6MBnMQXTTQDwH5DihTEclAQrX)
     * [Techniques and skills](https://www.youtube.com/playlist?list=PLSlfdwgI6MBmNN0Fu-1ip65P_AzRwxMTW) (at home or on court)
     * [Solo Drills](https://www.youtube.com/watch?v=g5k4pWPeCuo&list=PLSlfdwgI6MBlFgQNUNzITj95CGMV9vgR0)
+    * [Put On a New Squash Grip](https://www.youtube.com/watch?v=NZCQh01sN78)
 
 * [PSA SquashTV](https://www.youtube.com/psasquashtv) games, interviews etc.
 
