@@ -2,7 +2,7 @@
 =timestamp 1757231601
 =tags links
 
-* [Gábor Szabo on LinkedIn](https://www.linkedin.com/in/szabgab/)
+* [Gábor Szabó on LinkedIn](https://www.linkedin.com/in/szabgab/) and on [GitHub](https://github.com/szabgab/)
 
 
 * [Core C++](https://corecpp.org/)
