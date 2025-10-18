@@ -22,3 +22,7 @@
 
 * [OSDC](https://osdc.code-maven.com/)
 
+## Recursive QR code
+
+![](/img/qr-code-for-pyconil-2025.png)
+
