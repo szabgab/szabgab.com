@@ -2,7 +2,6 @@
 =timestamp 1757231601
 =tags links
 
-* [Gábor Szabó on LinkedIn](https://www.linkedin.com/in/szabgab/) and on [GitHub](https://github.com/szabgab/)
 
 
 * [Core C++](https://corecpp.org/)
@@ -21,6 +20,8 @@
     * [Rust communities](https://rust.org.il/community)
 
 * [OSDC](https://osdc.code-maven.com/)
+
+* [Gábor Szabó on LinkedIn](https://www.linkedin.com/in/szabgab/) and on [GitHub](https://github.com/szabgab/)
 
 ## Recursive QR code
 
