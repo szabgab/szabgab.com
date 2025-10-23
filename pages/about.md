@@ -70,6 +70,9 @@ Some of my public presentations were recorded:
 
 * 2023.09 Rust Meetup in Hebrew: [What I learned from learning Rust](https://www.youtube.com/watch?v=HRhAkSdvGx4).
 
+* 2025.09.13 [LeanPub launch video](https://www.youtube.com/watch?v=wovZs9Sch8Q)
+* 2025.10.08 [Potchim Sograim](https://ptsg.dev/) - Episode 20 on Open Source (in Hebrew).
+
 ## Web sites
 
 I have been running the [Perl Weekly newsletter](https://perlweekly.com/) since August 2011,
