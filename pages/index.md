@@ -1,4 +1,4 @@
-=head1 Gábor Szabó - Helping companies with Rust, Python, Perl, Git, and Docker
+=head1 Helping teams move faster using Python, Rust, Perl, Git, and Docker
 =timestamp 1689316177
 =description Gabor Szabo is helping people to improve their technical skills to make it easier for them to get the job done.
 =tags blogs
@@ -29,6 +29,23 @@ My courses contain a lot of hands-on exercises and a lot of interaction with eac
 
 <a class="button is-primary" href="/contact">Contact me</a>
 
+## Introducing automated tests
+
+Setting up a Continuous Integration system, setting up a testing environment. Writing unit, integration, and acceptance-tests. Helping the team members to write tests.
+
+Increasing the safety net of the code-base and helping the team to simplify the code to make it safer and much faster to make changes.
+
+Increasing the velocity of the teams.
+
+## Introduce type-annotation and type-checking to Python code-base
+
+In recent year Python made a lot of progress on introducing type-checking. It is not part of the compiler, but there are excellent 3rd-party tools that help make your Python code type-safe.
+
+Having well documented types in your code-base makes the code safer and much easier to maintain.
+
+That helps eliminate bug while increasing the speed of development.
+
+
 ## Migration to Python or Rust
 
 Migrating a project from one programming language to another is not an easy task. It takes time and during that time the original implementation also needs maintenance.
@@ -36,7 +53,7 @@ Making it a moving target.
 
 One needs to train the developers in the new language, help with the implementation, help avoiding pitfalls of the new language that are different from the pitfalls in the old one.
 
-In some cases the clients ask only for training, in other cases they the involve require involvement from the planning phase, throught the implementation and even beyond, supporting the project.
+In some cases the clients ask only for training, in other cases they the involve require involvement from the planning phase, through the implementation and even beyond, supporting the project.
 
 <a class="button is-primary" href="/contact">Contact me</a>
 
@@ -71,7 +88,7 @@ To read more about them visit the page on [courses at higher education instituti
 
 =testimony Shuly Avraham = Scientific Computing at HaZera. = /img/shuly-avraham.jpeg = https://www.linkedin.com/in/shulyavraham/ = Many thanks, Gabor. It has been a very enriching and enlightening course. I learnt a lot, from new things to strengthening my prior knowledge. The subjects learnt are very important to every programmer, whether an open source developer or not. Your patience is very appreciated as well as your honest will to make your students truly dive into practice. I will definitely recommend your courses and meetups, and attend them when I can.
 
-=testimony Iddo Berger = Organizer at PyDataI Israel, VP R&D at Bioz. = /img/iddo-berger.jpeg = https://www.linkedin.com/in/iddo-berger/ = I've known Gabor from his previous presentations in the PyWeb-IL Meetup Group and at PyConIL and invited him to run a one-day training course about testing in Python. The participants, including myself, enjoyed the class and started to implement the material we learned right away.
+=testimony Iddo Berger = Organizer at PyData Israel, VP R&D at Bioz. = /img/iddo-berger.jpeg = https://www.linkedin.com/in/iddo-berger/ = I've known Gabor from his previous presentations in the PyWeb-IL Meetup Group and at PyConIL and invited him to run a one-day training course about testing in Python. The participants, including myself, enjoyed the class and started to implement the material we learned right away.
 
 =testimony Egga Hartung = Software Craft Champion = /img/egga-hartung.jpeg = https://www.linkedin.com/in/egga-hartung-7a200712/ = The training was more than worth it! Excellent progress in creating test suites, great coverage of facettes in testing automation, gorgeous exercises!
 
@@ -128,6 +145,6 @@ I provide training courses in English, Hebrew, and Hungarian.
 
 ## Get started now!
 
-Would you like me to train the developers or the qa engineers in your company? Let's talk about it! Send me an e-mail to [gabor@szabgab.com](mailto:gabor@szabgab.com) to schedule a call or to get more information via e-mail.
+Would you like me to train the developers or the QA engineers in your company? Let's talk about it! Send me an e-mail to [gabor@szabgab.com](mailto:gabor@szabgab.com) to schedule a call or to get more information via e-mail.
 
 <a class="button is-primary" href="/contact">Contact me</a>
