@@ -45,7 +45,6 @@ Having well documented types in your code-base makes the code safer and much eas
 
 That helps eliminate bug while increasing the speed of development.
 
-
 ## Migration to Python or Rust
 
 Migrating a project from one programming language to another is not an easy task. It takes time and during that time the original implementation also needs maintenance.
@@ -54,6 +53,16 @@ Making it a moving target.
 One needs to train the developers in the new language, help with the implementation, help avoiding pitfalls of the new language that are different from the pitfalls in the old one.
 
 In some cases the clients ask only for training, in other cases they the involve require involvement from the planning phase, through the implementation and even beyond, supporting the project.
+
+## Open Source contributions workshop
+
+Your company relies on hundreds or maybe even thousands of 3rd-party open source libraries. Are those maintained? When you encounter a bug do you get support from the developers?
+
+If your employees created a fix, have you contributed it back to the community or will you have to maintain an internal fork of that project?
+
+In this workshop your team will learn both the technical and the social aspects of contributing to an open source project. It will make it much easier for them to navigate
+the world of open source project you rely on. It will make those project more reliable for your company.
+
 
 <a class="button is-primary" href="/contact">Contact me</a>
 
