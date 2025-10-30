@@ -11,8 +11,10 @@
 Hi, I help people create more value sooner by developing software faster and at a lower bug-rate.
 </p>
 <p>
-I do this by teaching programming in <b class="has-text-primary">Rust</b> and <b class="has-text-primary">Python</b>. In addition to the programming part I am also teaching testing in Python with <b class="has-text-primary">pytest</b>, version control with <b class="has-text-primary">Git</b> (+ using <b class="has-text-primary">GitHub</b>, <b class="has-text-primary">GitLab)</b> and containerization using <b class="has-text-primary">Docker</b>.
-        </p>
+I do this with a mix of hands-on work and teaching. My primary focus are <b class="has-text-primary">Python</b>, <b class="has-text-primary">Rust</b>, and <b class="has-text-primary">Perl</b>.
+In addition to the programming languages I am also helping with testing in Python (<b class="has-text-primary">pytest</b>), type-annotation in Python (<b class="has-text-primary">mypy</b>),
+version control with <b class="has-text-primary">Git</b> (+ using <b class="has-text-primary">GitHub</b>, <b class="has-text-primary">GitLab)</b> and containerization using <b class="has-text-primary">Docker</b>.
+</p>
 <p>
 My courses contain a lot of hands-on exercises and a lot of interaction with each individual student. Every participant receives lifetime access to all the slides of the course and, all the exercises, and all the solutions for the exercises.
 </p>
