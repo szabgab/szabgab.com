@@ -31,12 +31,32 @@ My courses contain a lot of hands-on exercises and a lot of interaction with eac
 
 <a class="button is-primary" href="/contact">Contact me</a>
 
-## Introduing Best practices
+## Introducing Best practices
 
 In many cases people learn a programming language on her own and start using it. As the team growth with people new to the language they accumulate a set of practies that are not always the best practices known to the industry.
 This might mean less external code-reuse. It might mean less than optimal solutions. It might mean less maintainability of code.
 
 I can help teams get up-to-date, introduce and later enforce industry-wide best practices.
+
+## Helping with legacy code
+
+What is really legacy code? Is it just "old code"? When do you consider some code "legacy"?
+
+Is badly written code? Is it code written by people who were not programmers or who did not know the particular language well?
+
+Is it a derogative term used for "existing software"?
+
+Is it code written for an earlier version of the programming language or for the libraries it uses?
+
+Is it code that is unfamiliar to most (or all) current employees?
+
+Is it code that is making money and occassionally needs some change, but all the people in the company are afraid to touch?
+
+Is there a difference between "dealing with legacy code" and "code maintenance"?
+
+Most people don't like to deal with legacy code. But way to often you have to.
+
+That's where I can help. Dealing with legacy code.
 
 
 ## Introducing automated tests
