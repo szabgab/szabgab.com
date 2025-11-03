@@ -31,6 +31,14 @@ My courses contain a lot of hands-on exercises and a lot of interaction with eac
 
 <a class="button is-primary" href="/contact">Contact me</a>
 
+## Introduing Best practices
+
+In many cases people learn a programming language on her own and start using it. As the team growth with people new to the language they accumulate a set of practies that are not always the best practices known to the industry.
+This might mean less external code-reuse. It might mean less than optimal solutions. It might mean less maintainability of code.
+
+I can help teams get up-to-date, introduce and later enforce industry-wide best practices.
+
+
 ## Introducing automated tests
 
 Setting up a Continuous Integration system, setting up a testing environment. Writing unit, integration, and acceptance-tests. Helping the team members to write tests.
