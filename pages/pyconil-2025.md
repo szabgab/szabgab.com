@@ -1,29 +1,25 @@
-=head1 Core C++
+=head1 PyConIL 2025
 =timestamp 1757231601
 =tags links
 
+Some links I'll probably mention in conversations.
 
-
-* [Core C++](https://corecpp.org/)
-    * [Core C++ on Meetup](https://www.meetup.com/corecpp/)
+* [PyConIL 2025](https://pycon.org.il/2025/)
+    * [Announcement list](https://lists.hamakor.org.il/postorius/lists/news.pycon.org.il/)  - [archive](https://lists.hamakor.org.il/hyperkitty/list/news@pycon.org.il/)
+    * [Facebook](https://www.facebook.com/pyconisrael/)
+    * [LinkedIn](https://www.linkedin.com/company/pycon-israel/)
 
 * [HaMakor](https://hamakor.org.il/)
     * [Maakaf](https://maakaf.com/)
     * [Baot](https://www.baot.org/)
     * [Hackeriot](https://www.hackeriot.org/)
-    * Core C++
 
 * [Python in Israel](https://python.org.il/)
     * [Python Communities](https://python.org.il/en/) in Meetup, WhatsApp, Telegram, Facebook, etc.
-
-* [Rust in Israel](https://rust.org.il/)
-    * [Rust communities](https://rust.org.il/community)
+    * Telegram: [Announcements only for meetings, conferences, webinars](https://t.me/PythonInIsrael)
+    * WhatsApp: [Announcements only for meetings, conferences, webinars](https://chat.whatsapp.com/DdcVTh3fVa95AKfv9PHLOI)
+    * [Python Jobs on LinkedIn](https://www.linkedin.com/company/python-jobs-in-israel/)
 
 * [OSDC](https://osdc.code-maven.com/)
-
-* [Gábor Szabó on LinkedIn](https://www.linkedin.com/in/szabgab/) and on [GitHub](https://github.com/szabgab/)
-
-## Recursive QR code
-
-![](/img/qr-code-for-pyconil-2025.png)
+* [Rust in Israel](https://rust.org.il/)
 

@@ -1,0 +1,29 @@
+=head1 Core C++
+=timestamp 1757231602
+=tags links
+
+
+
+* [Core C++](https://corecpp.org/)
+    * [Core C++ on Meetup](https://www.meetup.com/corecpp/)
+
+* [HaMakor](https://hamakor.org.il/)
+    * [Maakaf](https://maakaf.com/)
+    * [Baot](https://www.baot.org/)
+    * [Hackeriot](https://www.hackeriot.org/)
+    * Core C++
+
+* [Python in Israel](https://python.org.il/)
+    * [Python Communities](https://python.org.il/en/) in Meetup, WhatsApp, Telegram, Facebook, etc.
+
+* [Rust in Israel](https://rust.org.il/)
+    * [Rust communities](https://rust.org.il/community)
+
+* [OSDC](https://osdc.code-maven.com/)
+
+* [Gábor Szabó on LinkedIn](https://www.linkedin.com/in/szabgab/) and on [GitHub](https://github.com/szabgab/)
+
+## Recursive QR code
+
+![](/img/qr-code-for-pyconil-2025.png)
+
