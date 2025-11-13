@@ -23,7 +23,7 @@ This leads us to the macro-economic solution. As more and more people use Rust a
 and in general will lead to a more mature ecosystem. Some people see this as "this will happen eventually", but behind that there are many individual decisions
 to invest more in the improvement of the Rust ecosystem.
 
-As each individual and each company interested using Rust invests more in the Rust ecosystem, the whole pie grows. That investnent can be the development
+As each individual and each company interested using Rust invests more in the Rust ecosystem, the whole pie grows. That investment can be the development
 of an open source library or the contribution to such a library. It can helping other people get started with Rust, the preparation of learning materials, etc.
 As a company it might be the sponsoring of the [Rust Foundation](https://rustfoundation.org/) or individual Rust developers directly.
 
