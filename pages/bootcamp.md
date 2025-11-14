@@ -36,11 +36,12 @@
 Beyond the fee of the course itself you'll have to pay for some external services.
 
 * One or more AI systems
-    * GitHub co-pilot $10/month
-    * ChatGPT $20/month
-    * Gemini $20/month
+    * [GitHub co-pilot](https://github.com/features/copilot/plans) $10/month
+    * [ChatGPT](https://chatgpt.com/pricing) $20/month
+    * [Gemini](https://gemini.google.com/) $20/month
 
-* Rendint a Virtual Private Server (VPS) $5/month or more.
+* Renting a Virtual Private Server (VPS) $5/month or more.
+    * [Linode](https://www.linode.com/pricing/)
 
 ## Time requirements
 
