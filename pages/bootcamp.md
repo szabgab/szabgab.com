@@ -34,6 +34,10 @@
 ## Expenses
 
 Besides the fee of the course itself you'll have to pay for some external services.
+Most of these services have a limited availability free of charge.
+For the duration of the course you might want to upgrade one or more of these services to a paid account.
+
+Some of the prices as I saw in November 2025.
 
 * One or more AI systems
     * [GitHub co-pilot](https://github.com/features/copilot/plans) $10/month
@@ -42,6 +46,11 @@ Besides the fee of the course itself you'll have to pay for some external servic
 
 * Renting a Virtual Private Server (VPS) $5/month or more.
     * [Linode](https://www.linode.com/pricing/)
+
+## Computer requirements
+
+* You will need a "reasonably powerful" machine.
+* You will need a good and stable Internet connection.
 
 ## Time requirements
 
