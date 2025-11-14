@@ -33,7 +33,7 @@
 
 ## Expenses
 
-Beyond the fee of the course itself you'll have to pay for some external services.
+Besides the fee of the course itself you'll have to pay for some external services.
 
 * One or more AI systems
     * [GitHub co-pilot](https://github.com/features/copilot/plans) $10/month
@@ -45,5 +45,9 @@ Beyond the fee of the course itself you'll have to pay for some external service
 
 ## Time requirements
 
-10-12 hours weekly to watch the lectures, do the assignments, participate in the live chat.
+6-10 hours weekly to watch the lectures, do the assignments, participate in the live chat.
+
+* 3 hours of presentation (live or pre-recorded) that you might need to watch more than once.
+* Assignments
+
 
