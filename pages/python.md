@@ -21,8 +21,7 @@ For the tight feedback loop you need automated tests that can run fast, you need
 
 I can help setting up and developing these and I can also teach your team members to continue running with these new tools.
 
-<a class="button is-primary" href="/contact">Contact me</a>
-
+## Python Courses
 
 I have a number of fixed Python courses and I can also customize a course for your exact needs.
 
@@ -31,8 +30,6 @@ I have a number of fixed Python courses and I can also customize a course for yo
 * [Testing Python code for backend Python developers](/courses/testing-python)
 * [Analyzing data with Python using NumPy and Pandas](/courses/analysing-data-with-python-using-numpy-and-pandas).
 * [Web application development using Python Flask](/courses/flask).
-
-<a class="button is-primary" href="/contact">Contact me</a>
 
 ## Open Source Python projects
 
