@@ -1,4 +1,4 @@
-=head1 Contact Gabor Szabo
+=head1 Contact Gábor Szabó
 =timestamp 1153283008
 =skip all
 
