@@ -16,6 +16,8 @@
 
 Helping companies to move forward in their projects by providing training, consulting, and contract development work primarily in Rust, Python, and Perl.
 
+Helping with testing, refactoring, setting up CI, containerization, and development best practices.
+
 ## Experience
 
 ### 2018-present: **Guest Lecturer at Weizmann Institute of Science**
