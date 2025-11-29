@@ -21,6 +21,10 @@
 * [Full Stack Python](https://www.fullstackpython.com/) by Matt Makai
 * [Dead Simple Python (Jason C. McDonald)](https://codemouse92.com/)
 * [James Briggs](https://www.youtube.com/c/jamesbriggs)
+* [Patrick Loeber](https://patloeber.com/) [Python Engineer](https://www.python-engineer.com/) - [YouTube](https://www.youtube.com/@patloeber)
+* [Dusty Phillips](https://dusty.phillips.codes/)
+* [Al Sweigart](https://alsweigart.com/)
+* [Trey Hunner](https://treyhunner.com/)
 
 
 ## Perl
