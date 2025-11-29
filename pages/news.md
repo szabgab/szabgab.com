@@ -18,6 +18,10 @@
 * [PyCoders](https://pycoders.com/)
 * [Reddit /r/Python](https://www.reddit.com/r/Python/)
 
+* [Full Stack Python](https://www.fullstackpython.com/) by Matt Makai
+* [Dead Simple Python (Jason C. McDonald)](https://codemouse92.com/)
+* [James Briggs](https://www.youtube.com/c/jamesbriggs)
+
 
 ## Perl
 
