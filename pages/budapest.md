@@ -100,27 +100,29 @@ I guess it will be difficult to recommend only 2-3 places so here is a longer li
 </ul>
 </p>
 
-<h2>Restaurants</h2>
-<p>
-<ul>
-<li><a href="http://zoocafe.hu/">Zoo Cafe</a> to have a drink while petting various animals. Great fun for kids and grown ups.</li>
-<li><a href="http://www.gerbeaud.hu/">Gerbeaud</a> Vörösmarty tér 7, next to Váci utca</li>
-<li><a href="https://www.google.com/search?q=cafe+kor+budapest&ie=utf-8&oe=utf-8&client=firefox-b-ab">Café Kör</a> Sas utca, 17 </li>
-<li><a href="https://www.remiz.hu/">Remiz</a> Budakeszi Út 5.</li>
-<li><a href="https://www.gundel.hu/">Gundel</a> Állatkerti Út 2 (not far from the Vajda Hunyad Vára and Heroes square). It is very expensive.</li>
-<li><a href="http://www.ujsipos.hu/">Űj Sipos in Óuda</a> </li>
-<li><a href="http://szepilonavendeglo.hu/">Szép Ilona vendéglő</a> in Hűvösvölgy.</li>
-<li><a href="http://www.halaszkert.hu/">Halászkert</a></li>
-<li>Rosenstein restaurant in Mosonyi str.</li>
-<li><a href="http://www.blueroserestaurant.eu/">Kék Rózsa in Wesselényi str</a></li>
-<li><a href="http://www.fulemule.hu/">Fülemüle vendéglő</a></li>
-<li>Művész Café Andrássy út 29</li>
-<!-- <li><a href="http://www.angelikacafe.hu/">Angelika Café</a> Batthyány tér 7</li> -->
-<li>Ruszwurm Szentháromság utca 7 in the castle.</li>
-<li><a href="http://www.fatalrestaurant.com/">Fatál Étterem</a> Váci utca 67</li>
-<li>Café Restaurant New York Erzsébet kőrút 9-11</li>
-</ul>
-</p>
+## Restaurants
+
+* [Darband](https://darband.hu/) Persian Restaurant
+* [Iranian sweets](https://www.facebook.com/100057164331099/)
+* [Tabani Kakas](https://tabanikakas.hu/) on [Facebook](https://www.facebook.com/tabanikakas/)
+* [Vak Varjú](https://vakvarju.com/)
+* [Márkus étterem](https://www.markusetterem.hu/)
+* <a href="http://zoocafe.hu/">Zoo Cafe</a> to have a drink while petting various animals. Great fun for kids and grown ups.
+* <a href="http://www.gerbeaud.hu/">Gerbeaud</a> Vörösmarty tér 7, next to Váci utca
+* <a href="https://www.google.com/search?q=cafe+kor+budapest&ie=utf-8&oe=utf-8&client=firefox-b-ab">Café Kör</a> Sas utca, 17 
+* <a href="https://www.remiz.hu/">Remiz</a> Budakeszi Út 5.
+* <a href="https://www.gundel.hu/">Gundel</a> Állatkerti Út 2 (not far from the Vajda Hunyad Vára and Heroes square). It is very expensive.
+* <a href="http://www.ujsipos.hu/">Űj Sipos in Óuda</a> 
+* <a href="http://szepilonavendeglo.hu/">Szép Ilona vendéglő</a> in Hűvösvölgy.
+* <a href="http://www.halaszkert.hu/">Halászkert</a>
+* Rosenstein restaurant in Mosonyi str.
+* <a href="http://www.blueroserestaurant.eu/">Kék Rózsa in Wesselényi str</a>
+* <a href="http://www.fulemule.hu/">Fülemüle vendéglő</a>
+* Művész Café Andrássy út 29
+<!-- <a href="http://www.angelikacafe.hu/">Angelika Café</a> Batthyány tér 7 -->
+* Ruszwurm Szentháromság utca 7 in the castle.
+* <a href="http://www.fatalrestaurant.com/">Fatál Étterem</a> Váci utca 67
+* Café Restaurant New York Erzsébet kőrút 9-11
 
 <h2>Places for kids</h2>
 <ul>
