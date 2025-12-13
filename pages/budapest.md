@@ -107,21 +107,24 @@ I guess it will be difficult to recommend only 2-3 places so here is a longer li
 * [Tabani Kakas](https://tabanikakas.hu/) on [Facebook](https://www.facebook.com/tabanikakas/)
 * [Vak Varjú](https://vakvarju.com/)
 * [Márkus étterem](https://www.markusetterem.hu/)
-* <a href="http://zoocafe.hu/">Zoo Cafe</a> to have a drink while petting various animals. Great fun for kids and grown ups.
-* <a href="http://www.gerbeaud.hu/">Gerbeaud</a> Vörösmarty tér 7, next to Váci utca
-* <a href="https://www.google.com/search?q=cafe+kor+budapest&ie=utf-8&oe=utf-8&client=firefox-b-ab">Café Kör</a> Sas utca, 17 
-* <a href="https://www.remiz.hu/">Remiz</a> Budakeszi Út 5.
-* <a href="https://www.gundel.hu/">Gundel</a> Állatkerti Út 2 (not far from the Vajda Hunyad Vára and Heroes square). It is very expensive.
-* <a href="http://www.ujsipos.hu/">Űj Sipos in Óuda</a> 
-* <a href="http://szepilonavendeglo.hu/">Szép Ilona vendéglő</a> in Hűvösvölgy.
-* <a href="http://www.halaszkert.hu/">Halászkert</a>
+* [ODA](https://www.odavagyunk.hu/)
+* [Szaletly](https://szaletly.hu/)
+* [Rotigami](https://www.facebook.com/rotigami/)
+* [Zoo Cafe](http://zoocafe.hu/) to have a drink while petting various animals. Great fun for kids and grown ups.
+* [Gerbeaud](http://www.gerbeaud.hu/) Vörösmarty tér 7, next to Váci utca
+* [Café Kör](https://www.google.com/search?q=cafe+kor+budapest&ie=utf-8&oe=utf-8&client=firefox-b-ab) Sas utca, 17
+* [Remiz](https://www.remiz.hu/) Budakeszi Út 5.
+* [Gundel](https://www.gundel.hu/) Állatkerti Út 2 (not far from the Vajda Hunyad Vára and Heroes square). It is very expensive.
+* [Új Sipos in Óuda](http://www.ujsipos.hu/)
+* [Szép Ilona vendéglő](http://szepilonavendeglo.hu/) in Hűvösvölgy.
+* [Halászkert](http://www.halaszkert.hu/)
 * Rosenstein restaurant in Mosonyi str.
-* <a href="http://www.blueroserestaurant.eu/">Kék Rózsa in Wesselényi str</a>
-* <a href="http://www.fulemule.hu/">Fülemüle vendéglő</a>
+* [Kék Rózsa in Wesselényi str](http://www.blueroserestaurant.eu/)
+* [Fülemüle vendéglő](http://www.fulemule.hu/)
 * Művész Café Andrássy út 29
-<!-- <a href="http://www.angelikacafe.hu/">Angelika Café</a> Batthyány tér 7 -->
+<!-- [Angelika Café](http://www.angelikacafe.hu/) Batthyány tér 7 -->
 * Ruszwurm Szentháromság utca 7 in the castle.
-* <a href="http://www.fatalrestaurant.com/">Fatál Étterem</a> Váci utca 67
+* [Fatál Étterem](http://www.fatalrestaurant.com/) Váci utca 67
 * Café Restaurant New York Erzsébet kőrút 9-11
 
 <h2>Places for kids</h2>
@@ -170,26 +173,23 @@ I guess it will be difficult to recommend only 2-3 places so here is a longer li
 <li><a href="http://www.iranymagyarorszag.hu/szigligeti_var/I311271/">Szigligeti var</a></li>
 </ul>
 
-<h2>Hiking ideas in and near Budapest</h2>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/H%C3%A1rmashat%C3%A1r-hegy">Hármashatárhegy</a></li>
-<li>Libegő (chairlift) - Jánoshegy - Ifjusági vasút - Szabadság hegy - <a href="https://en.wikipedia.org/wiki/Budapest_Cog-wheel_Railway">Fogas (Cog wheel)</a></li>
-<li>Gellért tér - <a href="https://en.wikipedia.org/wiki/Gell%C3%A9rt_Hill">Gellért hegy</a> - Vár</li>
-<li><a href="https://www.dunaipoly.hu/hu/helyek/bemutatohelyek/pal-volgyi-barlang">Pál-völgyi-barlang</a></li>
-<li>Szentendre</li>
-<li><a href="http://parkerdo.hu/">Parkerdő</a></li>
-<li><a href="http://www.dobogokokirandulas.hu/">Dobogókő</a></li>
-</ul>
+## Hiking ideas in and near Budapest
 
-<h2>Jewish</h2>
+* [Hármashatárhegy](https://en.wikipedia.org/wiki/H%C3%A1rmashat%C3%A1r-hegy).
+* Libegő (chairlift) - Jánoshegy - Ifjusági vasút - Szabadság hegy - [Fogas (Cog wheel)](https://en.wikipedia.org/wiki/Budapest_Cog-wheel_Railway).
+* Gellért tér - [Gellért hegy](https://en.wikipedia.org/wiki/Gell%C3%A9rt_Hill) - Vár.
+* [Pál-völgyi-barlang](https://www.dunaipoly.hu/hu/helyek/bemutatohelyek/pal-volgyi-barlang).
+* Szentendre
+* [Parkerdő](http://parkerdo.hu/)
+* [Dobogókő](http://www.dobogokokirandulas.hu/)
 
-<ul>
-<li><a href="https://bzsh.hu/">BZSH Budapest Jewish Community</a> page only in Hungarian</li>
-<li><a href="https://mazsihisz.hu/en">MAZSIHISZ - Hungarian Jewish community</a> 1-2 pages in English the most are in Hungarian</li>
-<li>Synagogues in Budapest: <a href="https://mazsihisz.hu/kozossegeink/magyar-zsido-adatbazis/budapesti-zsinagogak-es-korzeti-irodak">list</a> more <a href="https://bzsh.hu/zsinagogaink/">details</a> (both in Hungarian)</li>
-<li><a href="https://jewishtourhungary.com/en">The Dohány street synagogue</a> The largest synagogue in Europe and second largest in the world. The same in <a href="https://en.wikipedia.org/wiki/Doh%C3%A1ny_Street_Synagogue">Wikipedia</a></li>
-<li><a href="http://www.sim-shalom.org/">Sim Shalom Progressive Jewish Congregation</a></li>
-</ul>
+## Jewish
+
+* [BZSH Budapest Jewish Community](https://bzsh.hu/) page only in Hungarian.
+* [MAZSIHISZ - Hungarian Jewish community](https://mazsihisz.hu/en) 1-2 pages in English the most are in Hungarian.
+* Synagogues in Budapest: [list](https://mazsihisz.hu/kozossegeink/magyar-zsido-adatbazis/budapesti-zsinagogak-es-korzeti-irodak) more [details](https://bzsh.hu/zsinagogaink/) (both in Hungarian).
+* [The Dohány street synagogue](https://jewishtourhungary.com/en) The largest synagogue in Europe and second largest in the world. The same in [Wikipedia](https://en.wikipedia.org/wiki/Doh%C3%A1ny_Street_Synagogue).
+* [Sim Shalom Progressive Jewish Congregation](http://www.sim-shalom.org/).
 
 
 
