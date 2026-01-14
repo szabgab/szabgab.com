@@ -20,5 +20,5 @@ Two I'd like to point out that I found just in the last few minutes:
 I have no idea how many people actually pay attention to the license information before they start using something, but I feel the lack of unified way to identify licenses is problematic.
 
 
-I have not checked any of the discussions about the topic so I am not aware of the current state of thinking about this and the potential obsticles, for now, I am just pointing at this problem.
+I have not checked any of the discussions about the topic so I am not aware of the current state of thinking about this and the potential obstacles, for now, I am just pointing at this problem.
 
