@@ -4,11 +4,11 @@
 
 As I am working on the new version of the [PyDigger](https://pydigger.code-maven.com/) I am trying to make sense (again) the licenses of Python packages on PyPI.
 
-A lot of modules don't have a "license" field in their meta-data.
+A lot of packages don't have a "license" field in their meta-data.
 
 Among those that have, most have a short identifier of a license, but it is not enforced in any way.
 
-Some modules include the full text of a license in that meta field. Some include some arbitrary text.
+Some packages include the full text of a license in that meta field. Some include some arbitrary text.
 
 Two I'd like to point out that I found just in the last few minutes:
 
