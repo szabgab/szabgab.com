@@ -15,6 +15,12 @@ I like the music of [Gabor Szabo, the Jazz Guitarist](https://en.wikipedia.org/w
 * [Budapest Bár](https://budapestbar.hu/) - [Budapest Bár](https://www.youtube.com/user/budapestbar)
 * [Anna and the Barbies](https://www.youtube.com/user/annaandthebarbies) - Ánem - Márti dala
 
+* [East](https://hu.wikipedia.org/wiki/East)
+* Presser Gábor: Electromantic
+* Locomotive GT (LGT)
+* [Első Emelet](https://hu.wikipedia.org/wiki/Els%C5%91_Emelet)
+* [Solaris](https://hu.wikipedia.org/wiki/Solaris_(egy%C3%BCttes))
+
 ### Ladino - Sephardic music
 
 * Las Compras Del Rabino / Alcacik Duvar Üstü - Aman Aman - Musica I Cants Sefardis - 2007
@@ -22,7 +28,7 @@ I like the music of [Gabor Szabo, the Jazz Guitarist](https://en.wikipedia.org/w
 
 ## Older entries to be reaarranged
 
-* Bruises by <a href="http://en.wikipedia.org/wiki/Chairlift_%28band%29">Chairlift</a>
+* Bruises by [Chairlift](http://en.wikipedia.org/wiki/Chairlift_%28band%29)
 * [Rachel Platten](https://www.rachelplatten.com/)
 * [The Rescues](http://www.therescues.com/)
 * Anj Granieri
@@ -34,11 +40,11 @@ I like the music of [Gabor Szabo, the Jazz Guitarist](https://en.wikipedia.org/w
 |                                                               |                                                                          | [Jeff Beck - Rock n Roll Party Honoring Les Paul](https://www.youtube.com/watch?v=4VfeP3roN7A")      |
 | The Corrs                                                     |                                                                          | [The Corrs](https://www.youtube.com/watch?v=TFiTRbxX_2I)                                             |
 | Candy Dulfer                                                  | [Candy Dulfer](https://en.wikipedia.org/wiki/Candy_Dulfer)               | [Candy Dulfer Live In Leverkusen Jazztage2009Full Show](https://www.youtube.com/watch?v=0YrJvZB2dzg) |
-| [Joss Stone](https://www.jossstone.com/)                      |                                                                          | <a href="https://www.youtube.com/results?search_query=Joss+Stone">Joss Stone</a> |
-| [Spyro Gyra](https://spyrogyra.com/)                          |                                                                          | <a href="https://www.youtube.com/results?search_query=Spyro+Gyra">Spyro Gyra</a> |
-| Avishai Cohen                                                 |                                                                          | <a href="https://www.youtube.com/results?search_query=Avishai+Cohen">Avishai Cohen</a> |
-| Sade                                                          | [Sade](https://en.wikipedia.org/wiki/Sade_%28singer%29)                  | <a href="https://www.youtube.com/results?search_query=Sade">Sade</a> |
-| [Gregory Porter](https://www.gregoryporter.com/)              |                                                                          | <a href="https://www.youtube.com/results?search_query=Gregory+Porter">Gregory Porter</a> |
+| [Joss Stone](https://www.jossstone.com/)                      |                                                                          | [Joss Stone](https://www.youtube.com/results?search_query=Joss+Stone) |
+| [Spyro Gyra](https://spyrogyra.com/)                          |                                                                          | [Spyro Gyra](https://www.youtube.com/results?search_query=Spyro+Gyra) |
+| Avishai Cohen                                                 |                                                                          | [Avishai Cohen](https://www.youtube.com/results?search_query=Avishai+Cohen) |
+| Sade                                                          | [Sade](https://en.wikipedia.org/wiki/Sade_%28singer%29)                  | [Sade](https://www.youtube.com/results?search_query=Sade) |
+| [Gregory Porter](https://www.gregoryporter.com/)              |                                                                          | [Gregory Porter](https://www.youtube.com/results?search_query=Gregory+Porter) |
 | [Nestor Torres](https://nestortorres.com/)                    | [Nestor Torres](https://en.wikipedia.org/wiki/N%C3%A9stor_Torres)        | <a href="https://www.youtube.com/results?search_query=Nestor+Torres">Nestor Torres</a> |
 |                                                               | [Wu Bai and China Blue](https://en.wikipedia.org/wiki/Wu_Bai)            | <a href="https://www.youtube.com/results?search_query=Wu+Bai+and+China+Blue">Wu Bai and China Blue</a> |
 | [Jan Garbarek](https://www.garbarek.com/)                     | [Jan Garbarek](https://en.wikipedia.org/wiki/Jan_Garbarek)               | <a href="https://www.youtube.com/results?search_query=jan+garbarek">Jan Garbarek</a> |
@@ -57,9 +63,9 @@ I like the music of [Gabor Szabo, the Jazz Guitarist](https://en.wikipedia.org/w
 | Cat Stevens   | | |
 | KFT           | | |
 | Mike Oldfield | | |
-| [Deep Purple](https://www.deeppurple.com/)     |  <a href="https://en.wikipedia.org/wiki/Deep_Purple">Deep Purple</a> | |
-| [Leonard Cohen](https://www.leonardcohen.com/) |  <a href="https://en.wikipedia.org/wiki/Leonard_Cohen">Leonard Cohen</a> | |
-| 2 Cellos                                                      |                                                                          |  <a href="https://music.youtube.com/channel/UCxwLkfMCfx2uSKO9w4iRfDQ">2 Cellos</a> |
+| [Deep Purple](https://www.deeppurple.com/)     |  [Deep Purple](https://en.wikipedia.org/wiki/Deep_Purple) | |
+| [Leonard Cohen](https://www.leonardcohen.com/) |  [Leonard Cohen](https://en.wikipedia.org/wiki/Leonard_Cohen) | |
+| 2 Cellos                                                      |                                                                          | [2 Cellos](https://music.youtube.com/channel/UCxwLkfMCfx2uSKO9w4iRfDQ) |
 
 Spyro Gyra: Point Of View
 Spyro Gyra: Love and other obsessions
@@ -151,11 +157,11 @@ Spyro Gyra: Breakout
 
 ### Classical music
 
-* <a href="https://en.wikipedia.org/wiki/Eine_kleine_Nachtmusik">Mozart: Eine kleine Nachtmusik</a>
+* [Mozart: Eine kleine Nachtmusik](https://en.wikipedia.org/wiki/Eine_kleine_Nachtmusik)
 * Mozart: Symphony Nr 38 "Prague"
 * Mozart: Flute and Calrinet Concert
 * Mozart: Requiem
-* <a href="https://en.wikipedia.org/wiki/George_Frideric_Handel">Handel</a>
+* [Handel](https://en.wikipedia.org/wiki/George_Frideric_Handel)
 * Beethoven: Eroica
 * Liszt
 * Mahler: Le Titan
@@ -226,7 +232,7 @@ Spyro Gyra: Breakout
 * Blood Sweat &amp; Tears: Greatest Hits
 * Brasilian Combo: Brasilia Carnaval, Rythmo Tropical
 * Cats (the musical)
-* Deep Purple: <a href="https://www.youtube.com/watch?v=DPDWK7Jd9s0">The Royal Philharmonic Orchestra</a>
+* Deep Purple: [The Royal Philharmonic Orchestra](https://www.youtube.com/watch?v=DPDWK7Jd9s0)
 * Deep Purple: Fireball
 * Deep Purple: Machine Head
 * Deep Purple: in Rock
@@ -236,7 +242,7 @@ Spyro Gyra: Breakout
 * Deep Purple: Made in Europe
 * Fats Domino: (Rock'n'Roll Forever)
 * Eruption: Leave a light
-* <a href="https://en.wikipedia.org/wiki/The_Everly_Brothers">Everlys</a>: Walk Right Back With the Everlys 20 Golden Hits
+* [Everlys](https://en.wikipedia.org/wiki/The_Everly_Brothers): Walk Right Back With the Everlys 20 Golden Hits
 * Ian Gillan: Futur shock
 * The Godfather (the movie)
 * Godspell
@@ -246,10 +252,10 @@ Spyro Gyra: Breakout
 * KISS: Dynasty
 * KISS: Dressed to Kill
 * KISS: Unmasked
-* <a href="https://en.wikipedia.org/wiki/Jon_Lord">Jon Lord</a>: <a href="https://www.youtube.com/watch?v=rkMI-R8Ka0c">Sarabande</a>
+* [Jon Lord](https://en.wikipedia.org/wiki/Jon_Lord): [Sarabande](https://www.youtube.com/watch?v=rkMI-R8Ka0c)
 * Manfred Mann: The Best of ~
-* <a href="https://en.wikipedia.org/wiki/Manfred_Mann%27s_Earth_Band">Manfred Mann's Earth Band</a>: Somewhere in Afrika
-* <a href="http://www.manfredmann.co.uk/">Manfred Mann's Earth Band</a>: Solar Fire
+* [Manfred Mann's Earth Band](https://en.wikipedia.org/wiki/Manfred_Mann%27s_Earth_Band): Somewhere in Afrika
+* [Manfred Mann's Earth Band](http://www.manfredmann.co.uk/): Solar Fire
 * Manfred Mann's Earth Band: Watch
 * Manfred Mann's Earth Band: Chance
 * Bob Marley &amp; The Wailers: Uprising
