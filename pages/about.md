@@ -46,10 +46,10 @@ For example [Collaborative Development using Git and GitHub](https://leanpub.com
 
 I have 4 YouTube Channels in 4 different languages. I primarily upload videos in English and Hebrew, but I have been experimenting with Spanish, and Hungarian as well.
 
-* [English](https://code-maven.com/youtube)
-* [Hebrew](https://he.code-maven.com/youtube)
-* [Spanish](https://es.code-maven.com/youtube)
-* [Hungarian](https://hu.code-maven.com/youtube)
+* [English](https://www.youtube.com/@CodeMaven)
+* [Hebrew](https://www.youtube.com/@code-maven-in-hebrew)
+* [Spanish](https://www.youtube.com/@code-maven-en-espanol)
+* [Hungarian](https://www.youtube.com/@code-maven-magyarul)
 
 ## Presentations
 
@@ -112,17 +112,17 @@ During high-school I got my first programmable calculator a [Casio FX-702P](http
 
 <img src="/img/Casio_FX-702P_Programmable_Calculator.png">
 
-I also had access to <a href="https://hu.wikipedia.org/wiki/HT%E2%80%931080Z">HT-1080Z</a> computers in the
-school computer-lab. It is a clone of <a href="https://en.wikipedia.org/wiki/TRS-80">TRS-80</a>.
+I also had access to [HT-1080Z](https://hu.wikipedia.org/wiki/HT%E2%80%931080Z) computers in the
+school computer-lab. It is a clone of [TRS-80](https://en.wikipedia.org/wiki/TRS-80).
 
-Later I got a <a href="https://en.wikipedia.org/wiki/ZX_Spectrum">ZX Spectrum</a>
+Later I got a [ZX Spectrum](https://en.wikipedia.org/wiki/ZX_Spectrum)
 <img src="img/ZXSpectrum48k.png">
 
 It took two years to understand that Theoretical Mathematics is way too much for me,
 so in 1989 I decided to make some adjustments. It involved moving to Israel, spending almost a year in
-<a href="http://en.wikipedia.org/wiki/Na%27an">Kibbutz Na'an</a>, learning Hebrew
+[Kibbutz Na'an](https://en.wikipedia.org/wiki/Na%27an), learning Hebrew
 and then starting to learn Computer Sciences and Business Administration at the
-<a href="http://www.huji.ac.il/">Hebrew University</a>. I graduated in 1993 and then
+[Hebrew University in Jerusalem](https://www.huji.ac.il/). I graduated in 1993 and then
 went on to do an MBA in the same place while working full time in various hi-tech companies.
 
 The first company I worked for was Digital (DEC). I worked there only a few months writing
@@ -158,20 +158,18 @@ My [GitLab](https://gitlab.com/szabgab) and [Bitbucket](https://bitbucket.org/sz
 
 
 Throughout the years I have contributed to several Perl modules on
-<a href="https://metacpan.org/author/SZABGAB">CPAN</a> including
-<a href="https://metacpan.org/">MetaCPAN</a> itself.
-Developed and maintained the <a href="http://cpanforum.com/">CPAN::Forum</a> a community web forum,
-and the <a href="http://pcas.szabgab.com/">Perl Community AdServer</a>. I had to shut down both
-due to lack of interest.
-<br>
-In addition I created <a href="http://padre.perlide.org/">Padre, the Perl IDE</a>.
+[CPAN](https://metacpan.org/author/SZABGAB) including
+[MetaCPAN](https://metacpan.org/) itself.
+Developed and maintained the CPAN::Forum a community web forum, and the Perl Community AdServer. I had to shut down both due to lack of interest.
+
+In addition I created [Padre, the Perl IDE](https://padre.perlide.org/).
 
 ## Social activity
 
 I am the organizer of the [Python community in Israel](https://python.org.il/) and that of the [Rust community in Israel](https://rust.org.il/).
 
 
-I used to organize the <a href="https://perl.org.il/">Perl Mongers in Israel</a> and created a lively environment for local Perl enthusiastic in Israel.
+I used to organize the [Perl Mongers in Israel](https://perl.org.il/) and created a lively environment for local Perl enthusiastic in Israel.
 With the invaluable help of other Mongers I have organized several Perl and Open Source Developer Conferences (OSDC)
 in Israel.
 The community used to have monthly meetings both in Tel Aviv and in Jerusalem and a busy mailing list.
@@ -182,17 +180,15 @@ go when looking for Perl related information. Donated the hardware to run the we
 mailing list and even organized with the great help of some other people two Perl Workshops in
 Budapest.
 
-I organized hikes (in the near-by mountains) for the speakers of <a href="https://craft-conf.com/">Craft Conf</a>
-to facilitate opportunities for off-conference bonding and conversations.
-( <a href="/craft-conf-2017">2017</a>, <a href="/craft-conf-2018">2018</a>, <a href="/hiking-after-craft-2019">2019</a>).
-I organized the <a href="/bof-at-craft-conf-2019">BOFs at Craft Conf 2019</a>.
+I organized hikes (in the near-by mountains) for the speakers of [Craft Conf](https://craft-conf.com/)
+to facilitate opportunities for off-conference bonding and conversations:
+[2017](/craft-conf-2017), [2018](/craft-conf-2018), [2019](/hiking-after-craft-2019).
+I organized the [BOFs at Craft Conf 2019](/bof-at-craft-conf-2019).
 
 For my contribution to Open Source in Israel, in 2009, I received the
-<a href="http://wiki.hamakor.org.il/index.php/%D7%A4%D7%A8%D7%A1_%D7%94%D7%9E%D7%A7%D7%95%D7%A8#.D7.AA.D7.A8.D7.95.D7.9E.D7.94_.D7.9C.D7.A7.D7.95.D7.93_.D7.A4.D7.AA.D7.95.D7.97">Hamakor Prize</a>
-from <a href="https://www.hamakor.org.il/">HaMakor</a>, the Israeli non-profit for Open Source and Free Software. (The pages are in Hebrew).
+[Hamakor Prize](https://wiki.hamakor.org.il/index.php/%D7%A4%D7%A8%D7%A1_%D7%94%D7%9E%D7%A7%D7%95%D7%A8#.D7.AA.D7.A8.D7.95.D7.9E.D7.94_.D7.9C.D7.A7.D7.95.D7.93_.D7.A4.D7.AA.D7.95.D7.97) from [HaMakor](https://www.hamakor.org.il/), the Israeli non-profit for Open Source and Free Software. (The pages are in Hebrew).
 
-Mostly for my community work, in 2008, I received the
-<a href="http://whitecamel.org/">White Camel Award</a>.
+Mostly for my community work, in 2008, I received the [White Camel Award](https://whitecamel.org/).
 
 ## Websites
 
@@ -260,22 +256,22 @@ Mostly for my community work, in 2008, I received the
 
 ## Other Projects
 
-* <a href="https://tech-talks.code-maven.com/">Tech Talks for Technical Leaders</a>
+* [Tech Talks for Technical Leaders](https://tech-talks.code-maven.com/)
 
 ## Blog
 
 Even before it was called a blog I used to write in the **use Perl journal**
-and later in <a href="http://blogs.perl.org/users/gabor_szabo/">blogs.perl.org</a>.
-Nowadays I mostly write on the [Rust Maven](https://rust.code-maven.com/), [Python Maven](https://python.code-maven.com/), and the <a href="https://perlmaven.com/">Perl Maven</a> sites
-and on the <a href="https://code-maven.com/">Code Maven</a>.
+and later in [blogs.perl.org](https://blogs.perl.org/users/gabor_szabo/).
+Nowadays I mostly write on the [Rust Maven](https://rust.code-maven.com/), [Python Maven](https://python.code-maven.com/), and the [Perl Maven](https://perlmaven.com/) sites
+and on the [Code Maven](https://code-maven.com/).
 
 
 <!--
 ## Newsletter
 
 On a regular basis I am sending out two newsletters.
-One called <a href="/test-automation-tips">Test Automation Tips</a>
-and the other called and <a href="perl6">Perl 6 Tricks and Treats</a>.
+One called [Test Automation Tips](/test-automation-tips)
+and the other called and [Perl 6 Tricks and Treats](/perl6.
 
 -->
 
@@ -285,54 +281,52 @@ You can see my personal profile on [LinkedIn](https://www.linkedin.com/in/szabga
 
 ## Other Profiles
 
-* [Twitter](https://twitter.com/szabgab)
+* [X-Twitter](https://twitter.com/szabgab)
 * [YCombinator](http://news.ycombinator.com/user?id=szabgab)
 * [Reddit](https://www.reddit.com/user/szabgab/)
 * [Stack Overflow](http://stackoverflow.com/users/11827/szabgab)
 * [Superuser](http://superuser.com/users/87767/szabgab)
 * [Serverfault](http://serverfault.com/users/85821/szabgab)
 * [PerlMonks](http://perlmonks.org/?node_id=415035)
-* [DisqUS](http://disqus.com/szabgab/)
 * [Coderwall](http://coderwall.com/szabgab)
-* [Ohloh](http://www.ohloh.net/accounts/szabgab)
 * [Vimeo](http://vimeo.com/szabgab)
 * [Plurk](http://www.plurk.com/szabgab)
-* [Identi.ca](http://identi.ca/szabgab)
 * [DEV.to](https://dev.to/szabgab/)
+
 
 ## Other
 
-My favorite places in <a href="/budapest">Budapest</a> and some links related to <a href="/israel">Israel</a>.
+My favorite places in [Budapest](/budapest) and some links related to [Israel](/israel).
 
 ## Others about me
 
 It's nice to see what other people write about me or if they take pictures of me, here are a few I found.
 
-<strong>1st Hungarian Perl Workshop, 2002 (Budapest)</strong><br>
-(participated as organizer and speaker)<br>
-<a href="http://www.perl.org.hu/pipermail/perl/2002-August/001205.html">Responses in Hungarian</a>
+### 1st Hungarian Perl Workshop, 2002 (Budapest)
 
-<strong>YAPC::EU::2002 (Munich)</strong><br>
-(participated as speaker)<br>
+Participated as organizer and speaker.
 
-<strong>YAPC::Israel::2003 (Haifa)</strong><br>
-(participated as organizer and speaker)<br>
-<a href="http://www.perl.com/pub/a/2003/05/06/conferences.html">perl.com article about Perl conferences</a><br>
-<a href="http://www.perl.org.il/pipermail/perl/2003-May/001850.html">reflections</a><br>
-<a href="http://www.perl.org.il/pipermail/perl/2003-May/001856.html">more feedback on the conference</a>
+### YAPC::EU::2002 (Munich)
 
-<strong>YAPC::EU::2003 (Paris)</strong><br>
-(participated as speaker)<br>
-<a href="http://www.axis-of-aevil.org/photos/yapc2003/IMG_1919.html">picture 1</a>
-<a href="http://www.axis-of-aevil.org/photos/yapc2003/IMG_1949.html">picture 2</a>
-<a href="http://perl.jonallen.info/bin/view/Main/YapcEu2003Day2">about my talks</a>
+Participated as speaker.
 
-<strong>YAPC::Israel::2004 (Herzelya)</strong><br>
-(participated as organizer and speaker)<br>
-<a href="http://www.perl.org.il/YAPC/2004/html/pictures/HPIM0487.JPG">picture 1</a>
-<a href="http://www.perl.org.il/YAPC/2004/html/pictures/HPIM0489.JPG">picture 2</a>
-<a href="http://www.perl.org.il/YAPC/2004/html/pictures/">small pictures</a>
-<a href="http://www.perl.org.il/pipermail/perl/2004-February/004338.html">perl.org.il responses</a>
+### YAPC::Israel::2003 (Haifa)
+
+Participated as organizer and speaker.
+
+[perl.com article about Perl conferences](https://www.perl.com/pub/a/2003/05/06/conferences.html)
+
+### YAPC::EU::2003 (Paris)
+
+Participated as speaker.
+
+### YAPC::Israel::2004 (Herzelya)
+
+Participated as organizer and speaker.
+
+* [picture 1](https://www.perl.org.il/YAPC/2004/html/pictures/HPIM0487.JPG)
+* [picture 2](https://www.perl.org.il/YAPC/2004/html/pictures/HPIM0489.JPG)
+* [small pictures](https://www.perl.org.il/YAPC/2004/html/pictures/)
 
 
 <strong>2nd Hungarian Perl Workshop, 2004 (Budapest)</strong><br>
