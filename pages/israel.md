@@ -4,21 +4,31 @@
 
 * [Nature Parks and Natural Reserves](https://en.parks.org.il/)
 
-## Historical Places
+* North
+    * [Capernaum National Park](https://en.parks.org.il/reserve-park/kfar-nahum-capernaum-national-park/)
+    * [Gamla](https://en.parks.org.il/reserve-park/gamla-nature-reserve/)
+    * [Har Megido](https://en.parks.org.il/new/tel-megiddo-national-park/) Armegedon
+    * Bahai templ
+    * Rosh HaNikra
+    * Akko
+    * A Druze village
+    * Nazareth
 
-* [Capernaum National Park](https://en.parks.org.il/reserve-park/kfar-nahum-capernaum-national-park/)
-* [Gamla](https://en.parks.org.il/reserve-park/gamla-nature-reserve/)
+* South
+    * Mitzpe Ramon
+    * Eilat
 
+* Center
+    * [Cesaria National Park](https://en.parks.org.il/reserve-park/caesarea-national-park/) with Roman ruins.
 
-* [Cesaria National Park](https://en.parks.org.il/reserve-park/caesarea-national-park/) with Roman ruins.
-
-* Jerusalem old city
-* [The Western Wall (Kotel)](https://thekotel.org/en/) + tours in the Western Wall tunels.
-* [Tower of David Jerusalem Museum](https://www.tod.org.il/en/)
-* [City of David](https://cityofdavid.org.il/en/) tours in tunels.
-* The Ramparts Walk - Walk on the city walls.
-* [Yad Vashem](https://www.yadvashem.org/)
-* [The Israel Museum](https://www.imj.org.il/en/)
+* Jerusalem
+    * Walking around the old city
+    * [The Western Wall (Kotel)](https://thekotel.org/en/) + tours in the Western Wall tunels.
+    * [Tower of David Jerusalem Museum](https://www.tod.org.il/en/)
+    * [City of David](https://cityofdavid.org.il/en/) tours in tunels.
+    * The Ramparts Walk - Walk on the city walls.
+    * [Yad Vashem](https://www.yadvashem.org/)
+    * [The Israel Museum](https://www.imj.org.il/en/)
 
 
 * Dead Sea
@@ -35,6 +45,11 @@
     * Old Tel Aviv Port (Namal Tel Aviv)
     * Tel Aviv beachfront (HaTayelet)
     * Sarona (colony)
+
+* Judea an Samaria (aka. West Bank)
+    * Herodium
+    * Bet Lechem
+    * Hebron
 
 
 <!--
