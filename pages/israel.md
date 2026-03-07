@@ -85,7 +85,7 @@ There are several bus companies serving different areas of the country and there
     * [Tui fly](https://www.tuifly.be/en)
     * [Air Berlin](https://www.airberlin.com/)
     * [Jet2](https://www.jet2.com/)
-    * <s>[RyanAir](https://www.ryanair.com/</s>
+<!--    * [RyanAir](https://www.ryanair.com/) -->
     * ...
 
 * Israeli companies
