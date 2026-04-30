@@ -10,6 +10,7 @@
 * Phone: +972-(0)54-4624648
 * E-mail: szabgab@gmail.com
 * Web site: [szabgab.com](https://szabgab.com/)
+* GitHub: [github.com/szabgab](https://github.com/szabgab/)
 * LinkedIN: [linkedin.com/in/szabgab](https://www.linkedin.com/in/szabgab)
 
 ## Summary
@@ -24,10 +25,10 @@ Helping with testing, refactoring, setting up CI, containerization, and developm
 
 * **Teaching Python to Master's and Phd. students.**
 * Before I started to teach students in 2018 I taught several courses to the researchers and the internal system team.
-* Every semester there is a *Python for Beginners* course.
-* At first if was a 5-days long 8 hours a day intensive course before the semester called *Programming Bootcamp for Scientists*.
+* Every semester there is a **Python for Beginners** course.
+* At first if was a 5-days long 8 hours a day intensive course before the semester called **Programming Bootcamp for Scientists**.
 * During COVID I recorded the whole content of the [Programming Bootcamp for Scientists](https://code-maven.com/programming-bootcamp-for-scientists)
-* Since then the course is back in the class-room. This time 5 half-days before the semester and 5 half-days in the first 5 weeks of the semester.
+* Since then the course is back in the class-room. Now it is 10 sessions during the semester.
 
 ### 1998-present: **Independent Trainer, Consultant, Developer**
 
