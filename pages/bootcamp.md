@@ -85,6 +85,12 @@ Each session will have presentations, assignments, one-on-one work.
 
 In addition you will be encouraged to invest more time in practicing bewteen the sessions.
 
+## Fee
+
+The full fee of the Bootcamp is 9,800 NIS, but depending on your profile and how early you
+register it can be as low as 1,000 NIS. So hurry up!
+
+
 ## Application
 
 There are limited seats for this bootcamp and I will pick the participants with the most potential to succeed.
