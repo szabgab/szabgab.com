@@ -75,15 +75,26 @@ Some of the prices as I saw in July 2026.
 
 The next bootamp will be given in Hebrew.
 
-It will start on August 2, Sunday.
+It will start on August 2, Sunday 2026 and finish on Autust 27.
 
 It will have sessions on Sunday, Tuesday, and Thursday 9:00-12:00 (Israel time)
 
-A total of 15 sessions of 3 hours.
+A total of 12 sessions of 3 hours.
 
 Each session will have presentations, assignments, one-on-one work.
 
-In addition you will be encouraged to invest more time in practicing.
+In addition you will be encouraged to invest more time in practicing bewteen the sessions.
+
+## Application
+
+There are limited seats for this bootcamp and I will pick the participants with the most potential to succeed.
+If you would like to participate, you can fill the following form and I'll get back to you.
+
+Filling the form is NOT a commitment for you to participate nor for me to accept you in this bootcamp.
+
+[Fill out this application form](https://docs.google.com/forms/d/e/1FAIpQLSe_ph_edW0xMKVQ2ogNgrjOPzrCQt1hwxXXuF01unxv1vPAUw/viewform?usp=sharing&ouid=102810219707784087582).
+
+<a class="button is-primary" href="https://docs.google.com/forms/d/e/1FAIpQLSe_ph_edW0xMKVQ2ogNgrjOPzrCQt1hwxXXuF01unxv1vPAUw/viewform?usp=sharing&ouid=102810219707784087582">Apply here!</a>
 
 <!--
 
