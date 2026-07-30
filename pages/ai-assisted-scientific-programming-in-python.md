@@ -24,6 +24,7 @@ software on their computer and will develop software on their computer.
 * Testing the results of our computations.
 * Selecting and using 3rd-party libraries.
 * Analyzing tabular data from an Excel or CSV file.
+* Machine learning to analyze data and create predictions.
 * Generating graphs from the data.
 * Creating a desktop application (GUI) for easy interaction with the core scientific logic.
 * Creating a web application to interact with the core scientific logic.
