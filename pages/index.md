@@ -31,6 +31,19 @@ My courses contain a lot of hands-on exercises and a lot of interaction with eac
 
 <a class="button is-primary" href="/contact">Contact me</a>
 
+## DevRel services
+
+* Customer 0 / Developer 0
+    * Provide a fresh external eye on your product, on the process of onboarding, on the available docmentation, tutorials etc.
+    * Provide recommendations on how to improve them.
+* Help writing some of the documentation, tutorials, etc.
+* Organizing online and offline meetups and hackathons. Raising awareness to your product, helping with the onboarding of new developers.
+* Finding speaking opportunities at meetups and conferences.
+* Finding sponsorship opportunities for meetups, hackathons, and conferences.
+* Reach various developer communities (Python, Go, Rust, JavaScript, etc.)
+* Writing blog posts to reach a wider audience.
+
+
 ## Introducing Best practices
 
 In many cases people learn a programming language on her own and start using it. As the team growth with people new to the language they accumulate a set of practies that are not always the best practices known to the industry.
