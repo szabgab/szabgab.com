@@ -42,6 +42,8 @@ My courses contain a lot of hands-on exercises and a lot of interaction with eac
 * Finding sponsorship opportunities for meetups, hackathons, and conferences.
 * Reach various developer communities (Python, Go, Rust, JavaScript, etc.)
 * Writing blog posts to reach a wider audience.
+* Community management (setting up and maintaining various platforms to facilitate community interaction).
+* Bringing the voice of the community to the internal teams of the organization.
 
 
 ## Introducing Best practices
