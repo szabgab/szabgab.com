@@ -87,6 +87,8 @@ and get a translation.
 
 <a href="https://www.lingq.com/">LingQ</a>
 
+Adam Kolek, the owner of [Talerie](https://talerie.com/es/cuentos) suggested his own site. It looks nice.
+
 
 <h2>Youtube</h2>
 
