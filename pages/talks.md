@@ -2,100 +2,91 @@
 =timestamp 1153282985
 =skip all
 
-<p>I have been providing short talks at various places such as the monthly meeting of the
-<a href="http://www.perl.org.il/">Israeli Perl Mongers</a>, several Perl conferences
+I have been providing short talks at various places such as the monthly meeting of the
+[Israeli Perl Mongers](https://www.perl.org.il/), several Perl conferences
 in France, Germany, Hungary and Israel. The Go-Linux conference in Israel.
-</p>
-<p>
+
 If you'd like to hear one of my presentations, go ahead and <a href="contact.html">contact me</a>
 to work out details. For user groups I provide these talks free of charge, for companies at a nominal fee.
-</p>
-<p><i>I have just lately started to update this page so only a few of my talks can be found here. I am adding more as I have some time.</i></p>
-<ul>
-<li><a href="#qa">The Quality of CPAN Modules</a></li>
-<li><a href="#installing">Installing Perl and Perl Modules, while doing good to the community</a></li>
-<li><a href="#presentations">Presentation Tools</a></li>
-<li><a href="#web-development">Web development on Linux</a></li>
-<li><a href="#debug">Debugging Perl</a></li>
-<li><a href="#debug2">Writing your own Perl Debugger</a></li>
-<li><a href="#parrot">Parrot, the future of dynamic languages</a></li>
-<li><a href="#code-reading">Code Reading</a></li>
-<li><a href="#qa-in-opensource">Test Automation in Open Source Projects</a></li>
-<li><a href="#tap">The evolution of testing, introduction to TAP</a></li>
-<li><a href="#padre">Padre, the Perl IDE</a></li>
-<li><a href="#padre-fosdem-2010">Padre, the Perl IDE: Building an open source team, getting the project to users against the odds</a></li>
-<li><a href="#distributing-cpan-packages">Working with upstream, distributing CPAN packages</a></li>
-<li><a href="#interview-at-cebit-2010">Interview at CeBIT 2010</a></li>
-<li><a href="#padre-at-yapc-eu-2010">Padre, the Perl IDE</a></li>
-<li><a href="#using-perl6-today">Using Perl 6 Today</a></li>
-<li><a href="#how-to-get-your-job-done-and-remain-sane">How to get your job done and remain sane (LPW 2011)</a></li>
-<li><a href="#selling-duct-tape">Selling Duct tape</a></li>
-<li><a href="#refactoring-perl-code">Refactoring Perl code</a></li>
+
+*I have just lately started to update this page so only a few of my talks can be found here. I am adding more as I have some time.*
+
+* <a href="#qa">The Quality of CPAN Modules</a>
+* <a href="#installing">Installing Perl and Perl Modules, while doing good to the community</a>
+* <a href="#presentations">Presentation Tools</a>
+* <a href="#web-development">Web development on Linux</a>
+* <a href="#debug">Debugging Perl</a>
+* <a href="#debug2">Writing your own Perl Debugger</a>
+* <a href="#parrot">Parrot, the future of dynamic languages</a>
+* <a href="#code-reading">Code Reading</a>
+* <a href="#qa-in-opensource">Test Automation in Open Source Projects</a>
+* <a href="#tap">The evolution of testing, introduction to TAP</a>
+* <a href="#padre">Padre, the Perl IDE</a>
+* <a href="#padre-fosdem-2010">Padre, the Perl IDE: Building an open source team, getting the project to users against the odds</a>
+* <a href="#distributing-cpan-packages">Working with upstream, distributing CPAN packages</a>
+* <a href="#interview-at-cebit-2010">Interview at CeBIT 2010</a>
+* <a href="#padre-at-yapc-eu-2010">Padre, the Perl IDE</a>
+* <a href="#using-perl6-today">Using Perl 6 Today</a>
+* <a href="#how-to-get-your-job-done-and-remain-sane">How to get your job done and remain sane (LPW 2011)</a>
+* <a href="#selling-duct-tape">Selling Duct tape</a>
+* <a href="#refactoring-perl-code">Refactoring Perl code</a>
 
 <!--
-<li><a href="#perl-staff-at-yapc-eu-2010">Perl::Staff</a></li>
+* <a href="#perl-staff-at-yapc-eu-2010">Perl::Staff</a>
 -->
-</ul>
 
 <a name="qa"></a>
 <p class="talk-title">The Quality of CPAN Modules</p>
-<p>(60 minutes)</p>
-<p>
+(60 minutes)
+
 How can I know that a module I download from the "Internet" is of hight quality ?
 This question comes up very often among new Perl programmers who come from a world
 of proprietary software. In this presentation I go over a number of tools Perl module developers
 use to make sure their modules is of hight quality and let you, the user of find out which module
 will meet your requirements. During the talk I am visiting the following web sites:
-</p>
-<ul>
-<li><a href="http://testers.cpan.org/">CPAN Testers</a></li>
-<li><a href="http://rt.cpan.org/">RT</a></li>
-<li><a href="http://cpants.dev.zsi.at/cpants_paper.html">CPANTS</a></li>
-<li><a href="http://cpanplus.sourceforge.net/">CPANPLUS</a></li>
-<li><a href="http://cpanratings.perl.org/">CPANRATINGS</a></li>
-<li><a href="http://qa.perl.org/">QA-Perl</a></li>
-</ul>
 
-<p>
+* [CPAN Testers](https://testers.cpan.org/)
+* [RT](https://rt.cpan.org/)
+* CPANTS
+* CPANPLUS
+* CPANRATINGS
+* [QA-Perl](https://qa.perl.org/)
+
 I gave this talk on <a href="http://www.perl.org.il/20040909.html">9th September 2004 for the Israeli Perl Mongers</a>
-and will likely to give it <a href="http://jerusalem.perl.org.il">in Jerusalem</a> again.
-</p>
-<p>
+and will likely to give it in Jerusalem again.
+
+
 As I had to prepare this talk quite in the last minute and did not have time to prepare <i>proper</i>
 slide I used a Wiki to put together a couple of items.
 The result is a bunch of notes about
 <a href="/talks/quality_of_cpan_modules.html">The Quality of CPAN Modules</a>.
-</p>
 
 <a name="installing"></a>
 <p class="talk-title">Installing Perl and Perl Modules, while doing good to the community</p>
 <p>(30-60 minutes)</p>
-<ul>
-<li>Compile and install the latest version of Perl in your home directory</li>
-<li>Install <a href="http://search.cpan.org/dist/CPANPLUS">CPANPLUS.pm</a></li>
-<li>Install modules using CPANPLUS and reporting test results</li>
-<li>What to do when a module fails to be installed using the usual methods of CPAN.pm</li>
-</ul>
+
+* Compile and install the latest version of Perl in your home directory
+* Install [CPANPLUS.pm<](https://metacpan.org/dist/CPANPLUS)
+* Install modules using CPANPLUS and reporting test results
+* What to do when a module fails to be installed using the usual methods of CPAN.pm
 
 <a name="presentations"></a>
 <p class="talk-title">Presentation Tools</p>
-<p>(20 minutes)</p>
-<p>
+(20 minutes)
+
 A short talk about the tool I used to generate my presentations as presented at the 7th November,
 2002 meeting of the <a href="http://www.perl.org.il/20021107.html">Israeli Perl Mongers</a>
 You can also read the slides of the <a href="/talks/Presentation/">Presentation Tools</a>.
-</p>
-<p>
+
 Since I gave this talk I gradually replaced my self-written presentation generator
 to one using <a href="http://www.docbook.org/">Docbook</a> but as it turns out this one
 still works	and has a much nicer style sheet for HTML than the one I am using now.
-</p>
 
 
 <a name="web-development"></a>
 <p class="talk-title">Web development on Linux</p>
-<p>(30-60 min)</p>
-<p>
+(30-60 min)
+
 I start from the explanation of the ASP web development	model supported by Microsoft.
 In the first part of the presentation this framework is compared to various other technologies
 such as the Java/JSP/J2EE, PHP and CGI.
@@ -172,7 +163,7 @@ on <a href="http://yapc.mongueurs.net/">YAPC::Europe::2003</a> in Paris, France.
 <a name="parrot"></a>
 <p class="talk-title">Parrot, the future of dynamic languages</p>
 <p>(20-60min)</p>
-<p><a href="http://www.parrotcode.org/">Parrot</a> is the Virtual Machine that will be used
+<p>Parrot is the Virtual Machine that will be used
 to execute Perl 6, Perl 5 via <a href="http://www.poniecode.org/">Ponie</a> and hopefully a bunch
 of other languages too.
 </p>
