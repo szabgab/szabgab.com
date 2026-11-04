@@ -61,3 +61,11 @@ It gave a long description that even included the RGB value if the backgorund co
 
 [source](https://www.meetup.com/reactjs-bangalore/events/316851281/)
 
+## Building with Claude in Teams
+
+<img width="700" src="/img/Building-with-Claude-in-Teams.webp" alt="event banner" />
+
+
+[source](https://www.meetup.com/claude-israel-user-group/events/316815318/)
+
+
