@@ -8,9 +8,9 @@ I use both Meetup and Luma for the registraion and their image requirements (siz
 * In ancient times I created a screenshot of an HTML page.
 
 
-* Then at one point I wrote [Banbu, the Banner Builder](https://banner-builder.code-maven.com/). A command line tool in rust that uses YAML file to configure the images. These were functional, but not very nice. Here is an example:
+* Then at one point I wrote [Banbu, the Banner Builder](https://banner-builder.code-maven.com/). A command line tool in Rust that uses a YAML file to configure the image. These were functional, but not very nice. Here is an example:
 
-<img width="700" src="/img/exploring-falkordb-2026-06-04.png" alt="event banner" />
+<img width="700" style="border: 5px solid black" src="/img/exploring-falkordb-2026-06-04.png" alt="event banner" />
 
 * Then when AI came along I started to use ChatGPT to generate banners. These are colorful and they all look very different, but at the same time I feel they look the same and of course the irritate some people and some even comment "ai slop" on my post that further annoys me.
 
@@ -47,7 +47,7 @@ So I though I should probably improve Banbu, but for that I'd like to go over a 
 
 With this image I had the bright idea of uploading it to ChatGPT and asking it:
 
-> "Generate a prompt that, given a picture of a person, and given the logos, would generate an image like the one included."
+> Generate a prompt that, given a picture of a person, and given the logos, would generate an image like the one included.
 
 It gave a long description that even included the RGB value if the backgorund color, and at the end it wrote:
 
