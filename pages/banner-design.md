@@ -33,3 +33,18 @@ So I though I should probably improve Banbu, but for that I'd like to go over a 
 * At the bottom we have date (without year), time (in 12 hour format), location (address)
 
 
+## PyData Sofia & DSS Meetup November 2026
+
+<img width="700" src="/img/pydata-sofia-dss--meetup-november-2026.webp" alt="event banner" />
+
+[source](https://www.meetup.com/pydata-sofia/events/316960733/)
+
+With this image I had the bright idea of uploading it to ChatGPT and asking it:
+
+> "Generate a prompt that, given a picture of a person, and given the logos, would generate an image like the one included."
+
+It gave a long description that even included the RGB value if the backgorund color, and at the end it wrote:
+
+> Technical consideration: AI image generators sometimes distort logos or misspell text. For production use, the most reliable workflow is to generate the background and portrait composition with AI, then overlay the original logos and text programmatically using SVG, Pillow, or another graphics library.
+
+
