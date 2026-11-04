@@ -10,13 +10,13 @@ I use both Meetup and Luma for the registraion and their image requirements (siz
 
 * Then at one point I wrote [Banbu, the Banner Builder](https://banner-builder.code-maven.com/). A command line tool in Rust that uses a YAML file to configure the image. These were functional, but not very nice. Here is an example:
 
-<img width="700" style="border: 5px solid black" src="/img/exploring-falkordb-2026-06-04.png" alt="event banner" />
+<img width="700" style="border: 1px solid black" src="/img/exploring-falkordb-2026-06-04.png" alt="event banner" />
 
-* Then when AI came along I started to use ChatGPT to generate banners. These are colorful and they all look very different, but at the same time I feel they look the same and of course the irritate some people and some even comment "ai slop" on my post that further annoys me.
+* When AI came along I started to use ChatGPT to generate banners. These are colorful and they all look very different, but at the same time I feel they look the same and of course the irritate some people and some even comment "ai slop" on my post that further annoys me. Here is an example that is about the Zig programming langugages, but the AI used a crab which is usually used as Ferris the crab for the Rust programming language.
 
 <img width="700" src="/img/Zig-From-Beginner-to-Slightly-Less-Beginner-Sawyer-X.png" alt="event banner" />
 
-So I though I should probably improve Banbu, but for that I'd like to go over a few banner designs and analyze them.
+I thought I should probably improve Banbu, but for that I'd like to go over a few banner designs and analyze them.
 
 
 ## The AI Audit Spectrum
@@ -53,4 +53,11 @@ It gave a long description that even included the RGB value if the backgorund co
 
 > Technical consideration: AI image generators sometimes distort logos or misspell text. For production use, the most reliable workflow is to generate the background and portrait composition with AI, then overlay the original logos and text programmatically using SVG, Pillow, or another graphics library.
 
+
+## React Meetup Bangalore
+
+
+<img width="700" src="/img/React-Meetup-Bangalore.webp" alt="event banner" />
+
+[source](https://www.meetup.com/reactjs-bangalore/events/316851281/)
 
